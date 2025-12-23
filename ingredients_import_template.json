@@ -1,0 +1,103 @@
+[
+    {
+        "name": "Tomate",
+        "scientific_name": "Solanum lycopersicum",
+        "category": "legume",
+        "description": "La tomate est une espèce de plantes herbacées du genre Solanum...",
+        "seasonality": "Juin à Septembre",
+        "buying_guide": "Choisissez des tomates lourdes en main, fermes mais souples, avec une peau lisse et brillante. Évitez celles qui sont trop molles ou tachées.",
+        "storage_guide": "À conserver à température ambiante pour préserver le goût. Évitez le frigo.",
+        "prep_guide": "Laver à l'eau claire, retirer le pédoncule.",
+        "nutrition_info": "Riche en lycopène et vitamine C.",
+        "functional_categories": [
+            "legume-fruit",
+            "base-sauce"
+        ],
+        "specific_data": {
+            "season": "Été",
+            "calories_100g": 18,
+            "water_content": "95%"
+        }
+    },
+    {
+        "name": "Basilic Grand Vert",
+        "scientific_name": "Ocimum basilicum",
+        "category": "epice",
+        "description": "Plante aromatique majeure de la cuisine méditerranéenne.",
+        "seasonality": "Juin à Septembre (Pleine terre)",
+        "buying_guide": "Feuilles bien vertes, fermes et sans tâches noires. L'odeur doit être puissante dès qu'on effleure la plante.",
+        "storage_guide": "Dans un verre d'eau comme un bouquet, ou ciselé dans de l'huile. Évitez le froid intense.",
+        "prep_guide": "Ciseler au dernier moment, ne pas hacher pour éviter l'oxydation.",
+        "nutrition_info": "Riche en antioxydants et vitamine K.",
+        "functional_categories": [
+            "herbe-aromatique"
+        ],
+        "specific_data": {
+            "pairings": [
+                "Tomate",
+                "Mozzarella",
+                "Fraise"
+            ],
+            "origin": "Inde"
+        }
+    },
+    {
+        "name": "Saumon Atlantique",
+        "scientific_name": "Salmo salar",
+        "category": "poisson",
+        "description": "Poisson gras très apprécié pour sa chair rose.",
+        "seasonality": "Toute l'année (Élevage) ou Printemps (Sauvage)",
+        "buying_guide": "Chair ferme, brillante, sans odeur forte. L'oeil doit être bombé et brillant si poisson entier.",
+        "storage_guide": "Au point le plus froid du frigo (0-2°C), maximum 24h-48h après achat.",
+        "prep_guide": "Retirer les arêtes à la pince, rincer et éponger soigneusement.",
+        "nutrition_info": "Source majeure d'Oméga-3 et de protéines de haute qualité.",
+        "functional_categories": [
+            "poisson-gras",
+            "produit-mer"
+        ],
+        "specific_data": {
+            "fat_content": "Rich in Omega-3",
+            "texture": "Fondant"
+        }
+    },
+    {
+        "name": "Comté AOP",
+        "scientific_name": "",
+        "category": "fromage",
+        "description": "Le Comté est un fromage français de la région de Franche-Comté, bénéficiant d'une AOP.",
+        "seasonality": "Toute l'année",
+        "buying_guide": "La couleur de la pâte varie selon la saison (plus jaune en été). Privilégiez les affinages longs (12, 18 ou 24 mois) pour plus de goût.",
+        "storage_guide": "Dans son papier d'origine dans le bac à légumes du réfrigérateur. Sortir 1h avant dégustation.",
+        "prep_guide": "Se déguste tel quel, en plateau ou cuisiné (fondue, gratins).",
+        "nutrition_info": "Riche en calcium et protéines.",
+        "texture": "Ferme, onctueuse, parfois avec des cristaux de tyrosine (selon l'affinage).",
+        "functional_categories": [
+            "produit-laitier"
+        ],
+        "specific_data": {
+            "maturation": "12 à 36 mois",
+            "milk_type": "Vache",
+            "pasteurization": "Lait cru"
+        }
+    },
+    {
+        "name": "Tagliatelle",
+        "scientific_name": "",
+        "category": "pates",
+        "description": "Pâtes alimentaires longues en forme de rubans.",
+        "seasonality": "Toute l'année",
+        "buying_guide": "Préférez les pâtes séchées lentement à basse température avec un aspect rugueux (tréfilées au bronze).",
+        "storage_guide": "Lieu sec et frais.",
+        "prep_guide": "Cuisson 'al dente' dans un grand volume d'eau salée.",
+        "nutrition_info": "Source de glucides complexes.",
+        "texture": "Souple et élastique (fraîches) ou ferme (sèches).",
+        "functional_categories": [
+            "feculent"
+        ],
+        "specific_data": {
+            "composition": "Semoule de blé dur, oeufs (optionnel)",
+            "shape": "Ruban",
+            "cooking_time": "7-9 min"
+        }
+    }
+]

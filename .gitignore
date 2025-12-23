@@ -1,0 +1,29 @@
+# Django
+*.log
+*.pot
+*.pyc
+__pycache__/
+local_settings.py
+db.sqlite3
+db.sqlite3-journal
+media/
+static/
+staticfiles/
+
+# Virtual Env
+fenv/
+env/
+venv/
+.env
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+frontend/build/
+frontend/.env*
+frontend/.vercel
+
+# OS
+.DS_Store
+Thumbs.db
