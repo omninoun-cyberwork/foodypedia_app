@@ -1,0 +1,89 @@
+{
+  "name": "Foodypedia - AI Ingredient Generator",
+  "nodes": [
+    {
+      "parameters": {
+        "operation": "list",
+        "folderId": "1XwjYfchdludcsc9ExCP6z79PIf3w4Yqb",
+        "options": {
+          "recursive": true
+        }
+      },
+      "name": "Gdrive Discovery",
+      "type": "n8n-nodes-base.googleDrive",
+      "typeVersion": 2,
+      "position": [250, 300]
+    },
+    {
+      "parameters": {
+        "jsCode": "const results = [];\nfor (const item of items) {\n  const name = item.json.name.toLowerCase();\n  if (name.endsWith('.jpg') || name.endsWith('.png') || name.endsWith('.webp')) {\n    results.push({\n      json: {\n        original_filename: item.json.name,\n        clean_name: item.json.name.split('.')[0].replace(/[_-]/g, ' '),\n        category_guess: \"fromage\" // Or dynamic logic\n      }\n    });\n  }\n}\nreturn results;"
+      },
+      "name": "Filter Images",
+      "type": "n8n-nodes-base.code",
+      "typeVersion": 1,
+      "position": [450, 300]
+    },
+    {
+      "parameters": {
+        "model": "gpt-4o",
+        "prompt": "={{$node[\"Filter Images\"].json[\"clean_name\"]}} (Catégorie: {{$node[\"Filter Images\"].json[\"category_guess\"]}})",
+        "messages": [
+          {
+            "role": "system",
+            "content": "Vous êtes l'IA expert de Foodypedia. Générez le JSON précis pour cet ingrédient en suivant strictement le template fourni (Français, Ton Pro, Données Scientifiques)."
+          }
+        ]
+      },
+      "name": "AI Specialist",
+      "type": "n8n-nodes-base.openAi",
+      "typeVersion": 1,
+      "position": [650, 300]
+    },
+    {
+      "parameters": {
+        "fileName": "/Foodypedia/imports/ingredients_data.json",
+        "fileContent": "={{JSON.stringify($items().map(e => JSON.parse(e.json.message.content)))}}",
+        "options": {}
+      },
+      "name": "Save JSON",
+      "type": "n8n-nodes-base.writeBinaryFile",
+      "typeVersion": 1,
+      "position": [850, 300]
+    }
+  ],
+  "connections": {
+    "Gdrive Discovery": {
+      "main": [
+        [
+          {
+            "node": "Filter Images",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "Filter Images": {
+      "main": [
+        [
+          {
+            "node": "AI Specialist",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    },
+    "AI Specialist": {
+      "main": [
+        [
+          {
+            "node": "Save JSON",
+            "type": "main",
+            "index": 0
+          }
+        ]
+      ]
+    }
+  }
+}
