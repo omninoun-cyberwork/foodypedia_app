@@ -9,9 +9,17 @@ from apps.ingredients.serializers import IngredientSerializer
 # -----------------------------------------------------
 
 class RecipeCategorySerializer(serializers.ModelSerializer):
+    subcategories = serializers.SerializerMethodField()
+
     class Meta:
         model = RecipeCategory
-        fields = ['id', 'name', 'slug', 'parent']
+        fields = ['id', 'name', 'slug', 'parent', 'subcategories']
+
+    def get_subcategories(self, obj):
+        # On ne sérialise les enfants que si l'objet n'est pas déjà un enfant de bas niveau (opti)
+        if obj.subcategories.exists():
+            return RecipeCategorySerializer(obj.subcategories.all(), many=True).data
+        return []
 
 class TechniqueSerializer(serializers.ModelSerializer):
     class Meta:
@@ -57,6 +65,7 @@ class RecetteSerializer(serializers.ModelSerializer):
             'id', 'titre', 'slug', 'description', 
             'category', 'category_details',
             'temps_preparation', 'temps_cuisson',
+            'instructions', 'notes_chef',
             'lignes_ingredients', # Liste technique (ingrédient OU sous-recette)
             'techniques_cles', 'techniques_details',
             'auteurs', 'auteurs_names',

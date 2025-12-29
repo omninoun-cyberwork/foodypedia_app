@@ -173,6 +173,7 @@ class RecetteViewSet(viewsets.ModelViewSet):
     search_fields = ['titre', 'description']
     ordering_fields = ['titre', 'date_creation', 'temps_preparation', 'temps_cuisson']
     ordering = ['-date_creation']  # Par défaut, les plus récentes en premier
+    lookup_field = 'slug'
     
     def get_queryset(self):
         """
@@ -277,3 +278,70 @@ class RecipeCategoryViewSet(viewsets.ReadOnlyModelViewSet):
     pagination_class = None  # Désactivation de la pagination
     filter_backends = [filters.SearchFilter]
     search_fields = ['name']
+
+    @action(detail=False, methods=['get'])
+    def tree(self, request):
+        """
+        Retourne l'arborescence complète des catégories.
+        GET /api/v1/recipes/categories/tree/
+        """
+        roots = RecipeCategory.objects.filter(parent__isnull=True)
+        serializer = self.get_serializer(roots, many=True)
+        return Response(serializer.data)
+
+
+from rest_framework.views import APIView
+from rest_framework import status
+from django.conf import settings
+import requests
+
+class GenerateRecipeView(APIView):
+    """
+    Proxy pour l'agent IA n8n via Webhook.
+    POST /api/v1/recipes/ai-chef/generate/
+    Payload: { "ingredients": ["pomme", "sucre", "farine"] }
+    """
+    permission_classes = [permissions.AllowAny] # Ou IsAuthenticated si restreint
+
+    def post(self, request):
+        ingredients = request.data.get('ingredients', [])
+        if not ingredients or len(ingredients) < 2:
+            return Response(
+                {"error": "Veuillez fournir au moins 2 ingrédients."},
+                status=status.HTTP_400_BAD_REQUEST
+            )
+
+        # URL du Webhook n8n (depuis settings ou dur)
+        # Idéalement: settings.N8N_WEBHOOK_URL
+        # Pour l'instant on met un placeholder ou on check settings
+        webhook_url = getattr(settings, 'N8N_WEBHOOK_URL', None)
+        
+        if not webhook_url:
+            return Response(
+                {"error": "Configuration serveur incomplète (Webhook URL manquant)."},
+                status=status.HTTP_503_SERVICE_UNAVAILABLE
+            )
+
+        try:
+            # Appel au Webhook n8n
+            pass
+            # response = requests.post(webhook_url, json={"ingredients": ingredients}, timeout=30)
+            # response.raise_for_status()
+            # return Response(response.json())
+            
+            # MOCK TEMPORAIRE pour le développement sans n8n actif
+            return Response({
+                "title": f"Délice aux {len(ingredients)} trésors",
+                "description": f"Une recette unique générée par IA combinant {', '.join(ingredients)}.",
+                "steps": [
+                    "Préparer les ingrédients avec soin.",
+                    "Faire revenir le tout à feu moyen.",
+                    "Dresser magnifiquement et servir."
+                ]
+            })
+
+        except Exception as e:
+            return Response(
+                {"error": f"Erreur de génération: {str(e)}"},
+                status=status.HTTP_500_INTERNAL_SERVER_ERROR
+            )

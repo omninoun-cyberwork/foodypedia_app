@@ -4,7 +4,7 @@ from .models import (
     IngredientFamily, Label, CulinaryUse, IngredientImage
 )
 from apps.atlas.models import Pays
-from apps.atlas.serializers import PaysSerializer  # Assurez-vous d'avoir ce serializer dans Atlas
+from apps.atlas.serializers import PaysSerializer, GlossaireSerializer
 
 # -------------------------------------------------------------------------
 # Serializers pour les relations (Read-Only ou Simple)
@@ -45,36 +45,51 @@ class IngredientImageSerializer(serializers.ModelSerializer):
 # -------------------------------------------------------------------------
 
 class IngredientSerializer(serializers.ModelSerializer):
-    # --- Champs Nested pour la lecture (GET) ---
-    category_details = IngredientCategorySerializer(source='category', read_only=True)
-    functional_categories_details = FunctionalCategorySerializer(source='functional_categories', many=True, read_only=True)
-    family_details = IngredientFamilySerializer(source='family', read_only=True)
-    labels_details = LabelSerializer(source='labels', many=True, read_only=True)
-    culinary_uses_details = CulinaryUseSerializer(source='culinary_uses', many=True, read_only=True)
+    # --- Champs Nested spécifiques ---
+    glossary_term_details = GlossaireSerializer(source='glossary_term', read_only=True)
     origins_countries_details = serializers.SerializerMethodField()
     images = IngredientImageSerializer(many=True, read_only=True)
 
-    # --- Pour l'écriture (POST/PUT), on garde les IDs standards ---
-    # category = ID
-    # functional_categories = [ID, ID]
-    
     class Meta:
         model = Ingredient
         fields = [
             'id', 'name', 'slug', 'scientific_name', 'description', 
-            'category', 'category_details',
-            'functional_categories', 'functional_categories_details',
-            'family', 'family_details',
+            'glossary_term', 'glossary_term_details',
+            'category', 
+            'functional_categories', 
+            'family', 
             'origins_countries', 'origins_countries_details',
-            'labels', 'labels_details',
+            'labels', 
             'seasonality', 'flavor_profile', 'texture',
             'buying_guide', 'storage_guide', 'prep_guide', 'nutrition_info', 'allergens',
-            'culinary_uses', 'culinary_uses_details',
-            'specific_data', 
-            'main_image', 'images',
+            'culinary_uses', 
+            'specific_data', 'tags',
+            'main_image', 'images', 'image_filename',
             'created_at', 'updated_at'
         ]
         read_only_fields = ['created_at', 'updated_at']
+
+    def to_representation(self, instance):
+        representation = super().to_representation(instance)
+        # Nesting pour le front-end (Conversion des IDs en objets complets pour la lecture)
+        if instance.category:
+            representation['category'] = IngredientCategorySerializer(instance.category).data
+        
+        representation['functional_categories'] = FunctionalCategorySerializer(
+            instance.functional_categories.all(), many=True
+        ).data
+        
+        representation['family'] = IngredientFamilySerializer(instance.family).data if instance.family else None
+        
+        representation['labels'] = LabelSerializer(
+            instance.labels.all(), many=True
+        ).data
+        
+        representation['culinary_uses'] = CulinaryUseSerializer(
+            instance.culinary_uses.all(), many=True
+        ).data
+            
+        return representation
 
     def get_origins_countries_details(self, obj):
         # Utilisation d'un serializer simple pour les pays (id + nom)

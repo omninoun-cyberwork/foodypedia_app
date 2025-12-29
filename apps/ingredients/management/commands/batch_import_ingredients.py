@@ -2,6 +2,7 @@ import json
 import os
 from django.core.management.base import BaseCommand, CommandError
 from django.utils.text import slugify
+from django.conf import settings
 from apps.ingredients.models import Ingredient, IngredientCategory, FunctionalCategory
 
 class Command(BaseCommand):
@@ -63,21 +64,35 @@ class Command(BaseCommand):
                             slug=slugify(cat_slug),
                             defaults={'name': cat_slug.capitalize()}
                         )
+                    
+                    # Gestion Glossaire (Lien facultatif avec l'Atlas)
+                    glossary_term = None
+                    glossary_name = item.get('glossary_term')
+                    if glossary_name:
+                        from apps.atlas.models import Glossaire
+                        glossary_term, _ = Glossaire.objects.get_or_create(
+                            terme=glossary_name,
+                            defaults={'definition': f"Définition automatique pour {glossary_name}. À compléter."}
+                        )
 
                     # Création / Update Ingrédient
                     ingredient, created = Ingredient.objects.update_or_create(
                         name=name,
                         defaults={
+                            'slug': slugify(name),
                             'scientific_name': item.get('scientific_name', ''),
                             'description': item.get('description', ''),
                             'category': category,
+                            'glossary_term': glossary_term,
                             'seasonality': item.get('seasonality', ''),
                             'buying_guide': item.get('buying_guide', ''),
                             'storage_guide': item.get('storage_guide', ''),
                             'prep_guide': item.get('prep_guide', ''),
                             'nutrition_info': item.get('nutrition_info', ''),
                             'texture': item.get('texture', ''),
-                            'specific_data': item.get('specific_data', {})
+                            'specific_data': item.get('specific_data', {}),
+                            'tags': item.get('tags', []),
+                            'image_filename': item.get('image_filename', ''),
                         }
                     )
 
@@ -92,13 +107,21 @@ class Command(BaseCommand):
                             )
                             ingredient.functional_categories.add(fc)
 
-                    # NOUVEAU : Gestion de l'image principale
+                    # NOUVEAU : Gestion de l'image principale avec recherche récursive
                     image_filename = item.get('image_filename')
                     if image_filename and not ingredient.main_image:
                         from django.core.files import File
-                        root_dir = settings.BASE_DIR.parent
-                        img_path = os.path.join(root_dir, 'static', 'ingredients_pics', image_filename)
-                        if os.path.exists(img_path):
+                        root_dir = settings.BASE_DIR.parent  # BASE_DIR est dans foodypedia_project/, static est à la racine
+                        search_root = os.path.join(root_dir, 'static', 'ingredients_pics')
+                        
+                        # Recherche récursive du fichier
+                        img_path = None
+                        for root, dirs, files in os.walk(search_root):
+                            if image_filename in files:
+                                img_path = os.path.join(root, image_filename)
+                                break
+                        
+                        if img_path and os.path.exists(img_path):
                             with open(img_path, 'rb') as f_img:
                                 ingredient.main_image.save(image_filename, File(f_img), save=True)
                     

@@ -1,0 +1,639 @@
+[
+  {
+    "name": "Artichaut",
+    "scientific_name": "Cynara scolymus",
+    "glossary_term": "Artichaut",
+    "category": "legume",
+    "description": "L’artichaut est le capitule immaturé d’une plante vivace de la famille des Astéracées. Originaire de la Méditerranée, il se caractérise par ses bractées charnues entourant un cœur tendre et savoureux. Sa chair délicate, riche en fibres et en antioxydants, en fait un ingrédient de choix pour les salades, les potages, les plats mijotés ou gratinés.",
+    "seasonality": "Avril à juin, Octobre à décembre",
+    "buying_guide": "Choisir des artichauts fermes et lourds pour leur taille, à bractées bien serrées et d’un vert profond. Éviter ceux aux pointes desséchées ou tachées de brun et privilégier une tige fraîche et non ligneuse.",
+    "storage_guide": "Conserver les artichauts non lavés dans le bac à légumes du réfrigérateur, idéalement dans un sac perforé, à 4–6 °C. Consommer dans les 4 à 5 jours pour préserver fraîcheur et saveur.",
+    "prep_guide": "Laver sous l’eau, couper la tige et retirer les premières bractées extérieures trop dures. Tailler la pointe et frotter la chair au citron pour éviter l’oxydation. Cuire à la vapeur (15-30 min selon la taille), pocher, braiser ou passer à la poêle après cuisson vapeur pour une finition dorée.",
+    "nutrition_info": "Pour 100 g : énergie 47 kcal, protéines 3,3 g, glucides 6 g (dont sucres 0,9 g), lipides 0,2 g, fibres 5 g, eau 84 g.",
+    "texture": "Chair fondante et légèrement granuleuse avec un cœur moelleux ; bractées plus fermes et croquantes en périphérie.",
+    "image_filename": "artichaut.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Environ 84 % d’eau, 5,4 % de fibres, 3,3 % de protéines, 0,2 % de lipides, 6 % de glucides",
+      "famille_botanique": "Astéracées"
+    }
+  },
+  {
+    "name": "Asperge",
+    "scientific_name": "Asparagus officinalis",
+    "glossary_term": "Asperge",
+    "category": "legume",
+    "description": "L’asperge est une plante potagère vivace cultivée pour ses jeunes pousses comestibles. Connue depuis l’Antiquité pour sa saveur délicate et ses vertus diurétiques, elle se décline en plusieurs variétés (vertes, blanches ou violettes) selon les conditions de culture. Sa récolte s’effectue au printemps, et elle occupe une place de choix dans de nombreuses cuisines européennes, tant en accompagnement qu’en hors-d’œuvre.",
+    "seasonality": "Avril à juin",
+    "buying_guide": "Choisir des tiges fermes et droites, à la tête bien serrée. Les asperges vertes doivent présenter une couleur vive, tandis que les blanches sont dépourvues de coloration due à l’absence de lumière. Éviter les tiges flétries ou jaunies.",
+    "storage_guide": "Conserver au réfrigérateur, debout dans un verre d’eau ou enveloppées dans un linge humide, pour maintenir leur fraîcheur. À consommer sous 3 à 5 jours.",
+    "prep_guide": "Couper la partie ligneuse à la base (environ 2 cm). Pour les asperges vertes, on peut simplement les éplucher légèrement sous la tête. Les blanches nécessitent un épluchage complet de la pointe vers la base. Cuire à l’eau bouillante salée, à la vapeur ou à la poêle selon la recette.",
+    "nutrition_info": "Pour 100 g : énergie 20 kcal, eau 93 g, protéines 2,2 g, glucides 2,6 g, lipides 0,1 g, fibres 2,1 g, vitamine K, vitamine C, folates.",
+    "texture": "Croquante et tendre, fondante lorsqu’elle est parfaitement cuite, avec une légère onctuosité en bouche.",
+    "image_filename": "asperge.jpg",
+    "functional_categories": [
+      "accompagnement",
+      "potage",
+      "entrée"
+    ],
+    "tags": [
+      "printemps",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 93%, fibres 2,1%, protéines 2,2%, glucides 2,6%, lipides 0,1%",
+      "famille_botanique": "Asparagaceae"
+    }
+  },
+  {
+    "name": "Aubergine",
+    "scientific_name": "Solanum melongena",
+    "glossary_term": "Aubergine",
+    "category": "legume",
+    "description": "L'aubergine est le fruit comestible d'une plante potagère de la famille des Solanacées. Originaire d'Asie du Sud, elle se caractérise par sa peau lisse et brillante, souvent de couleur pourpre, et sa chair spongieuse. Elle est utilisée dans de nombreuses cuisines du monde pour sa capacité à absorber les saveurs et à se prêter à diverses cuissons.",
+    "seasonality": "Juin à septembre",
+    "buying_guide": "Choisir des aubergines au toucher ferme, sans taches ni plis, avec une calotte bien verte et attachée. Privilégier des fruits lourds pour leur calibre, signe d'une chair dense et moins amère.",
+    "storage_guide": "Conserver à température fraîche (10-12 °C) dans le bac à légumes du réfrigérateur. Éviter l'humidité excessive et ne pas les emballer hermétiquement pour prévenir la condensation.",
+    "prep_guide": "Laver et sécher sans peler, ou peler partiellement selon la recette. Couper en tranches, dés ou cubes et, pour réduire l'amertume, saler puis laisser dégorger 30 minutes avant de rincer et d'essuyer.",
+    "nutrition_info": "Pour 100 g : 24 kcal, eau 92 g, glucides 5 g, fibres 3 g, protéines 1 g, lipides 0,2 g.",
+    "texture": "Chair ferme et spongieuse quand crue, fondante et crémeuse après cuisson, capable d'absorber graisses et arômes.",
+    "image_filename": "aubergine.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "92% d'eau, 3 g de fibres, 5 g de glucides, 1 g de protéines, lipides < 0,2 g",
+      "famille_botanique": "Solanacées"
+    }
+  },
+  {
+    "name": "Avocat",
+    "scientific_name": "Persea americana",
+    "glossary_term": "Avocat",
+    "category": "fruit",
+    "description": "L'avocat est le fruit comestible du laurier d’Amérique, originaire d’Amérique centrale. Reconnu pour sa chair onctueuse et sa haute teneur en lipides mono-insaturés, il est utilisé aussi bien en cuisine salée qu’en pâtisserie. Sa saveur douce et légèrement beurrée s’accorde avec une grande variété d’ingrédients.",
+    "seasonality": "Avril à septembre",
+    "buying_guide": "Choisir des fruits fermes mais légèrement souples sous une légère pression, avec une peau intacte et sans taches brunes. Selon l’usage, privilégier un avocat bien mûr pour une texture fondante ou un avocat plus ferme pour des découpes nettes.",
+    "storage_guide": "Laisser mûrir à température ambiante, de préférence dans un sac en papier avec une pomme pour accélérer le processus. Une fois à point, garder au réfrigérateur (2 °C à 4 °C) dans un sac fermé pour ralentir le mûrissement (2–3 jours).",
+    "prep_guide": "Couper l’avocat en deux dans le sens de la longueur, retirer le noyau avec précaution, puis prélever la chair à la cuillère. Pour éviter l’oxydation, arroser immédiatement de jus de citron ou citron vert. Peut être tranché, écrasé ou mixé selon la recette.",
+    "nutrition_info": "Pour 100 g : Énergie 160 kcal, Lipides 15 g (dont acides gras mono-insaturés), Glucides 9 g (dont sucres 0,7 g), Fibres 7 g, Protéines 2 g, Potassium 485 mg, Vitamine E 2,1 mg, Vitamine B9 81 µg.",
+    "texture": "Chair veloutée, crémeuse et fondante en bouche",
+    "image_filename": "avocat.jpeg",
+    "functional_categories": [
+      "base-dip",
+      "accompagnement"
+    ],
+    "tags": [
+      "exotique",
+      "riche-en-bons-acides-gras",
+      "sans-gluten"
+    ],
+    "specific_data": {
+      "composition": "Eau 73 %, Lipides 15 %, Glucides 9 %, Fibres 7 %, Protéines 2 %",
+      "famille_botanique": "Lauraceae"
+    }
+  },
+  {
+    "name": "Bette à carde",
+    "scientific_name": "Beta vulgaris subsp. vulgaris",
+    "glossary_term": "Blette",
+    "category": "legume",
+    "description": "La bette à carde, souvent appelée blette ou poirée, est une plante potagère aux longues feuilles vertes et aux côtes épaisses et colorées. Originaire d’Europe méditerranéenne, elle est cultivée depuis l’Antiquité pour ses qualités nutritives et sa grande rusticité. La blette se décline en plusieurs variétés, dont les côtes blanches, rouges ou jaunes, et se prête à de nombreuses préparations culinaires, chaudes ou froides.",
+    "seasonality": "Toute l'année (pic de fraîcheur de mai à septembre)",
+    "buying_guide": "Choisissez des bottes à feuilles bien fermes, sans taches jaunes ni zones flétries. Les côtes doivent être croquantes et humides au toucher. Préférez les variétés bio ou issues de production locale pour une saveur optimale.",
+    "storage_guide": "Conservez la blette en bottes dans le bac à légumes du réfrigérateur, entourée d’un film plastique perforé ou d’un linge humide pour préserver l’humidité. Utilisez-la de préférence sous 3 à 5 jours.",
+    "prep_guide": "Séparez les côtes des feuilles. Émincez les côtes en tronçons avant de les blanchir 2 à 3 minutes pour enlever l’amertume, puis égouttez. Hachez ou déchirez les feuilles pour les sauter, incorporer dans des tartes, gratins ou potages.",
+    "nutrition_info": "Pour 100 g : énergie 19 kcal, eau 92 g, protéines 1,8 g, glucides 2,2 g, fibres 1,6 g, lipides 0,1 g. Riche en vitamine K, vitamine C, bêta-carotène, fer et magnésium.",
+    "texture": "Les côtes sont fermes et croquantes, les feuilles tendres et légèrement fondantes après cuisson.",
+    "image_filename": "bette.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 92 %, fibres 1,6 %, glucides 2,2 %, protéines 1,8 %, lipides 0,1 %",
+      "famille_botanique": "Amaranthaceae"
+    }
+  },
+  {
+    "name": "Blette",
+    "scientific_name": "Beta vulgaris subsp. vulgaris var. cicla",
+    "glossary_term": "Blette",
+    "category": "legume",
+    "description": "La blette, aussi appelée bette ou côte de bette, est une plante potagère de la famille des Amaranthaceae. Elle se caractérise par de larges feuilles vertes et des côtes charnues, pouvant être blanches, jaunes ou rouges. Cultivée depuis l’Antiquité, elle est appréciée pour sa saveur douce et légèrement terreuse. Très polyvalente, elle se consomme crue en salade, cuite à la vapeur, en gratin, en potage ou en accompagnement.",
+    "seasonality": "Mai à octobre",
+    "buying_guide": "Choisissez des côtes fermes, sans taches ni parties ramollies. Les feuilles doivent être d’un vert uniforme, sans jaunissement ni flétrissement. Préférez les bottes bien garnies et à la base régulière.",
+    "storage_guide": "Conservez la blette non lavée dans le bac à légumes du réfrigérateur, enveloppée dans un film perforé ou un sac papier, jusqu’à 5 à 7 jours. Évitez l’excès d’humidité pour limiter la formation de moisissures.",
+    "prep_guide": "Rincez soigneusement feuilles et côtes pour éliminer sable et impuretés. Séparez les côtes, plus épaisses, des feuilles. Coupez les côtes en tronçons et blanchissez-les 2 à 3 minutes avant cuisson prolongée. Les feuilles peuvent être ajoutées directement en fin de cuisson.",
+    "nutrition_info": "Pour 100 g : 19 kcal, 1,8 g de protéines, 3,7 g de glucides, 0,2 g de lipides, 1,6 g de fibres. Riche en vitamines A, C, K et en minéraux tels que le magnésium, le potassium et le fer.",
+    "texture": "Feuilles tendres et légèrement souples, côtes fermes et croquantes après cuisson courte.",
+    "image_filename": "blette.jpg",
+    "functional_categories": [
+      "base-potage",
+      "accompagnement"
+    ],
+    "tags": [
+      "frais",
+      "local"
+    ],
+    "specific_data": {
+      "composition": "Eau 92 %, glucides 3,7 %, protéines 1,8 %, lipides 0,2 %, fibres 1,6 %",
+      "famille_botanique": "Amaranthaceae"
+    }
+  },
+  {
+    "name": "Brocoli",
+    "scientific_name": "Brassica oleracea var. italica",
+    "glossary_term": "Chou",
+    "category": "legume",
+    "description": "Le brocoli est une plante potagère de la famille des Brassicaceae, cultivée pour ses inflorescences comestibles formant des têtes compactes vertes. Originaire de la région méditerranéenne, il est reconnu pour sa richesse en vitamines, minéraux et antioxydants. Il se consomme cru en salade, cuit à la vapeur, poêlé ou intégré dans des soupes et gratins.",
+    "seasonality": "Septembre à Avril",
+    "buying_guide": "Choisissez des têtes fermes, bien vertes et sans flore jaune. Les petits boutons doivent être bien serrés et la tige solide, sans parties molles ni taches brunes.",
+    "storage_guide": "Conservez-le dans le bac à légumes du réfrigérateur, emballé dans un sac perforé ou un torchon humide, et consommez-le sous 3 à 5 jours.",
+    "prep_guide": "Détachez les bouquets, rincez-les sous l’eau froide. Épluchez la tige si nécessaire et coupez-la en tronçons. Cuisez à la vapeur 5 à 7 minutes pour conserver croquant et nutriments.",
+    "nutrition_info": "Pour 100 g : Énergie 34 kcal, Protéines 2,8 g, Glucides 6,6 g, Lipides 0,4 g, Fibres 2,6 g, Vitamine C 89 mg.",
+    "texture": "Croquant sous la dent quand légèrement cuit, fermeté agréable et jutosité légère.",
+    "image_filename": "brocoli.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 89,3 g, Fibres 2,6 g, Protéines 2,8 g, Lipides 0,4 g, Glucides 6,6 g",
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Carotte",
+    "scientific_name": "Daucus carota subsp. sativus",
+    "glossary_term": "Carotte",
+    "category": "legume",
+    "description": "La carotte est une plante bisannuelle de la famille des Apiacées, cultivée pour sa racine comestible charnue et allongée. Originaire d’Asie centrale et d’Europe, elle se décline en plusieurs variétés (de couleur orange, jaune, rouge ou violette). Riche en bêta-carotène et en fibres, elle est appréciée pour sa saveur douce et sucrée, ainsi que pour ses qualités nutritionnelles et sa grande polyvalence culinaire.",
+    "seasonality": "Juin à octobre (disponible toute l’année)",
+    "buying_guide": "Choisissez des carottes fermes, lisses et bien colorées, sans taches ni gerçures. Préférez des spécimens de taille homogène et au feuillage vert vif si présent, signe de fraîcheur.",
+    "storage_guide": "Retirez le vert avant de les conserver pour éviter qu’elles ne se dessèchent. Placez-les dans le bac à légumes du réfrigérateur, idéalement dans un sac perforé, à 0–4 °C et haute humidité. Durée de conservation : 2 à 3 semaines.",
+    "prep_guide": "Lavez-les soigneusement à l’eau froide, pelez-les si nécessaire, puis coupez-les selon l’usage : rondelles, bâtonnets, julienne ou en brunoise. Elles peuvent être consommées crues, râpées, cuites à la vapeur, sautées, rôties ou en purée.",
+    "nutrition_info": "Pour 100 g : 41 kcal, eau 88 g, glucides 9,6 g (dont sucres 4,7 g), fibres 2,8 g, protéines 0,9 g, lipides 0,2 g. Riche en bêta-carotène (8285 µg), vitamine A, vitamine K et potassium.",
+    "texture": "Croquante et ferme à cru, fondante et légèrement sucrée à la cuisson.",
+    "image_filename": "carottes.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 88 %, glucides 9,6 %, fibres 2,8 %, protéines 0,9 %, lipides 0,2 %",
+      "famille_botanique": "Apiaceae"
+    }
+  },
+  {
+    "name": "Champignons Larousse Medica",
+    "scientific_name": "Agaricus bisporus",
+    "glossary_term": "Champignon",
+    "category": "legume",
+    "description": "Le Champignon Larousse Medica est une variété d’Agaricus bisporus reconnue pour sa chair ferme et son goût délicat. Cultivé en conditions contrôlées, il offre une couleur blanche à crème et une texture moelleuse. Il se prête à de nombreuses préparations culinaires, de la simple poêlée aux sauces élaborées.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Choisissez des champignons fermes, à la surface lisse et sans traces de moisissure. Les chapeaux doivent être bien arrondis et les pieds bien attachés, sans décoloration ni taches sombres.",
+    "storage_guide": "Conservez-les au réfrigérateur dans un sac en papier ou un contenant aéré. Évitez les sacs plastiques hermétiques pour limiter la condensation. À consommer dans les 3 à 5 jours après achat.",
+    "prep_guide": "Nettoyez-les avec un chiffon humide ou un pinceau doux pour ôter la terre. Évitez de les passer sous l’eau vive pour préserver leur texture. Coupez la base du pied si nécessaire et tranchez-les selon la recette.",
+    "nutrition_info": "Pour 100 g : énergie 22 kcal, eau 92 g, protéines 3,1 g, glucides 3,3 g, fibres 1,0 g, lipides 0,3 g, sodium 5 mg.",
+    "texture": "Fermeté tendre, chair moelleuse et légèrement spongieuse, sensation juteuse à la cuisson.",
+    "image_filename": "Champignons-Larousse-Medica.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 92 %, protéines 3,1 %, glucides 3,3 %, fibres 1,0 %, lipides 0,3 %",
+      "famille_botanique": "Agaricaceae"
+    }
+  },
+  {
+    "name": "Champignon de Paris",
+    "scientific_name": "Agaricus bisporus",
+    "glossary_term": "Champignon",
+    "category": "champignon",
+    "description": "Le champignon de Paris est un basidiomycète comestible de la famille des Agaricaceae, largement cultivé pour sa chair délicate et son goût doux. Très apprécié en cuisine pour sa capacité à absorber les arômes, il se prête aussi bien aux sautés, aux sauces qu’aux soupes et aux garnitures.",
+    "seasonality": "Toute l'année (pic de production d'avril à octobre)",
+    "buying_guide": "Choisissez des exemplaires à chapeau lisse, ferme et sans taches, avec des lamelles bien fermées et une couleur uniforme. Évitez les champignons visqueux, assombris ou présentant des signes de dessèchement.",
+    "storage_guide": "Conservez-les non lavés dans un sac en papier ou une boîte aérée au réfrigérateur. Évitez le film plastique pour limiter la condensation. À consommer de préférence sous 3 à 4 jours.",
+    "prep_guide": "Nettoyez-les délicatement avec une brosse ou un chiffon humide. Évitez le trempage pour préserver la texture. Coupez ou équeutez la base du pied, puis tranchez, émincez ou laissez entiers selon la recette.",
+    "nutrition_info": "Pour 100 g : 22 kcal, Eau : 92 g, Protéines : 3 g, Glucides : 3,3 g, Fibres : 1 g, Lipides : 0,3 g, Sodium : 5 mg.",
+    "texture": "Ferme et légèrement spongieuse, avec une chair juteuse et un léger croquant à la cuisson.",
+    "image_filename": "champignons.jpg",
+    "functional_categories": [
+      "base-purée",
+      "accompagnement",
+      "umami"
+    ],
+    "tags": [
+      "frais",
+      "terreux",
+      "végétarien"
+    ],
+    "specific_data": {
+      "composition": "Eau : 92 %, Fibres : 1 %, Protéines : 3 %, Glucides : 3,3 %, Lipides : 0,3 %",
+      "famille_botanique": "Agaricaceae"
+    }
+  },
+  {
+    "name": "Chou-fleur blanc",
+    "scientific_name": "Brassica oleracea var. botrytis",
+    "glossary_term": "Chou-fleur",
+    "category": "legume",
+    "description": "Le chou-fleur blanc est un légume crucifère de la famille des Brassicacées. Sa tête compacte et crémeuse se compose d'inflorescences non épanouies formant un curd blanc immaculé. Cultivé depuis l'Antiquité, il se distingue par sa saveur douce, légèrement sucrée et noisettée. Riche en vitamines (notamment C) et en minéraux, il s’intègre dans de nombreuses préparations : potages, gratins, accompagnements sautés ou crus en salade.",
+    "seasonality": "Septembre à avril",
+    "buying_guide": "Choisir une tête bien ferme, d’un blanc uniforme sans taches brunes ni zones mouillées. Les feuilles doivent être vertes et croquantes. Préférer une coupe nette au niveau du pied, gage de fraîcheur.",
+    "storage_guide": "Conserver au réfrigérateur, dans le bac à légumes, enveloppé légèrement dans un film alimentaire perforé. À consommer idéalement dans les 5 à 7 jours pour préserver croquant, couleur et nutriments.",
+    "prep_guide": "Retirer les feuilles extérieures, découper la tête en petits bouquets. Rincer rapidement à l’eau froide. Peut être dégusté cru (en fleurettes) ou cuit à la vapeur, bouilli, rôti, gratiné ou mixé en purée et velouté.",
+    "nutrition_info": "Pour 100 g : Énergie 25 kcal, Protéines 1,9 g, Glucides 4,0 g, Lipides 0,3 g, Fibres 2,0 g, Vitamine C 48 mg.",
+    "texture": "Croquante et ferme à cru, elle devient fondante et légèrement granuleuse après cuisson.",
+    "image_filename": "choufleurblanc.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 92 %, fibres 2 %, protéines 1,9 %, glucides 4 %, lipides 0,3 %",
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Chou",
+    "scientific_name": "Brassica oleracea var. capitata",
+    "glossary_term": "Chou",
+    "category": "legume",
+    "description": "Le chou est une plante potagère de la famille des Brassicaceae, cultivée pour sa tête compacte formée de feuilles superposées. Originaire d’Europe, il existe de nombreuses variétés (vert, blanc, rouge, pointu) appréciées pour leur goût doux ou légèrement piquant. Riche en vitamines et minéraux, le chou se consomme cru en salade, fermenté (choucroute), cuit à l’eau, à la vapeur ou braisé.",
+    "seasonality": "Octobre à mars",
+    "buying_guide": "Choisissez une tête ferme, lourde pour son volume, aux feuilles bien serrées et sans taches noires. La couleur doit être éclatante et les nervures rigides. Évitez les choux dont les feuilles externes sont flétries ou jaunies.",
+    "storage_guide": "Conservez le chou entier, non lavé, dans le bac à légumes du réfrigérateur, dans un sac perforé, à 4 °C. Il se garde ainsi 1 à 2 semaines. Vous pouvez également l’entreposer dans un local frais et ventilé (cellier) jusqu’à 4 semaines.",
+    "prep_guide": "Retirez les feuilles externes abîmées, rincez sous l’eau froide. Coupez la base pour retirer le trognon, puis émincez ou découpez en quartiers selon la recette. Le chou se prête aux cuissons vapeur, bouillon, braisage et rôti.",
+    "nutrition_info": "Pour 100 g : énergie 25 kcal, glucides 4,7 g, protéines 1,3 g, lipides 0,1 g, fibres 2,5 g, vitamine C 37 mg, vitamine K 76 µg, potassium 170 mg.",
+    "texture": "Feuilles croquantes et juteuses crues, devenant tendres et fondantes à la cuisson.",
+    "image_filename": "chou.jpg",
+    "functional_categories": [
+      "base-salade",
+      "accompagnement",
+      "base-potage"
+    ],
+    "tags": [
+      "terroir",
+      "frais",
+      "hiver"
+    ],
+    "specific_data": {
+      "composition": "Environ 92 % d’eau, 2,5 % de fibres, 4,7 % de glucides, 1,3 % de protéines, traces de lipides, vitamines C, K, B6 et minéraux (K, Ca, Mg).",
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Chou de Bruxelles",
+    "scientific_name": "Brassica oleracea var. gemmifera",
+    "glossary_term": "Chou",
+    "category": "legume",
+    "description": "Le chou de Bruxelles est une variété de Brassica oleracea de la variété gemmifera. Il forme de petits bourgeons ronds ressemblant à de mini choux, disposés le long d'une tige. Originaire de Belgique, il est apprécié pour son goût légèrement sucré et sa texture ferme qui se prête aussi bien aux plats rôtis qu’aux préparations vapeur ou en potage.",
+    "seasonality": "Octobre à février",
+    "buying_guide": "Choisissez des choux de Bruxelles de taille homogène, fermes et bien verts, sans taches jaunes ni feuilles flétries. Optez pour des bourgeons compacts, gages de fraîcheur et de meilleure conservation.",
+    "storage_guide": "Conservez-les non lavés dans le bac à légumes du réfrigérateur à 4 °C, dans un sac perforé, jusqu’à 7 jours. Pour une conservation plus longue, ébouillantez-les 3 min, plongez-les dans l’eau glacée, égouttez et congelez.",
+    "prep_guide": "Retirez les feuilles externes abîmées, coupez la base du pied, fendez les gros bourgeons en deux si besoin. Vous pouvez les blanchir, les cuire à la vapeur, les rôtir au four avec un filet d’huile d’olive, ou encore les intégrer en soupe après avoir fait suer oignons et ail.",
+    "nutrition_info": "Pour 100 g : 43 kcal, eau 89 g, protéines 3,4 g, lipides 0,3 g, glucides 6,8 g (dont fibres 3,8 g, sucres 2,2 g), vitamine C 85 mg, vitamine K, folates, bêta-carotène.",
+    "texture": "Bourgeons fermes et croquants à cru, qui deviennent tendres et fondants à la cuisson, avec une légère saveur végétale sucrée et une pointe de noisette quand ils sont rôtis.",
+    "image_filename": "chou-de-bruxelles.jpg",
+    "functional_categories": [
+      "legume-principal",
+      "accompagnement"
+    ],
+    "tags": [
+      "hiver",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 89 g, fibres 3,8 g, protéines 3,4 g, glucides 6,8 g, lipides 0,3 g",
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Citrouille",
+    "scientific_name": "Cucurbita maxima",
+    "glossary_term": "Citrouille",
+    "category": "legume",
+    "description": "La citrouille est le fruit comestible d’une plante de la famille des Cucurbitacées. Elle se caractérise par une forme ronde à légèrement aplatie, une écorce épaisse et une chair orange vif riche en bêta-carotène. Utilisée depuis l’Antiquité tant en cuisine qu’en médecine traditionnelle, elle offre une grande polyvalence culinaire.",
+    "seasonality": "Septembre à novembre",
+    "buying_guide": "Choisir une citrouille lourde pour sa taille, avec une peau dure, lisse et sans taches molles. Préférer une couleur uniforme et un pédoncule frais, solide et bien fixé.",
+    "storage_guide": "Conserver entière à l’abri de la lumière dans un endroit frais et sec (10–15 °C), sans empiler. Une fois coupée, envelopper les quartiers de film alimentaire et garder au réfrigérateur (4 °C) jusqu’à 5 jours.",
+    "prep_guide": "Couper d’abord la citrouille en deux, retirer les graines et les filaments. Peler à l’aide d’un couteau ou d’un épluche-légumes, puis détailler la chair en dés ou en tranches selon la recette (soupe, purée, rôtis).",
+    "nutrition_info": "Pour 100 g : énergie 26 kcal, eau 92 g, protéines 1 g, glucides 6 g (dont sucres 2 g), lipides 0,1 g, fibres 0,5 g. Riche en bêta-carotène (provitamine A), vitamine C, potassium et antioxydants.",
+    "texture": "Chair ferme et fondante, légèrement crémeuse après cuisson, fibres subtiles et fondantes.",
+    "image_filename": "citrouille.jpg",
+    "functional_categories": [
+      "base-potage",
+      "purée",
+      "dessert"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 92 %, glucides 6 %, protéines 1 %, lipides 0,1 %, fibres 0,5 %",
+      "famille_botanique": "Cucurbitaceae"
+    }
+  },
+  {
+    "name": "Concombre",
+    "scientific_name": "Cucumis sativus",
+    "glossary_term": "Concombre",
+    "category": "legume",
+    "description": "Le concombre est un légume-fruit de la famille des cucurbitacées, apprécié pour sa chair croquante et rafraîchissante. Originaire de l’Inde, il est cultivé depuis plus de 3 000 ans et se décline en plusieurs variétés (longs lisses, mini-concombres, cornichons). Son goût léger, légèrement sucré, se prête aussi bien aux salades qu’aux préparations froides, soupes ou smoothies.",
+    "seasonality": "Mai à septembre",
+    "buying_guide": "Choisissez un fruit ferme, droit, à peau lisse et de couleur vert uniforme, sans taches ni zones molles. Les concombres de taille moyenne présentent souvent la meilleure teneur en eau et moins d’amertume.",
+    "storage_guide": "Conservez-le non lavé, dans le bac à légumes du réfrigérateur, enveloppé dans un film alimentaire perforé ou un sac en papier pour limiter la perte d’humidité. À consommer de préférence dans la semaine.",
+    "prep_guide": "Rincez-le sous l’eau froide, épongez-le puis épluchez la peau si elle est épaisse ou amère. Retirez les extrémités et, selon la recette, tranchez-le en rondelles, en bâtonnets ou en dés ; on peut également épépiner pour un résultat plus fondant.",
+    "nutrition_info": "Pour 100 g : énergie 16 kcal, eau 95 g, glucides 2,2 g, fibres 0,5 g, protéines 0,7 g, lipides 0,1 g, vitamine C 3,5 mg, potassium 147 mg.",
+    "texture": "Chair ferme, juteuse et croquante, avec une sensation rafraîchissante en bouche.",
+    "image_filename": "concombre.jpg",
+    "functional_categories": [
+      "base-salade",
+      "rafraîchissant"
+    ],
+    "tags": [
+      "croquant",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 95 %, fibres 0,5 %, glucides 2,2 %, protéines 0,7 %, lipides 0,1 %",
+      "famille_botanique": "Cucurbitaceae"
+    }
+  },
+  {
+    "name": "Courge",
+    "scientific_name": "Cucurbita spp.",
+    "glossary_term": "Courge",
+    "category": "legume",
+    "description": "La courge est le fruit de plusieurs espèces de Cucurbita, plantes de la famille des cucurbitacées. Cultivée depuis l’Antiquité, elle se décline en multiples variétés (butternut, potimarron, courge musquée, spaghetti, etc.) aux formes et couleurs variées. Sa chair ferme, généralement orangée, est douce et légèrement sucrée. Consommée cuite, la courge se prête aussi bien aux soupes et purées qu’aux gratins, tartes et desserts.",
+    "seasonality": "Août à novembre",
+    "buying_guide": "Choisir une courge lourde pour sa taille, à la peau ferme, sans taches molles ni gerçures. Le pédoncule doit être sec et bien adhérent. Privilégier des spécimens bio ou issus de circuits courts.",
+    "storage_guide": "Conserver dans un endroit frais (12–15 °C), sec et aéré, à l’abri de la lumière. Bien ventilée, la courge peut se garder 2 à 3 mois. Une fois coupée, filmer la chair et réfrigérer, à consommer sous 3 à 4 jours.",
+    "prep_guide": "Laver et sécher la peau. Selon la variété, peler ou non. Couper en deux, retirer graines et filaments à l’aide d’une cuillère. Tailler en cubes, tranches ou quartiers. Cuire à l’eau, à la vapeur, au four ou en purée selon la recette.",
+    "nutrition_info": "Pour 100 g de courge crue : énergie 26 kcal, eau 94 g, glucides 3,7 g, fibres 1 g, protéines 1 g, lipides 0,1 g. Riche en bêtacarotène et vitamines A, C, E.",
+    "texture": "Chair dense et onctueuse après cuisson, veloutée en purée, fondante dans les soupes, légèrement fibreuse selon la variété.",
+    "image_filename": "courge.jpg",
+    "functional_categories": [
+      "base-potage",
+      "accompagnement"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 94 g, Glucides 3,7 g, Fibres 1 g, Protéines 1 g, Lipides 0,1 g",
+      "famille_botanique": "Cucurbitacées"
+    }
+  },
+  {
+    "name": "Courgette",
+    "scientific_name": "Cucurbita pepo",
+    "glossary_term": "Courgette",
+    "category": "legume",
+    "description": "La courgette est un fruit-légume de la famille des Cucurbitacées, cultivée pour sa chair tendre et sa peau lisse. Elle se décline en variétés vertes, jaunes ou panachées. Appréciée pour sa saveur douce et légèrement sucrée, elle s’intègre aussi bien dans des préparations crues que cuites.",
+    "seasonality": "Juin à septembre",
+    "buying_guide": "Choisir des courgettes fermes, de taille moyenne, à la peau brillante et sans taches. Éviter celles dont la chair paraît molle ou dont la pointe est desséchée.",
+    "storage_guide": "Conserver 4 à 5 jours au réfrigérateur, idéalement dans le bac à légumes ou dans un sac perforé pour maintenir un bon taux d’humidité.",
+    "prep_guide": "Laver soigneusement, couper les extrémités, puis détailler en rondelles, en dés ou en bâtonnets. Peut être consommée crue en carpaccio, grillée, sautée, cuite à la vapeur ou intégrée dans une soupe.",
+    "nutrition_info": "Pour 100 g : énergie 17 kcal, eau 94 g, protéines 1,2 g, lipides 0,3 g, glucides 3 g (dont sucres 2,5 g), fibres 1,1 g, vitamine C 17,9 mg, potassium 261 mg.",
+    "texture": "Chair tendre et juteuse à la cuisson, croquante et légèrement fermée à l’état cru.",
+    "image_filename": "courgette.jpg",
+    "functional_categories": [
+      "base-potage",
+      "accompagnement"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 94%, Glucides 3%, Protéines 1,2%, Lipides 0,3%, Fibres 1,1%",
+      "famille_botanique": "Cucurbitaceae"
+    }
+  },
+  {
+    "name": "Cresson",
+    "scientific_name": "Nasturtium officinale",
+    "glossary_term": "Cresson",
+    "category": "legume",
+    "description": "Le cresson est une plante potagère aquatique de la famille des Brassicaceae, cultivée depuis l’Antiquité pour sa saveur piquante et sa richesse nutritionnelle. On le trouve à l’état sauvage dans les eaux vives et claires des ruisseaux ou en culture maraîchère sur lits d’eau. Son feuillage vert vif est composé de petites feuilles arrondies portées par des pétioles croquants. Il est très apprécié en salade, en potage ou comme garniture aromatique.",
+    "seasonality": "Mars à octobre, avec un pic de saveur au printemps",
+    "buying_guide": "Choisissez des bouquets à feuilles vertes et brillantes, aux tiges fermes et bien croquantes. Évitez les spécimens jaunis, fanés ou flétris. Privilégiez le cresson issu de cultures biologiques ou de ruisseaux à eau pure.",
+    "storage_guide": "Rincez rapidement à l’eau froide et essorez. Enveloppez-le dans un linge humide ou un film micro-perforé et conservez-le au réfrigérateur (4 °C) dans le bac à légumes, de préférence consommé sous 3 à 5 jours.",
+    "prep_guide": "Séparez les tiges des feuilles si nécessaire, coupez les racines et rincez abondamment pour éliminer le sable. Vous pouvez le déguster cru en salade, mixer en pesto, incorporer dans un potage ou l’ajouter en fin de cuisson dans les plats sautés.",
+    "nutrition_info": "Pour 100 g : énergie 29 kcal, protéines 2,3 g, glucides 1,3 g (dont sucres 0,2 g), lipides 0,1 g, fibres 0,5 g, vitamine C 43 mg, vitamine A 160 µg, vitamine K 250 µg, calcium 120 mg, fer 0,2 mg.",
+    "texture": "Feuilles tendres et légèrement croquantes, pétioles fermes et juteux",
+    "image_filename": "cresson.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Environ 95 % d’eau, 2,3 % de protéines, 1,3 % de glucides, 0,1 % de lipides, fibres 0,5 %, riche en vitamines A, C et K",
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Dachine",
+    "scientific_name": "Colocasia esculenta",
+    "glossary_term": "Taro",
+    "category": "legume",
+    "description": "Le dachine, ou taro, est un tubercule consommé dans de nombreuses cuisines tropicales. Sa chair blanche à crème renferme un goût doux et légèrement sucré, proche de la pomme de terre mais plus farineux. Cultivé depuis des millénaires en Asie du Sud-Est puis diffusé en Afrique et dans les Caraïbes, il sert de base nourrissante pour potages, purées et gratins. Riche en amidon résistant, il présente un intérêt pour la santé digestive. Son usage culinaire se décline aussi bien en féculent principal qu’en légume d’accompagnement.",
+    "seasonality": "Toute l'année, avec un pic de fraîcheur de juin à septembre",
+    "buying_guide": "Choisissez des tubercules fermes, à la peau lisse et sans germes apparents. Évitez ceux présentant des taches sombres, des moisissures ou une odeur fermentée.",
+    "storage_guide": "Conservez dans un endroit frais (12–15 °C), sec et aéré, à l'abri de la lumière. Ne pas placer au réfrigérateur pour limiter le dessèchement ; enveloppez-les dans un papier journal si besoin.",
+    "prep_guide": "Épluchez avec un couteau ou un économe robuste, rincez abondamment pour éliminer l’excès d’amidon. Coupez en morceaux et faites cuire à l’eau bouillante, à la vapeur ou en cuisson douce selon la recette. Peut également être rôti ou frit après une précuisson pour des textures variées.",
+    "nutrition_info": "Pour 100 g : 142 kcal, 34 g de glucides, 4,1 g de fibres, 2 g de protéines, 0,3 g de lipides. Source de potassium et d’amidon résistant.",
+    "texture": "Chair ferme, légèrement farineuse après cuisson, devenant onctueuse ou crémeuse selon la durée de cuisson",
+    "image_filename": "dachine.jpg",
+    "functional_categories": [
+      "base-potage",
+      "accompagnement"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 75–80%, glucides 16–20%, fibres 4%, protéines 2%, lipides 0,3%",
+      "famille_botanique": "Araceae"
+    }
+  },
+  {
+    "name": "Radis Daikon",
+    "scientific_name": "Raphanus sativus var. longipinnatus",
+    "glossary_term": "Radis",
+    "category": "legume",
+    "description": "Le radis daikon est une variété de radis originaire d'Asie, caractérisée par sa longue racine blanche et ferme. Très populaire dans la cuisine japonaise, coréenne et chinoise, il se consomme cru, mariné ou cuit. Son goût doux, légèrement poivré, apporte fraîcheur et croquant aux plats.",
+    "seasonality": "Septembre à avril",
+    "buying_guide": "Choisir des racines lisses, fermes et sans taches. La peau doit être intacte, blanche et légèrement brillante. Éviter les spécimens mous ou desséchés.",
+    "storage_guide": "Conserver au réfrigérateur, de préférence dans le bac à légumes, enveloppé dans un sac perforé. À utiliser dans les 1 à 2 semaines pour préserver son croquant.",
+    "prep_guide": "Laver soigneusement et, si besoin, éplucher la peau. Couper en rondelles, bâtonnets ou râper finement. Idéal en crudités, pickles (tsukemono) ou sauté rapide.",
+    "nutrition_info": "Pour 100 g : énergie 18 kcal, eau 95 g, glucides 3 g, fibres 1,6 g, protéines 0,6 g, lipides 0,1 g.",
+    "texture": "Chair ferme, juteuse et très croquante",
+    "image_filename": "radis_daikon.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "asiatique",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 95 g, Glucides 3 g, Fibres 1,6 g, Protéines 0,6 g, Lipides 0,1 g",
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Kombu",
+    "scientific_name": "Laminaria japonica",
+    "glossary_term": "Kombu",
+    "category": "algue",
+    "description": "Le kombu est une algue brune originaire des eaux froides du Japon et de la Corée. Utilisée depuis des siècles dans la cuisine nippone, elle est le pilier de la préparation du dashi, bouillon de base riche en umami. Au-delà de son pouvoir aromatisant, le kombu est reconnu pour ses vertus digestives, facilitant l’attendrissement des légumineuses grâce à ses enzymes. Riche en minéraux, notamment en iode, en calcium et en magnésium, il apporte également fibres et oligo-éléments indispensables à une alimentation équilibrée.",
+    "seasonality": "Toute l'année (séchée)",
+    "buying_guide": "Optez pour des feuilles entières, épaisses et d’un brun profond, sans taches blanches excessives (signes d’oxydation). Vérifiez l’absence de sable ou de résidus. Préférez du kombu certifié biologique pour éviter les métaux lourds.",
+    "storage_guide": "Conservez-le dans un endroit frais, sec et à l’abri de la lumière, de préférence dans une boîte hermétique. Bien fermé, le kombu séché se conserve jusqu’à 12 mois. Une fois réhydraté, placez-le dans un récipient fermé au réfrigérateur et consommez-le sous 3 jours.",
+    "prep_guide": "Rincez brièvement à l’eau froide pour éliminer le sel de surface. Faites tremper 10 à 30 minutes selon l’épaisseur, jusqu’à ce qu’il devienne souple. Coupez ou ciselez selon l’usage. Intégrez-le dès le départ dans les bouillons ou les plats mijotés pour libérer pleinement ses saveurs.",
+    "nutrition_info": "Pour 100 g de kombu séché : énergie 280 kcal, protéines 12 g, lipides 1 g, glucides 40 g, fibres 18 g, sodium 2000 mg, iode 2000 µg, calcium 1500 mg, magnésium 150 mg.",
+    "texture": "Ferme et coriace à l’état sec, elle devient moelleuse et légèrement gélatineuse après réhydratation et cuisson.",
+    "image_filename": "Kombu.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation",
+      "tendreur-légumineuses"
+    ],
+    "tags": [
+      "umami",
+      "cuisine-japonaise",
+      "minéral"
+    ],
+    "specific_data": {
+      "composition": "Eau 12 %, protéines 12 %, fibres 18 %, glucides 40 %, lipides 1 %, minéraux 17 %",
+      "famille_botanique": "Laminariaceae"
+    }
+  },
+  {
+    "name": "Échalote",
+    "scientific_name": "Allium cepa var. aggregatum",
+    "glossary_term": "Échalote",
+    "category": "legume",
+    "description": "L’échalote est un petit bulbe comestible de la famille des Amaryllidacées, proche de l’oignon mais à la saveur plus douce et subtile. Elle se présente sous forme de bulbilles allongées recouvertes d’une tunique brun rosé. Utilisée depuis l’Antiquité, elle joue un rôle central dans les cuisines européennes et asiatiques, tant en condiment qu’en légume aromatique, apportant un goût légèrement sucré et un parfum délicat qui évolue à la cuisson.",
+    "seasonality": "août à février",
+    "buying_guide": "Privilégiez les bulbes fermes, à la peau sèche et lisse, sans taches ni moisissures. Les petits calibres sont plus goûteux et concentrent mieux la saveur. Vérifiez que la tunique (peau) soit intacte et sèche, signe de fraîcheur et de bonne conservation.",
+    "storage_guide": "Conservez-les à l’abri de la lumière dans un endroit frais (10–15 °C), sec et bien ventilé, de préférence en vrac dans une boîte ajourée ou un panier. Évitez le réfrigérateur qui favorise la germination et l’humidité, et tenez-les à l’écart des pommes de terre.",
+    "prep_guide": "Coupez les extrémités, retirez la tunique externe, puis émincez, hachez ou écrasez selon la recette. Pour adoucir l’arôme, faites-la revenir doucement à feu doux ou confisez-la au four. Elle s’intègre aux sauces, vinaigrettes, fonds de cuisson et marinades.",
+    "nutrition_info": "Pour 100 g : énergie 62 kcal, protéines 1,5 g, lipides 0,2 g, glucides 14 g (dont sucres 7 g), fibres 2 g, eau 82 g, sel 0,01 g.",
+    "texture": "Croquante et juteuse crue, fondante et moelleuse une fois cuite.",
+    "image_filename": "echalote.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 82%, glucides 14%, fibres 2%, protéines 1,5%, lipides 0,2%",
+      "famille_botanique": "Amaryllidaceae"
+    }
+  },
+  {
+    "name": "Endive",
+    "scientific_name": "Cichorium intybus var. foliosum",
+    "glossary_term": "Chicorée",
+    "category": "legume",
+    "description": "L'endive, variété de chicorée à feuilles blanchâtres et serrées en cœur, est cultivée principalement pour sa saveur douce et légèrement amère. Apparue en Belgique au XIXᵉ siècle, elle est aujourd’hui un légume-feuille prisé dans la cuisine européenne. Sa chair croquante et juteuse apporte du relief aux salades, potages et plats mijotés.",
+    "seasonality": "Octobre à Mars",
+    "buying_guide": "Choisissez des endives à feuilles bien blanches, fermes et sans tâches brunes. Les pointes doivent être légèrement teintées de jaune ou de vert, signes de fraîcheur. Évitez les pieds trop humides ou flétris.",
+    "storage_guide": "Conservez-les dans le bac à légumes du réfrigérateur, dans un sac perforé ou filmé légèrement, à 0–4 °C. Évitez la lumière pour prévenir le jaunissement et consommez sous 7 à 10 jours.",
+    "prep_guide": "Coupez la base, ôtez la première feuille si elle est abîmée. Rincez rapidement sous l’eau froide. Selon les recettes, vous pouvez les émincer crues en salade, braiser à la poêle, cuire à la cocotte ou gratiner au four.",
+    "nutrition_info": "Pour 100 g : énergie 17 kcal, eau 94 g, protéines 1,3 g, glucides 3 g, dont sucres 0,7 g, fibres 1,8 g, lipides 0,1 g, sodium 80 mg.",
+    "texture": "Feuilles croquantes, juteuses, chair ferme et légèrement friable à la cuisson",
+    "image_filename": "endive.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 94 %, fibres 1,6 %, glucides 2,3 %, protéines 1,4 %, lipides 0,2 %",
+      "famille_botanique": "Asteraceae"
+    }
+  },
+  {
+    "name": "Épinard",
+    "scientific_name": "Spinacia oleracea",
+    "glossary_term": "Épinard",
+    "category": "legume",
+    "description": "L’épinard est une plante potagère originaire d’Asie centrale, cultivée depuis l’Antiquité pour ses feuilles comestibles. Riche en nutriments et peu calorique, il se consomme cru en salade, cuit à la vapeur, poêlé ou intégré à des potages et des quiches. Son goût délicat et sa couleur verte intense en font un ingrédient de choix pour de nombreuses recettes estivales et automnales.",
+    "seasonality": "Avril à juin et septembre à novembre",
+    "buying_guide": "Choisissez des feuilles d’un vert profond, sans taches jaunes ni signes de flétrissement. Privilégiez les jeunes pousses pour une texture plus tendre. Les épinards bio ou issus de circuits courts offrent souvent une fraîcheur et une saveur supérieures.",
+    "storage_guide": "Conservez-les non lavés dans un sac perforé au réfrigérateur (4 °C) et consommez-les dans les 2 à 3 jours. Évitez l’humidité excessive qui favorise le pourrissement.",
+    "prep_guide": "Retirez les tiges épaisses si nécessaire, lavez abondamment à l’eau froide et égouttez. Blanchissez 1 à 2 minutes pour les assouplir avant cuisson, ou incorporez-les crus dans les salades et smoothies. Sautées à l’huile d’olive avec de l’ail, elles se marient à merveille avec les pâtes et le poisson.",
+    "nutrition_info": "Pour 100 g : 23 kcal, 2,9 g de protéines, 3,6 g de glucides, 0,4 g de lipides, 2,2 g de fibres ; riche en vitamine A (765 µg), vitamine C (28 mg), vitamine K (483 µg), folates (194 µg), fer (2,7 mg), calcium (99 mg), magnésium (79 mg).",
+    "texture": "Feuilles tendres et fondantes, légèrement croquantes lorsque très fraîches",
+    "image_filename": "epinard.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation",
+      "accompagnement",
+      "base-salade"
+    ],
+    "tags": [
+      "terroir",
+      "frais",
+      "bio",
+      "vert"
+    ],
+    "specific_data": {
+      "composition": "Eau : 91,4 g, Glucides : 3,6 g, Protéines : 2,9 g, Lipides : 0,4 g, Fibres : 2,2 g (pour 100 g)",
+      "famille_botanique": "Amaranthacées"
+    }
+  }
+]

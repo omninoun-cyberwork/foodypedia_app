@@ -8,6 +8,7 @@ from .views import (
     TechniqueViewSet,
     IngredientViewSet,
     QuantiteIngredientViewSet,
+    GenerateRecipeView
 )
 
 # Créer un routeur DRF
@@ -23,5 +24,6 @@ router.register(r'quantites-ingredients', QuantiteIngredientViewSet, basename='q
 
 # La variable 'urlpatterns' doit contenir le résultat du routeur
 urlpatterns = [
-    path('', include(router.urls)), 
+    path('', include(router.urls)),
+    path('ai-chef/generate/', GenerateRecipeView.as_view(), name='ai-chef-generate'),
 ]

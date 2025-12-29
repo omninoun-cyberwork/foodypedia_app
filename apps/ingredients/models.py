@@ -1,5 +1,5 @@
 from django.db import models
-from apps.atlas.models import Pays  # Intégration Atlas pour l'origine
+from apps.atlas.models import Pays, Glossaire  # Intégration Atlas
 
 # -------------------------------------------------------------------------
 # 1. Catégories & Classifications
@@ -96,6 +96,17 @@ class Ingredient(models.Model):
     name = models.CharField(max_length=200, unique=True, verbose_name="Nom principal")
     slug = models.SlugField(unique=True, verbose_name="Slug")
     scientific_name = models.CharField(max_length=200, blank=True, verbose_name="Nom scientifique")
+    
+    # --- Référence Académique (Fusion Gemini) ---
+    glossary_term = models.ForeignKey(
+        Glossaire,
+        on_delete=models.SET_NULL,
+        null=True,
+        blank=True,
+        related_name="ingredients_lies",
+        verbose_name="Terme du Glossaire (Atlas)"
+    )
+    
     description = models.TextField(verbose_name="Description générale")
 
     # --- Catégorisation ---
@@ -149,9 +160,21 @@ class Ingredient(models.Model):
         blank=True, 
         verbose_name="Données spécifiques (JSON)"
     )
+    
+    # Tags flexibles pour n8n/IA
+    tags = models.JSONField(
+        default=list,
+        blank=True,
+        verbose_name="Tags n8n/IA"
+    )
 
     # --- Média ---
     main_image = models.ImageField(upload_to="ingredients/main/", blank=True, null=True, verbose_name="Image principale")
+    image_filename = models.CharField(
+        max_length=255, 
+        blank=True, 
+        verbose_name="Nom du fichier image (Référence)"
+    )
 
     created_at = models.DateTimeField(auto_now_add=True)
     updated_at = models.DateTimeField(auto_now=True)

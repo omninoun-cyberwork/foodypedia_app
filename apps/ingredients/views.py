@@ -62,6 +62,7 @@ class IngredientViewSet(viewsets.ModelViewSet):
     """
     queryset = Ingredient.objects.all()
     serializer_class = IngredientSerializer
+    lookup_field = 'slug'
     permission_classes = [permissions.IsAuthenticatedOrReadOnly]
     filter_backends = [DjangoFilterBackend, filters.SearchFilter, filters.OrderingFilter]
     
@@ -73,6 +74,8 @@ class IngredientViewSet(viewsets.ModelViewSet):
         'functional_categories': ['exact'],
         'family': ['exact'],
         'labels': ['exact'],
+        'glossary_term': ['exact'],
+        'glossary_term__terme': ['exact'],
     }
     search_fields = ['name', 'scientific_name', 'description', 'flavor_profile']
     ordering_fields = ['name', 'created_at']

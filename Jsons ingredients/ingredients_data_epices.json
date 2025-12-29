@@ -1,0 +1,558 @@
+[
+  {
+    "name": "Anis étoilé",
+    "scientific_name": "Illicium verum",
+    "glossary_term": "Anis",
+    "category": "épice",
+    "description": "L’anis étoilé est le fruit séché de l’arbuste Illicium verum, originaire d’Asie du Sud-Est. Reconnaissable à sa forme d’étoile à huit branches, il dégage un arôme puissant et sucré rappelant la réglisse. Employé depuis des millénaires en médecine traditionnelle chinoise et dans de nombreuses cuisines asiatiques, il apporte une note chaleureuse et légèrement camphrée aux plats salés et sucrés.",
+    "seasonality": "Disponible toute l’année (récolte à l’automne)",
+    "buying_guide": "Choisissez des étoiles d’anis d’un brun rouge profond, intactes et sans taches blanches ni moisissures. Préférez les fruits entiers pour préserver la saveur, achetez-les en vrac dans des enseignes spécialisées ou sous emballage hermétique.",
+    "storage_guide": "Conservez l’anis étoilé dans un contenant hermétique, à l’abri de la lumière, de la chaleur et de l’humidité, dans un placard frais. Il se conserve ainsi plusieurs années en gardant ses arômes.",
+    "prep_guide": "Utilisez-les entières dans les bouillons, infusions et marinades, ou broyez-les au moulin pour les intégrer aux mélanges d’épices. Retirez-les avant service si elles ont infusé longtemps.",
+    "nutrition_info": "Pour 100 g : énergie 337 kcal, lipides 18 g, glucides 50 g (dont sucres 5 g), fibres 22 g, protéines 12 g, sodium 16 mg.",
+    "texture": "Légèrement cassante à sec, libère une poudre fine et huileuse une fois broyée.",
+    "image_filename": "Anis étoilé.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 13 %, fibres 22 %, glucides 50 %, lipides 18 %, protéines 12 %",
+      "famille_botanique": "Schisandraceae"
+    }
+  },
+  {
+    "name": "Cannelle",
+    "scientific_name": "Cinnamomum verum",
+    "glossary_term": "Cannelle",
+    "category": "épice",
+    "description": "La cannelle est une épice issue de l’écorce interne de plusieurs espèces de Cinnamomum, principalement Cinnamomum verum (cannelle de Ceylan) et Cinnamomum cassia (cannelle de Chine). Utilisée depuis l’Antiquité, elle se présente sous forme de bâtons (quills) ou de poudre et délivre des arômes chauds, sucrés et boisés. Elle est appréciée tant en pâtisserie qu’en cuisine salée, ainsi qu’en infusion pour ses vertus digestives et antioxydantes.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Privilégiez des bâtons entiers, cassants et d’un brun uniforme, exempt de moisissures. Pour la poudre, choisissez un conditionnement hermétique, sans agglomérats et à l’arôme puissant. Vérifiez l’origine (Ceylan ou Cassia) pour la qualité et le parfum.",
+    "storage_guide": "Conservez dans un récipient hermétique, à l’abri de l’humidité, de la chaleur et de la lumière. Rangez dans un placard sec pour préserver l’arôme jusqu’à 12 mois.",
+    "prep_guide": "Pour décanter les bâtons, cassez-les en petits morceaux avant de les infuser ou de les broyer. Tamisez la poudre avant usage pour éviter les grumeaux. Vous pouvez la torréfier légèrement à sec pour renforcer son parfum.",
+    "nutrition_info": "Pour 100 g : énergie 247 kcal, lipides 1,2 g, glucides 80,6 g (dont sucres 2,2 g), fibres 53,1 g, protéines 3,9 g, sodium 10 mg.",
+    "texture": "Bâtons durs, cassants et fibreux ; poudre fine et légèrement granuleuse.",
+    "image_filename": "cannelle.jpg",
+    "functional_categories": [
+      "épice",
+      "aromatisation"
+    ],
+    "tags": [
+      "exotique",
+      "parfumé"
+    ],
+    "specific_data": {
+      "composition": "Eau 10,5 g, fibres 53,1 g, glucides 80,6 g, protéines 3,9 g, lipides 1,2 g",
+      "famille_botanique": "Lauraceae"
+    }
+  },
+  {
+    "name": "Capre",
+    "scientific_name": "Capra hircus",
+    "glossary_term": "Chèvre",
+    "category": "fromage",
+    "description": "Le Capre est un fromage affiné élaboré à partir de lait de chèvre. De texture ferme et goût légèrement acidulé, il révèle des arômes de noisette et de sous-bois en fonction de la durée d’affinage.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Optez pour une croûte sans moisissures indésirables, ferme au toucher et un cœur encore souple. Privilégiez les produits issus de laits crus ou pasteurisés selon vos préférences d’intensité aromatique.",
+    "storage_guide": "Emballer hermétiquement dans un film alimentaire ou un papier spécial fromage. Conserver dans la partie moins froide du réfrigérateur (4–6 °C) et consommer dans les 7 jours suivant l’ouverture.",
+    "prep_guide": "Sortir 30 minutes à l’avance du frais pour le tempérage. Trancher finement, émietter sur des salades ou gratiner au four sur une bruschetta. Peut aussi se marier en fondue ou dans des sauces crémeuses.",
+    "nutrition_info": "Pour 100 g : énergie 350 kcal, lipides 29 g (dont acides gras saturés 18 g), protéines 21 g, glucides 1 g, sel 1,2 g, calcium 400 mg.",
+    "texture": "Croûte sèche et fine, pâte ferme et légèrement friable qui devient fondante en bouche.",
+    "image_filename": "Capre.jpg",
+    "functional_categories": [
+      "apero",
+      "salades"
+    ],
+    "tags": [
+      "terroir",
+      "fermier",
+      "lait cru",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 55 %, lipides 21 %, protéines 17 %, lactose 4,5 %, minéraux 2,5 %",
+      "famille_botanique": "Bovidae"
+    }
+  },
+  {
+    "name": "Cardamome",
+    "scientific_name": "Elettaria cardamomum",
+    "glossary_term": "Cardamome",
+    "category": "épice",
+    "description": "La cardamome est une épice provenant des graines de plantes de la famille des Zingiberaceae, originaire des forêts tropicales d’Inde. Ses gousses vertes, recelant de petites graines aromatiques, dégagent un parfum délicatement citronné, floral et légèrement mentholé. Utilisée depuis l’Antiquité dans les cuisines indienne et moyen-orientale, elle parfume autant les plats salés que sucrés, infusions et pâtisseries.",
+    "seasonality": "Août à octobre (gousses fraîches) – disponible toute l'année séchée",
+    "buying_guide": "Choisissez des gousses fermes, charnues et uniformément vertes, sans taches brunes ni déchirures. Pressez légèrement entre le pouce et l’index : elles doivent craquer sous la pression. Préférez les petits volumes pour conserver toute l’intensité aromatique.",
+    "storage_guide": "Conservez les gousses entières dans un contenant hermétique, à l’abri de la lumière, de l’humidité et de la chaleur. Rangez-les de préférence dans une armoire de cuisine ou, pour une conservation plus longue, au réfrigérateur.",
+    "prep_guide": "Ouvrez les gousses à l’aide d’un couteau et récupérez les graines intérieures. Pour un goût plus soutenu, torréfiez-les légèrement à sec quelques secondes avant de les écraser ou de les moudre. Pour les infusions, ajoutez quelques grains entiers directement dans l’eau bouillante.",
+    "nutrition_info": "Pour 100 g : énergie 311 kcal, lipides 6,7 g (dont acides gras saturés 2,2 g), glucides 68 g (dont sucres 0,2 g), fibres 28 g, protéines 10 g, sodium 18 mg.",
+    "texture": "Gousses fermes, graines croquantes et légèrement rugueuses, libérant un arôme puissant lors de la mastication ou du broyage.",
+    "image_filename": "Cardamone.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 8 %, fibres 28 %, glucides 68 %, lipides 6,7 %, protéines 10 %",
+      "famille_botanique": "Zingiberaceae"
+    }
+  },
+  {
+    "name": "Cumin",
+    "scientific_name": "Cuminum cyminum",
+    "glossary_term": "Cumin",
+    "category": "épice",
+    "description": "Le cumin est une épice issue des graines séchées de la plante Cuminum cyminum, originaire du Proche-Orient et cultivée depuis l’Antiquité. Il se distingue par son arôme chaud, légèrement citronné, et son goût épicé et terreux. Très utilisé dans les cuisines indienne, mexicaine, moyen-orientale et méditerranéenne, il entre dans la composition de nombreux mélanges (curry, ras-el-hanout) et parfume sauces, viandes, soupes et pains.",
+    "seasonality": "Récolte en été (juillet-août) ; disponible toute l’année",
+    "buying_guide": "Privilégiez les graines entières, plus aromatiques et mieux conservées. Vérifiez qu’elles soient bien dorées, exemptes de poussière et d’humidité. La poudre doit être uniforme et sans grumeaux.",
+    "storage_guide": "Conservez-les dans un récipient hermétique, à l’abri de la lumière et de la chaleur. Les graines se conservent jusqu’à 1 an ; la poudre perd rapidement de son intensité.",
+    "prep_guide": "Torréfiez les graines à sec quelques secondes dans une poêle chaude pour libérer les huiles essentielles, puis écrasez-les ou broyez-les au moulin juste avant usage. Incorporez-les en début de cuisson pour développer leur parfum.",
+    "nutrition_info": "Pour 100 g : énergie 375 kcal ; lipides 22,3 g ; glucides 44,2 g (dont sucres 2,3 g) ; protéines 17,8 g ; fibres 10,5 g ; sodium 168 mg.",
+    "texture": "Graines dures et croquantes ; poudre fine et légèrement granuleuse",
+    "image_filename": "Cumin.jpeg",
+    "functional_categories": [
+      "aromatisation",
+      "épice"
+    ],
+    "tags": [
+      "sec",
+      "épicé"
+    ],
+    "specific_data": {
+      "composition": "Eau 8,8 g ; Lipides 22,3 g ; Glucides 44,2 g ; Protéines 17,8 g ; Fibres 10,5 g ; Cendres 2,2 g",
+      "famille_botanique": "Apiaceae"
+    }
+  },
+  {
+    "name": "Curcuma",
+    "scientific_name": "Curcuma longa",
+    "glossary_term": "Curcuma",
+    "category": "épice",
+    "description": "Le curcuma est une plante herbacée vivace de la famille des Zingibéracées, originaire d’Asie du Sud-Est. On utilise principalement son rhizome, frais ou séché, pour sa couleur jaune orangé intense due à la curcumine, et pour ses arômes chauds, légèrement amers et poivrés. Très prisé en cuisine indienne et asiatique, il est également reconnu pour ses propriétés antioxydantes, anti-inflammatoires et digestives.",
+    "seasonality": "Récolte principale de septembre à janvier (disponible toute l’année sous forme séchée ou congelée)",
+    "buying_guide": "Choisir des rhizomes fermes, sans taches ni moisissures, à peau lisse et d’une couleur uniforme jaune-orangé. Privilégier les produits bio pour éviter les résidus pesticides.",
+    "storage_guide": "Conserver au réfrigérateur dans un emballage hermétique, jusqu’à 2 semaines. Pour une conservation longue, peler, couper en tronçons et congeler dans un sachet hermétique.",
+    "prep_guide": "Éplucher le rhizome avec une cuillère ou un petit couteau, puis râper ou émincer finement. Peut être infusé, réduit en purée ou transformé en poudre avant usage.",
+    "nutrition_info": "Pour 100 g de rhizome frais : 354 kcal, 65 g de glucides (dont 3,3 g de sucres), 7,8 g de protéines, 3,2 g de lipides, 21,1 g de fibres, sodium 27 mg, fer 41,4 mg, manganèse 7,8 mg.",
+    "texture": "Surface rugueuse, sec et ferme ; intérieur fibreux, légèrement humide après découpe.",
+    "image_filename": "Curcuma.jpg",
+    "functional_categories": [
+      "aromatisation",
+      "coloration"
+    ],
+    "tags": [
+      "antioxydant",
+      "anti-inflammatoire",
+      "épicé"
+    ],
+    "specific_data": {
+      "composition": "eau 8,9 %, fibres 21,1 %, protéines 7,8 %, glucides 65,3 %, lipides 3,2 %",
+      "famille_botanique": "Zingibéracées"
+    }
+  },
+  {
+    "name": "Curry",
+    "scientific_name": "Mélange d'épices",
+    "glossary_term": "Curry",
+    "category": "épice",
+    "description": "Le curry est un mélange d'épices originaire du sous-continent indien. Il combine traditionnellement curcuma, coriandre, cumin, fenugrec, moutarde, gingembre, poivre et parfois piment, apportant une palette aromatique complexe mêlant notes terreuses, légèrement piquantes et parfumées. Utilisé dans de nombreuses cuisines d'Asie du Sud et adaptées dans le monde entier, le curry relève sauces, ragoûts, marinades et plats de légumes ou de viande.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Privilégiez un curry en poudre à la couleur jaune vif, sans agglomérats, dont l’arôme est frais et intense. Vérifiez la liste d’ingrédients pour un mélange équilibré, sans additifs ni colorants artificiels.",
+    "storage_guide": "Conservez-le dans un récipient hermétique, à l’abri de la lumière et de l’humidité, dans un endroit frais et sec pour préserver les huiles essentielles et la couleur.",
+    "prep_guide": "Pour libérer pleinement ses arômes, faites-le torréfier quelques secondes à sec dans une poêle chaude avant de l’ajouter à votre préparation. Il peut être incorporé en début de cuisson ou délayé dans un peu d’eau, de lait de coco ou de yaourt.",
+    "nutrition_info": "Pour 100 g : énergie 325 kcal, protéines 10 g, lipides 5 g, glucides 60 g (dont sucres 15 g), fibres 15 g, sel 0,2 g.",
+    "texture": "Poudre fine, légèrement granuleuse, sèche au toucher.",
+    "image_filename": "Curry.jpg",
+    "functional_categories": [
+      "aromatisation",
+      "assaisonnement"
+    ],
+    "tags": [
+      "indien",
+      "aromatique"
+    ],
+    "specific_data": {
+      "composition": "Eau 10 %, fibres 15 %, protéines 10 %, lipides 5 %, glucides 60 %",
+      "famille_botanique": "Mélange"
+    }
+  },
+  {
+    "name": "Muscade",
+    "scientific_name": "Myristica fragrans",
+    "glossary_term": "Muscade",
+    "category": "épice",
+    "description": "La muscade est la graine aromatique du fruit du muscadier, un arbre tropical originaire des îles Banda en Indonésie. Elle est utilisée sous forme de poudre ou râpée pour relever et parfumer de nombreuses préparations salées (potages, sauces béchamel, purées) et sucrées (gâteaux, flans, boissons chaudes). Son arôme chaud, légèrement sucré et aux notes de noix fraîche en fait une épice incontournable dans les cuisines européennes, indiennes et moyen-orientales.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Privilégiez les noix entières, lourdes et exemptes de fissures. Vérifiez qu’elles dégagent un parfum puissant et frais. Évitez les graines trop sèches ou présentant des taches de moisissure.",
+    "storage_guide": "Conservez les noix de muscade entières dans un récipient hermétique, à l’abri de la lumière, de l’humidité et de la chaleur. Râpez-les à la demande pour préserver au mieux leur arôme. La poudre perd rapidement en intensité.",
+    "prep_guide": "Utilisez une râpe fine ou un moulin à muscade pour en extraire l’arôme juste avant l’emploi. Ajoutez-la en fin de cuisson pour éviter que la chaleur excessive n’altère ses huiles essentielles.",
+    "nutrition_info": "Pour 100 g : énergie 525 kcal, lipides 36 g (dont acides gras saturés 25 g), glucides 45 g (dont sucres 5 g), fibres 20 g, protéines 6 g, sel 0,03 g.",
+    "texture": "Grain dur, dense et riche en huiles essentielles ; devient poudre fine et légèrement huileuse au râpage.",
+    "image_filename": "Muscade.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "sec",
+      "aromatique"
+    ],
+    "specific_data": {
+      "composition": "Eau 5 %, Lipides 36 %, Glucides 45 %, Fibres 20 %, Protéines 6 %",
+      "famille_botanique": "Myristicaceae"
+    }
+  },
+  {
+    "name": "Paprika",
+    "scientific_name": "Capsicum annuum",
+    "glossary_term": "Capsicum",
+    "category": "épice",
+    "description": "Le paprika est une poudre colorée obtenue par le séchage et le broyage de variétés de poivrons (Capsicum annuum). Utilisé depuis des siècles dans la cuisine d’Europe centrale et d’Asie, il existe sous différentes formes : doux, fort ou fumé. Il apporte non seulement une saveur chaleureuse et légèrement sucrée, mais aussi une teinte rougeâtre caractéristique aux plats. En plus de son rôle aromatique, le paprika est riche en caroténoïdes et contribue à la valeur esthétique et gustative des sauces, ragoûts, marinades et préparations à base de viande.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Choisissez un paprika à la couleur éclatante et au parfum frais. Préférez un conditionnement hermétique, à l’abri de l’humidité et de la lumière. Vérifiez la date de torréfaction et optez pour un lot récent afin de préserver arômes et vitamines.",
+    "storage_guide": "Conservez le paprika dans un récipient opaque et hermétique, à l’abri de la chaleur et de la lumière. À température ambiante dans un placard sec, il reste optimal 6 à 12 mois. Évitez les variations d’humidité pour prévenir l’agglomération et la perte de goût.",
+    "prep_guide": "Pour libérer pleinement ses arômes, incorporez le paprika en début de cuisson dans un corps gras chaud. Pour le paprika fumé, ajoutez-le en fin de cuisson pour préserver ses notes toastées. Évitez une surcuisson prolongée afin de prévenir l’amertume.",
+    "nutrition_info": "Pour 100 g : énergie 282 kcal, protéines 14,1 g, lipides 12,8 g, glucides 34,9 g, fibres 34 g, sodium 68 mg.",
+    "texture": "Poudre fine à légèrement granuleuse, fluide et facilement dispersible dans les liquides et corps gras.",
+    "image_filename": "Paprika.jpg",
+    "functional_categories": [
+      "aromatisation",
+      "coloration",
+      "assaisonnement"
+    ],
+    "tags": [
+      "séché",
+      "coloré"
+    ],
+    "specific_data": {
+      "composition": "Eau 12 %, fibres 34 %, lipides 12,8 %, protéines 14,1 %, glucides 34,9 % (pour 100 g)",
+      "famille_botanique": "Solanacées"
+    }
+  },
+  {
+    "name": "Ail en poudre",
+    "scientific_name": "Allium sativum",
+    "glossary_term": "Ail",
+    "category": "épice",
+    "description": "L’ail en poudre est une forme déshydratée et finement broyée de l’ail frais, utilisée comme condiment pour relever les préparations culinaires. Issu de gousses d’ail soigneusement séchées, il concentre le goût piquant et l’arôme caractéristique de l’ail tout en offrant une longue conservation et une grande facilité d’emploi.",
+    "seasonality": "Disponible toute l’année",
+    "buying_guide": "Choisir une poudre d’un blanc cassé à jaune pâle, sans traces d’humidité ni agglomérats. Vérifier la mention « 100 % ail » sans additifs ni agents antiagglomérants superflus. Préférer des emballages hermétiques, opaques ou en inox pour préserver l’arôme.",
+    "storage_guide": "Conserver dans un récipient étanche à l’air, à l’abri de la lumière, de la chaleur et de l’humidité. Garder dans un placard frais et sec, idéalement à température inférieure à 20 °C.",
+    "prep_guide": "Utiliser directement en assaisonnement, saupoudré en fin de cuisson ou réhydraté dans un peu d’eau tiède avant incorporation. Dosage moyen : 1 cuillère à café de poudre équivaut à 1 gousse d’ail.",
+    "nutrition_info": "Pour 100 g : énergie 330 kcal, lipides 1 g, glucides 72 g (dont sucres 12 g), protéines 16 g, fibres 9 g, sel 0 g.",
+    "texture": "Poudre fine, sèche et légèrement granuleuse, se dissout progressivement en libérant un parfum piquant et chaleureux.",
+    "image_filename": "ail poudre.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "séché",
+      "assaisonnement",
+      "aromatique"
+    ],
+    "specific_data": {
+      "composition": "Eau 6 g, glucides 72 g, fibres 9 g, protéines 16 g, lipides 1 g, cendres minérales 1 g",
+      "famille_botanique": "Amaryllidaceae"
+    }
+  },
+  {
+    "name": "Oignon en poudre",
+    "scientific_name": "Allium cepa",
+    "glossary_term": "Oignon",
+    "category": "legume",
+    "description": "L’oignon en poudre est un condiment obtenu par déshydratation et broyage fin d’oignons frais. Il concentre la saveur piquante et sucrée de l’oignon, tout en offrant une grande praticité d’usage. Employé pour aromatiser sauces, soupes, mélanges d’épices et marinades, il se dissout rapidement et uniformément dans les préparations culinaires. Sa couleur varie du jaune pâle au beige selon la variété et le procédé de séchage.",
+    "seasonality": "Disponible toute l’année",
+    "buying_guide": "Choisissez une poudre de couleur uniforme, sans grumeaux ni traces sombres. Préférez un produit 100 % oignon, sans additifs ni exhausteurs de goût. Vérifiez la date de conditionnement pour garantir fraîcheur et arôme intense.",
+    "storage_guide": "Conservez dans un récipient hermétique, à l’abri de la lumière, de la chaleur et de l’humidité. À température ambiante (15–20 °C), le produit se conserve 12 à 18 mois.",
+    "prep_guide": "Incorporez directement à chaud ou à froid. Pour relever une recette, comptez environ 1 cuillère à café (2 g) d’oignon en poudre pour remplacer un petit oignon frais. Mélangez bien pour éviter les grumeaux.",
+    "nutrition_info": "Pour 100 g : énergie 345 kcal, protéines 10 g, lipides 1 g, glucides 75 g (dont sucres 45 g), fibres 10 g, sodium 50 mg.",
+    "texture": "Poudre fine et légère, texture sèche et légèrement granuleuse au toucher.",
+    "image_filename": "oignon poudre.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "sec",
+      "aromatique",
+      "épicerie"
+    ],
+    "specific_data": {
+      "composition": "Moisture ~4 %, glucides 75 %, protéines 10 %, fibres 10 %, lipides 1 %",
+      "famille_botanique": "Alliacées"
+    }
+  },
+  {
+    "name": "Poudre de chili",
+    "scientific_name": "Capsicum annuum",
+    "glossary_term": "Chili",
+    "category": "épice",
+    "description": "La poudre de chili est un mélange d’épices obtenu à partir de piments rouges séchés et moulus, parfois associé à du cumin, de l’ail et du paprika. Originaire d’Amérique latine, elle apporte à la fois couleur, chaleur et complexité aromatique aux plats. Très prisée dans la cuisine tex-mex, indienne ou asiatique, elle sert à relever viandes, soupes, sauces et mari­nades.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Choisir une poudre à la couleur vive et uniforme, sans grumeaux ni traces d’humidité. Préférer une origine certifiée (Mexique, Inde ou États-Unis) et un conditionnement hermétique pour préserver fraîcheur et arômes.",
+    "storage_guide": "Conserver dans un récipient opaque, hermétique, à l’abri de la lumière, de la chaleur et de l’humidité. À température ambiante (idéalement 15–20 °C), elle reste optimale jusqu’à 12 mois.",
+    "prep_guide": "Incorporer en fin de cuisson pour préserver son parfum et moduler l’intensité pimentée. Dosage en fonction du degré de piquant désiré : généralement 1 à 2 cuillères à café pour 4 portions. Mélanger à sec pour assaisonnements ou suspendre dans les liquides (sauces, bouillons).",
+    "nutrition_info": "Pour 100 g : énergie 382 kcal, lipides 14 g, glucides 50 g (dont sucres 7 g), protéines 17 g, fibres 25 g, sel 0,1 g.",
+    "texture": "Poudre fine à légèrement granuleuse, sèche et soyeuse en bouche, libérant rapidement ses arômes et sa chaleur.",
+    "image_filename": "Chili poudre.jpg",
+    "functional_categories": [
+      "aromatisation",
+      "assaisonnement"
+    ],
+    "tags": [
+      "épicé",
+      "sec"
+    ],
+    "specific_data": {
+      "composition": "Eau 10 %, Fibres 25 %, Protéines 17 %, Lipides 14 %, Glucides 34 %, Cendres 0,5 %",
+      "famille_botanique": "Solanacées"
+    }
+  },
+  {
+    "name": "Ras el hanout",
+    "scientific_name": "Mélange d'épices",
+    "glossary_term": "Ras el hanout",
+    "category": "épice",
+    "description": "Le Ras el hanout est un mélange traditionnel d'épices originaire d'Afrique du Nord, principalement du Maroc. Son nom signifie littéralement « tête de l’épicerie », faisant référence à la sélection des meilleures épices disponibles. Les compositions varient selon les régions et les épiciers, mais on y retrouve généralement du cumin, de la coriandre, du curcuma, du gingembre, du piment, de la cannelle, du clou de girofle et parfois des fleurs séchées ou des baies. Il relève avec finesse les tajines, couscous, grillades et marinades.",
+    "seasonality": "Disponible toute l'année",
+    "buying_guide": "Privilégiez un mélange fraîchement moulu, à l'arôme puissant et aux couleurs vives. Vérifiez la liste des ingrédients : un bon Ras el hanout doit contenir une dizaine d’épices ou plus, sans additifs ni colorants artificiels. Achetez-le en petite quantité pour préserver sa saveur.",
+    "storage_guide": "Conservez-le à l'abri de la lumière, de l'air et de l'humidité, dans un contenant hermétique en verre ou en métal, dans un placard frais et sec. Il gardera tout son parfum pendant 6 à 12 mois.",
+    "prep_guide": "Utilisez-le en fin de cuisson pour préserver les arômes. Comptez 1 à 2 cuillères à café par personne selon l’intensité désirée. Il se marie parfaitement avec les viandes blanches, les légumes rôtis, les légumineuses et même certains poissons.",
+    "nutrition_info": "Pour 100 g : énergie 325 kcal (1360 kJ), protéines 10 g, lipides 14 g, glucides 36 g dont sucres 5 g, fibres 34 g, sodium 500 mg.",
+    "texture": "Poudre fine, parfois légèrement granuleuse selon la taille des particules d’épices. Senteur riche et complexe.",
+    "image_filename": "Ras el hanout.jpg",
+    "functional_categories": [
+      "aromatisation",
+      "assaisonnement"
+    ],
+    "tags": [
+      "Maghreb",
+      "épice",
+      "condiment",
+      "mélange"
+    ],
+    "specific_data": {
+      "composition": "Cumin, coriandre, curcuma, gingembre, piment, cannelle, clou de girofle, cardamome, muscade, poivre noir",
+      "famille_botanique": "Mélange d'espèces diverses"
+    }
+  },
+  {
+    "name": "Poivre blanc",
+    "scientific_name": "Piper nigrum",
+    "glossary_term": "Poivre",
+    "category": "épice",
+    "description": "Le poivre blanc est obtenu en égrainant et en débarrassant les baies mûres de Piper nigrum de leur enveloppe externe. Originaire du sud de l’Inde, il est produit notamment en Indonésie, au Viêt-Nam et en Malaisie. Comparé au poivre noir, moins âcre et plus raffiné, il libère un parfum plus subtil et légèrement terreux. Il est très apprécié pour son pouvoir aromatique dans les sauces blanches, les purées et les potages, ainsi que pour relever délicatement poissons, fruits de mer et légumes épicés.",
+    "seasonality": "Disponible toute l'année",
+    "buying_guide": "Choisissez des grains entiers, fermes, de couleur crème à gris clair, sans traces de moisissure ni humidité. Vérifiez la provenance et privilégiez une mouture fraîche ou un moulin rechargeable pour préserver les arômes.",
+    "storage_guide": "Conservez dans un contenant hermétique, à l’abri de la lumière, de la chaleur et de l’humidité. Idéalement au fond d’un placard ou d’un garde-manger sec, à température ambiante.",
+    "prep_guide": "Avant usage, broyez les grains à l’aide d’un moulin ou d’un mortier pour libérer les huiles essentielles. Ajoutez-le de préférence en fin de cuisson pour préserver toute sa subtilité aromatique.",
+    "nutrition_info": "Pour 100 g : énergie 255 kcal, eau 11 g, protéines 10 g, lipides 3 g, glucides 58 g, fibres 26 g, sodium 20 mg.",
+    "texture": "Grains ronds, fermes et légèrement rugueux. Après broyage, arôme sec, chaud et légèrement piquant.",
+    "image_filename": "poivre blanc.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "épice",
+      "aromatique"
+    ],
+    "specific_data": {
+      "composition": "Eau 11%, fibres alimentaires 26%, glucides 58%, lipides 3%, protéines 10%, cendres 8%",
+      "famille_botanique": "Piperaceae"
+    }
+  },
+  {
+    "name": "Poivre noir",
+    "scientific_name": "Piper nigrum",
+    "glossary_term": "Poivre",
+    "category": "épice",
+    "description": "Le poivre noir est le fruit séché du Piper nigrum, une liane tropicale originaire de la côte malabar en Inde. Réputé comme « roi des épices », il est utilisé depuis l’Antiquité pour ses propriétés aromatiques et sa capacité à relever plats salés et sucrés. Son piquant caractéristique provient de la pipérine, tandis que ses arômes varient selon l’origine et le mode de torréfaction. Ingrédient central de nombreuses cuisines du monde, il s’invite aussi bien dans les sauces que dans les marinades, les soupes ou les desserts.",
+    "seasonality": "Disponible toute l'année",
+    "buying_guide": "Privilégiez les grains entiers, fermes et non huileux, conditionnés en vrac ou en sachet hermétique. Vérifiez l’origine (Malabar, Lampong, Tellicherry…) pour varier les notes aromatiques. Évitez les grains cassés ou ternes, signes d’une perte de fraîcheur.",
+    "storage_guide": "Conservez les grains dans un récipient opaque et hermétique, à l’abri de la chaleur et de l’humidité. Évitez la lumière directe pour préserver les huiles essentielles. À température ambiante, un bouchon bien fermé suffit pour maintenir la saveur plusieurs mois.",
+    "prep_guide": "Broyez les grains juste avant usage à l’aide d’un moulin ou d’un mortier pour libérer les arômes. Vous pouvez également toaster rapidement les grains à sec dans une poêle pour accentuer leur parfum, puis moudre finement ou concasser grossièrement selon l’usage.",
+    "nutrition_info": "Pour 100 g : énergie 251 kcal (1 049 kJ), protéines 10,4 g, lipides 3,3 g, glucides 64,6 g, fibres alimentaires 26,5 g, sodium 21 mg.",
+    "texture": "Grains durs et craquants sous la dent, transformés en poudre ils offrent une sensation légèrement âpre et granuleuse.",
+    "image_filename": "poivre noir.jpeg",
+    "functional_categories": [
+      "assaisonnement",
+      "aromatisation"
+    ],
+    "tags": [
+      "aromatique",
+      "épicé"
+    ],
+    "specific_data": {
+      "composition": "eau 10,5 %, protéines 10,4 %, lipides 3,3 %, glucides 64,6 % dont fibres 26,5 %",
+      "famille_botanique": "Piperaceae"
+    }
+  },
+  {
+    "name": "Carvi",
+    "scientific_name": "Carum carvi",
+    "glossary_term": "Carvi",
+    "category": "épice",
+    "description": "Le carvi est la graine aromatique de la plante vivace Carum carvi, appartenant à la famille des Apiacées. Utilisé depuis l’Antiquité, il se distingue par son arôme chaud, légèrement anisé et poivré. Ses graines, récoltées à maturité en fin d’été, sont couramment employées pour relever pains, plats mijotés, fromages et marinades.",
+    "seasonality": "Récolte : août – octobre. Disponibilité : toute l’année (graine séchée).",
+    "buying_guide": "Choisir des graines homogènes, brunes à brun clair, dénuées de poussière. L’arôme doit être frais, intense et légèrement mentholé. Préférer les semences issues de culture contrôlée ou bio pour garantir qualité et traçabilité.",
+    "storage_guide": "Conserver dans un récipient hermétique à l’abri de la lumière, de l’humidité et de la chaleur. À température ambiante, les arômes restent stables jusqu’à 12 mois.",
+    "prep_guide": "Toaster légèrement les graines à sec dans une poêle pour libérer les huiles essentielles. Les moudre au dernier moment selon les besoins. Incorporer entières ou broyées en début ou en fin de cuisson pour nuancer l’arôme.",
+    "nutrition_info": "Pour 100 g : énergie 333 kcal, lipides 14 g, glucides 49 g (dont sucres 2 g), fibres 38 g, protéines 19 g, sodium 50 mg. Riche en fer, calcium et composés phénoliques.",
+    "texture": "Graines dures et croquantes, devenant plus friables une fois broyées.",
+    "image_filename": "carvi.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 13 %, fibres 38 %, lipides 14 %, glucides 49 %, protéines 19 %",
+      "famille_botanique": "Apiacées"
+    }
+  },
+  {
+    "name": "Girofle",
+    "scientific_name": "Syzygium aromaticum",
+    "glossary_term": "Girofle",
+    "category": "épice",
+    "description": "Le girofle est le bouton floral séché d’un arbre tropical originaire des îles Moluques (Indonésie). Utilisé depuis l’Antiquité en Asie et en Europe pour ses qualités aromatiques et antiseptiques, il délivre un parfum chaud, âcre et légèrement citronné grâce à sa teneur élevée en eugénol. On le trouve dans de nombreuses préparations salées et sucrées, des marinades aux pâtisseries, ainsi que dans les mélanges d’épices classiques (pain d’épices, curry, cinq-épices chinois).",
+    "seasonality": "Récolte de juillet à août, disponible toute l’année",
+    "buying_guide": "Choisir des clous de girofle entiers, de couleur brun rougeâtre, fermes, non friables et sans traces de moisissure. Les calices doivent être intacts, sans tige trop longue ni excès de poussière.",
+    "storage_guide": "Conserver dans un récipient hermétique, à l’abri de la lumière, de l’humidité et de la chaleur pour préserver les huiles essentielles. À température ambiante, bien refermé, jusqu’à 12 mois.",
+    "prep_guide": "Utiliser entiers pour parfumer sauces, bouillons et marinades (à retirer avant service) ou moudre juste avant emploi pour libérer les arômes. On peut les torréfier à sec quelques instants pour renforcer la puissance aromatique.",
+    "nutrition_info": "Pour 100 g : énergie 337 kcal, protéines 6 g, lipides 18 g, glucides 65 g, fibres alimentaires 35 g, sodium 277 mg, calcium 631 mg, fer 11,6 mg.",
+    "texture": "Très dur et ligneux à l’état sec, il se brise sous pression et libère un noyau plus tendre. En cuisson, il s’assouplit tout en gardant une légère mâche fibreuse.",
+    "image_filename": "Girofle.jpeg",
+    "functional_categories": [
+      "aromatisation",
+      "conservation"
+    ],
+    "tags": [
+      "aromatique",
+      "antiseptique"
+    ],
+    "specific_data": {
+      "composition": "Liquide (eau) 10 %, lipides 17 %, protéines 6 %, glucides 65 % dont fibres 35 %",
+      "famille_botanique": "Myrtaceae"
+    }
+  },
+  {
+    "name": "Safran",
+    "scientific_name": "Crocus sativus",
+    "glossary_term": "Safran",
+    "category": "épice",
+    "description": "Le safran est une épice issue du stigmate séché de Crocus sativus, une plante bulbeuse de la famille des Iridacées. Réputé depuis l’Antiquité pour sa couleur jaune-or intense, son goût légèrement amer et sa fragrance florale, il est utilisé en très petite quantité pour aromatiser et colorer de nombreux plats, boissons et préparations sucrées. Sa production est particulièrement exigeante : chaque fleur ne produit que trois stigmates, nécessitant des récoltes manuelles massives pour obtenir une quantité utilisable. Majoritairement cultivé en Iran, en Espagne et au Maroc, le safran est un symbole de raffinement et de terroir.",
+    "seasonality": "Floraison et récolte : octobre-novembre (disponible toute l’année sous forme séchée)",
+    "buying_guide": "Choisissez des filaments entiers, d’un rouge profond à extrémité jaune-orange, sans poussière excessive. Vérifiez l’origine et la présence d’un label (IGP, BIO) pour garantir l’authenticité et la qualité.",
+    "storage_guide": "Conservez les filaments dans un récipient hermétique, à l’abri de la lumière, de l’humidité et de la chaleur, de préférence dans un placard ou un tiroir frais.",
+    "prep_guide": "Infusez les filaments broyés ou entiers dans un peu d’eau chaude, de bouillon ou de lait pendant au moins 10 minutes avant de les incorporer aux préparations pour libérer pleinement la couleur et l’arôme.",
+    "nutrition_info": "Pour 100 g : Énergie 310 kcal, Protéines 11 g, Lipides 5 g, Glucides 65 g, Fibres 3,9 g, Sodium 111 mg. Riche en crocine, crocétine et safranal (antioxydants).",
+    "texture": "Fils fins et cassants à sec, libérant une texture soyeuse et enveloppante après infusion.",
+    "image_filename": "safran.jpg",
+    "functional_categories": [
+      "aromatisation",
+      "colorant"
+    ],
+    "tags": [
+      "précieux",
+      "méditerranéen",
+      "aromatique"
+    ],
+    "specific_data": {
+      "composition": "Eau 12 %, Glucides 65 %, Protéines 11 %, Lipides 5 %, Fibres 3,9 %",
+      "famille_botanique": "Iridacées"
+    }
+  },
+  {
+    "name": "Origan",
+    "scientific_name": "Origanum vulgare",
+    "glossary_term": "Origan",
+    "category": "aromate",
+    "description": "L’origan est une plante aromatique vivace de la famille des Lamiacées, originaire des régions tempérées d’Europe et d’Asie occidentale. Ses feuilles persistantes et ses fleurs dégagent un parfum chaud, piquant et légèrement amer. Très présent dans la cuisine méditerranéenne, il assaisonne sauces, marinades, viandes, poissons et légumes, frais ou séché.",
+    "seasonality": "Récolte de mai à septembre (utilisation fraîche en été, séchage et usage toute l’année)",
+    "buying_guide": "Privilégiez des feuilles d’un vert vif, non flétries et sans taches. Si vous l’achetez en bouquet frais, vérifiez la fermeté des tiges. En version sèche, la couleur doit rester intense et l’arôme puissant.",
+    "storage_guide": "Frais : enveloppez-les dans un linge humide et conservez 2–3 jours au réfrigérateur. Séché : placez dans un bocal hermétique, à l’abri de la lumière et de l’humidité, pour plusieurs mois.",
+    "prep_guide": "Détachez les feuilles des tiges, puis ciselez ou écrasez-les pour libérer les huiles essentielles. Ajoutez en début de cuisson pour le potage et en fin de cuisson pour les sauces et marinades afin de préserver l’arôme.",
+    "nutrition_info": "Pour 100 g (séchées) : énergie 306 kcal, eau 10,1 g, glucides 69,3 g, protéines 9,0 g, lipides 4,3 g, fibres 42,5 g, calcium 1597 mg, fer 36 mg, magnésium 270 mg.",
+    "texture": "Feuilles sèches légèrement crêmées et friables, à l’aspect velu, redevenant souples et parfumées à la réhydratation.",
+    "image_filename": "Origan.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau : 10,1 g, Fibres : 42,5 g, Glucides : 69,3 g, Protéines : 9,0 g, Lipides : 4,3 g, Minéraux (Ca : 1597 mg, Fe : 36 mg, Mg : 270 mg)",
+      "famille_botanique": "Lamiaceae"
+    }
+  },
+  {
+    "name": "Gingembre",
+    "scientific_name": "Zingiber officinale",
+    "glossary_term": "Gingembre",
+    "category": "épice",
+    "description": "Le gingembre est le rhizome aromatique de la plante tropicale Zingiber officinale, originaire d'Asie du Sud-Est. Réputé pour sa saveur piquante et fraîche, il est utilisé en cuisine comme épice et en phytothérapie pour ses propriétés digestives et anti-inflammatoires.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Choisissez un rhizome ferme, sans taches ni moisissures. La peau doit être lisse et tendue, la chair ferme et juteuse. Plus l’odeur est prononcée, plus la fraîcheur du gingembre est garantie.",
+    "storage_guide": "Conservez-le non pelé dans le bac à légumes du réfrigérateur, enveloppé dans un papier absorbant pour limiter l’humidité, jusqu’à 3 semaines. Pour une conservation plus longue, pelez, portionnez et congelez-le dans un sachet hermétique.",
+    "prep_guide": "Pelez-le délicatement à l’aide d’une petite cuillère pour préserver la chair. Râpez-le, émincez-le ou taillez-le en julienne selon l’utilisation. Vous pouvez également infuser des rondelles dans de l’eau chaude ou du lait.",
+    "nutrition_info": "Pour 100 g : 80 kcal, glucides 17,8 g, dont sucres 1,7 g ; fibres 2,0 g ; protéines 1,8 g ; lipides 0,8 g ; eau 78,9 g.",
+    "texture": "Ferme et croquante, juteuse à la découpe, légèrement filandreuse.",
+    "image_filename": "Gingembre.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "épice",
+      "exotique"
+    ],
+    "specific_data": {
+      "composition": "Eau : 78,9 %; Glucides : 17,8 %; Fibres alimentaires : 2,0 %; Protéines : 1,8 %; Lipides : 0,8 %",
+      "famille_botanique": "Zingibéracées"
+    }
+  },
+  {
+    "name": "Graines de fenouil",
+    "scientific_name": "Foeniculum vulgare",
+    "glossary_term": "Fenouil",
+    "category": "épice",
+    "description": "Les graines de fenouil sont les fruits séchés de la plante Foeniculum vulgare, appartenant à la famille des Apiacées. De forme ovale et légèrement courbée, elles dégagent un arôme anisé et sucré, offrant une saveur douce et rafraîchissante. Utilisées depuis l’Antiquité en cuisine et en phytothérapie, elles apportent une touche parfumée aux préparations salées et sucrées et possèdent des vertus carminatives et digestives.",
+    "seasonality": "Récolte d’août à octobre, disponibles toute l’année séchées",
+    "buying_guide": "Choisir des graines d’un vert brunâtre homogène, sans poussière ni impuretés. Privilégier les lots conditionnés en sachets refermables ou en bocaux opaques pour préserver l’arôme.",
+    "storage_guide": "Conserver dans un récipient hermétique, à l’abri de la lumière et de l’humidité, dans un endroit frais. Bien refermer après chaque utilisation pour éviter l’oxydation.",
+    "prep_guide": "Torréfier légèrement à sec dans une poêle pour libérer les arômes, puis écraser ou moudre selon le besoin. Infuser dans les liquides chauds, incorporer entières en cuisson lente ou en marinade.",
+    "nutrition_info": "Pour 100 g : énergie 345 kcal, lipides 15,9 g, glucides 52,3 g, protéines 15,8 g, fibres 39,8 g, sel 0,03 g. Riche en minéraux (calcium, fer, magnésium) et en antioxydants.",
+    "texture": "Graines dures et croquantes, huileuses au toucher, goût croquant et légèrement huileux en bouche.",
+    "image_filename": "Graines de fenouil.jpg",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "aromatique",
+      "épice",
+      "méditerranéen"
+    ],
+    "specific_data": {
+      "composition": "Eau 9 %, protéines 15,8 g, lipides 15,9 g, glucides 52,3 g, fibres 39,8 g, minéraux 17,2 g (pour 100 g)",
+      "famille_botanique": "Apiaceae"
+    }
+  }
+]

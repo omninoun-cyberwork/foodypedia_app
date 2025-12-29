@@ -100,6 +100,9 @@ class Recette(models.Model):
         verbose_name="Techniques clés"
     )
     
+    instructions = models.TextField(blank=True, verbose_name="Instructions de préparation")
+    notes_chef = models.TextField(blank=True, verbose_name="Notes du Chef / Astuces")
+    
     date_creation = models.DateTimeField(auto_now_add=True)
     
     def __str__(self):
