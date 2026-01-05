@@ -13,6 +13,8 @@ class IngredientCategory(models.Model):
     name = models.CharField(max_length=100, unique=True, verbose_name="Nom")
     slug = models.SlugField(unique=True, verbose_name="Slug")
     icon = models.CharField(max_length=50, blank=True, verbose_name="Icône (classe CSS/SVG)")
+    description = models.TextField(blank=True, verbose_name="Description / Introduction")
+    image = models.ImageField(upload_to="categories/", blank=True, null=True, verbose_name="Photo de couverture")
 
     class Meta:
         verbose_name = "Catégorie Principale"

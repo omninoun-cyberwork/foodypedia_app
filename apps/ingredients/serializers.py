@@ -13,7 +13,7 @@ from apps.atlas.serializers import PaysSerializer, GlossaireSerializer
 class IngredientCategorySerializer(serializers.ModelSerializer):
     class Meta:
         model = IngredientCategory
-        fields = ['id', 'name', 'slug', 'icon']
+        fields = ['id', 'name', 'slug', 'icon', 'description', 'image']
 
 class FunctionalCategorySerializer(serializers.ModelSerializer):
     class Meta:

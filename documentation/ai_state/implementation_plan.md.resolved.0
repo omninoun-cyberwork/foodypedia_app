@@ -1,0 +1,16 @@
+# Fix: Frontend Start Issue
+
+The command `npm run dev` failed because it was executed in the project root directory, but the frontend code (including [package.json](file:///C:/Foodypedia/frontend/package.json)) is located in the `frontend/` subdirectory.
+
+## Proposed Changes
+
+No code changes are required. The fix involves navigating to the correct directory before running the command.
+
+### Manual Steps
+1. Navigate to the `frontend` directory: `cd frontend`
+2. Run the development server: `npm run dev`
+
+## Verification Plan
+
+### Manual Verification
+- I will run `npm run dev` from within the `C:\Foodypedia\frontend` directory and verify that the Next.js development server starts successfully.

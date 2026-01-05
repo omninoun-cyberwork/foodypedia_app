@@ -1,0 +1,11 @@
+# Tasks
+
+- [ ] Diagnose Environment [/]
+    - [ ] List directory contents [x]
+    - [ ] Check for virtual environment [ ]
+    - [ ] Check installed packages [ ]
+- [ ] Fix Installation [ ]
+    - [ ] Activate virtual environment (if exists) [ ]
+    - [ ] Install Django/dependencies [ ]
+- [ ] Verify Fix [ ]
+    - [ ] Run `python manage.py runserver` [ ]

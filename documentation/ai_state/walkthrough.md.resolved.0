@@ -1,0 +1,31 @@
+# Fix: Django ModuleNotFoundError
+
+The error `ModuleNotFoundError: No module named 'django'` occurred because the required dependencies are installed in a virtual environment named `fenv`, which was not activated.
+
+## Steps Taken
+
+1.  **Diagnosed Environment**: I checked the project directory and found a virtual environment folder named `fenv`.
+2.  **Verified Installation**: I verified that Django and other dependencies are correctly installed within the `fenv` environment.
+3.  **Verified Server Run**: I confirmed that running [manage.py](file:///C:/Foodypedia/manage.py) using the Python executable from the `fenv` environment works without errors.
+
+## Solution
+
+To run the server, you need to activate the virtual environment first.
+
+### For PowerShell (current shell):
+```powershell
+.\fenv\Scripts\Activate.ps1
+python manage.py runserver
+```
+
+### For Command Prompt (CMD):
+```cmd
+.\fenv\Scripts\activate.bat
+python manage.py runserver
+```
+
+### Alternative (without activation):
+You can also run the command directly using the virtual environment's Python:
+```powershell
+.\fenv\Scripts\python manage.py runserver
+```
