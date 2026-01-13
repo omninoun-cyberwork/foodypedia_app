@@ -124,3 +124,20 @@ class FicheTechniqueViewSet(viewsets.ModelViewSet):
         
         serializer = self.get_serializer(fiche)
         return Response(serializer.data)
+
+from .models import Technique
+from .serializers import TechniqueSerializer
+from django_filters.rest_framework import DjangoFilterBackend
+
+class TechniqueViewSet(viewsets.ReadOnlyModelViewSet):
+    """
+    API endpoint for Culinary Dictionary.
+    Ordering: Alphabetical by name.
+    """
+    queryset = Technique.objects.all().order_by('nom')
+    serializer_class = TechniqueSerializer
+    permission_classes = [permissions.AllowAny] # Public access
+    pagination_class = None # Show all items in one list
+    filter_backends = [filters.SearchFilter, DjangoFilterBackend]
+    search_fields = ['nom', 'definition']
+    filterset_fields = ['domaine']

@@ -104,3 +104,31 @@ Intégration d'un assistant culinaire intelligent :
     - Transmet la demande au Webhook n8n (URL stockée en variable d'environnement).
     - Renvoie la réponse JSON structurée au client.
 - **Workflow n8n** : Modèle fourni (`n8n_ai_chef_workflow.json`) pour traiter la demande via OpenAI et renvoyer un JSON standardisé.
+
+## 10. Phase 6 : Validation Nouveau PC (Février 2026)
+
+Suit à la migration vers un nouvel environnement de développement, une vérification complète a été effectuée.
+
+### Landing Page
+Le site est fonctionnel et la nouvelle charte graphique "Olive & Figue" est correctement chargée.
+
+![Landing Page Verification](/C:/Users/Omninoun/.gemini/antigravity/brain/c1ac0e2b-b790-4102-9d4f-377ad6144106/home_page_1768241827165.png)
+
+### Wiki Ingrédients
+La grille de catégories s'affiche correctement, confirmant que le lien avec l'API Django (port 8000) fonctionne pour la récupération des données statiques ou la structure.
+
+![Ingredients Wiki](/C:/Users/Omninoun/.gemini/antigravity/brain/c1ac0e2b-b790-4102-9d4f-377ad6144106/ingredients_wiki_1768241850621.png)
+
+### AI Chef (Le Cerveau)
+L'interface sombre "Premium" est opérationnelle.
+
+![AI Chef UI](/C:/Users/Omninoun/.gemini/antigravity/brain/c1ac0e2b-b790-4102-9d4f-377ad6144106/ai_chef_page_1768241873033.png)
+
+## 11. Phase 7 : Dictionnaire Culinaire (Techniques)
+
+Implémentation de l'encyclopédie technique contenant 300 termes (importés depuis `Termes Culinaires.json`).
+- **Layout** : Liste alphabétique sur plusieurs colonnes (CSS Columns).
+- **Interaction** : Accordéon (clic pour déplier).
+- **Contenu** : Définition, Objectifs, Erreurs fréquentes et emplacement pour la photo.
+
+![Dictionnaire - Terme 'Abaisser' déployé](/C:/Users/Omninoun/.gemini/antigravity/brain/c1ac0e2b-b790-4102-9d4f-377ad6144106/abaisser_expanded_card_1768249704626.png)

@@ -119,3 +119,49 @@ class FicheTechnique(models.Model):
         if coeff > 0:
             return self.cout_matiere_ht / coeff
         return 0
+
+# -----------------------------------------------------
+# 3. DICTIONNAIRE TECHNIQUE (Encyclopédie)
+# -----------------------------------------------------
+
+class Technique(models.Model):
+    """
+    Définit un terme ou une technique culinaire (ex: 'Blanchir', 'Abaisser').
+    Source: Dictionnaire JSON importé.
+    """
+    DOMAINE_CHOICES = [
+        ('Cuisine', 'Cuisine'),
+        ('Pâtisserie', 'Pâtisserie'),
+        ('Boulangerie', 'Boulangerie'),
+        ('Autre', 'Autre'),
+    ]
+
+    nom = models.CharField(max_length=200, unique=True, verbose_name="Terme / Technique")
+    slug = models.SlugField(max_length=200, unique=True, blank=True)
+    domaine = models.CharField(max_length=50, choices=DOMAINE_CHOICES, default='Cuisine')
+    
+    definition = models.TextField(verbose_name="Définition")
+    
+    # Champs riches (Listes stockées en JSON)
+    objectif = models.JSONField(default=list, blank=True, verbose_name="Objectifs")
+    principe = models.TextField(blank=True, verbose_name="Principe scientifique/technique")
+    exemples = models.JSONField(default=dict, blank=True, verbose_name="Exemples d'application")
+    erreurs_frequentes = models.JSONField(default=list, blank=True, verbose_name="Erreurs fréquentes")
+    niveau = models.JSONField(default=list, blank=True, verbose_name="Niveaux (CAP, Bac Pro...)")
+    
+    # Média
+    image = models.ImageField(upload_to="techniques/", null=True, blank=True, verbose_name="Illustration")
+
+    class Meta:
+        verbose_name = "Technique Culinaire"
+        verbose_name_plural = "Dictionnaire Technique"
+        ordering = ['nom']
+
+    def __str__(self):
+        return self.nom
+
+    def save(self, *args, **kwargs):
+        if not self.slug:
+            from django.utils.text import slugify
+            self.slug = slugify(self.nom)
+        super().save(*args, **kwargs)

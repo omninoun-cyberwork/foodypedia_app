@@ -1,0 +1,6432 @@
+{
+  "meta": {
+    "projet": "Foodypedia",
+    "description": "Base de données fusionnée et triée A-Z",
+    "total_termes": 300
+  },
+  "techniques": [
+    {
+      "nom": "Abaisser",
+      "slug": "abaisser",
+      "domaine": "Pâtisserie",
+      "definition": "Étaler une pâte à l’aide d’un rouleau ou d’un laminoir pour lui donner l’épaisseur voulue.",
+      "objectif": [
+        "Épaisseur régulière"
+      ],
+      "principe": "Écrasement mécanique contrôlé.",
+      "exemples": {
+        "patisserie": [
+          "Abaisser une pâte feuilletée"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Épaisseur irrégulière"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Abattre",
+      "slug": "abattre",
+      "domaine": "Boulangerie",
+      "definition": "Chasser le gaz carbonique d'une pâte après la première pousse.",
+      "objectif": [
+        "Renouveler l'oxygène"
+      ],
+      "principe": "Compression manuelle légère.",
+      "exemples": {
+        "boulangerie": [
+          "Rompre la pâte"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Geste trop brutal"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Abricoter",
+      "slug": "abricoter",
+      "domaine": "Pâtisserie",
+      "definition": "Étaler une fine couche de nappage sur un entremets.",
+      "objectif": [
+        "Brillance",
+        "Protection"
+      ],
+      "principe": "Lustrage au pinceau.",
+      "exemples": {
+        "patisserie": [
+          "Abricoter une tarte"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Nappage trop épais"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Appareil",
+      "slug": "appareil",
+      "domaine": "Cuisine",
+      "definition": "Mélange de différents ingrédients servant à la préparation d'un plat.",
+      "objectif": [
+        "Base de préparation"
+      ],
+      "principe": "Homogénéisation.",
+      "exemples": {
+        "cuisine": [
+          "Appareil à quiche"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Grumeaux"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Apprêter",
+      "slug": "appreter",
+      "domaine": "Boulangerie",
+      "definition": "Dernière période de fermentation des pâtons avant l'enfournement.",
+      "objectif": [
+        "Volume final"
+      ],
+      "principe": "Fermentation panaire.",
+      "exemples": {
+        "boulangerie": [
+          "Apprêt des baguettes"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Apprêt trop court"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Arroser",
+      "slug": "arroser",
+      "domaine": "Cuisine",
+      "definition": "Verser le jus de cuisson sur un aliment pendant sa cuisson.",
+      "objectif": [
+        "Hydratation"
+      ],
+      "principe": "Hydratation de surface.",
+      "exemples": {
+        "cuisine": [
+          "Arroser un rôti"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Fréquence insuffisante"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Assembler",
+      "slug": "assembler-entremets",
+      "domaine": "Pâtisserie",
+      "definition": "Monter un dessert en réunissant ses composants.",
+      "objectif": [
+        "Structure finale"
+      ],
+      "principe": "Superposition.",
+      "exemples": {
+        "patisserie": [
+          "Montage en cercle"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Bulles d'air"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Assaisonner",
+      "slug": "assaisonner",
+      "domaine": "Cuisine",
+      "definition": "Ajouter du sel, du poivre pour relever le goût.",
+      "objectif": [
+        "Exhausser les saveurs"
+      ],
+      "principe": "Équilibre gustatif.",
+      "exemples": {
+        "cuisine": [
+          "Assaisonner une sauce"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Excès de sel"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Autolyse",
+      "slug": "autolyse",
+      "domaine": "Boulangerie",
+      "definition": "Repos d'un mélange farine/eau sans levure ni sel.",
+      "objectif": [
+        "Extensibilité"
+      ],
+      "principe": "Action enzymatique.",
+      "exemples": {
+        "boulangerie": [
+          "Autolyse baguette tradition"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Ajout prématuré de sel"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Baigner",
+      "slug": "baigner",
+      "domaine": "Cuisine",
+      "definition": "Immerger totalement dans un corps gras chaud.",
+      "objectif": [
+        "Croustillant"
+      ],
+      "principe": "Conduction par immersion.",
+      "exemples": {
+        "cuisine": [
+          "Fritures"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Huile froide"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Barder",
+      "slug": "barder",
+      "domaine": "Cuisine",
+      "definition": "Entourer une viande d'une tranche de lard.",
+      "objectif": [
+        "Protection"
+      ],
+      "principe": "Gras externe.",
+      "exemples": {
+        "cuisine": [
+          "Rôti bardé"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Ficelage lâche"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Battre",
+      "slug": "battre",
+      "domaine": "Cuisine",
+      "definition": "Mélanger énergiquement au fouet.",
+      "objectif": [
+        "Aération"
+      ],
+      "principe": "Action mécanique.",
+      "exemples": {
+        "cuisine": [
+          "Battre des œufs"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Manque de vigueur"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Beurrer",
+      "slug": "beurrer",
+      "domaine": "Pâtisserie",
+      "definition": "Enduire un moule de beurre.",
+      "objectif": [
+        "Démoulage"
+      ],
+      "principe": "Anti-adhésion.",
+      "exemples": {
+        "patisserie": [
+          "Moule à cake"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Zones oubliées"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Blanchir (Légumes)",
+      "slug": "blanchir",
+      "domaine": "Cuisine",
+      "definition": "Plonger brièvement dans l'eau bouillante.",
+      "objectif": [
+        "Fixer la couleur"
+      ],
+      "principe": "Choc thermique.",
+      "exemples": {
+        "cuisine": [
+          "Légumes verts"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Temps trop long"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Blanchir (Mélange)",
+      "slug": "blanchir-patisserie",
+      "domaine": "Pâtisserie",
+      "definition": "Fouetter jaunes et sucre.",
+      "objectif": [
+        "Mélange mousseux"
+      ],
+      "principe": "Foisonnement.",
+      "exemples": {
+        "patisserie": [
+          "Crème pâtissière"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Attendre avant de fouetter"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Bleuir",
+      "slug": "bleuir",
+      "domaine": "Cuisine",
+      "definition": "Cuisson au court-bouillon vinaigré.",
+      "objectif": [
+        "Aspect bleu"
+      ],
+      "principe": "Réaction acide.",
+      "exemples": {
+        "cuisine": [
+          "Truite au bleu"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Manque de fraîcheur"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Bouler",
+      "slug": "bouler",
+      "domaine": "Boulangerie",
+      "definition": "Donner une forme de boule par rotation.",
+      "objectif": [
+        "Tension"
+      ],
+      "principe": "Enroulement de la peau.",
+      "exemples": {
+        "boulangerie": [
+          "Façonnage boules"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Déchirure"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Brider",
+      "slug": "brider",
+      "domaine": "Cuisine",
+      "definition": "Ficeler une volaille.",
+      "objectif": [
+        "Maintenir la forme"
+      ],
+      "principe": "Contrainte mécanique.",
+      "exemples": {
+        "cuisine": [
+          "Poulet rôti"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Serrage excessif"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Broyer",
+      "slug": "broyer",
+      "domaine": "Pâtisserie",
+      "definition": "Réduire en poudre ou pâte.",
+      "objectif": [
+        "Finesse"
+      ],
+      "principe": "Écrasement.",
+      "exemples": {
+        "patisserie": [
+          "Amandes"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Échauffement du gras"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Brunir",
+      "slug": "brunir",
+      "domaine": "Cuisine",
+      "definition": "Colorer fortement par la chaleur.",
+      "objectif": [
+        "Réaction de Maillard"
+      ],
+      "principe": "Coloration thermique.",
+      "exemples": {
+        "cuisine": [
+          "Oignons"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Brûlé"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Ciseler",
+      "slug": "ciseler",
+      "domaine": "Cuisine",
+      "definition": "Couper en très petits dés ou lanières.",
+      "objectif": [
+        "Régularité"
+      ],
+      "principe": "Tranchage sans écraser.",
+      "exemples": {
+        "cuisine": [
+          "Échalote"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Écrasement"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Clarifier",
+      "slug": "clarifier",
+      "domaine": "Cuisine",
+      "definition": "Séparer impuretés ou petit lait.",
+      "objectif": [
+        "Pureté"
+      ],
+      "principe": "Décantation.",
+      "exemples": {
+        "cuisine": [
+          "Beurre clarifié"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Ébullition"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Clouter",
+      "slug": "clouter",
+      "domaine": "Cuisine",
+      "definition": "Piquer avec clou de girofle ou truffe.",
+      "objectif": [
+        "Parfumer"
+      ],
+      "principe": "Insertion.",
+      "exemples": {
+        "cuisine": [
+          "Oignon clouté"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Trop intense"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Coller",
+      "slug": "coller",
+      "domaine": "Pâtisserie",
+      "definition": "Ajouter de la gélatine.",
+      "objectif": [
+        "Tenue au froid"
+      ],
+      "principe": "Gélification.",
+      "exemples": {
+        "patisserie": [
+          "Bavarois"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Grumeaux de gélatine"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Concasser",
+      "slug": "concasser",
+      "domaine": "Cuisine",
+      "definition": "Hacher grossièrement.",
+      "objectif": [
+        "Préparation sauce"
+      ],
+      "principe": "Fragmentation.",
+      "exemples": {
+        "cuisine": [
+          "Tomates"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Trop fin"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Condimenter",
+      "slug": "condimenter",
+      "domaine": "Cuisine",
+      "definition": "Ajouter des condiments à une préparation.",
+      "objectif": [
+        "Complexité aromatique"
+      ],
+      "principe": "Apport de saveurs marquées.",
+      "exemples": {
+        "cuisine": [
+          "Ajouter des cornichons ou câpres"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Déséquilibre des saveurs"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Confire",
+      "slug": "confire",
+      "domaine": "Cuisine",
+      "definition": "Cuire longuement dans une matière grasse, du sucre ou du vinaigre.",
+      "objectif": [
+        "Conservation",
+        "Tendreté"
+      ],
+      "principe": "Cuisson lente à basse température.",
+      "exemples": {
+        "cuisine": [
+          "Confit de canard",
+          "Tomates confites"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Température trop élevée"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Contiser",
+      "slug": "contiser",
+      "domaine": "Cuisine",
+      "definition": "Incruster des lamelles de truffe ou autre sous la peau d'une volaille.",
+      "objectif": [
+        "Parfumer",
+        "Esthétique"
+      ],
+      "principe": "Incision superficielle et insertion.",
+      "exemples": {
+        "cuisine": [
+          "Poulet contisé à la truffe"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Déchirer la peau"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Corder",
+      "slug": "corder",
+      "domaine": "Cuisine",
+      "definition": "État d'une pâte ou d'une purée qui devient élastique par excès de travail.",
+      "objectif": [
+        "À éviter (souvent un défaut)"
+      ],
+      "principe": "Modification de la structure de l'amidon ou du gluten.",
+      "exemples": {
+        "cuisine": [
+          "Purée de pommes de terre élastique"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Trop mixer une purée"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Corner",
+      "slug": "corner",
+      "domaine": "Pâtisserie",
+      "definition": "Racler les bords d'un récipient à l'aide d'une corne ou d'une maryse.",
+      "objectif": [
+        "Éviter le gaspillage",
+        "Propreté"
+      ],
+      "principe": "Récupération mécanique.",
+      "exemples": {
+        "patisserie": [
+          "Corner un cul-de-poule"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Oubli de matière"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Corser",
+      "slug": "corser",
+      "domaine": "Cuisine",
+      "definition": "Augmenter la saveur d'une préparation par réduction ou ajout d'éléments.",
+      "objectif": [
+        "Puissance gustative"
+      ],
+      "principe": "Concentration aromatique.",
+      "exemples": {
+        "cuisine": [
+          "Corser une sauce"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Trop réduire (trop salé)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Coucher",
+      "slug": "coucher",
+      "domaine": "Pâtisserie",
+      "definition": "Mettre en forme une pâte à l'aide d'une poche à douille sur une plaque.",
+      "objectif": [
+        "Régularité de forme"
+      ],
+      "principe": "Poussée mécanique calibrée.",
+      "exemples": {
+        "patisserie": [
+          "Coucher des choux",
+          "Coucher des éclairs"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Taille irrégulière"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Couper",
+      "slug": "couper",
+      "domaine": "Cuisine",
+      "definition": "Diviser un aliment à l'aide d'un couteau.",
+      "objectif": [
+        "Mise en forme"
+      ],
+      "principe": "Section nette.",
+      "exemples": {
+        "cuisine": [
+          "Couper des légumes"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Couteau mal aiguisé"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Coup de buée",
+      "slug": "coup-de-buee",
+      "domaine": "Boulangerie",
+      "definition": "Injection de vapeur d'eau dans le four au moment de l'enfournement.",
+      "objectif": [
+        "Brillance",
+        "Elasticité de la croûte"
+      ],
+      "principe": "Retard de la formation de la croûte.",
+      "exemples": {
+        "boulangerie": [
+          "Pain avec une belle grigne"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Trop de buée (croûte molle)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Crémer",
+      "slug": "cremer",
+      "domaine": "Pâtisserie",
+      "definition": "Travailler un corps gras seul ou avec du sucre pour lui donner la consistance d'une crème.",
+      "objectif": [
+        "Onctuosité"
+      ],
+      "principe": "Incorporation d'air dans le gras.",
+      "exemples": {
+        "patisserie": [
+          "Crémer le beurre pour un cake"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Beurre trop froid"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Crever",
+      "slug": "crever",
+      "domaine": "Cuisine",
+      "definition": "Plonger du riz dans l'eau froide et porter à ébullition pour faire éclater les grains.",
+      "objectif": [
+        "Faciliter l'absorption du lait"
+      ],
+      "principe": "Ouverture de l'amidon.",
+      "exemples": {
+        "cuisine": [
+          "Riz au lait"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Temps trop long"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Cribler",
+      "slug": "cribler",
+      "domaine": "Cuisine",
+      "definition": "Passer un ingrédient au travers d'un crible ou tamis grossier.",
+      "objectif": [
+        "Séparation"
+      ],
+      "principe": "Filtration mécanique.",
+      "exemples": {
+        "cuisine": [
+          "Trier des grains"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Maillage inadapté"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Cristalliser",
+      "slug": "cristalliser",
+      "domaine": "Pâtisserie",
+      "definition": "État du sucre ou du chocolat qui passe de liquide à solide.",
+      "objectif": [
+        "Brillance",
+        "Tenue"
+      ],
+      "principe": "Réorganisation moléculaire.",
+      "exemples": {
+        "patisserie": [
+          "Moulage chocolat"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Mauvais tempérage"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Cuire",
+      "slug": "cuire",
+      "domaine": "Cuisine",
+      "definition": "Transformer un aliment par l'action de la chaleur.",
+      "objectif": [
+        "Comestibilité",
+        "Goût"
+      ],
+      "principe": "Réaction chimique thermique.",
+      "exemples": {
+        "cuisine": [
+          "Cuire au four"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Surcuisson"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Cuire à blanc",
+      "slug": "cuire-a-blanc",
+      "domaine": "Pâtisserie",
+      "definition": "Cuire un fond de tarte sans garniture.",
+      "objectif": [
+        "Éviter que la pâte ne détrempe"
+      ],
+      "principe": "Cuisson préalable du support.",
+      "exemples": {
+        "patisserie": [
+          "Fond de tarte aux fraises"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Bords qui s'affaissent"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Cuire à l'anglaise",
+      "slug": "cuire-a-l-anglaise",
+      "domaine": "Cuisine",
+      "definition": "Cuire des légumes dans une grande quantité d'eau bouillante salée.",
+      "objectif": [
+        "Cuisson uniforme",
+        "Couleur vive"
+      ],
+      "principe": "Immersion aqueuse.",
+      "exemples": {
+        "cuisine": [
+          "Haricots verts"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Manque de sel"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Cuire à la nappe",
+      "slug": "cuire-a-la-nappe",
+      "domaine": "Pâtisserie",
+      "definition": "Cuire une préparation (ex: crème anglaise) jusqu'à ce qu'elle nappe la spatule.",
+      "objectif": [
+        "Épaississement précis"
+      ],
+      "principe": "Coagulation ménagée des œufs.",
+      "exemples": {
+        "patisserie": [
+          "Crème anglaise"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Ébullition (crème qui tourne)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Cuire au bain-marie",
+      "slug": "cuire-au-bain-marie",
+      "domaine": "Cuisine",
+      "definition": "Cuire une préparation dans un récipient placé dans un autre contenant de l'eau bouillante.",
+      "objectif": [
+        "Chaleur douce",
+        "Protection"
+      ],
+      "principe": "Transmission de chaleur indirecte.",
+      "exemples": {
+        "cuisine": [
+          "Flan",
+          "Sauce Béarnaise"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Eau qui bouille trop fort"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Cuire en papillote",
+      "slug": "cuire-en-papillote",
+      "domaine": "Cuisine",
+      "definition": "Cuire un aliment enfermé dans du papier sulfurisé ou aluminium.",
+      "objectif": [
+        "Concentration des parfums",
+        "Vapeur"
+      ],
+      "principe": "Confinement thermique.",
+      "exemples": {
+        "cuisine": [
+          "Poisson en papillote"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Papillote mal fermée"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Culotter",
+      "slug": "culotter",
+      "domaine": "Cuisine",
+      "definition": "Traiter une poêle en fer neuve pour la rendre anti-adhésive.",
+      "objectif": [
+        "Anti-adhérence naturelle"
+      ],
+      "principe": "Polymérisation de l'huile.",
+      "exemples": {
+        "cuisine": [
+          "Poêle en tôle d'acier"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Utilisation de savon après culottage"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Débarrasser",
+      "slug": "debarrasser",
+      "domaine": "Cuisine",
+      "definition": "Transvaser une préparation d'un récipient de cuisson vers un récipient de stockage.",
+      "objectif": [
+        "Hygiène",
+        "Arrêt de cuisson"
+      ],
+      "principe": "Transfert.",
+      "exemples": {
+        "cuisine": [
+          "Mettre une sauce en bac inox"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Récipient sale"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Décanter",
+      "slug": "decanter",
+      "domaine": "Cuisine",
+      "definition": "Laisser reposer un liquide pour séparer les impuretés ou transvaser une viande en sauce.",
+      "objectif": [
+        "Netteté"
+      ],
+      "principe": "Séparation par gravité.",
+      "exemples": {
+        "cuisine": [
+          "Décanter un ragoût"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Geste brusque"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Découper",
+      "slug": "decouper",
+      "domaine": "Cuisine",
+      "definition": "Détailler une pièce en morceaux selon des règles précises.",
+      "objectif": [
+        "Service",
+        "Présentation"
+      ],
+      "principe": "Sectionnement anatomique.",
+      "exemples": {
+        "cuisine": [
+          "Découper un poulet rôti"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Déchirer les chairs"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Déglacer",
+      "slug": "deglacer",
+      "domaine": "Cuisine",
+      "definition": "Dissoudre les sucs de cuisson au fond d'un récipient avec un liquide.",
+      "objectif": [
+        "Base de sauce"
+      ],
+      "principe": "Dissolution par choc thermique.",
+      "exemples": {
+        "cuisine": [
+          "Déglacer au vin blanc"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Trop de gras dans le récipient"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dégorger",
+      "slug": "degorger",
+      "domaine": "Cuisine",
+      "definition": "Laisser un aliment dans du sel ou de l'eau pour en extraire l'eau ou les impuretés.",
+      "objectif": [
+        "Éliminer l'amertume ou le sang"
+      ],
+      "principe": "Osmose.",
+      "exemples": {
+        "cuisine": [
+          "Dégorger des concombres",
+          "Dégorger des ris de veau"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Temps trop court"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dégraisser",
+      "slug": "degraisser",
+      "domaine": "Cuisine",
+      "definition": "Éliminer l’excès de graisse à la surface d’un liquide ou d'une pièce de viande.",
+      "objectif": [
+        "Alléger une préparation"
+      ],
+      "principe": "Séparation par différence de densité ou parage.",
+      "exemples": {
+        "cuisine": [
+          "Dégraisser un fond de veau",
+          "Dégraisser un magret"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Retirer trop de jus avec le gras"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Délayer",
+      "slug": "delayer",
+      "domaine": "Pâtisserie",
+      "definition": "Mélanger une substance épaisse ou en poudre avec un liquide.",
+      "objectif": [
+        "Fluidifier",
+        "Éviter les grumeaux"
+      ],
+      "principe": "Dissolution ou dispersion.",
+      "exemples": {
+        "patisserie": [
+          "Délayer de la levure dans du lait"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Liquide ajouté trop vite"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Démouler",
+      "slug": "demouler",
+      "domaine": "Pâtisserie",
+      "definition": "Extraire une préparation de son moule.",
+      "objectif": [
+        "Présentation"
+      ],
+      "principe": "Séparation du support.",
+      "exemples": {
+        "patisserie": [
+          "Démouler un cake"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Démoulage trop précoce (casse)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dénoyauter",
+      "slug": "denoyauter",
+      "domaine": "Cuisine",
+      "definition": "Retirer les noyaux d'un fruit.",
+      "objectif": [
+        "Faciliter la dégustation"
+      ],
+      "principe": "Extraction mécanique.",
+      "exemples": {
+        "cuisine": [
+          "Dénoyauter des olives ou des cerises"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Abîmer la chair du fruit"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dépouiller",
+      "slug": "depouiller",
+      "domaine": "Cuisine",
+      "definition": "Retirer la peau de certains animaux (lapin, anguille) ou éliminer la peau qui se forme sur une sauce.",
+      "objectif": [
+        "Nettoyage",
+        "Finition"
+      ],
+      "principe": "Arrachage ou écumage.",
+      "exemples": {
+        "cuisine": [
+          "Dépouiller un lapin"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Déchirer les chairs"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dérober",
+      "slug": "derober",
+      "domaine": "Cuisine",
+      "definition": "Retirer la peau des fèves après les avoir blanchies.",
+      "objectif": [
+        "Finesse en bouche"
+      ],
+      "principe": "Extraction manuelle.",
+      "exemples": {
+        "cuisine": [
+          "Fèves dérobées pour une salade"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Écraser la fève"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dessécher",
+      "slug": "dessecher",
+      "domaine": "Pâtisserie",
+      "definition": "Travailler une pâte sur le feu pour en éliminer l'excès d'eau.",
+      "objectif": [
+        "Favoriser l'absorption ultérieure des œufs"
+      ],
+      "principe": "Évaporation par conduction.",
+      "exemples": {
+        "patisserie": [
+          "Dessécher la pâte à choux"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Desséchage insuffisant"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Désosser",
+      "slug": "desosser",
+      "domaine": "Cuisine",
+      "definition": "Retirer les os d'une pièce de viande ou d'une volaille.",
+      "objectif": [
+        "Mise en forme",
+        "Faciliter le service"
+      ],
+      "principe": "Séparation anatomique.",
+      "exemples": {
+        "cuisine": [
+          "Désosser une épaule d'agneau"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Laisser trop de viande sur les os"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Détailler",
+      "slug": "detailler",
+      "domaine": "Pâtisserie",
+      "definition": "Découper des formes précises dans une abaisse de pâte.",
+      "objectif": [
+        "Calibrage",
+        "Esthétique"
+      ],
+      "principe": "Découpe à l'emporte-pièce ou au couteau.",
+      "exemples": {
+        "patisserie": [
+          "Détailler des sablés"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Mauvaise optimisation de la pâte (trop de chutes)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Détremper",
+      "slug": "detremper",
+      "domaine": "Pâtisserie",
+      "definition": "Mélanger farine, eau et sel pour constituer la base d'une pâte feuilletée.",
+      "objectif": [
+        "Base du feuilletage"
+      ],
+      "principe": "Hydratation de la farine.",
+      "exemples": {
+        "patisserie": [
+          "Détrempe du feuilletage"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Trop travailler la pâte (donne du corps)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dorer",
+      "slug": "boulangerie",
+      "domaine": "Boulangerie",
+      "definition": "Appliquer une dorure (œuf battu) sur des produits avant cuisson.",
+      "objectif": [
+        "Aspect brillant et coloré"
+      ],
+      "principe": "Coagulation et caramélisation de l'œuf.",
+      "exemples": {
+        "boulangerie": [
+          "Dorer des brioches"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Coulures sur la plaque (colle le produit)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Doubler",
+      "slug": "doubler-plaque",
+      "domaine": "Pâtisserie",
+      "definition": "Mettre une deuxième plaque sous la première pour la cuisson.",
+      "objectif": [
+        "Éviter que le dessous ne brûle"
+      ],
+      "principe": "Isolation thermique.",
+      "exemples": {
+        "patisserie": [
+          "Cuisson des macarons"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Mauvaise circulation de l'air"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dressage",
+      "slug": "dressage",
+      "domaine": "Cuisine",
+      "definition": "Disposer harmonieusement les aliments sur un plat ou une assiette.",
+      "objectif": [
+        "Esthétique"
+      ],
+      "principe": "Composition visuelle.",
+      "exemples": {
+        "cuisine": [
+          "Dressage d'une assiette gastronomique"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Assiette surchargée"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Ébarber",
+      "slug": "ebarber",
+      "domaine": "Cuisine",
+      "definition": "Retirer les nageoires d'un poisson ou les filaments des huîtres/moules.",
+      "objectif": [
+        "Nettoyage",
+        "Présentation"
+      ],
+      "principe": "Sectionnement des appendices.",
+      "exemples": {
+        "cuisine": [
+          "Ébarber une sole"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Abîmer la peau"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Ébouillanter",
+      "slug": "ebouillanter",
+      "domaine": "Cuisine",
+      "definition": "Plonger quelques instants dans l'eau bouillante.",
+      "objectif": [
+        "Stériliser ou faciliter l'épluchage"
+      ],
+      "principe": "Immersion rapide.",
+      "exemples": {
+        "cuisine": [
+          "Ébouillanter des bocaux"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Temps trop long (cuisson non désirée)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Écailler",
+      "slug": "ecailler",
+      "domaine": "Cuisine",
+      "definition": "Retirer les écailles d'un poisson.",
+      "objectif": [
+        "Rendre le poisson comestible"
+      ],
+      "principe": "Grattage mécanique.",
+      "exemples": {
+        "cuisine": [
+          "Écailler un bar"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Projection d'écailles partout"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Écaler",
+      "slug": "ecaler",
+      "domaine": "Cuisine",
+      "definition": "Retirer la coquille des œufs durs ou des noix.",
+      "objectif": [
+        "Mise à nu de l'aliment"
+      ],
+      "principe": "Retrait de l'enveloppe dure.",
+      "exemples": {
+        "cuisine": [
+          "Écaler des œufs"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Déchirer le blanc de l'œuf"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Écraser",
+      "slug": "ecraser",
+      "domaine": "Cuisine",
+      "definition": "Réduire en purée ou briser grossièrement.",
+      "objectif": [
+        "Modification de texture"
+      ],
+      "principe": "Pression mécanique.",
+      "exemples": {
+        "cuisine": [
+          "Écraser une gousse d'ail"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Geste trop violent"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Écumer",
+      "slug": "ecumer",
+      "domaine": "Cuisine",
+      "definition": "Retirer l'écume (impuretés) qui se forme à la surface d'un liquide en ébullition.",
+      "objectif": [
+        "Limpidité"
+      ],
+      "principe": "Retrait superficiel à l'écumoire.",
+      "exemples": {
+        "cuisine": [
+          "Écumer un pot-au-feu"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Mélanger l'écume au liquide"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Effiler",
+      "slug": "effiler",
+      "domaine": "Pâtisserie",
+      "definition": "Couper en tranches très fines.",
+      "objectif": [
+        "Décoration",
+        "Texture"
+      ],
+      "principe": "Tranchage longitudinal.",
+      "exemples": {
+        "patisserie": [
+          "Amandes effilées"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Brisures"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Égoutter",
+      "slug": "egoutter",
+      "domaine": "Cuisine",
+      "definition": "Placer un aliment dans une passoire pour en éliminer l'eau.",
+      "objectif": [
+        "Séchage"
+      ],
+      "principe": "Gravité.",
+      "exemples": {
+        "cuisine": [
+          "Égoutter des pâtes"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Égouttage insuffisant"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Égrener",
+      "slug": "egrener",
+      "domaine": "Cuisine",
+      "definition": "Séparer les grains (riz, semoule) après cuisson.",
+      "objectif": [
+        "Texture légère",
+        "Éviter les blocs"
+      ],
+      "principe": "Séparation à la fourchette.",
+      "exemples": {
+        "cuisine": [
+          "Égrener un couscous"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Écraser les grains"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Émincer",
+      "slug": "emincer",
+      "domaine": "Cuisine",
+      "definition": "Couper en tranches plus ou moins fines.",
+      "objectif": [
+        "Cuisson rapide",
+        "Présentation"
+      ],
+      "principe": "Tranchage régulier.",
+      "exemples": {
+        "cuisine": [
+          "Émincer des champignons"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Épaisseur irrégulière"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Émonder",
+      "slug": "emonder",
+      "domaine": "Cuisine",
+      "definition": "Retirer la peau de certains fruits (tomates, amandes) après passage dans l'eau bouillante.",
+      "objectif": [
+        "Netteté",
+        "Finesse"
+      ],
+      "principe": "Retrait de peau après choc thermique.",
+      "exemples": {
+        "cuisine": [
+          "Émonder des tomates"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Trop cuire le fruit"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Emulsionner",
+      "slug": "emulsionner",
+      "domaine": "Cuisine",
+      "definition": "Mélanger deux liquides non miscibles (eau et huile).",
+      "objectif": [
+        "Obtenir une sauce stable"
+      ],
+      "principe": "Dispersion de gouttelettes.",
+      "exemples": {
+        "cuisine": [
+          "Vinaigrette",
+          "Mayonnaise"
+        ]
+      },
+      "erreurs_frequentes": [
+        "L'émulsion retombe (tranche)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Enfourner",
+      "slug": "enfourner",
+      "domaine": "Boulangerie",
+      "definition": "Mettre les produits (pains, viennoiseries) dans le four chaud.",
+      "objectif": [
+        "Démarrer la cuisson"
+      ],
+      "principe": "Transfert thermique immédiat.",
+      "exemples": {
+        "boulangerie": [
+          "Enfourner à la pelle ou sur tapis"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Four pas assez chaud",
+        "Attente trop longue porte ouverte"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Enrober",
+      "slug": "enrober",
+      "domaine": "Pâtisserie",
+      "definition": "Recouvrir totalement un intérieur (bonbon, gâteau) d'une couche de chocolat ou de sucre.",
+      "objectif": [
+        "Protection",
+        "Finition craquante"
+      ],
+      "principe": "Immersion ou nappage total.",
+      "exemples": {
+        "patisserie": [
+          "Enrober des truffes en chocolat"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Couche trop épaisse",
+        "Mauvaise température"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Épépiner",
+      "slug": "epepiner",
+      "domaine": "Cuisine",
+      "definition": "Retirer les pépins d'un fruit ou d'un légume.",
+      "objectif": [
+        "Améliorer la texture"
+      ],
+      "principe": "Extraction manuelle.",
+      "exemples": {
+        "cuisine": [
+          "Épépiner des tomates ou des concombres"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Laisser des pépins"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Éplucher",
+      "slug": "eplucher",
+      "domaine": "Cuisine",
+      "definition": "Retirer la peau non comestible des fruits ou légumes.",
+      "objectif": [
+        "Préparation à la consommation"
+      ],
+      "principe": "Élimination de l'enveloppe externe.",
+      "exemples": {
+        "cuisine": [
+          "Éplucher des pommes de terre"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Perte excessive de chair"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Éponger",
+      "slug": "eponger",
+      "domaine": "Cuisine",
+      "definition": "Retirer l'excès d'humidité d'un aliment à l'aide d'un linge ou de papier absorbant.",
+      "objectif": [
+        "Favoriser la coloration",
+        "Éviter de diluer une sauce"
+      ],
+      "principe": "Absorption par capillarité.",
+      "exemples": {
+        "cuisine": [
+          "Éponger une viande avant de la saisir"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Aliment encore trop humide"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Escaloper",
+      "slug": "escaloper",
+      "domaine": "Cuisine",
+      "definition": "Couper en tranches fines et biaisées (viande, poisson, champignons).",
+      "objectif": [
+        "Présentation",
+        "Cuisson rapide"
+      ],
+      "principe": "Tranchage en sifflet.",
+      "exemples": {
+        "cuisine": [
+          "Escaloper des champignons de Paris"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Épaisseur irrégulière"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Étuver",
+      "slug": "etuver",
+      "domaine": "Cuisine",
+      "definition": "Cuire doucement à couvert avec très peu de liquide ou de corps gras.",
+      "objectif": [
+        "Concentrer les saveurs"
+      ],
+      "principe": "Cuisson dans son propre jus.",
+      "exemples": {
+        "cuisine": [
+          "Étuver des poireaux"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Température trop forte (brûle)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Évider",
+      "slug": "evider",
+      "domaine": "Cuisine",
+      "definition": "Retirer la partie centrale d'un fruit ou légume (trognon, cœur).",
+      "objectif": [
+        "Préparer pour farcir"
+      ],
+      "principe": "Extraction de la pulpe centrale.",
+      "exemples": {
+        "cuisine": [
+          "Évider une pomme"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Percer le fond ou les parois"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Exprimer",
+      "slug": "exprimer",
+      "domaine": "Cuisine",
+      "definition": "Extraire le jus d'un aliment en le pressant.",
+      "objectif": [
+        "Récupérer l'essence de l'aliment"
+      ],
+      "principe": "Pression mécanique.",
+      "exemples": {
+        "cuisine": [
+          "Exprimer le jus d'un citron"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Laisser tomber des pépins"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Façonner",
+      "slug": "faconner",
+      "domaine": "Boulangerie",
+      "definition": "Donner sa forme finale au pâton (baguette, batard, boule).",
+      "objectif": [
+        "Aspect visuel",
+        "Développement"
+      ],
+      "principe": "Allongement et soudure.",
+      "exemples": {
+        "boulangerie": [
+          "Façonner une baguette"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Soudure mal fermée",
+        "Déchirure"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Fariner",
+      "slug": "fariner",
+      "domaine": "Pâtisserie",
+      "definition": "Recouvrir une plaque ou un moule d'une fine couche de farine.",
+      "objectif": [
+        "Éviter l'adhérence"
+      ],
+      "principe": "Barrière sèche.",
+      "exemples": {
+        "patisserie": [
+          "Fariner un moule beurré"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Excès de farine"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Farcir",
+      "slug": "farcir",
+      "domaine": "Cuisine",
+      "definition": "Remplir l'intérieur d'un aliment avec une préparation appelée farce.",
+      "objectif": [
+        "Enrichir le goût",
+        "Moelleux"
+      ],
+      "principe": "Remplissage.",
+      "exemples": {
+        "cuisine": [
+          "Tomates farcies"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Trop remplir (éclatement)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Ficeler",
+      "slug": "ficeler",
+      "domaine": "Cuisine",
+      "definition": "Maintenir une pièce de viande avec de la ficelle.",
+      "objectif": [
+        "Tenue à la cuisson"
+      ],
+      "principe": "Contrainte par ligature.",
+      "exemples": {
+        "cuisine": [
+          "Ficeler un rôti"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Serrage trop fort"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Filtrer",
+      "slug": "filtrer",
+      "domaine": "Cuisine",
+      "definition": "Passer un liquide au travers d'un filtre ou d'un chinois.",
+      "objectif": [
+        "Éliminer les particules solides"
+      ],
+      "principe": "Tamisage fin.",
+      "exemples": {
+        "cuisine": [
+          "Filtrer un sirop"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Filtre colmaté"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Flamber",
+      "slug": "flamber",
+      "domaine": "Cuisine",
+      "definition": "Passer rapidement une volaille sur une flamme ou enflammer un alcool.",
+      "objectif": [
+        "Éliminer les duvets",
+        "Parfumer"
+      ],
+      "principe": "Combustion superficielle.",
+      "exemples": {
+        "cuisine": [
+          "Flamber une volaille",
+          "Crêpes Suzette"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Brûler l'aliment"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Fleurer",
+      "slug": "fleurer",
+      "domaine": "Boulangerie",
+      "definition": "Saupoudrer très légèrement de la farine sur le plan de travail.",
+      "objectif": [
+        "Empêcher la pâte de coller"
+      ],
+      "principe": "Apport minimal de farine.",
+      "exemples": {
+        "boulangerie": [
+          "Fleurer le tour avant le façonnage"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Excès de farine (altère la recette)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Foisonner",
+      "slug": "foisonner",
+      "domaine": "Pâtisserie",
+      "definition": "Fouetter une préparation pour augmenter son volume.",
+      "objectif": [
+        "Légèreté",
+        "Volume"
+      ],
+      "principe": "Incorporation d'air.",
+      "exemples": {
+        "patisserie": [
+          "Foisonner une crème au beurre"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Vitesse de fouettage inadaptée"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Foncer",
+      "slug": "foncer",
+      "domaine": "Pâtisserie",
+      "definition": "Garnir les parois d'un moule ou d'un cercle avec une abaisse de pâte.",
+      "objectif": [
+        "Créer le support du dessert"
+      ],
+      "principe": "Épouser la forme du contenant.",
+      "exemples": {
+        "patisserie": [
+          "Foncer un cercle à tarte"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Bulles d'air au fond",
+        "Bords qui s'écroulent"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Fondre",
+      "slug": "fondre",
+      "domaine": "Pâtisserie",
+      "definition": "Passer un ingrédient de l'état solide à l'état liquide par la chaleur.",
+      "objectif": [
+        "Incorporation"
+      ],
+      "principe": "Changement d'état thermique.",
+      "exemples": {
+        "patisserie": [
+          "Fondre du chocolat au bain-marie"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Surchauffe (chocolat qui brûle)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Fontaine",
+      "slug": "fontaine",
+      "domaine": "Boulangerie",
+      "definition": "Disposer la farine en cercle pour y verser les liquides au centre.",
+      "objectif": [
+        "Mélange progressif"
+      ],
+      "principe": "Retenue des liquides par les parois sèches.",
+      "exemples": {
+        "boulangerie": [
+          "Pétrissage manuel"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Brèche dans la paroi de farine"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Fouetter",
+      "slug": "fouetter",
+      "domaine": "Cuisine",
+      "definition": "Battre une préparation à l'aide d'un fouet.",
+      "objectif": [
+        "Mélanger",
+        "Aérer"
+      ],
+      "principe": "Mouvement circulaire rapide.",
+      "exemples": {
+        "cuisine": [
+          "Fouetter une sauce"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Mouvement trop faible"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Fourrer",
+      "slug": "fourrer",
+      "domaine": "Pâtisserie",
+      "definition": "Garnir l'intérieur d'un gâteau ou d'une viennoiserie d'une crème ou confiture.",
+      "objectif": [
+        "Gourmandise",
+        "Cœur fondant"
+      ],
+      "principe": "Insertion interne.",
+      "exemples": {
+        "patisserie": [
+          "Fourrer des beignets"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Répartition inégale"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Fraser (ou Fraiser)",
+      "slug": "fraser",
+      "domaine": "Boulangerie",
+      "definition": "Mélanger les ingrédients sans donner d'élasticité (début du pétrissage).",
+      "objectif": [
+        "Amalgame",
+        "Hydratation"
+      ],
+      "principe": "Pression avec la paume ou mélange lent.",
+      "exemples": {
+        "boulangerie": [
+          "Frasage de la pâte à pain"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Trop de force (donne du corps trop tôt)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Frémir",
+      "slug": "fremir",
+      "domaine": "Cuisine",
+      "definition": "Maintenir un liquide à une température juste en dessous de l'ébullition.",
+      "objectif": [
+        "Cuisson douce"
+      ],
+      "principe": "Léger mouvement à la surface.",
+      "exemples": {
+        "cuisine": [
+          "Faire frémir un bouillon"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Passage à grosse ébullition"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Frire",
+      "slug": "frire",
+      "domaine": "Cuisine",
+      "definition": "Cuire un aliment dans un bain de corps gras très chaud.",
+      "objectif": [
+        "Texture croustillante"
+      ],
+      "principe": "Convection thermique intense.",
+      "exemples": {
+        "cuisine": [
+          "Frire des beignets"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Gras pas assez chaud (aliment imbibé)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Fumer",
+      "slug": "fumer",
+      "domaine": "Cuisine",
+      "definition": "Exposer un aliment à la fumée pour lui donner un goût particulier et favoriser sa conservation.",
+      "objectif": [
+        "Aromatisation",
+        "Conservation"
+      ],
+      "principe": "Imprégnation par les composés de combustion du bois.",
+      "exemples": {
+        "cuisine": [
+          "Saumon fumé",
+          "Magret fumé"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Temps d'exposition trop long (amertume)"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Glacer",
+      "slug": "glacer-cuisine",
+      "domaine": "Cuisine",
+      "definition": "Cuire des légumes avec eau, beurre et sucre pour les recouvrir d'une pellicule brillante.",
+      "objectif": [
+        "Brillance",
+        "Légère caramélisation"
+      ],
+      "principe": "Réduction du liquide de cuisson jusqu'à l'état de sirop.",
+      "exemples": {
+        "cuisine": [
+          "Carottes glacées"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Coloration trop brune (pour le glaçage à blanc)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Glacer (Pâtisserie)",
+      "slug": "glacer-patisserie",
+      "domaine": "Pâtisserie",
+      "definition": "Recouvrir un entremets ou un éclair de fondant, de chocolat ou d'un nappage.",
+      "objectif": [
+        "Finition lisse et brillante",
+        "Protection"
+      ],
+      "principe": "Nappage par immersion ou versement.",
+      "exemples": {
+        "patisserie": [
+          "Glacer des éclairs au café"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Glaçage trop chaud (coule) ou trop froid (traces)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Grainer",
+      "slug": "grainer",
+      "domaine": "Pâtisserie",
+      "definition": "État des blancs d’œufs trop battus qui forment de petits morceaux, ou du sucre qui recristallise.",
+      "objectif": [
+        "À éviter"
+      ],
+      "principe": "Déstructuration de l'émulsion ou cristallisation parasite.",
+      "exemples": {
+        "patisserie": [
+          "Blancs d'œufs qui grainent"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Battre les blancs trop vite dès le début"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Gratiner",
+      "slug": "gratiner",
+      "domaine": "Cuisine",
+      "definition": "Passer un plat au four ou à la salamandre pour former une croûte dorée.",
+      "objectif": [
+        "Texture croustillante",
+        "Esthétique"
+      ],
+      "principe": "Caramélisation superficielle par chaleur radiante.",
+      "exemples": {
+        "cuisine": [
+          "Gratin dauphinois"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Brûler la surface sans chauffer le cœur"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Grigner",
+      "slug": "grigner",
+      "domaine": "Boulangerie",
+      "definition": "Pratiquer des incisions sur le dessus des pâtons juste avant l'enfournement.",
+      "objectif": [
+        "Permettre le développement du pain",
+        "Esthétique (grigne)"
+      ],
+      "principe": "Création d'une zone de faiblesse contrôlée.",
+      "exemples": {
+        "boulangerie": [
+          "Grigner une baguette de tradition"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Incision trop profonde ou pas assez inclinée"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Griller",
+      "slug": "griller",
+      "domaine": "Cuisine",
+      "definition": "Cuire un aliment sur un gril ou une plaque par contact direct.",
+      "objectif": [
+        "Coloration rapide",
+        "Goût caractéristique"
+      ],
+      "principe": "Chaleur intense par conduction et rayonnement.",
+      "exemples": {
+        "cuisine": [
+          "Griller une entrecôte"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Gril insuffisamment chaud (la viande bouillit)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Habiller",
+      "slug": "habiller",
+      "domaine": "Cuisine",
+      "definition": "Phase préliminaire de préparation d'une volaille ou d'un poisson (écailler, vider, etc.).",
+      "objectif": [
+        "Propreté",
+        "Prêt à cuire"
+      ],
+      "principe": "Nettoyage complet.",
+      "exemples": {
+        "cuisine": [
+          "Habiller une truite"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Mauvais écaillage (reste des écailles)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Hacher",
+      "slug": "hacher",
+      "domaine": "Cuisine",
+      "definition": "Réduire un aliment en petits morceaux à l'aide d'un couteau ou d'un hachoir.",
+      "objectif": [
+        "Modifier la texture",
+        "Répartition homogène"
+      ],
+      "principe": "Fragmentation mécanique.",
+      "exemples": {
+        "cuisine": [
+          "Hacher du persil",
+          "Hacher de la viande"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Écraser les herbes (elles noircissent)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Hydrater",
+      "slug": "hydrater",
+      "domaine": "Pâtisserie",
+      "definition": "Ajouter un liquide (eau, lait) à un ingrédient sec ou réhydrater de la gélatine.",
+      "objectif": [
+        "Activation des propriétés",
+        "Cohésion"
+      ],
+      "principe": "Absorption moléculaire.",
+      "exemples": {
+        "patisserie": [
+          "Hydrater la gélatine en feuilles"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Quantité d'eau inadaptée"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Imbiber",
+      "slug": "imbiber",
+      "domaine": "Pâtisserie",
+      "definition": "Faire pénétrer un liquide (sirop, alcool) dans un biscuit.",
+      "objectif": [
+        "Moelleux",
+        "Parfumer"
+      ],
+      "principe": "Absorption par capillarité.",
+      "exemples": {
+        "patisserie": [
+          "Imbiber un biscuit pour un fraisier"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Trop imbiber (le biscuit s'effondre)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Inciser",
+      "slug": "inciser",
+      "domaine": "Cuisine",
+      "definition": "Faire de légères coupures à la surface d'un aliment.",
+      "objectif": [
+        "Éviter la déformation à la cuisson",
+        "Décoration"
+      ],
+      "principe": "Section superficielle.",
+      "exemples": {
+        "cuisine": [
+          "Inciser la peau d'un poisson"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Coupe trop profonde"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Incorporer",
+      "slug": "incorporer",
+      "domaine": "Pâtisserie",
+      "definition": "Mélanger délicatement un élément léger dans une préparation plus lourde.",
+      "objectif": [
+        "Préserver le volume et l'air"
+      ],
+      "principe": "Mélange par soulèvement.",
+      "exemples": {
+        "patisserie": [
+          "Incorporer les blancs en neige dans une mousse"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Mélanger trop vigoureusement (casse l'air)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Infuser",
+      "slug": "infuser",
+      "domaine": "Cuisine",
+      "definition": "Laisser un aliment aromatique dans un liquide chaud pour en extraire le parfum.",
+      "objectif": [
+        "Parfumer une base"
+      ],
+      "principe": "Diffusion aromatique par chaleur.",
+      "exemples": {
+        "cuisine": [
+          "Infuser de la vanille dans du lait"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Temps trop court ou liquide pas assez chaud"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Larder",
+      "slug": "larder",
+      "domaine": "Cuisine",
+      "definition": "Introduire des bâtonnets de lard dans une viande à l'aide d'une lardoire.",
+      "objectif": [
+        "Apporter du gras à l'intérieur"
+      ],
+      "principe": "Insertion mécanique de corps gras.",
+      "exemples": {
+        "cuisine": [
+          "Larder une pièce de bœuf à braiser"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Déchirer les fibres de la viande"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Lier",
+      "slug": "lier",
+      "domaine": "Cuisine",
+      "definition": "Épaissir un liquide (sauce, potage) par ajout d'un élément liant (roux, crème, fécule).",
+      "objectif": [
+        "Consistance onctueuse"
+      ],
+      "principe": "Modification de la viscosité.",
+      "exemples": {
+        "cuisine": [
+          "Lier une sauce au beurre manié"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Grumeaux",
+        "Mauvaise proportion"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Lustrer",
+      "slug": "lustrer",
+      "domaine": "Cuisine",
+      "definition": "Recouvrir un aliment de beurre clarifié ou de gelée pour le faire briller.",
+      "objectif": [
+        "Finition brillante",
+        "Empêcher le dessèchement"
+      ],
+      "principe": "Nappage superficiel fin.",
+      "exemples": {
+        "cuisine": [
+          "Lustrer un rôti de bœuf"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Couche trop épaisse"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Luter",
+      "slug": "luter",
+      "domaine": "Cuisine",
+      "definition": "Fermer hermétiquement le couvercle d'un récipient avec un cordon de pâte (repère).",
+      "objectif": [
+        "Cuisson à l'étouffée totale"
+      ],
+      "principe": "Joint d'étanchéité comestible.",
+      "exemples": {
+        "cuisine": [
+          "Terrine luter"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Pâte mal collée"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Macérer",
+      "slug": "macerer",
+      "domaine": "Pâtisserie",
+      "definition": "Laisser tremper des fruits dans un liquide (alcool, sirop) pour les parfumer.",
+      "objectif": [
+        "Développement aromatique"
+      ],
+      "principe": "Imprégnation à froid.",
+      "exemples": {
+        "patisserie": [
+          "Fruits confits macérés dans le rhum"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Temps insuffisant"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Manier (Beurre)",
+      "slug": "manier",
+      "domaine": "Cuisine",
+      "definition": "Mélanger du beurre pommade avec de la farine.",
+      "objectif": [
+        "Créer un liant instantané"
+      ],
+      "principe": "Amalgame à froid.",
+      "exemples": {
+        "cuisine": [
+          "Beurre manié pour rattraper une sauce"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Proportions déséquilibrées"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Mariner",
+      "slug": "mariner",
+      "domaine": "Cuisine",
+      "definition": "Mettre un aliment dans un liquide aromatique avant cuisson.",
+      "objectif": [
+        "Parfumer",
+        "Attendrir"
+      ],
+      "principe": "Action acide ou enzymatique du liquide.",
+      "exemples": {
+        "cuisine": [
+          "Mariner un gibier"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Récipient non adapté (oxydation)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Marquer",
+      "slug": "marquer",
+      "domaine": "Cuisine",
+      "definition": "Démarrer la cuisson d'un aliment (souvent colorer les faces).",
+      "objectif": [
+        "Préparation à la cuisson finale"
+      ],
+      "principe": "Saisissage initial.",
+      "exemples": {
+        "cuisine": [
+          "Marquer une viande en cocotte"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Température trop basse"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Masquer",
+      "slug": "masquer",
+      "domaine": "Pâtisserie",
+      "definition": "Recouvrir uniformément un gâteau d'une couche de crème ou de pâte d'amande.",
+      "objectif": [
+        "Cacher les imperfections",
+        "Base de décor"
+      ],
+      "principe": "Lissage externe.",
+      "exemples": {
+        "patisserie": [
+          "Masquer un entremets à la crème au beurre"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Épaisseur irrégulière"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Mijoter",
+      "slug": "mijoter",
+      "domaine": "Cuisine",
+      "definition": "Cuire longuement et très doucement à petit feu.",
+      "objectif": [
+        "Tendreté",
+        "Fusion des saveurs"
+      ],
+      "principe": "Échange thermique lent.",
+      "exemples": {
+        "cuisine": [
+          "Faire mijoter un bœuf bourguignon"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Feu trop vif"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Mirepoix",
+      "slug": "mirepoix",
+      "domaine": "Cuisine",
+      "definition": "Couper des légumes en dés réguliers servant de base aromatique.",
+      "objectif": [
+        "Base de cuisson aromatique"
+      ],
+      "principe": "Découpe spécifique (1cm env).",
+      "exemples": {
+        "cuisine": [
+          "Mirepoix pour un fond brun"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Dés de tailles différentes"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Monter",
+      "slug": "monter-blancs",
+      "domaine": "Pâtisserie",
+      "definition": "Battre une préparation (blancs d'œufs, crème) pour y incorporer de l'air.",
+      "objectif": [
+        "Légèreté",
+        "Volume"
+      ],
+      "principe": "Foisonnement mécanique.",
+      "exemples": {
+        "patisserie": [
+          "Monter des blancs en neige"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Vitesse trop rapide au départ",
+        "Récipient gras"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Mortifier",
+      "slug": "mortifier",
+      "domaine": "Cuisine",
+      "definition": "Laisser reposer une viande après l'abattage pour l'attendrir.",
+      "objectif": [
+        "Tendreté optimale"
+      ],
+      "principe": "Maturation enzymatique.",
+      "exemples": {
+        "cuisine": [
+          "Faire rassir un bœuf"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Température de stockage inadaptée"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Mouiller",
+      "slug": "mouiller",
+      "domaine": "Cuisine",
+      "definition": "Ajouter un liquide (eau, fond, vin) à une préparation.",
+      "objectif": [
+        "Permettre la cuisson",
+        "Base de sauce"
+      ],
+      "principe": "Apport de phase liquide.",
+      "exemples": {
+        "cuisine": [
+          "Mouiller à hauteur"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Excès de liquide"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Napper",
+      "slug": "napper",
+      "domaine": "Pâtisserie",
+      "definition": "Recouvrir une préparation d'une couche de sauce, de crème ou de nappage.",
+      "objectif": [
+        "Finition",
+        "Gourmandise"
+      ],
+      "principe": "Recouvrement partiel ou total.",
+      "exemples": {
+        "patisserie": [
+          "Napper un bavarois"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Nappage trop épais ou figé"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Paner",
+      "slug": "paner",
+      "domaine": "Cuisine",
+      "definition": "Recouvrir un aliment de chapelure après l'avoir passé dans de l'œuf ou du beurre.",
+      "objectif": [
+        "Croustillant"
+      ],
+      "principe": "Protection par croûte sèche.",
+      "exemples": {
+        "cuisine": [
+          "Escalope panée"
+        ]
+      },
+      "erreurs_frequentes": [
+        "La panure ne tient pas (aliment humide)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Parer",
+      "slug": "parer",
+      "domaine": "Cuisine",
+      "definition": "Supprimer les parties non comestibles ou inesthétiques d'un aliment.",
+      "objectif": [
+        "Netteté",
+        "Qualité"
+      ],
+      "principe": "Découpe de nettoyage.",
+      "exemples": {
+        "cuisine": [
+          "Parer une pièce de viande"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Perte excessive de matière"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Passer",
+      "slug": "passer-chinois",
+      "domaine": "Cuisine",
+      "definition": "Faire passer un liquide à travers un chinois ou une passoire.",
+      "objectif": [
+        "Filtration des impuretés"
+      ],
+      "principe": "Séparation mécanique.",
+      "exemples": {
+        "cuisine": [
+          "Passer une sauce au chinois étamine"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Ne pas fouler assez (perte de saveur)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Pétrir",
+      "slug": "petrir",
+      "domaine": "Boulangerie",
+      "definition": "Travailler la pâte (farine, eau, levure, sel) pour développer le réseau glutineux.",
+      "objectif": [
+        "Élasticité",
+        "Structure du pain"
+      ],
+      "principe": "Action mécanique de cisaillement et d'étirement.",
+      "exemples": {
+        "boulangerie": [
+          "Pétrissage d'une pâte à brioche"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Sous-pétrissage (pâte sans force)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Pincer",
+      "slug": "pincer-sucs",
+      "domaine": "Cuisine",
+      "definition": "Faire caraméliser les sucs de viande au fond du récipient de cuisson.",
+      "objectif": [
+        "Coloration et goût des sauces"
+      ],
+      "principe": "Réaction de Maillard poussée.",
+      "exemples": {
+        "cuisine": [
+          "Pincer les os pour un jus de viande"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Brûler les sucs (amertume)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Piquer",
+      "slug": "piquer",
+      "domaine": "Pâtisserie",
+      "definition": "Pratiquer de petits trous dans une pâte pour l'empêcher de gonfler.",
+      "objectif": [
+        "Planéité de la cuisson"
+      ],
+      "principe": "Évacuation de la vapeur d'eau.",
+      "exemples": {
+        "patisserie": [
+          "Piquer un fond de tarte"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Oubli de zones"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Plier",
+      "slug": "plier",
+      "domaine": "Pâtisserie",
+      "definition": "Rabattre une pâte sur elle-même (notamment pour le feuilletage).",
+      "objectif": [
+        "Créer des couches de gras/pâte"
+      ],
+      "principe": "Stratification.",
+      "exemples": {
+        "patisserie": [
+          "Donner un tour simple"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Mauvais alignement des bords"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Pocher",
+      "slug": "pocher",
+      "domaine": "Cuisine",
+      "definition": "Cuire un aliment dans un liquide frémissant.",
+      "objectif": [
+        "Cuisson délicate"
+      ],
+      "principe": "Échange thermique par immersion douce.",
+      "exemples": {
+        "cuisine": [
+          "Pocher un œuf",
+          "Pocher un poisson"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Ébullition trop forte"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Pointer",
+      "slug": "pointage",
+      "domaine": "Boulangerie",
+      "definition": "Première fermentation de la pâte en masse après le pétrissage.",
+      "objectif": [
+        "Développement des arômes",
+        "Force de la pâte"
+      ],
+      "principe": "Action des levures.",
+      "exemples": {
+        "boulangerie": [
+          "Pointage en bac"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Lieu trop froid ou trop chaud"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Pousser",
+      "slug": "pousse",
+      "domaine": "Boulangerie",
+      "definition": "Action de la fermentation qui fait gonfler la pâte.",
+      "objectif": [
+        "Légèreté de la mie"
+      ],
+      "principe": "Production de CO2.",
+      "exemples": {
+        "boulangerie": [
+          "Vérifier la pousse"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Pousse excessive (pain qui retombe)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Rafraîchir",
+      "slug": "rafraichir",
+      "domaine": "Cuisine",
+      "definition": "Plonger un aliment dans l'eau glacée après cuisson.",
+      "objectif": [
+        "Arrêter la cuisson immédiatement",
+        "Fixer la couleur"
+      ],
+      "principe": "Choc thermique froid.",
+      "exemples": {
+        "cuisine": [
+          "Rafraîchir des asperges"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Laisser trop longtemps dans l'eau (perte de goût)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Réduire",
+      "slug": "reduire",
+      "domaine": "Cuisine",
+      "definition": "Faire bouillir un liquide pour en diminuer le volume par évaporation.",
+      "objectif": [
+        "Concentrer les saveurs et la consistance"
+      ],
+      "principe": "Évaporation forcée.",
+      "exemples": {
+        "cuisine": [
+          "Réduire un jus de viande"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Trop réduire (devient trop salé)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Réserver",
+      "slug": "reserver",
+      "domaine": "Cuisine",
+      "definition": "Mettre de côté une préparation en attendant son utilisation.",
+      "objectif": [
+        "Organisation du plan de travail"
+      ],
+      "principe": "Stockage temporaire.",
+      "exemples": {
+        "cuisine": [
+          "Réserver au frais"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Mauvaises conditions de température"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Rôtir",
+      "slug": "rotir",
+      "domaine": "Cuisine",
+      "definition": "Cuire un aliment au four ou à la broche avec un corps gras.",
+      "objectif": [
+        "Concentration des sucs",
+        "Croustillant"
+      ],
+      "principe": "Rayonnement et convection sèche.",
+      "exemples": {
+        "cuisine": [
+          "Rôtir un poulet"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Absence d'arrosage"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Sabler",
+      "slug": "sabler",
+      "domaine": "Pâtisserie",
+      "definition": "Mélanger le beurre et la farine jusqu'à l'obtention d'une texture de sable.",
+      "objectif": [
+        "Imperméabiliser la farine (évite le corps)"
+      ],
+      "principe": "Enrobage du gluten par le gras.",
+      "exemples": {
+        "patisserie": [
+          "Sablage pour pâte brisée"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Beurre trop mou ou fondu"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Saisir",
+      "slug": "saisir",
+      "domaine": "Cuisine",
+      "definition": "Démarrer une cuisson à feu très vif.",
+      "objectif": [
+        "Former une croûte protectrice"
+      ],
+      "principe": "Coagulation instantanée.",
+      "exemples": {
+        "cuisine": [
+          "Saisir un steak"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Poêle pas assez chaude"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Suer",
+      "slug": "suer",
+      "domaine": "Cuisine",
+      "definition": "Cuire doucement des légumes dans un corps gras sans coloration.",
+      "objectif": [
+        "Éliminer l'eau de végétation"
+      ],
+      "principe": "Évaporation ménagée.",
+      "exemples": {
+        "cuisine": [
+          "Faire suer des oignons"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Coloration indésirable"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Tamiser",
+      "slug": "tamiser",
+      "domaine": "Pâtisserie",
+      "definition": "Passer un ingrédient sec au travers d'un tamis.",
+      "objectif": [
+        "Éliminer les grumeaux",
+        "Aérer"
+      ],
+      "principe": "Filtration à sec.",
+      "exemples": {
+        "patisserie": [
+          "Tamiser la farine"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Tamis humide"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Tempérer",
+      "slug": "temperer",
+      "domaine": "Pâtisserie",
+      "definition": "Amener une préparation à une température précise (chocolat).",
+      "objectif": [
+        "Brillance et cassant"
+      ],
+      "principe": "Cristallisation stable.",
+      "exemples": {
+        "patisserie": [
+          "Tempérage du chocolat noir"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Courbe de température non respectée"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Tourner",
+      "slug": "tourner-legumes",
+      "domaine": "Cuisine",
+      "definition": "Donner une forme régulière et esthétique à certains légumes.",
+      "objectif": [
+        "Régularité de cuisson",
+        "Esthétique"
+      ],
+      "principe": "Taille au couteau d'office.",
+      "exemples": {
+        "cuisine": [
+          "Pommes de terre tournées"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Forme asymétrique"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Zester",
+      "slug": "zester",
+      "domaine": "Pâtisserie",
+      "definition": "Prélever la peau superficielle d'un agrume.",
+      "objectif": [
+        "Parfumer"
+      ],
+      "principe": "Extraction des huiles essentielles.",
+      "exemples": {
+        "patisserie": [
+          "Zester un citron"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Prendre le ziste (partie blanche amère)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Abaisse",
+      "slug": "abaisse-morceau",
+      "domaine": "Pâtisserie",
+      "definition": "Morceau de pâte amincie à l'aide d'un rouleau.",
+      "objectif": [
+        "Préparation au fonçage"
+      ],
+      "principe": "Laminage mécanique.",
+      "exemples": {
+        "patisserie": [
+          "Une abaisse de feuilletage"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Pâte trop élastique"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Aromatiser",
+      "slug": "aromatiser",
+      "domaine": "Cuisine",
+      "definition": "Introduire une substance aromatique dans une préparation.",
+      "objectif": [
+        "Renforcer le goût"
+      ],
+      "principe": "Inclusion de saveurs.",
+      "exemples": {
+        "cuisine": [
+          "Aromatiser aux herbes de Provence"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Déséquilibre aromatique"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Baignade",
+      "slug": "baignade",
+      "domaine": "Cuisine",
+      "definition": "Action de plonger un aliment dans un liquide.",
+      "objectif": [
+        "Hydratation rapide"
+      ],
+      "principe": "Immersion.",
+      "exemples": {
+        "cuisine": [
+          "Baignade des légumes"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Temps trop long"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Bâtonnet",
+      "slug": "batonnet",
+      "domaine": "Cuisine",
+      "definition": "Couper des légumes en forme de petits bâtons (environ 5cm de long).",
+      "objectif": [
+        "Régularité visuelle"
+      ],
+      "principe": "Découpe géométrique.",
+      "exemples": {
+        "cuisine": [
+          "Bâtonnets de carottes"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Dimensions inégales"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Beurre manié",
+      "slug": "beurre-manie",
+      "domaine": "Cuisine",
+      "definition": "Mélange de beurre et farine à parts égales utilisé à froid.",
+      "objectif": [
+        "Liaison rapide"
+      ],
+      "principe": "Liaison à l'amidon.",
+      "exemples": {
+        "cuisine": [
+          "Rattrapage d'une sauce trop fluide"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Grumeaux si mal mélangé"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Bouquet garni",
+      "slug": "bouquet-garni",
+      "domaine": "Cuisine",
+      "definition": "Ensemble d'herbes (thym, laurier, persil) liées ensemble.",
+      "objectif": [
+        "Parfumer les fonds et bouillons"
+      ],
+      "principe": "Infusion aromatique.",
+      "exemples": {
+        "cuisine": [
+          "Bouquet garni pour pot-au-feu"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Ficelage trop lâche"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Braiser",
+      "slug": "braiser",
+      "domaine": "Cuisine",
+      "definition": "Cuire à couvert, à feu doux, avec un peu de liquide.",
+      "objectif": [
+        "Tendreté des pièces longues à cuire"
+      ],
+      "principe": "Cuisson mixte (vapeur et liquide).",
+      "exemples": {
+        "cuisine": [
+          "Bœuf braisé"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Manque de liquide (dessèchement)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Brûler",
+      "slug": "bruler-sucre",
+      "domaine": "Pâtisserie",
+      "definition": "Cuire un sucre jusqu'à une coloration très foncée ou carbonisation.",
+      "objectif": [
+        "Couleur ou amertume recherchée (rare)"
+      ],
+      "principe": "Pyrolyse.",
+      "exemples": {
+        "patisserie": [
+          "Caramel amer"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Involontaire dans la plupart des cas"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Canneler",
+      "slug": "canneler",
+      "domaine": "Cuisine",
+      "definition": "Pratiquer de petites rainures sur la surface d'un fruit ou légume.",
+      "objectif": [
+        "Décoration"
+      ],
+      "principe": "Découpe superficielle au couteau canneleur.",
+      "exemples": {
+        "cuisine": [
+          "Citron cannelé"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Rainures de profondeurs inégales"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Caraméliser",
+      "slug": "carameliser",
+      "domaine": "Pâtisserie",
+      "definition": "Transformer du sucre en caramel par la chaleur.",
+      "objectif": [
+        "Goût",
+        "Couleur"
+      ],
+      "principe": "Oxydation thermique du sucre.",
+      "exemples": {
+        "patisserie": [
+          "Caramélisation d'une crème brûlée"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Brûlage excessif"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Chauffer",
+      "slug": "chauffer",
+      "domaine": "Cuisine",
+      "definition": "Augmenter la température d'une préparation.",
+      "objectif": [
+        "Température de service ou réaction"
+      ],
+      "principe": "Apport calorique.",
+      "exemples": {
+        "cuisine": [
+          "Chauffer un fond"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Ébullition non souhaitée"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Chemiser",
+      "slug": "chemiser",
+      "domaine": "Pâtisserie",
+      "definition": "Appliquer une couche de papier, de beurre ou de pâte sur les parois d'un moule.",
+      "objectif": [
+        "Faciliter le démoulage"
+      ],
+      "principe": "Isolation du contenant.",
+      "exemples": {
+        "patisserie": [
+          "Chemiser un moule avec du papier sulfurisé"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Plis dans le papier"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Chiffonnade",
+      "slug": "chiffonnade",
+      "domaine": "Cuisine",
+      "definition": "Couper des légumes feuilles en fines lanières.",
+      "objectif": [
+        "Présentation",
+        "Cuisson flash"
+      ],
+      "principe": "Tranchage de feuilles roulées.",
+      "exemples": {
+        "cuisine": [
+          "Chiffonnade de salade"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Lanières trop larges"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Chinois",
+      "slug": "chinois-ustensile",
+      "domaine": "Cuisine",
+      "definition": "Passer un liquide au travers d'une passoire fine conique.",
+      "objectif": [
+        "Limpidité"
+      ],
+      "principe": "Filtration mécanique.",
+      "exemples": {
+        "cuisine": [
+          "Passer un bouillon au chinois"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Passoire bouchée"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Chiqueter",
+      "slug": "chiqueter",
+      "domaine": "Pâtisserie",
+      "definition": "Pratiquer de petites incisions sur le bord d'une pâte feuilletée.",
+      "objectif": [
+        "Favoriser la levée régulière",
+        "Décoration"
+      ],
+      "principe": "Incision au couteau.",
+      "exemples": {
+        "patisserie": [
+          "Chiqueter une galette des rois"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Incisions trop profondes"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Citronner",
+      "slug": "citronner",
+      "domaine": "Cuisine",
+      "definition": "Frotter ou arroser un aliment avec du jus de citron.",
+      "objectif": [
+        "Éviter l'oxydation"
+      ],
+      "principe": "Action antioxydante de l'acide citrique.",
+      "exemples": {
+        "cuisine": [
+          "Citronner des pommes coupées"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Trop de jus (altère le goût)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Coffrer",
+      "slug": "coffrer",
+      "domaine": "Cuisine",
+      "definition": "Maintenir la forme d'un aliment pendant la cuisson.",
+      "objectif": [
+        "Esthétique"
+      ],
+      "principe": "Soutien mécanique.",
+      "exemples": {
+        "cuisine": [
+          "Coffrer une pièce de viande"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Serrage excessif"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Colorer",
+      "slug": "colorer",
+      "domaine": "Cuisine",
+      "definition": "Donner une couleur dorée à un aliment.",
+      "objectif": [
+        "Esthétique",
+        "Saveur"
+      ],
+      "principe": "Réaction de Maillard.",
+      "exemples": {
+        "cuisine": [
+          "Colorer des oignons"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Coloration hétérogène"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Composer",
+      "slug": "composer",
+      "domaine": "Cuisine",
+      "definition": "Assembler différents éléments pour créer un plat.",
+      "objectif": [
+        "Harmonie des saveurs"
+      ],
+      "principe": "Assemblage créatif.",
+      "exemples": {
+        "cuisine": [
+          "Composer une salade"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Trop d'ingrédients"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Compresser",
+      "slug": "compresser",
+      "domaine": "Cuisine",
+      "definition": "Réduire le volume d'un aliment sous pression.",
+      "objectif": [
+        "Texture dense"
+      ],
+      "principe": "Pression mécanique.",
+      "exemples": {
+        "cuisine": [
+          "Compresser une terrine"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Excès de pression (écrase les fibres)"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Contrôler",
+      "slug": "controler",
+      "domaine": "Cuisine",
+      "definition": "Vérifier l'état de cuisson ou d'assaisonnement.",
+      "objectif": [
+        "Qualité finale"
+      ],
+      "principe": "Vérification sensorielle ou technique.",
+      "exemples": {
+        "cuisine": [
+          "Contrôler la température à cœur"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Manque de régularité"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Coquillage",
+      "slug": "coquillage-ouvrir",
+      "domaine": "Cuisine",
+      "definition": "Ouvrir et préparer les coquillages.",
+      "objectif": [
+        "Consommation"
+      ],
+      "principe": "Ouverture mécanique.",
+      "exemples": {
+        "cuisine": [
+          "Ouvrir des huîtres"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Blessure, bris de coquille"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Coucher (poche)",
+      "slug": "coucher-poche",
+      "domaine": "Pâtisserie",
+      "definition": "Dresser une préparation à la poche à douille.",
+      "objectif": [
+        "Forme calibrée"
+      ],
+      "principe": "Extrusion contrôlée.",
+      "exemples": {
+        "patisserie": [
+          "Coucher des meringues"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Taille irrégulière"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Coulis",
+      "slug": "coulis",
+      "domaine": "Cuisine",
+      "definition": "Sauce épaisse obtenue par mixage et tamisage.",
+      "objectif": [
+        "Accompagnement concentré"
+      ],
+      "principe": "Réduction de texture.",
+      "exemples": {
+        "cuisine": [
+          "Coulis de tomates",
+          "Coulis de framboise"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Présence de pépins"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Couronne",
+      "slug": "couronne",
+      "domaine": "Boulangerie",
+      "definition": "Façonner un pâton en forme d'anneau.",
+      "objectif": [
+        "Esthétique spécifique"
+      ],
+      "principe": "Façonnage circulaire.",
+      "exemples": {
+        "boulangerie": [
+          "Couronne bordelaise"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Soudure qui lâche"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Crépiner",
+      "slug": "crepiner",
+      "domaine": "Cuisine",
+      "definition": "Envelopper une préparation dans une crépine (membrane graisseuse).",
+      "objectif": [
+        "Maintenir la forme",
+        "Apporter du moelleux"
+      ],
+      "principe": "Gainage naturel.",
+      "exemples": {
+        "cuisine": [
+          "Crépiner des paupiettes"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Crépine mal rincée"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Crever (riz)",
+      "slug": "crever-riz",
+      "domaine": "Cuisine",
+      "definition": "Plonger le riz dans l'eau froide et porter à ébullition pour éclater le grain.",
+      "objectif": [
+        "Faciliter l'absorption"
+      ],
+      "principe": "Choc thermique aqueux.",
+      "exemples": {
+        "cuisine": [
+          "Riz au lait"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Cuisson trop avancée avant l'ajout du lait"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Cribler (farine)",
+      "slug": "cribler-farine",
+      "domaine": "Boulangerie",
+      "definition": "Passer la farine au tamis grossier pour éliminer les corps étrangers.",
+      "objectif": [
+        "Hygiène",
+        "Sécurité alimentaire"
+      ],
+      "principe": "Tamisage de sécurité.",
+      "exemples": {
+        "boulangerie": [
+          "Criblage manuel"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Maillage trop fin (perte de temps)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Croûter",
+      "slug": "crouter",
+      "domaine": "Pâtisserie",
+      "definition": "Laisser sécher une pâte à l'air libre pour qu'une fine pellicule sèche se forme.",
+      "objectif": [
+        "Tenue à la cuisson",
+        "Aspect lisse"
+      ],
+      "principe": "Évaporation de surface.",
+      "exemples": {
+        "patisserie": [
+          "Laisser croûter les macarons"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Humidité ambiante trop élevée"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Cuisson à cœur",
+      "slug": "cuisson-a-coeur",
+      "domaine": "Cuisine",
+      "definition": "Vérifier que la température interne de l'aliment a atteint le seuil requis.",
+      "objectif": [
+        "Sécurité sanitaire",
+        "Juste cuisson"
+      ],
+      "principe": "Mesure par sonde thermique.",
+      "exemples": {
+        "cuisine": [
+          "Température d'un rôti"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Sondage mal positionné (trop près de l'os)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Culotter (poêle)",
+      "slug": "culotter-poele",
+      "domaine": "Cuisine",
+      "definition": "Brûler de l'huile dans une poêle neuve en fer pour la rendre anti-adhésive.",
+      "objectif": [
+        "Anti-adhérence"
+      ],
+      "principe": "Polymérisation des graisses.",
+      "exemples": {
+        "cuisine": [
+          "Entretien poêle en acier"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Nettoyage au détergent après culottage"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dardois",
+      "slug": "dardois",
+      "domaine": "Cuisine",
+      "definition": "Trancher un poisson en forme de darne (tranche épaisse transversale).",
+      "objectif": [
+        "Cuisson régulière",
+        "Présentation"
+      ],
+      "principe": "Tranchage anatomique.",
+      "exemples": {
+        "cuisine": [
+          "Darne de saumon"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Bris de l'arête centrale"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Décanter (vin)",
+      "slug": "decanter-vin",
+      "domaine": "Cuisine",
+      "definition": "Transvaser un vin pour séparer le dépôt ou l'aérer.",
+      "objectif": [
+        "Clarté",
+        "Aération"
+      ],
+      "principe": "Gravité et oxygénation.",
+      "exemples": {
+        "cuisine": [
+          "Décanter un vin rouge vieux"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Aération trop longue"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Déchet",
+      "slug": "dechet-parure",
+      "domaine": "Cuisine",
+      "definition": "Partie non utilisable après parage ou épluchage.",
+      "objectif": [
+        "Calcul du rendement"
+      ],
+      "principe": "Soustraction pondérale.",
+      "exemples": {
+        "cuisine": [
+          "Peaux de légumes"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Mauvais tri (gaspillage)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Décoction",
+      "slug": "decoction",
+      "domaine": "Cuisine",
+      "definition": "Faire bouillir une substance dans un liquide pour en extraire les principes.",
+      "objectif": [
+        "Extraction puissante"
+      ],
+      "principe": "Infusion par ébullition prolongée.",
+      "exemples": {
+        "cuisine": [
+          "Décoction d'écorces"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Amertume excessive"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Décortiquer",
+      "slug": "decortiquer",
+      "domaine": "Cuisine",
+      "definition": "Retirer la carapace des crustacés.",
+      "objectif": [
+        "Mise à nu de la chair"
+      ],
+      "principe": "Extraction manuelle.",
+      "exemples": {
+        "cuisine": [
+          "Décortiquer des crevettes"
+        ]
+      },
+      "erreurs_frequentes": [
+        " Chair abîmée"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Décuire",
+      "slug": "decuire",
+      "domaine": "Pâtisserie",
+      "definition": "Ajouter un liquide à un sucre cuit pour en arrêter la cuisson.",
+      "objectif": [
+        "Fluidification",
+        "Arrêt de température"
+      ],
+      "principe": "Choc thermique et dilution.",
+      "exemples": {
+        "patisserie": [
+          "Décuire un caramel à la crème"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Projections brûlantes"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dégorger (moules)",
+      "slug": "degorger-moules",
+      "domaine": "Cuisine",
+      "definition": "Laisser les moules dans l'eau salée pour éliminer le sable.",
+      "objectif": [
+        "Propreté"
+      ],
+      "principe": "Purge naturelle.",
+      "exemples": {
+        "cuisine": [
+          "Nettoyage des coquillages"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Eau non salée (tue le produit)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dégourdir",
+      "slug": "degourdir",
+      "domaine": "Pâtisserie",
+      "definition": "Amener un ingrédient froid à température ambiante pour le travailler.",
+      "objectif": [
+        "Souplesse"
+      ],
+      "principe": "Remise en température douce.",
+      "exemples": {
+        "patisserie": [
+          "Dégourdir le beurre"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Chauffage trop brutal"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dégraisser (plat)",
+      "slug": "degraisser-plat",
+      "domaine": "Cuisine",
+      "definition": "Retirer la graisse de surface d'un jus de cuisson.",
+      "objectif": [
+        "Légèreté"
+      ],
+      "principe": "Écumage du gras.",
+      "exemples": {
+        "cuisine": [
+          "Dégraisser une sauce au bouillon"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Retirer le jus noble avec le gras"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dégustation",
+      "slug": "degustation",
+      "domaine": "Cuisine",
+      "definition": "Action de goûter pour analyser les saveurs.",
+      "objectif": [
+        "Vérification de l'équilibre"
+      ],
+      "principe": "Analyse sensorielle.",
+      "exemples": {
+        "cuisine": [
+          "Dégustation du chef"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Manque d'objectivité"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Délabyrinther",
+      "slug": "delabyrinther",
+      "domaine": "Cuisine",
+      "definition": "Retirer les membranes internes de certains abats.",
+      "objectif": [
+        "Finesse"
+      ],
+      "principe": "Épluchage interne.",
+      "exemples": {
+        "cuisine": [
+          "Préparation des ris de veau"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Oubli de filaments"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Denteler",
+      "slug": "denteler",
+      "domaine": "Pâtisserie",
+      "definition": "Découper les bords d'une pâte en forme de dents.",
+      "objectif": [
+        "Décoration"
+      ],
+      "principe": "Ciselage régulier.",
+      "exemples": {
+        "patisserie": [
+          "Bords de tartelette"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Irrégularité"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dépouiller (sauce)",
+      "slug": "depouiller-sauce",
+      "domaine": "Cuisine",
+      "definition": "Retirer la peau ou les impuretés qui flottent sur une sauce en ébullition.",
+      "objectif": [
+        "Brillance",
+        "Netteté"
+      ],
+      "principe": "Écumage latéral.",
+      "exemples": {
+        "cuisine": [
+          "Dépouiller un fond brun"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Ne pas le faire assez souvent"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Désaliniser",
+      "slug": "desaliniser",
+      "domaine": "Cuisine",
+      "definition": "Tremper un aliment dans l'eau pour en retirer l'excès de sel.",
+      "objectif": [
+        "Comestibilité"
+      ],
+      "principe": "Osmose.",
+      "exemples": {
+        "cuisine": [
+          "Dessaler de la morue"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Temps trop court"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dessabler",
+      "slug": "dessabler",
+      "domaine": "Cuisine",
+      "definition": "Laisser tremper des légumes ou coquillages pour retirer le sable.",
+      "objectif": [
+        "Propreté absolue"
+      ],
+      "principe": "Sédimentation.",
+      "exemples": {
+        "cuisine": [
+          "Dessabler des poireaux"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Rincage incomplet"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Déssecher (purée)",
+      "slug": "dessecher-puree",
+      "domaine": "Cuisine",
+      "definition": "Travailler une purée sur le feu pour évaporer l'humidité.",
+      "objectif": [
+        "Onctuosité",
+        "Tenue"
+      ],
+      "principe": "Évaporation.",
+      "exemples": {
+        "cuisine": [
+          "Purée de pommes de terre"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Attacher au fond de la casserole"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Détailler (couteau)",
+      "slug": "detailler-couteau",
+      "domaine": "Cuisine",
+      "definition": "Découper une pièce en éléments plus petits.",
+      "objectif": [
+        "Mise en portion"
+      ],
+      "principe": "Découpe franche.",
+      "exemples": {
+        "cuisine": [
+          "Détailler un filet mignon"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Déchirure de la chair"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Détendre",
+      "slug": "detendre",
+      "domaine": "Pâtisserie",
+      "definition": "Ajouter un liquide à une préparation trop épaisse pour la rendre plus fluide.",
+      "objectif": [
+        "Souplesse"
+      ],
+      "principe": "Dilution.",
+      "exemples": {
+        "patisserie": [
+          "Détendre une crème pâtissière"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Ajout de trop de liquide d'un coup"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Disposer",
+      "slug": "disposer",
+      "domaine": "Cuisine",
+      "definition": "Placer les éléments d'un plat sur un support.",
+      "objectif": [
+        "Harmonie"
+      ],
+      "principe": "Placement spatial.",
+      "exemples": {
+        "cuisine": [
+          "Disposer des garnitures"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Manque de symétrie ou de logique"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dissoudre",
+      "slug": "dissoudre",
+      "domaine": "Cuisine",
+      "definition": "Faire fondre une substance solide dans un liquide.",
+      "objectif": [
+        "Mélange homogène"
+      ],
+      "principe": "Solubilisation.",
+      "exemples": {
+        "cuisine": [
+          "Dissoudre du sel dans l'eau"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Liquide trop froid"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dorer (œuf)",
+      "slug": "dorer-oeuf",
+      "domaine": "Pâtisserie",
+      "definition": "Étaler une couche de dorure à l'aide d'un pinceau.",
+      "objectif": [
+        "Brillance après cuisson"
+      ],
+      "principe": "Coagulation des protéines de l'œuf.",
+      "exemples": {
+        "patisserie": [
+          "Dorer une pâte feuilletée"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Coulures sur les bords (empêche la levée)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Dresser (poche)",
+      "slug": "dresser-poche",
+      "domaine": "Pâtisserie",
+      "definition": "Donner une forme à une pâte en utilisant une poche à douille.",
+      "objectif": [
+        "Régularité de présentation"
+      ],
+      "principe": "Pression manuelle contrôlée.",
+      "exemples": {
+        "patisserie": [
+          "Dresser des choux"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Bulles d'air dans la poche"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Ébarber (moules)",
+      "slug": "ebarber-moules",
+      "domaine": "Cuisine",
+      "definition": "Arracher le byssus (filaments) des moules.",
+      "objectif": [
+        "Propreté"
+      ],
+      "principe": "Extraction manuelle.",
+      "exemples": {
+        "cuisine": [
+          "Préparation des moules marinières"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Ouvrir la moule par mégarde"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Ébouillanter (tomates)",
+      "slug": "ebouillanter-tomates",
+      "domaine": "Cuisine",
+      "definition": "Plonger quelques secondes dans l'eau bouillante.",
+      "objectif": [
+        "Faciliter l'épluchage (émonder)"
+      ],
+      "principe": "Choc thermique.",
+      "exemples": {
+        "cuisine": [
+          "Émonder des tomates"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Cuire la chair"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Écailler (poisson)",
+      "slug": "ecailler-poisson",
+      "domaine": "Cuisine",
+      "definition": "Enlever les écailles à l'aide d'un écailleur ou du dos d'un couteau.",
+      "objectif": [
+        "Consommation"
+      ],
+      "principe": "Grattage de la queue vers la tête.",
+      "exemples": {
+        "cuisine": [
+          "Écailler un bar"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Abîmer la peau"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Échardonnage",
+      "slug": "echardonnage",
+      "domaine": "Cuisine",
+      "definition": "Retirer les parties piquantes de certains légumes (artichauts).",
+      "objectif": [
+        "Confort de dégustation"
+      ],
+      "principe": "Parage spécifique.",
+      "exemples": {
+        "cuisine": [
+          "Préparer un fond d'artichaut"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Blessure aux mains"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Émincer (oignon)",
+      "slug": "emincer-oignon",
+      "domaine": "Cuisine",
+      "definition": "Couper en tranches très fines et régulières.",
+      "objectif": [
+        "Cuisson rapide",
+        "Esthétique"
+      ],
+      "principe": "Ciselage transversal.",
+      "exemples": {
+        "cuisine": [
+          "Émincer pour une soupe à l'oignon"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Épaisseurs inégales"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Émulsionner (sauce)",
+      "slug": "emulsionner-sauce",
+      "domaine": "Cuisine",
+      "definition": "Mélanger deux liquides qui ne se mélangent pas naturellement.",
+      "objectif": [
+        "Onctuosité et stabilité"
+      ],
+      "principe": "Dispersion moléculaire.",
+      "exemples": {
+        "cuisine": [
+          "Mayonnaise",
+          "Vinaigrette"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Ajout de l'huile trop rapide"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Enfourner (pelle)",
+      "slug": "enfourner-pelle",
+      "domaine": "Boulangerie",
+      "definition": "Glisser le pain dans le four à l'aide d'une pelle.",
+      "objectif": [
+        "Démarrage de la cuisson"
+      ],
+      "principe": "Transfert sur sole chaude.",
+      "exemples": {
+        "boulangerie": [
+          "Pain de campagne"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Le pain colle à la pelle"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Enlever le germe",
+      "slug": "enlever-germe",
+      "domaine": "Cuisine",
+      "definition": "Retirer la partie centrale de l'ail.",
+      "objectif": [
+        "Digestibilité"
+      ],
+      "principe": "Extraction manuelle.",
+      "exemples": {
+        "cuisine": [
+          "Préparation de l'ail"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Oubli (amertume)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Épépiner (concombre)",
+      "slug": "epepiner-concombre",
+      "domaine": "Cuisine",
+      "definition": "Retirer les graines centrales à l'aide d'une cuillère.",
+      "objectif": [
+        "Réduire l'humidité",
+        "Texture"
+      ],
+      "principe": "Évidage.",
+      "exemples": {
+        "cuisine": [
+          "Salade de concombre"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Creuser trop profondément"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Éponger (poisson)",
+      "slug": "eponger-poisson",
+      "domaine": "Cuisine",
+      "definition": "Sécher soigneusement avant cuisson.",
+      "objectif": [
+        "Réussir la coloration"
+      ],
+      "principe": "Absorption d'eau.",
+      "exemples": {
+        "cuisine": [
+          "Pavé de cabillaud"
+        ]
+      },
+      "erreurs_frequentes": [
+        "L'aliment bout au lieu de griller"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Étaler",
+      "slug": "etaler-pate",
+      "domaine": "Pâtisserie",
+      "definition": "Aplatir une pâte à l'aide d'un rouleau ou d'un laminoir.",
+      "objectif": [
+        "Obtenir une épaisseur précise"
+      ],
+      "principe": "Écrasement contrôlé.",
+      "exemples": {
+        "patisserie": [
+          "Étaler une pâte à tarte"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Épaisseur hétérogène"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Étouffée (cuisson)",
+      "slug": "etouffee",
+      "domaine": "Cuisine",
+      "definition": "Cuire à couvert avec très peu de liquide.",
+      "objectif": [
+        "Concentration aromatique"
+      ],
+      "principe": "Vapeur de l'aliment.",
+      "exemples": {
+        "cuisine": [
+          "Légumes à l'étouffée"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Brûler le fond (manque d'étanchéité)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Évider (pomme)",
+      "slug": "evider-pomme",
+      "domaine": "Cuisine",
+      "definition": "Retirer le trognon à l'aide d'un vide-pomme.",
+      "objectif": [
+        "Consommation directe ou farce"
+      ],
+      "principe": "Perçage axial.",
+      "exemples": {
+        "cuisine": [
+          "Pomme au four"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Percer de travers"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Façonner (baguette)",
+      "slug": "faconner-baguette",
+      "domaine": "Boulangerie",
+      "definition": "Allonger le pâton pour lui donner sa forme finale.",
+      "objectif": [
+        "Aspect et structure"
+      ],
+      "principe": "Roulage et soudure.",
+      "exemples": {
+        "boulangerie": [
+          "Baguette de tradition"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Déchirer la clé (soudure)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Farcir (volaille)",
+      "slug": "farcir-volaille",
+      "domaine": "Cuisine",
+      "definition": "Remplir la cavité naturelle d'un animal.",
+      "objectif": [
+        "Moelleux",
+        "Goût"
+      ],
+      "principe": "Remplissage.",
+      "exemples": {
+        "cuisine": [
+          "Chapon farci"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Farce pas assez cuite à cœur"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Fermenter",
+      "slug": "fermenter",
+      "domaine": "Boulangerie",
+      "definition": "Laisser agir les levures ou bactéries.",
+      "objectif": [
+        "Levée du produit",
+        "Arômes"
+      ],
+      "principe": "Transformation biochimique.",
+      "exemples": {
+        "boulangerie": [
+          "Fermentation du levain"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Température excessive"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Ficeler (rôti)",
+      "slug": "ficeler-roti",
+      "domaine": "Cuisine",
+      "definition": "Ligaturer une viande pour qu'elle garde sa forme.",
+      "objectif": [
+        "Cuisson uniforme"
+      ],
+      "principe": "Contention par fils.",
+      "exemples": {
+        "cuisine": [
+          "Rôti de porc"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Noeuds trop lâches"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Filmer au contact",
+      "slug": "filmer-contact",
+      "domaine": "Pâtisserie",
+      "definition": "Placer un film plastique directement sur une crème.",
+      "objectif": [
+        "Éviter la formation d'une peau"
+      ],
+      "principe": "Privation d'air.",
+      "exemples": {
+        "patisserie": [
+          "Crème pâtissière chaude"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Laisser des bulles d'air"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Finition",
+      "slug": "finition",
+      "domaine": "Cuisine",
+      "definition": "Dernière étape de préparation avant l'envoi.",
+      "objectif": [
+        "Esthétique parfaite"
+      ],
+      "principe": "Ajustement visuel et gustatif.",
+      "exemples": {
+        "cuisine": [
+          "Ajout d'herbes fraîches au dressage"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Finition trop chargée"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Flamber (alcool)",
+      "slug": "flamber-alcool",
+      "domaine": "Cuisine",
+      "definition": "Enflammer un alcool ajouté à une préparation chaude.",
+      "objectif": [
+        "Parfumer sans l'agressivité de l'alcool"
+      ],
+      "principe": "Combustion de l'éthanol.",
+      "exemples": {
+        "cuisine": [
+          "Gambas flambées au pastis"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Hotte allumée (danger d'incendie)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Fleurer (plan)",
+      "slug": "fleurer-plan",
+      "domaine": "Boulangerie",
+      "definition": "Saupoudrer de la farine sur le plan de travail.",
+      "objectif": [
+        "Éviter que la pâte ne colle"
+      ],
+      "principe": "Barrière sèche fine.",
+      "exemples": {
+        "boulangerie": [
+          "Avant façonnage"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Mettre trop de farine (pâte sèche)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Foisonner (glace)",
+      "slug": "foisonner-glace",
+      "domaine": "Pâtisserie",
+      "definition": "Augmenter le volume en incorporant de l'air pendant le sanglage.",
+      "objectif": [
+        "Onctuosité",
+        "Volume"
+      ],
+      "principe": "Turbinage.",
+      "exemples": {
+        "patisserie": [
+          "Sorbet citron"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Refroidissement trop lent"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Fouler",
+      "slug": "fouler",
+      "domaine": "Cuisine",
+      "definition": "Appuyer fortement sur une préparation dans un chinois pour en extraire tout le jus.",
+      "objectif": [
+        "Récupérer le maximum de saveurs"
+      ],
+      "principe": "Pression mécanique avec un pochon.",
+      "exemples": {
+        "cuisine": [
+          "Fouler un fond de veau"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Pression trop faible"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Fourrer (pâte)",
+      "slug": "fourrer-pate",
+      "domaine": "Pâtisserie",
+      "definition": "Introduire une garniture à l'intérieur d'une pâte avant ou après cuisson.",
+      "objectif": [
+        "Gourmandise"
+      ],
+      "principe": "Insertion interne.",
+      "exemples": {
+        "patisserie": [
+          "Fourrer des brioches au chocolat"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Garniture qui s'échappe (mauvaise soudure)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Frapper",
+      "slug": "frapper",
+      "domaine": "Cuisine",
+      "definition": "Refroidir très rapidement un liquide en le plaçant dans de la glace pilée ou au congélateur.",
+      "objectif": [
+        "Service à température très basse"
+      ],
+      "principe": "Refroidissement éclair.",
+      "exemples": {
+        "cuisine": [
+          "Frapper un champagne"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Congélation partielle du liquide"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Frémir (liquide)",
+      "slug": "fremir-liquide",
+      "domaine": "Cuisine",
+      "definition": "Maintenir un liquide dans un état de légère ébullition (petites bulles).",
+      "objectif": [
+        "Cuisson lente et régulière"
+      ],
+      "principe": "Ébullition ménagée.",
+      "exemples": {
+        "cuisine": [
+          "Faire frémir un court-bouillon"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Passage à gros bouillons (agite l'aliment)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Frire (bain)",
+      "slug": "frire-bain",
+      "domaine": "Cuisine",
+      "definition": "Plonger un aliment dans un bain d'huile chauffé entre 160°C et 180°C.",
+      "objectif": [
+        "Croustillant",
+        "Cuisson rapide"
+      ],
+      "principe": "Convection thermique par corps gras.",
+      "exemples": {
+        "cuisine": [
+          "Frire des pommes de terre"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Huile trop froide (aliment gras)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Frotter",
+      "slug": "frotter",
+      "domaine": "Cuisine",
+      "definition": "Appliquer un aromate par friction sur un aliment ou un plat.",
+      "objectif": [
+        "Parfumer en surface"
+      ],
+      "principe": "Transfert par contact.",
+      "exemples": {
+        "cuisine": [
+          "Frotter un plat à gratin avec de l'ail"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Oubli de zones"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Garnir",
+      "slug": "garnir",
+      "domaine": "Cuisine",
+      "definition": "Ajouter des éléments d'accompagnement ou remplir une préparation.",
+      "objectif": [
+        "Compléter le plat"
+      ],
+      "principe": "Assemblage.",
+      "exemples": {
+        "cuisine": [
+          "Garnir une omelette"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Surcharge du plat"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Givrer",
+      "slug": "givrer",
+      "domaine": "Cuisine",
+      "definition": "Entourer le bord d'un verre d'une fine couche de sucre ou de sel.",
+      "objectif": [
+        "Décoration",
+        "Saveur"
+      ],
+      "principe": "Adhérence par humidité.",
+      "exemples": {
+        "cuisine": [
+          "Givrer un verre à cocktail"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Couche irrégulière"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Glacer (sirop)",
+      "slug": "glacer-sirop",
+      "domaine": "Pâtisserie",
+      "definition": "Recouvrir de sucre glace ou de sirop pour obtenir un aspect brillant.",
+      "objectif": [
+        "Esthétique",
+        "Protection"
+      ],
+      "principe": "Nappage.",
+      "exemples": {
+        "patisserie": [
+          "Glacer des choux au caramel"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Humidité qui fait fondre le glaçage"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Grainer (sucre)",
+      "slug": "grainer-sucre",
+      "domaine": "Pâtisserie",
+      "definition": "Se dit d'un sirop de sucre qui cristallise involontairement.",
+      "objectif": [
+        "À éviter"
+      ],
+      "principe": "Réorganisation moléculaire du sucre.",
+      "exemples": {
+        "patisserie": [
+          "Caramel qui cristallise"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Remuer le sucre pendant la cuisson"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Graisser",
+      "slug": "graisser",
+      "domaine": "Cuisine",
+      "definition": "Enduire un moule ou une plaque de corps gras.",
+      "objectif": [
+        "Anti-adhérence"
+      ],
+      "principe": "Lubrification de surface.",
+      "exemples": {
+        "cuisine": [
+          "Graisser un moule à cake"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Zones oubliées"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Gratiner (salamandre)",
+      "slug": "gratiner-salamandre",
+      "domaine": "Cuisine",
+      "definition": "Exposer le dessus d'un plat à une chaleur intense supérieure.",
+      "objectif": [
+        "Croûte dorée"
+      ],
+      "principe": "Chaleur radiante.",
+      "exemples": {
+        "cuisine": [
+          "Gratiner une soupe à l'oignon"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Brûler le fromage"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Griller (viande)",
+      "slug": "griller-viande",
+      "domaine": "Cuisine",
+      "definition": "Cuire sur un gril à chaleur vive.",
+      "objectif": [
+        "Marquer",
+        "Saisir"
+      ],
+      "principe": "Conduction et rayonnement.",
+      "exemples": {
+        "cuisine": [
+          "Griller une côte de bœuf"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Gril pas assez chaud"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Hacher (viande)",
+      "slug": "hacher-viande",
+      "domaine": "Cuisine",
+      "definition": "Passer la viande au hachoir électrique ou manuel.",
+      "objectif": [
+        "Farce",
+        "Steak haché"
+      ],
+      "principe": "Fragmentation par vis sans fin et grille.",
+      "exemples": {
+        "cuisine": [
+          "Hacher le bœuf pour les lasagnes"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Échauffement de la viande"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Imbiber (sirop)",
+      "slug": "imbiber-sirop",
+      "domaine": "Pâtisserie",
+      "definition": "Arroser un biscuit de sirop pour le rendre moelleux.",
+      "objectif": [
+        "Texture",
+        "Saveur"
+      ],
+      "principe": "Absorption.",
+      "exemples": {
+        "patisserie": [
+          "Imbiber un baba"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Sur-imbibition (le gâteau se décompose)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Inciser (peau)",
+      "slug": "inciser-peau",
+      "domaine": "Cuisine",
+      "definition": "Entailler légèrement la peau d'un aliment.",
+      "objectif": [
+        "Éviter que l'aliment ne se rétracte"
+      ],
+      "principe": "Libération de tension.",
+      "exemples": {
+        "cuisine": [
+          "Inciser la peau d'un magret"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Entailler la chair"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Incorporer (beurre)",
+      "slug": "incorporer-beurre",
+      "domaine": "Pâtisserie",
+      "definition": "Mélanger du beurre à une pâte.",
+      "objectif": [
+        "Structure",
+        "Moelleux"
+      ],
+      "principe": "Émulsion ou amalgame.",
+      "exemples": {
+        "patisserie": [
+          "Incorporer le beurre dans une brioche"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Beurre trop chaud"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Infuser (thé)",
+      "slug": "Cuisine",
+      "domaine": "Pâtisserie",
+      "definition": "Laisser tremper une substance dans un liquide chaud.",
+      "objectif": [
+        "Extraction aromatique"
+      ],
+      "principe": "Diffusion.",
+      "exemples": {
+        "patisserie": [
+          "Infuser du thé dans une crème"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Temps trop long (amertume)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Laminer",
+      "slug": "laminer",
+      "domaine": "Pâtisserie",
+      "definition": "Passer une pâte entre deux cylindres pour l'amincir.",
+      "objectif": [
+        "Épaisseur constante"
+      ],
+      "principe": "Compression.",
+      "exemples": {
+        "patisserie": [
+          "Laminer une pâte feuilletée"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Vitesse trop rapide (déchirure)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Larder (bâtonnets)",
+      "slug": "larder-batonnets",
+      "domaine": "Cuisine",
+      "definition": "Piquer une viande avec des bâtonnets de lard gras.",
+      "objectif": [
+        "Éviter le dessèchement à cœur"
+      ],
+      "principe": "Insertion.",
+      "exemples": {
+        "cuisine": [
+          "Larder un rôti de veau"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Mauvaise répartition"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Lier (fécule)",
+      "slug": "lier-fecule",
+      "domaine": "Cuisine",
+      "definition": "Épaissir un liquide à l'aide d'une fécule délayée.",
+      "objectif": [
+        "Onctuosité"
+      ],
+      "principe": "Gélatinisation de l'amidon.",
+      "exemples": {
+        "cuisine": [
+          "Lier un jus de viande"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Grumeaux (si non délayé à froid)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Lisser",
+      "slug": "lisser",
+      "domaine": "Pâtisserie",
+      "definition": "Rendre la surface d'une crème ou d'un glaçage parfaitement plane.",
+      "objectif": [
+        "Esthétique"
+      ],
+      "principe": "Égalisation à la spatule.",
+      "exemples": {
+        "patisserie": [
+          "Lisser le dessus d'un entremets"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Traces de spatule"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Lustrer (gelée)",
+      "slug": "lustrer-gelee",
+      "domaine": "Cuisine",
+      "definition": "Passer une fine couche de gelée au pinceau sur un plat froid.",
+      "objectif": [
+        "Brillance",
+        "Protection"
+      ],
+      "principe": "Vernissage.",
+      "exemples": {
+        "cuisine": [
+          "Lustrer un pâté en croûte"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Gelée trop épaisse"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Luter (pâte)",
+      "slug": "luter-pate",
+      "domaine": "Cuisine",
+      "definition": "Fermer un récipient avec un cordon de pâte morte.",
+      "objectif": [
+        "Étanchéité pour cuisson à l'étouffée"
+      ],
+      "principe": "Jointure.",
+      "exemples": {
+        "cuisine": [
+          "Luter une cocotte"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Pâte qui craque"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Macérer (alcool)",
+      "slug": "macerer-alcool",
+      "domaine": "Pâtisserie",
+      "definition": "Laisser des fruits s'imprégner d'alcool ou de liqueur.",
+      "objectif": [
+        "Conservation",
+        "Saveur"
+      ],
+      "principe": "Macération.",
+      "exemples": {
+        "patisserie": [
+          "Macérer des raisins pour un cake"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Temps trop court"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Manier (beurre)",
+      "slug": "manier-beurre",
+      "domaine": "Cuisine",
+      "definition": "Mélanger du beurre pommade et de la farine à la main.",
+      "objectif": [
+        "Lier une sauce en fin de cuisson"
+      ],
+      "principe": "Amalgamation à froid.",
+      "exemples": {
+        "cuisine": [
+          "Beurre manié pour une sauce trop fluide"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Beurre trop froid (grumeaux)"
+      ],
+      "level": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Manchonner",
+      "slug": "manchonner",
+      "domaine": "Cuisine",
+      "definition": "Dégager la chair à l'extrémité d'un os (côtelette, pilon).",
+      "objectif": [
+        "Présentation esthétique",
+        "Propreté"
+      ],
+      "principe": "Grattage de l'os au couteau.",
+      "exemples": {
+        "cuisine": [
+          "Manchonner des côtes d'agneau"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Laisser des lambeaux de chair"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Marquer (cuisson)",
+      "slug": "marquer-cuisson",
+      "domaine": "Cuisine",
+      "definition": "Démarrer la cuisson d'un aliment après les préparations préliminaires.",
+      "objectif": [
+        "Mise en route du processus thermique"
+      ],
+      "principe": "Saisissage ou rissolage.",
+      "exemples": {
+        "cuisine": [
+          "Marquer un sauté de veau"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Poêle pas assez chaude"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Masquer (entremets)",
+      "slug": "masquer-entremets",
+      "domaine": "Pâtisserie",
+      "definition": "Recouvrir uniformément les parois d'un gâteau de crème ou de glace.",
+      "objectif": [
+        "Cacher le montage",
+        "Base de décor"
+      ],
+      "principe": "Nappage épais.",
+      "exemples": {
+        "patisserie": [
+          "Masquer un moka"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Couche irrégulière"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Masser (sirop)",
+      "slug": "masser-sirop",
+      "domaine": "Pâtisserie",
+      "definition": "Remuer un sirop de sucre pour le faire blanchir et cristalliser.",
+      "objectif": [
+        "Obtenir du sucre filé ou grainé"
+      ],
+      "principe": "Cristallisation forcée par agitation.",
+      "exemples": {
+        "patisserie": [
+          "Sucre massé"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Agitation trop précoce"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Maturation",
+      "slug": "maturation",
+      "domaine": "Boulangerie",
+      "definition": "Temps de repos permettant aux arômes et à la texture de se développer.",
+      "objectif": [
+        "Complexité gustative"
+      ],
+      "principe": "Action enzymatique lente.",
+      "exemples": {
+        "boulangerie": [
+          "Maturation de la pâte au froid"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Temps trop court"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Mijoter (braiser)",
+      "slug": "mijoter-braiser",
+      "domaine": "Cuisine",
+      "definition": "Cuire très lentement à couvert.",
+      "objectif": [
+        "Tendreté extrême"
+      ],
+      "principe": "Transmission de chaleur par convection lente.",
+      "exemples": {
+        "cuisine": [
+          "Mijoter un ragoût"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Manque de liquide"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Mixer",
+      "slug": "mixer",
+      "domaine": "Cuisine",
+      "definition": "Broyer finement des aliments avec un mixeur ou un blender.",
+      "objectif": [
+        "Obtenir une texture lisse"
+      ],
+      "principe": "Cisaillement rapide par lames.",
+      "exemples": {
+        "cuisine": [
+          "Mixer un potage"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Échauffement de la préparation"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Monder (amandes)",
+      "slug": "monder-amandes",
+      "domaine": "Pâtisserie",
+      "definition": "Retirer la peau des amandes après ébouillantage.",
+      "objectif": [
+        "Blancheur",
+        "Finesse"
+      ],
+      "principe": "Choc thermique aqueux.",
+      "exemples": {
+        "patisserie": [
+          "Amandes mondées pour macarons"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Laisser tremper trop longtemps"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Monter au beurre",
+      "slug": "monter-au-beurre",
+      "domaine": "Cuisine",
+      "definition": "Ajouter des morceaux de beurre froid dans une sauce chaude en fouettant.",
+      "objectif": [
+        "Brillance",
+        "Onctuosité"
+      ],
+      "principe": "Émulsion finale.",
+      "exemples": {
+        "cuisine": [
+          "Sauce vin rouge montée au beurre"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Faire bouillir après ajout (la sauce tranche)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Mouiller (à hauteur)",
+      "slug": "mouiller-hauteur",
+      "domaine": "Cuisine",
+      "definition": "Ajouter du liquide jusqu'à ce qu'il affleure le haut des aliments.",
+      "objectif": [
+        "Cuisson par immersion"
+      ],
+      "principe": "Dosage précis du liquide.",
+      "exemples": {
+        "cuisine": [
+          "Mouiller un fond de veau"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Excès de liquide (dilution du goût)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Moule (chemiser)",
+      "slug": "moule-chemiser",
+      "domaine": "Pâtisserie",
+      "definition": "Recouvrir l'intérieur d'un moule avant de le remplir.",
+      "objectif": [
+        "Démoulage parfait"
+      ],
+      "principe": "Barrière physique.",
+      "exemples": {
+        "patisserie": [
+          "Chemiser un moule à charlotte"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Plis dans le papier sulfurisé"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Mousser (beurre)",
+      "slug": "mousser-beurre",
+      "domaine": "Cuisine",
+      "definition": "Chauffer le beurre jusqu'à ce qu'il arrête de crépiter et mousse.",
+      "objectif": [
+        "Température de cuisson idéale"
+      ],
+      "principe": "Évaporation de l'eau résiduelle.",
+      "exemples": {
+        "cuisine": [
+          "Beurre mousseux pour une omelette"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Brûler le beurre (beurre noir)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Nacrer (riz)",
+      "slug": "nacrer-riz",
+      "domaine": "Cuisine",
+      "definition": "Faire revenir le riz dans un corps gras jusqu'à ce qu'il devienne translucide.",
+      "objectif": [
+        "Enrober le grain",
+        "Empêcher qu'il ne colle"
+      ],
+      "principe": "Saisissage de l'amidon en surface.",
+      "exemples": {
+        "cuisine": [
+          "Riz pilaf",
+          "Risotto"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Colorer le riz (brunissement)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Napper (sauce)",
+      "slug": "napper-sauce",
+      "domaine": "Cuisine",
+      "definition": "Recouvrir une pièce de viande ou de poisson de sa sauce d'accompagnement.",
+      "objectif": [
+        "Finition",
+        "Maintien au chaud"
+      ],
+      "principe": "Recouvrement fluide.",
+      "exemples": {
+        "cuisine": [
+          "Napper un filet de bar"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Sauce trop fluide qui coule"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Nettoyer (plan)",
+      "slug": "nettoyer-plan",
+      "domaine": "Cuisine",
+      "definition": "Maintenir le poste de travail propre et dégagé.",
+      "objectif": [
+        "Hygiène",
+        "Efficacité"
+      ],
+      "principe": "Organisation (Marche en avant).",
+      "exemples": {
+        "cuisine": [
+          "Nettoyer entre chaque préparation"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Accumulation de déchets"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Ouvrir (coquillage)",
+      "slug": "ouvrir-coquillage",
+      "domaine": "Cuisine",
+      "definition": "Sectionner le muscle adducteur pour accéder à la chair.",
+      "objectif": [
+        "Service",
+        "Préparation"
+      ],
+      "principe": "Levier mécanique.",
+      "exemples": {
+        "cuisine": [
+          "Ouvrir des Saint-Jacques"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Bris de coquille à l'intérieur"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Pain (façonnage)",
+      "slug": "pain-faconnage",
+      "domaine": "Boulangerie",
+      "definition": "Donner la forme voulue au pâton.",
+      "objectif": [
+        "Aspect visuel",
+        "Volume"
+      ],
+      "principe": "Manipulation de la pâte.",
+      "exemples": {
+        "boulangerie": [
+          "Façonnage d'un pain de mie"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Déchirure de la membrane externe"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Paner (à l'anglaise)",
+      "slug": "paner-anglaise",
+      "domaine": "Cuisine",
+      "definition": "Passer successivement dans la farine, l'œuf battu et la chapelure.",
+      "objectif": [
+        "Croûte épaisse et croustillante"
+      ],
+      "principe": "Adhérence multicouche.",
+      "exemples": {
+        "cuisine": [
+          "Escalope de veau à l'anglaise"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Chapelure qui ne tient pas"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Parer (poisson)",
+      "slug": "parer-poisson",
+      "domaine": "Cuisine",
+      "definition": "Retirer les nageoires et parties inutiles.",
+      "objectif": [
+        "Netteté de la pièce"
+      ],
+      "principe": "Coupe de finition.",
+      "exemples": {
+        "cuisine": [
+          "Parer un filet de sole"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Trop de perte de chair"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Parfumer (alcool)",
+      "slug": "parfumer-alcool",
+      "domaine": "Pâtisserie",
+      "definition": "Ajouter un alcool fort pour modifier l'arôme.",
+      "objectif": [
+        "Note de tête aromatique"
+      ],
+      "principe": "Inclusion.",
+      "exemples": {
+        "patisserie": [
+          "Parfumer une ganache au Grand Marnier"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Dose excessive"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Passer (étamine)",
+      "slug": "passer-etamine",
+      "domaine": "Cuisine",
+      "definition": "Filtrer au travers d'un linge fin ou d'une étamine.",
+      "objectif": [
+        "Limpidité extrême"
+      ],
+      "principe": "Filtration haute densité.",
+      "exemples": {
+        "cuisine": [
+          "Passer un consommé"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Linge mal rincé (goût de lessive)"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Pâton",
+      "slug": "paton",
+      "domaine": "Boulangerie",
+      "definition": "Morceau de pâte pesé et prêt à être façonné.",
+      "objectif": [
+        "Unité de travail"
+      ],
+      "principe": "Division.",
+      "exemples": {
+        "boulangerie": [
+          "Pâton de 350g"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Poids irrégulier"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Peler (à vif)",
+      "slug": "peler-a-vif",
+      "domaine": "Cuisine",
+      "definition": "Retirer la peau et la membrane blanche des agrumes.",
+      "objectif": [
+        "Préparer des segments (suprêmes)"
+      ],
+      "principe": "Tranchage à l'aide d'un couteau scie ou office.",
+      "exemples": {
+        "cuisine": [
+          "Peler une orange à vif"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Laisser de la peau blanche (amertume)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Peser (liquide)",
+      "slug": "peser-liquide",
+      "domaine": "Pâtisserie",
+      "definition": "Mesurer le poids d'un liquide plutôt que son volume.",
+      "objectif": [
+        "Précision absolue"
+      ],
+      "principe": "Pesée sur balance électronique.",
+      "exemples": {
+        "patisserie": [
+          "Peser le lait pour une pâte à choux"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Oubli de la tare"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Pétrir (vitesse 2)",
+      "slug": "petrir-vitesse-2",
+      "domaine": "Boulangerie",
+      "definition": "Travailler la pâte à une vitesse supérieure pour lui donner du corps.",
+      "objectif": [
+        "Lissage de la pâte",
+        "Force"
+      ],
+      "principe": "Étirement intensif du gluten.",
+      "exemples": {
+        "boulangerie": [
+          "Pétrissage final d'une brioche"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Échauffement excessif de la pâte"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Pincer (pâte)",
+      "slug": "pincer-pate",
+      "domaine": "Pâtisserie",
+      "definition": "Écraser les bords d'une pâte entre les doigts ou avec une pince à tarte.",
+      "objectif": [
+        "Décoration",
+        "Soudure"
+      ],
+      "principe": "Compression manuelle.",
+      "exemples": {
+        "patisserie": [
+          "Pincer le bord d'une tourte"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Déchirer la pâte"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Piquer (fourchette)",
+      "slug": "piquer-fourchette",
+      "domaine": "Cuisine",
+      "definition": "Faire de petits trous dans un aliment ou une pâte.",
+      "objectif": [
+        "Évacuation de l'air ou de la vapeur"
+      ],
+      "principe": "Perçage multiple.",
+      "exemples": {
+        "cuisine": [
+          "Piquer une saucisse avant cuisson"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Oubli (éclatement à la cuisson)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Plier (tour)",
+      "slug": "plier-tour",
+      "domaine": "Pâtisserie",
+      "definition": "Rabattre l'abaisse de pâte selon un schéma précis (tour simple ou double).",
+      "objectif": [
+        "Développement du feuilletage"
+      ],
+      "principe": "Superposition de couches.",
+      "exemples": {
+        "patisserie": [
+          "Pliage de la pâte feuilletée"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Mauvais sens de pliage"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Plonger",
+      "slug": "plonger",
+      "domaine": "Cuisine",
+      "definition": "Immerger totalement un aliment dans un liquide.",
+      "objectif": [
+        "Cuisson homogène"
+      ],
+      "principe": "Immersion.",
+      "exemples": {
+        "cuisine": [
+          "Plonger des pâtes dans l'eau bouillante"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Récipient trop petit"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Pocher (sirop)",
+      "slug": "pocher-sirop",
+      "domaine": "Pâtisserie",
+      "definition": "Cuire doucement des fruits dans un sirop frémissant.",
+      "objectif": [
+        "Tendreté",
+        "Conservation"
+      ],
+      "principe": "Échange osmotique.",
+      "exemples": {
+        "patisserie": [
+          "Poires pochées au vin"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Ébullition trop forte (fruit abîmé)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Pointage (bac)",
+      "slug": "pointage-bac",
+      "domaine": "Boulangerie",
+      "definition": "Laisser la pâte fermenter dans un bac avant la division.",
+      "objectif": [
+        "Force",
+        "Arômes"
+      ],
+      "principe": "Fermentation primaire.",
+      "exemples": {
+        "boulangerie": [
+          "Pointage d'une pâte à pain"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Bac non huilé (la pâte colle)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Pommade (beurre)",
+      "slug": "pommade-beurre",
+      "domaine": "Pâtisserie",
+      "definition": "Travailler le beurre pour lui donner la consistance d'une pommade.",
+      "objectif": [
+        "Incorporation facile"
+      ],
+      "principe": "Assouplissement mécanique.",
+      "exemples": {
+        "patisserie": [
+          "Beurre pommade pour quatre-quarts"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Beurre fondu au micro-ondes"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Pousser (étuve)",
+      "slug": "pousser-etuve",
+      "domaine": "Boulangerie",
+      "definition": "Placer les pâtons dans une enceinte chaude et humide.",
+      "objectif": [
+        "Accélérer la fermentation"
+      ],
+      "principe": "Atmosphère contrôlée.",
+      "exemples": {
+        "boulangerie": [
+          "Pousse des croissants"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Température trop élevée (le beurre fond)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Quadriller (viande)",
+      "slug": "quadriller-viande",
+      "domaine": "Cuisine",
+      "definition": "Marquer la viande sur le gril pour former des losanges.",
+      "objectif": [
+        "Esthétique"
+      ],
+      "principe": "Rotation à 45° sur le gril.",
+      "exemples": {
+        "cuisine": [
+          "Entrecôte grillée"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Gril pas assez chaud"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Râper",
+      "slug": "raper",
+      "domaine": "Cuisine",
+      "definition": "Réduire un aliment en copeaux à l'aide d'une râpe.",
+      "objectif": [
+        "Texture",
+        "Finition"
+      ],
+      "principe": "Abrasion.",
+      "exemples": {
+        "cuisine": [
+          "Râper du gruyère"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Blessure aux doigts"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Ravir",
+      "slug": "ravir",
+      "domaine": "Cuisine",
+      "definition": "Cuire un aliment trop vite à feu trop vif (souvent involontaire).",
+      "objectif": [
+        "À éviter"
+      ],
+      "principe": "Choc thermique excessif.",
+      "exemples": {
+        "cuisine": [
+          "Rôtis ravi (cuit dehors, cru dedans)"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Four trop chaud"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Réduire (sirop)",
+      "slug": "reduire-sirop",
+      "domaine": "Pâtisserie",
+      "definition": "Faire bouillir un sirop pour augmenter sa densité.",
+      "objectif": [
+        "Nappage",
+        "Concentration"
+      ],
+      "principe": "Évaporation.",
+      "exemples": {
+        "patisserie": [
+          "Réduire un sirop de fruits"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Cristallisation sur les bords"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Relever",
+      "slug": "relever",
+      "domaine": "Cuisine",
+      "definition": "Ajouter des épices ou condiments pour donner du caractère.",
+      "objectif": [
+        "Piquant",
+        "Force du goût"
+      ],
+      "principe": "Assaisonnement marqué.",
+      "exemples": {
+        "cuisine": [
+          "Relever une sauce avec du piment"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Masquer le goût du produit initial"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Remonter (sauce)",
+      "slug": "remonter-sauce",
+      "domaine": "Cuisine",
+      "definition": "Rétablir l'émulsion d'une sauce qui a tourné.",
+      "objectif": [
+        "Sauvetage"
+      ],
+      "principe": "Nouvel apport de phase continue (eau ou jaune).",
+      "exemples": {
+        "cuisine": [
+          "Remonter une béarnaise"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Ajout de gras au lieu de liquide"
+      ],
+      "niveau": [
+        "Bac Pro"
+      ]
+    },
+    {
+      "nom": "Renverser",
+      "slug": "renverser",
+      "domaine": "Pâtisserie",
+      "definition": "Démouler une préparation en la retournant sur un plat.",
+      "objectif": [
+        "Présentation"
+      ],
+      "principe": "Inversion gravitationnelle.",
+      "exemples": {
+        "patisserie": [
+          "Renverser une tatin"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Brûlure avec le caramel liquide"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Reposer (pâte)",
+      "slug": "reposer-pate",
+      "domaine": "Pâtisserie",
+      "definition": "Laisser la pâte au frais pour détendre le gluten.",
+      "objectif": [
+        "Éviter la rétractation"
+      ],
+      "principe": "Relâchement des protéines.",
+      "exemples": {
+        "patisserie": [
+          "Repos de la pâte brisée"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Temps trop court (la pâte rétrécit au four)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Rissoler",
+      "slug": "rissoler",
+      "domaine": "Cuisine",
+      "definition": "Faire dorer des aliments dans un corps gras chaud.",
+      "objectif": [
+        "Couleur",
+        "Croustillant"
+      ],
+      "principe": "Réaction de Maillard.",
+      "exemples": {
+        "cuisine": [
+          "Pommes de terre rissolées"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Surcharge de la poêle (les aliments bouillent)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Rompre (pâte)",
+      "slug": "rompre-pate",
+      "domaine": "Boulangerie",
+      "definition": "Écraser la pâte après la première pousse pour chasser le gaz.",
+      "objectif": [
+        "Renouveler l'oxygène pour les levures"
+      ],
+      "principe": "Dégazage manuel.",
+      "exemples": {
+        "boulangerie": [
+          "Rompre une pâte à brioche"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Déchirer la pâte au lieu de l'écraser"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Sabler (pâte)",
+      "slug": "sabler-pate",
+      "domaine": "Pâtisserie",
+      "definition": "Mélanger beurre et farine du bout des doigts.",
+      "objectif": [
+        "Texture sableuse",
+        "Friabilité"
+      ],
+      "principe": "Enrobage du gluten par le gras.",
+      "exemples": {
+        "patisserie": [
+          "Sablage d'un crumble"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Chauffer le beurre avec les mains"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Sanglon (poche)",
+      "slug": "sanglon-poche",
+      "domaine": "Pâtisserie",
+      "definition": "Tourner la poche sur elle-même pour bloquer la sortie de la pâte.",
+      "objectif": [
+        "Étanchéité pendant le remplissage"
+      ],
+      "principe": "Torsion mécanique.",
+      "exemples": {
+        "patisserie": [
+          "Préparer sa poche à douille"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Fuite par le haut"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Sauter",
+      "slug": "sauter",
+      "domaine": "Cuisine",
+      "definition": "Cuire rapidement de petites pièces dans un sautoir avec peu de gras.",
+      "objectif": [
+        "Coloration",
+        "Concentration"
+      ],
+      "principe": "Conduction vive.",
+      "exemples": {
+        "cuisine": [
+          "Sauter des champignons"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Manque de mouvement (brûlage)"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Serrer (blancs)",
+      "slug": "serrer-blancs",
+      "domaine": "Pâtisserie",
+      "definition": "Ajouter du sucre aux blancs d'œufs déjà montés et continuer à battre.",
+      "objectif": [
+        "Stabiliser la neige",
+        "Brillance"
+      ],
+      "principe": "Structuration par le sucre.",
+      "exemples": {
+        "patisserie": [
+          "Serrer les blancs pour une meringue"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Ajouter le sucre trop tôt"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Singer",
+      "slug": "singer",
+      "domaine": "Cuisine",
+      "definition": "Saupoudrer de farine des éléments rissolés avant de mouiller.",
+      "objectif": [
+        "Lier la sauce pendant la cuisson"
+      ],
+      "principe": "Liaison à l'amidon.",
+      "exemples": {
+        "cuisine": [
+          "Singer un ragoût"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Faire brûler la farine"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    },
+    {
+      "nom": "Siroper",
+      "slug": "siroper",
+      "domaine": "Pâtisserie",
+      "definition": "Ajouter du sirop à une préparation ou imbiber un gâteau.",
+      "objectif": [
+        "Moelleux",
+        "Sucrage"
+      ],
+      "principe": "Imprégnation.",
+      "exemples": {
+        "patisserie": [
+          "Siroper un savarin"
+        ]
+      },
+      "erreurs_frequentes": [
+        "Sirop trop chaud"
+      ],
+      "niveau": [
+        "CAP"
+      ]
+    }
+  ]
+}
