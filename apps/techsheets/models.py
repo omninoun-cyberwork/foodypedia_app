@@ -140,6 +140,28 @@ class Technique(models.Model):
     slug = models.SlugField(max_length=200, unique=True, blank=True)
     domaine = models.CharField(max_length=50, choices=DOMAINE_CHOICES, default='Cuisine')
     
+    # --- TECHNICAL SHEET FIELDS (Hybrid Mode) ---
+    is_active_techsheet = models.BooleanField(default=False, verbose_name="Fiche Technique Active")
+    reference_id = models.CharField(max_length=20, blank=True, null=True, verbose_name="Réf. CAP (ex: 1PB06)")
+    
+    CATEGORIE_CAP_CHOICES = [
+        ('BASE', 'Préparations de Base'),
+        ('CUISSON', 'Cuissons'),
+        ('SAUCE', 'Sauces & Fonds'),
+        ('PATISSERIE', 'Pâtisserie'),
+        ('AUTRE', 'Autre'),
+    ]
+    categorie_cap = models.CharField(
+        max_length=20, 
+        choices=CATEGORIE_CAP_CHOICES, 
+        default='AUTRE',
+        verbose_name="Catégorie CAP"
+    )
+    
+    phases = models.JSONField(default=list, blank=True, verbose_name="tapes / Phases (Technique)")
+    materiel = models.JSONField(default=list, blank=True, verbose_name="Matériel requis")
+
+    # --- GLOSSARY FIELDS ---
     definition = models.TextField(verbose_name="Définition")
     
     # Champs riches (Listes stockées en JSON)

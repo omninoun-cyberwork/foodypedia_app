@@ -141,3 +141,4 @@ class TechniqueViewSet(viewsets.ReadOnlyModelViewSet):
     filter_backends = [filters.SearchFilter, DjangoFilterBackend]
     search_fields = ['nom', 'definition']
     filterset_fields = ['domaine']
+    lookup_field = 'slug'

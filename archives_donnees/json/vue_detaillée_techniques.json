@@ -1,0 +1,58 @@
+{
+    "fiches_techniques_detaillees": [
+        {
+            "slug": "abaisser",
+            "reference_cap": "5P4",
+            "materiel": [
+                "Rouleau à pâtisserie",
+                "Marbre ou plan de travail",
+                "Farine pour fleurage"
+            ],
+            "phases": [
+                "Fleurir le plan de travail (saupoudrer de farine).",
+                "Poser le pâton au centre.",
+                "Étaler avec le rouleau du centre vers l'extérieur en tournant la pâte d'un quart de tour régulièrement.",
+                "Contrôler l'épaisseur et la régularité au toucher."
+            ]
+        },
+        {
+            "slug": "emincer",
+            "reference_cap": "1PB06",
+            "materiel": [
+                "Couteau éminceur (Chef)",
+                "Planche à découper stable"
+            ],
+            "phases": [
+                "Laver et éplucher le légume.",
+                "Poser le légume à plat sur la planche (couper une assise si besoin).",
+                "Tailler en tranches fines et régulières en utilisant l'articulation des doigts pour guider la lame.",
+                "Maintenir une cadence régulière."
+            ]
+        },
+        {
+            "slug": "ciseler",
+            "reference_cap": "1PB11",
+            "materiel": [
+                "Couteau d'office ou éminceur"
+            ],
+            "phases": [
+                "Pour un oignon : Couper la racine sans la détacher totalement.",
+                "Inciser horizontalement plusieurs fois sans aller jusqu'au bout.",
+                "Inciser verticalement pour quadriller.",
+                "Trancher perpendiculairement pour obtenir des petits dés réguliers."
+            ]
+        },
+        {
+            "slug": "singer",
+            "reference_cap": "3FS",
+            "materiel": [
+                "Spatule ou cuillère en bois"
+            ],
+            "phases": [
+                "Saupoudrer les aliments rissolés avec de la farine tamisée.",
+                "Mélanger à feu doux pour cuire la farine sans la colorer (roux).",
+                "Mouiller progressivement avec le liquide de cuisson en remuant."
+            ]
+        }
+    ]
+}
