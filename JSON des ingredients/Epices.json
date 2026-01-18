@@ -1,0 +1,384 @@
+[
+  {
+    "name": "Ail en poudre",
+    "scientific_name": "Allium sativum",
+    "glossary_term": "Condiment déshydraté",
+    "category": "épice",
+    "description": "Forme déshydratée et moulue de l'ail frais, offrant un goût puissant et une utilisation pratique sans épluchage.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La poudre doit être fine, sans grumeaux (signe d'humidité) et d'une couleur crème homogène.",
+    "storage_guide": "À l'abri de la lumière et de l'humidité dans un pot hermétique pour éviter qu'il ne s'agglomère.",
+    "prep_guide": "S'utilise directement dans les marinades, les sauces ou saupoudré en fin de cuisson.",
+    "nutrition_info": "330 kcal/100g (consommé en petites quantités), riche en composés soufrés.",
+    "texture": "Poudre fine et sèche.",
+    "image_filename": "ail-poudre.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "assaisonnement",
+      "indispensable"
+    ],
+    "tags": [
+      "puissant",
+      "pratique"
+    ],
+    "specific_data": {
+      "origine": "Asie centrale",
+      "famille_biologique": "Amaryllidaceae"
+    }
+  },
+  {
+    "name": "Anis étoilé (Badiane)",
+    "scientific_name": "Illicium verum",
+    "glossary_term": "Badiane de Chine",
+    "category": "épice",
+    "description": "Fruit d'un arbre tropical en forme d'étoile à 8 branches, au parfum anisé très marqué.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Les étoiles doivent être entières, non brisées, et dégager une odeur forte dès l'ouverture du sachet.",
+    "storage_guide": "Se conserve plusieurs années dans un bocal en verre fermé.",
+    "prep_guide": "S'utilise entière dans les bouillons ou moulue dans les pâtisseries.",
+    "nutrition_info": "337 kcal/100g.",
+    "texture": "Ligneuse et dure (ne se mange pas entière).",
+    "image_filename": "Anis-etoilé.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "aromatisation",
+      "infusion"
+    ],
+    "tags": [
+      "réglisse",
+      "esthétique"
+    ],
+    "specific_data": {
+      "origine": "Chine / Vietnam",
+      "famille_biologique": "Schisandraceae"
+    }
+  },
+  {
+    "name": "Cannelle",
+    "scientific_name": "Cinnamomum verum",
+    "glossary_term": "Écorce",
+    "category": "épice",
+    "description": "Écorce intérieure du cannelier, connue pour son parfum chaud et sucré, utilisée aussi bien en dessert qu'en plat salé.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "En bâtons, elle doit être cassante et composée de fines couches enroulées (Cannelle de Ceylan).",
+    "storage_guide": "Conserver au sec. La poudre perd son parfum plus vite que les bâtons.",
+    "prep_guide": "Infuser les bâtons ou saupoudrer la poudre directement.",
+    "nutrition_info": "247 kcal/100g, riche en antioxydants.",
+    "texture": "Poudre fine ou bâton rigide.",
+    "image_filename": "cannelle.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "pâtisserie",
+      "oriental"
+    ],
+    "tags": [
+      "chaud",
+      "sucré"
+    ],
+    "specific_data": {
+      "origine": "Sri Lanka",
+      "famille_biologique": "Lauraceae"
+    }
+  },
+  {
+    "name": "Câpre",
+    "scientific_name": "Capparis spinosa",
+    "glossary_term": "Bouton floral",
+    "category": "épice",
+    "description": "Bouton floral du câprier, conservé dans le vinaigre ou le sel, apportant une touche aigrelette et salée.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Choisir des câpres de petite taille (nonpareilles) pour plus de finesse.",
+    "storage_guide": "Au réfrigérateur dans leur saumure d'origine.",
+    "prep_guide": "Rincer avant usage pour retirer l'excès de sel ou de vinaigre.",
+    "nutrition_info": "23 kcal/100g.",
+    "texture": "Tendre et ferme.",
+    "image_filename": "Capre.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "condiment",
+      "méditerranéen"
+    ],
+    "tags": [
+      "acide",
+      "salé"
+    ],
+    "specific_data": {
+      "origine": "Bassin méditerranéen",
+      "famille_biologique": "Capparaceae"
+    }
+  },
+  {
+    "name": "Cardamome",
+    "scientific_name": "Elettaria cardamomum",
+    "glossary_term": "Capsule",
+    "category": "épice",
+    "description": "Petite capsule verte contenant des graines noires au parfum complexe, citronné et poivré.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Les capsules doivent être d'un vert franc et bien fermées.",
+    "storage_guide": "Garder les graines dans leur capsule jusqu'à l'utilisation pour préserver l'arôme.",
+    "prep_guide": "Écraser légèrement la capsule pour libérer les arômes ou utiliser uniquement les graines moulues.",
+    "nutrition_info": "311 kcal/100g.",
+    "texture": "Graines dures, enveloppe fibreuse.",
+    "image_filename": "Cardamone.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "noble",
+      "oriental"
+    ],
+    "tags": [
+      "frais",
+      "citronné"
+    ],
+    "specific_data": {
+      "origine": "Inde / Guatemala",
+      "famille_biologique": "Zingiberaceae"
+    }
+  },
+  {
+    "name": "Cumin",
+    "scientific_name": "Cuminum cyminum",
+    "glossary_term": "Graine",
+    "category": "épice",
+    "description": "Épice pilier de la cuisine orientale et mexicaine, à la saveur terreuse et chaude.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Préférer les graines entières à moudre soi-même pour un parfum plus intense.",
+    "storage_guide": "Au sec, à l'abri de la lumière.",
+    "prep_guide": "Torréfier légèrement à sec dans une poêle avant de moudre pour décupler les arômes.",
+    "nutrition_info": "375 kcal/100g.",
+    "texture": "Graines allongées ou poudre fine.",
+    "image_filename": "Cumin.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "oriental",
+      "indispensable"
+    ],
+    "tags": [
+      "terreux",
+      "chaud"
+    ],
+    "specific_data": {
+      "origine": "Proche-Orient",
+      "famille_biologique": "Apiaceae"
+    }
+  },
+  {
+    "name": "Curcuma",
+    "scientific_name": "Curcuma longa",
+    "glossary_term": "Rhizome",
+    "category": "épice",
+    "description": "Racine de couleur orange vif, pilier du curry, connue pour ses propriétés anti-inflammatoires puissantes.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La poudre doit être d'un jaune orangé très intense. En frais, le rhizome doit être ferme.",
+    "storage_guide": "Attention : tâche énormément les vêtements et les plans de travail.",
+    "prep_guide": "À associer avec du poivre noir et un corps gras pour une meilleure absorption.",
+    "nutrition_info": "354 kcal/100g, riche en curcumine.",
+    "texture": "Poudre soyeuse.",
+    "image_filename": "Curcuma.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "santé",
+      "colorant"
+    ],
+    "tags": [
+      "anti-inflammatoire",
+      "jaune"
+    ],
+    "specific_data": {
+      "origine": "Asie du Sud-Est",
+      "famille_biologique": "Zingiberaceae"
+    }
+  },
+  {
+    "name": "Gingembre",
+    "scientific_name": "Zingiber officinale",
+    "glossary_term": "Rhizome",
+    "category": "épice",
+    "description": "Racine à la saveur piquante et fraîche, utilisée fraîche, séchée ou en poudre.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Frais, il doit être ferme, lourd, avec une peau lisse et fine.",
+    "storage_guide": "Frais au frigo (3 semaines) ou congelé. Poudre au sec.",
+    "prep_guide": "Râper ou couper en fines lamelles. S'accorde avec le sucré et le salé.",
+    "nutrition_info": "80 kcal/100g (frais), stimule la digestion.",
+    "texture": "Fibreuse et juteuse (frais) ou poudre.",
+    "image_filename": "Gingembre.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "frais",
+      "santé"
+    ],
+    "tags": [
+      "piquant",
+      "tonifiant"
+    ],
+    "specific_data": {
+      "origine": "Asie",
+      "famille_biologique": "Zingiberaceae"
+    }
+  },
+  {
+    "name": "Clou de Girofle",
+    "scientific_name": "Syzygium aromaticum",
+    "glossary_term": "Bouton floral séché",
+    "category": "épice",
+    "description": "Bouton floral séché d'un arbre tropical, au parfum extrêmement puissant, chaud et légèrement piquant.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Le clou doit être entier, d'un brun foncé, et libérer un peu d'huile quand on presse la tête avec l'ongle.",
+    "storage_guide": "Conserver dans un bocal en verre teinté pour préserver ses huiles essentielles.",
+    "prep_guide": "S'utilise piqué dans un oignon pour les bouillons, ou moulu dans les mélanges d'épices (pain d'épices).",
+    "nutrition_info": "274 kcal/100g, propriétés antiseptiques et anesthésiantes.",
+    "texture": "Dur et ligneux (ne se mange pas entier).",
+    "image_filename": "Girofle.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "infusion",
+      "bouillon"
+    ],
+    "tags": [
+      "puissant",
+      "chaud"
+    ],
+    "specific_data": {
+      "origine": "Indonésie / Madagascar",
+      "famille_biologique": "Myrtaceae"
+    }
+  },
+  {
+    "name": "Muscade",
+    "scientific_name": "Myristica fragrans",
+    "glossary_term": "Noix / Amande",
+    "category": "épice",
+    "description": "Noyau du fruit du muscadier. Elle apporte une saveur chaude, sucrée et boisée, indispensable à la béchamel.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Acheter la noix entière plutôt que déjà moulue pour conserver toute la subtilité de ses arômes.",
+    "storage_guide": "Se conserve indéfiniment au sec tant qu'elle n'est pas râpée.",
+    "prep_guide": "Râper à la minute à l'aide d'une grille fine (râpe à muscade).",
+    "nutrition_info": "525 kcal/100g.",
+    "texture": "Poudre fine après râpage.",
+    "image_filename": "Muscade.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "sauce",
+      "pâtisserie"
+    ],
+    "tags": [
+      "boisé",
+      "indispensable"
+    ],
+    "specific_data": {
+      "origine": "Îles Banda (Indonésie)",
+      "famille_biologique": "Myristicaceae"
+    }
+  },
+  {
+    "name": "Paprika",
+    "scientific_name": "Capsicum annuum",
+    "glossary_term": "Piment doux moulu",
+    "category": "épice",
+    "description": "Poudre obtenue à partir du fruit mûr, séché et moulu du piment doux. Il existe en version douce, piquante ou fumée (Pimenton).",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La couleur doit être d'un rouge vif éclatant. Une couleur brique indique un produit trop vieux.",
+    "storage_guide": "Très sensible à la lumière, à conserver impérativement dans l'obscurité.",
+    "prep_guide": "Ne pas faire brûler dans de l'huile trop chaude, car il devient amer.",
+    "nutrition_info": "282 kcal/100g, riche en vitamine A.",
+    "texture": "Poudre soyeuse.",
+    "image_filename": "Paprika.webp",
+    "variant_images": [
+      "Pimenton.webp"
+    ],
+    "functional_categories": [
+      "colorant",
+      "assaisonnement"
+    ],
+    "tags": [
+      "rouge",
+      "hongrie"
+    ],
+    "specific_data": {
+      "origine": "Amérique Centrale / Hongrie",
+      "famille_biologique": "Solanaceae"
+    }
+  },
+  {
+    "name": "Poivre Noir",
+    "scientific_name": "Piper nigrum",
+    "glossary_term": "Baie entière",
+    "category": "épice",
+    "description": "Baie récoltée avant maturité et séchée, c'est l'épice la plus consommée au monde pour son piquant universel.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Les grains doivent être bien noirs, ridés et uniformes. Éviter le poivre déjà moulu.",
+    "storage_guide": "À conserver dans un moulin pour une mouture fraîche au dernier moment.",
+    "prep_guide": "Ajouter en fin de cuisson pour préserver ses arômes volatiles.",
+    "nutrition_info": "250 kcal/100g, contient de la pipérine qui aide à la digestion.",
+    "texture": "Grain dur, croquant sous la dent.",
+    "image_filename": "poivre-noir.webp",
+    "variant_images": [
+      "poivre-blanc.webp"
+    ],
+    "functional_categories": [
+      "assaisonnement",
+      "indispensable"
+    ],
+    "tags": [
+      "piquant",
+      "universel"
+    ],
+    "specific_data": {
+      "origine": "Inde / Vietnam",
+      "famille_biologique": "Piperaceae"
+    }
+  },
+  {
+    "name": "Ras el Hanout",
+    "scientific_name": "N/A",
+    "glossary_term": "Mélange d'épices",
+    "category": "épice",
+    "description": "Mélange complexe emblématique du Maghreb (pouvant contenir plus de 30 épices), utilisé pour le couscous et les tajines.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "L'odeur doit être envoûtante et complexe. La couleur varie du jaune à l'ocre selon la proportion de curcuma.",
+    "storage_guide": "Au sec et à l'obscurité.",
+    "prep_guide": "S'utilise dans les plats mijotés ou pour frotter des viandes avant cuisson.",
+    "nutrition_info": "Variable selon le mélange.",
+    "texture": "Poudre fine.",
+    "image_filename": "Ras-el-hanout.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "mélange",
+      "oriental"
+    ],
+    "tags": [
+      "maghreb",
+      "complexe"
+    ],
+    "specific_data": {
+      "origine": "Maroc",
+      "famille_biologique": "Mélange"
+    }
+  },
+  {
+    "name": "Safran",
+    "scientific_name": "Crocus sativus",
+    "glossary_term": "Stigmate",
+    "category": "épice",
+    "description": "Épice la plus chère au monde, issue du pistil d'un crocus. Elle apporte une couleur jaune d'or et un parfum foin-miel unique.",
+    "seasonality": "Récolte en Octobre",
+    "buying_guide": "Acheter uniquement en filaments (stigmates). Ils doivent être d'un rouge sang intense. Éviter la poudre souvent frelatée.",
+    "storage_guide": "À l'abri de la lumière dans un petit bocal en verre.",
+    "prep_guide": "Infuser les filaments dans un peu d'eau chaude 15 min avant de les ajouter au plat.",
+    "nutrition_info": "310 kcal/100g.",
+    "texture": "Filament très léger et cassant.",
+    "image_filename": "safran.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "noble",
+      "colorant"
+    ],
+    "tags": [
+      "prestigieux",
+      "rouge-or"
+    ],
+    "specific_data": {
+      "origine": "Iran / Maroc / Espagne",
+      "famille_biologique": "Iridaceae"
+    }
+  }
+]

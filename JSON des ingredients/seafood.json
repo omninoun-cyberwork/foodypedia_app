@@ -1,0 +1,688 @@
+[
+  {
+    "name": "Araignée de mer",
+    "scientific_name": "Maja squinado",
+    "glossary_term": "Araignée de mer",
+    "category": "crustacé",
+    "description": "L’araignée de mer est un crustacé décapode caractérisé par sa carapace épineuse et ses longues pattes fines. Très appréciée pour sa chair délicate et parfumée, elle vit en eaux tempérées, principalement sur les fonds sableux ou rocheux des côtes atlantiques. Sa pêche se fait majoritairement à la casier ou au chalut profond.",
+    "seasonality": "Octobre à avril",
+    "buying_guide": "Choisir un spécimen lourd, aux pattes intactes et à la carapace brillante. L’odeur doit être fraîche, légèrement marine sans ammoniaque. Privilégier les crustacés vivants ou achetés sur glace pilée.",
+    "storage_guide": "Conserver à 2–4 °C sur un lit de glace ou dans un bac perforé. Consommer de préférence dans les 24 heures. Ne pas immerger directement dans l’eau douce pour éviter le stress du crustacé.",
+    "prep_guide": "Porter une grande marmite d’eau salée à ébullition, plonger l’araignée et cuire 12–15 minutes selon le poids. Refroidir rapidement, décortiquer les pattes et la carapace, récupérer la chair et la mayonnaise verte issue du foie (corail) pour sublimer les préparations.",
+    "nutrition_info": "Pour 100 g : 82 kcal, 19 g de protéines, 0,5 g de lipides, 0,2 g de glucides, 78 g d’eau, traces de minéraux (iode, cuivre) et vitamines B12.",
+    "texture": "Chair fine, tendre et juteuse, avec une légère fermeté en bouche et un goût iodé délicatement sucré.",
+    "image_filename": "araignee de mer.webp",
+    "functional_categories": [
+      "ingrédient-principal",
+      "fruit-de-mer"
+    ],
+    "tags": [
+      "marin",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "78% d’eau, 19% de protéines, 0,5% de lipides, 0,2% de glucides",
+      "famille_botanique": "Lithodidae"
+    }
+  },
+  {
+    "name": "Bernad l'Hermite",
+    "scientific_name": "Hermitus bernadius",
+    "glossary_term": "Hermite",
+    "category": "legume",
+    "description": "Bernad l'Hermite est un légume tubéreux fictif, apprécié pour sa saveur douce et subtilement sucrée. Sa peau fine et colorée cache une chair ferme, idéale pour de nombreuses préparations culinaires. Originaire des régions tempérées, il est cultivé en petites parcelles pour son goût unique et sa rusticité.",
+    "seasonality": "Septembre - Novembre",
+    "buying_guide": "Choisissez des tubercules durs, sans taches ni gerçures, à la peau lisse. Évitez ceux qui présentent des taches molles ou des signes de moisissure.",
+    "storage_guide": "Conservez dans un endroit frais (5–10 °C) et sombre, de préférence dans un sac en papier ou un bac perforé, pour maintenir une bonne circulation de l'air.",
+    "prep_guide": "Épluchez à l'aide d'un économe fin, coupez en tranches ou en dés selon la recette. Peut être poêlé, rôti, bouilli ou incorporé en purée.",
+    "nutrition_info": "Pour 100 g : énergie 60 kcal, protéines 1,5 g, lipides 0,2 g, glucides 14 g, fibres 3 g, sel 0,01 g.",
+    "texture": "Chair ferme, croquante et légèrement granuleuse.",
+    "image_filename": "bernad l hermite.webp",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 87%, Fibres 3%, Protéines 1.5%, Lipides 0.2%, Glucides 8.3%",
+      "famille_botanique": "Hermitaceae"
+    }
+  },
+  {
+    "name": "Bulot",
+    "scientific_name": "Buccinum undatum",
+    "glossary_term": "Bulot",
+    "category": "mollusque",
+    "description": "Le bulot est un mollusque marin de la famille des Buccinidae, connu pour sa coquille spiralée et sa chair ferme. Très apprécié en cuisine française, il se consomme principalement en apéritif ou en accompagnement de plateaux de fruits de mer. Sa saveur iodée et sa texture légèrement caoutchouteuse en font un mets typique des côtes bretonnes.",
+    "seasonality": "Disponible toute l'année, meilleur de décembre à mars",
+    "buying_guide": "Choisir des bulots vivants, coques fermées, sans odeur forte. La coquille doit être exempte de fissures et présenter un aspect brillant.",
+    "storage_guide": "Conserver au réfrigérateur (4 °C) dans un bac couvert d’eau de mer ou d’eau salée (35 g de sel/litre) jusqu’à 48 h. Changer l’eau toutes les 12 h.",
+    "prep_guide": "Brosser les coquilles, laisser dégorger 1 h en eau salée, puis cuire 15–20 min dans un court-bouillon aromatique (vin blanc, oignon, carotte, bouquet garni). Rafraîchir avant de servir.",
+    "nutrition_info": "Pour 100 g : énergie 85 kcal, protéines 20 g, lipides 1 g, glucides 0,9 g, sodium 300 mg",
+    "texture": "Chair ferme et légèrement caoutchouteuse, juteuse une fois bien cuite",
+    "image_filename": "bulots.webp",
+    "functional_categories": [
+      "apéritif",
+      "fruits-de-mer"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 82%, protéines 16%, lipides 1%, glucides 0,9%",
+      "famille_botanique": "Buccinidae"
+    }
+  },
+  {
+    "name": "Cigales de mer",
+    "scientific_name": "Scyllarides latus",
+    "glossary_term": "Cigale",
+    "category": "crustacé",
+    "description": "Les cigales de mer sont des crustacés décapodes de la famille des Scyllaridae. Elles se reconnaissent à leur carapace aplatie, leurs antennes en lame et leur corps segmenté. Vivant sur les fonds rocheux méditerranéens et atlantiques, elles se cachent dans les anfractuosités et se nourrissent de mollusques et petits crustacés. Très prisées pour leur chair fine et délicate, elles interviennent dans la haute gastronomie européenne et asiatique.",
+    "seasonality": "Toute l'année (pic de mai à septembre)",
+    "buying_guide": "Choisir des sujets à carapace intacte, brillante et sans tâches, à l’odeur fraîche de marée, et vérifier la fermeté du corps au toucher.",
+    "storage_guide": "Conserver à 0–2 °C sur lit de glace, sans immersion directe, et consommer dans les 48 heures pour préserver la texture et la saveur.",
+    "prep_guide": "Décortiquer sous l’eau froide, retirer la veine digestive, puis cuire à la vapeur 6–8 minutes, griller au four ou pocher dans un bouillon aromatique.",
+    "nutrition_info": "Pour 100 g : énergie 80 kcal, protéines 18 g, lipides 1 g, glucides 0 g, sodium 360 mg, oméga-3 0,2 g.",
+    "texture": "Chair ferme, fine, juteuse et goûteuse, avec une légère note sucrée.",
+    "image_filename": "Cigales de mer.webp",
+    "functional_categories": [
+      "plat-principal",
+      "fruits-de-mer"
+    ],
+    "tags": [
+      "frais",
+      "méditerranéen"
+    ],
+    "specific_data": {
+      "composition": "Eau ≈ 80 %, Protéines ≈ 18 %, Lipides ≈ 1 %, Cendres ≈ 1 %",
+      "famille_botanique": "Scyllaridae"
+    }
+  },
+  {
+    "name": "Écrevisse",
+    "scientific_name": "Astacus astacus",
+    "glossary_term": "Écrevisse",
+    "category": "crustacé",
+    "description": "L’écrevisse est un crustacé d’eau douce de la famille des Astacidae. Elle se reconnaît à sa carapace robuste, ses pinces avant puissantes et sa taille modeste. Très prisée en gastronomie, elle sert à la préparation de bisques, de sauces et de garnitures raffinées. On la trouve à l’état sauvage dans les rivières et étangs ou en élevage, notamment en Europe. Sa chair fine et délicate révèle des notes iodées et légèrement sucrées.",
+    "seasonality": "Printemps (mars à juin)",
+    "buying_guide": "Choisissez des écrevisses vivantes, réactives et à la carapace intacte. Vérifiez que les pinces sont fermées et qu’il n’y a pas de taches noires ou de traces de dessèchement. Une odeur marine légère et propre est signe de fraîcheur.",
+    "storage_guide": "Conservez-les vivantes au réfrigérateur (4 °C) dans un bac perforé ou un récipient aéré, recouvert d’un linge humide. Ne les plongez pas dans l’eau. À consommer dans les 24 heures ou à blanchir puis congeler pour une conservation plus longue.",
+    "prep_guide": "Faites purger les écrevisses 1 heure dans de l’eau légèrement salée et au frais. Plongez-les ensuite dans un court-bouillon bouillant (eau, sel, aromates) 3 à 5 minutes jusqu’à ce qu’elles deviennent rouges. Égouttez et laissez tiédir avant de décortiquer.",
+    "nutrition_info": "Pour 100 g d’écrevisses cuites : Énergie 77 kcal, Protéines 16 g, Lipides 1 g, Glucides 0 g, Cholestérol 150 mg, Sodium 70 mg.",
+    "texture": "Chair ferme, juteuse et légèrement croquante, avec une saveur iodée délicate.",
+    "image_filename": "Écrevisse.webp",
+    "functional_categories": [
+      "base-bisque",
+      "garniture",
+      "aromatisation"
+    ],
+    "tags": [
+      "eau-douce",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 80%, Protéines 18%, Lipides 1%, Cendres 1%",
+      "famille_botanique": "Astacidae"
+    }
+  },
+  {
+    "name": "Homard",
+    "scientific_name": "Homarus gammarus",
+    "glossary_term": "Homard",
+    "category": "crustacé",
+    "description": "Le homard est un crustacé marin réputé pour sa chair fine et savoureuse. Présent dans les eaux froides de l’Atlantique Nord, il se distingue par sa carapace robuste, ses pinces puissantes et sa queue charnue. Considéré comme un mets de choix, il est cuisiné entier, en queue décortiquée, en bisque ou en sauce, et se prête aussi bien aux préparations simples qu’aux recettes gastronomiques.",
+    "seasonality": "Été - Automne (juin à novembre)",
+    "buying_guide": "Privilégiez le homard vivant ou fraîchement décortiqué. Vérifiez une carapace intacte sans traces noires ni mollissement. Pour le vivant, assurez-vous qu’il bouge légèrement dans le bac à glace humide.",
+    "storage_guide": "Conservez le homard vivant dans le bas du réfrigérateur, sur un lit de glace ou dans un sac humide, jusqu’à 24 h. Une fois cuit, filmez hermétiquement et gardez au frais 2 jours ou congelez sous vide jusqu’à 3 mois.",
+    "prep_guide": "Pour cuire le homard vivant, plongez-le tête la première dans un grand volume d’eau bouillante salée (35 g/L) pendant 8 à 12 min. Pour la queue seule, ajustez le temps à 6 min. Vous pouvez également le cuire à la vapeur, griller ou poêler après découpe.",
+    "nutrition_info": "Pour 100 g de chair cuite : énergie 90 kcal, protéines 18 g, lipides 1 g, glucides 0 g, sodium 385 mg, cholestérol 76 mg, calcium 70 mg, magnésium 42 mg, fer 0,6 mg.",
+    "texture": "Chair ferme, moelleuse et légèrement élastique, offrant une légère résistance sous la dent avant de libérer toute sa tendreté.",
+    "image_filename": "homard.webp",
+    "functional_categories": [
+      "bouillon",
+      "garniture",
+      "aromatisation"
+    ],
+    "tags": [
+      "frais",
+      "festif",
+      "luxe"
+    ],
+    "specific_data": {
+      "composition": "Eau 79 %, protéines 19 %, lipides 1 %, minéraux 1 %",
+      "famille_botanique": "Homaridae"
+    }
+  },
+  {
+    "name": "Encornet",
+    "scientific_name": "Loligo vulgaris",
+    "glossary_term": "Calmar",
+    "category": "fruit de mer",
+    "description": "L’encornet est un céphalopode marin de la famille des Loliginidae, voisin du calmar et de la seiche. Reconnu pour ses anneaux charnus et sa tête munie de tentacules, il mesure généralement entre 20 et 30 cm. Sa chair délicate, à la fois fine et ferme, offre une saveur iodée subtile. Très apprécié en Méditerranée et dans l’Atlantique, l’encornet se décline en de nombreuses préparations culinaires : frit, à la plancha, farci ou encore en sauce tomate relevée d’ail et de persil.",
+    "seasonality": "Avril à juillet (pointe de fraîcheur au printemps)",
+    "buying_guide": "Préférez les encornets frais aux yeux clairs et à la peau brillante. La chair doit être ferme, élastique et blanc nacré, sans taches brunâtres. Repérez une odeur marine légère, jamais ammoniaquée. Évitez les tentacules flasques ou les tubes mouillés et glissants.",
+    "storage_guide": "Conservez au réfrigérateur (0–4 °C) dans un bac hermétique, idéalement sur lit de glace, et consommez dans les 24 à 48 heures. Pour une conservation plus longue, nettoyez, filmez sous vide et congelez à -18 °C : la texture restera satisfaisante jusqu’à 3 mois.",
+    "prep_guide": "Rincez l’encornet sous l’eau froide, détachez la tête du corps et videz l’intérieur. Retirez la fine plume transparente (tuteure) et la peau pour un aspect plus net. Coupez le corps en anneaux ou gardez-le entier pour le farcir. Les tentacules se préparent en morceaux, idéalement préalablement massés avec sel et jus de citron pour attendrir.",
+    "nutrition_info": "Pour 100 g : énergie 92 kcal, eau 80 g, protéines 15,6 g, lipides 1,4 g, glucides 3,1 g, cholestérol 220 mg, sodium 44 mg.",
+    "texture": "Chair ferme et élastique, fondante après cuisson rapide, légèrement caoutchouteuse si trop cuite.",
+    "image_filename": "encornet.webp",
+    "functional_categories": [
+      "proteine",
+      "aromatisation"
+    ],
+    "tags": [
+      "frais",
+      "méditerranéen",
+      "pêche"
+    ],
+    "specific_data": {
+      "composition": "Eau ~80%, protéines ~17%, lipides ~1%, glucides ~1%, minéraux",
+      "famille_botanique": "Loliginidae"
+    }
+  },
+  {
+    "name": "Huîtres",
+    "scientific_name": "Ostrea edulis",
+    "glossary_term": "Huître",
+    "category": "coquillage",
+    "description": "Les huîtres sont des mollusques bivalves marins appartenant à la famille des Ostreidae. Elles vivent fixées sur les rochers ou les tables ostréicoles et filtrent l’eau de mer pour se nourrir de phytoplancton. Reconnues pour leur goût iodé et leur texture fondante, elles sont consommées crues ou cuisinées dans de nombreuses cuisines du monde.",
+    "seasonality": "Septembre à Avril",
+    "buying_guide": "Choisissez des huîtres vivantes dont les coquilles sont bien fermées et sans fissures. Elles doivent être lourdes et humides à la prise, dégageant une odeur fraîche de bord de mer. Privilégiez les labels d’origine contrôlée pour garantir traçabilité et qualité.",
+    "storage_guide": "Conservez-les à plat, côté bombé vers le haut, dans le bas du réfrigérateur (4 °C max), recouvertes d’un linge humide ou d’un filet pour permettre la respiration. Consommez-les dans les 3 jours suivant l’achat.",
+    "prep_guide": "Rincez soigneusement les coquilles pour éliminer sable et algues. Ouvrez l’huître à l’aide d’un couteau à huîtres, en insérant la pointe à l’arrière et en pivotant. Séparez le muscle adhérent, récupérez le jus (la ‘‘liqueur’’) et servez sur glace, accompagnée de quartiers de citron, d’échalote vinaigrée ou d’une sauce mignonette.",
+    "nutrition_info": "Pour 100 g d’huîtres crues : environ 60 kcal, 9 g de protéines, 1,5 g de lipides, 3 g de glucides, riches en zinc, fer, iode et vitamine B12.",
+    "texture": "Chair ferme et légèrement croquante, à la fois moelleuse et onctueuse, avec un goût frais, salin et minéral.",
+    "image_filename": "huitres.webp",
+    "functional_categories": [
+      "apero",
+      "entree"
+    ],
+    "tags": [
+      "iodé",
+      "frais",
+      "coquillage"
+    ],
+    "specific_data": {
+      "composition": "Environ 86 % d’eau, 9 % de protéines, 2 % de lipides, 1 % de glucides, minéraux (zinc, fer, iode) et vitamines (B12)",
+      "famille_botanique": "Ostreidae"
+    }
+  },
+  {
+    "name": "Langouste",
+    "scientific_name": "Palinurus elephas",
+    "glossary_term": "Langouste",
+    "category": "crustacé",
+    "description": "La langouste est un crustacé marin de la famille des Palinuridae, réputé pour sa chair délicate et raffinée. On la trouve principalement en Méditerranée et dans l’Atlantique Nord-Est. Elle se distingue par ses longues antennes, son corps allongé et sa carapace robuste mais sans pinces comme les homards.",
+    "seasonality": "Juin à septembre",
+    "buying_guide": "Choisir un spécimen vivant, actif et ferme au toucher. Les antennes doivent être intactes et les yeux brillants. Privilégier les petits calibres si vous souhaitez une chair plus tendre.",
+    "storage_guide": "Conserver vivante au réfrigérateur entre 2 et 4 °C, dans un bac légèrement humide ou sur un lit de glace, et consommer idéalement dans les 24 à 48 heures.",
+    "prep_guide": "Plonger dans un court-bouillon frémissant 5 à 8 minutes selon la taille. Vous pouvez aussi la griller ou la poêler après l’avoir décortiquée et le corail retiré. Servir tiède avec une sauce au beurre citronné.",
+    "nutrition_info": "Pour 100 g : Énergie 90 kcal, Protéines 20 g, Lipides 0,5 g, Glucides 0 g, Cholestérol 200 mg, Sodium 900 mg.",
+    "texture": "Chair ferme, légèrement élastique, très juteuse et subtilement sucrée.",
+    "image_filename": "langouste.webp",
+    "functional_categories": [
+      "plat-principal",
+      "festif"
+    ],
+    "tags": [
+      "frais",
+      "luxueux",
+      "iodé"
+    ],
+    "specific_data": {
+      "composition": "Eau 81 %, Protéines 20 %, Lipides 0,5 %, Glucides 0 %, Minéraux 1,5 %",
+      "famille_botanique": "Palinuridae"
+    }
+  },
+  {
+    "name": "Langoustine",
+    "scientific_name": "Nephrops norvegicus",
+    "glossary_term": "Langoustine",
+    "category": "crustacé",
+    "description": "La langoustine, souvent appelée « demoiselle de mer », est un crustacé décapode très prisé pour la finesse de sa chair. Mesurant généralement 15 à 20 cm, elle présente un corps allongé, une carapace fine et de longues pinces graciles. On la trouve principalement dans l’Atlantique Nord-Est et en mer du Nord, nichée dans les fonds sableux, à des profondeurs de 20 à 800 m.",
+    "seasonality": "Avril à octobre (pic en été)",
+    "buying_guide": "Choisir des langoustines vivantes ou très fraîches, avec une carapace brillante, des yeux noirs et fermes, et sans odeur désagréable. Préférer un calibre uniforme pour une cuisson homogène.",
+    "storage_guide": "Conserver en basse température (0–4 °C) sur lit de glace, dans un récipient perforé pour évacuer l’eau de fonte. À consommer dans les 24–48 h ou à congeler rapidement pour préserver la texture.",
+    "prep_guide": "Rincer sous l’eau froide. Cuire en court-bouillon (eau salée parfumée d’herbes et aromates) 2–3 min après reprise de l’ébullition, ou griller 1–2 min de chaque côté. Décortiquer délicatement pour ne pas abîmer la chair.",
+    "nutrition_info": "Pour 100 g : Énergie 90 kcal, Protéines 18 g, Lipides 1 g, Glucides 0 g, Cholestérol 150 mg, Sodium 300 mg.",
+    "texture": "Chair fine, ferme et moelleuse, légèrement sucrée",
+    "image_filename": "langoustines.webp",
+    "functional_categories": [
+      "base-bouillon",
+      "aromatisation"
+    ],
+    "tags": [
+      "frais",
+      "raffiné"
+    ],
+    "specific_data": {
+      "composition": "78 % eau, 18 % protéines, 1.5 % lipides, traces de glucides, minéraux",
+      "famille_botanique": "Nephropidae"
+    }
+  },
+  {
+    "name": "Moules",
+    "scientific_name": "Mytilus edulis",
+    "glossary_term": "Moule",
+    "category": "coquillage",
+    "description": "Les moules sont des mollusques bivalves appartenant à la famille des Mytilidae. Elles colonisent les rochers et les structures immergées en eaux littorales et sont élevées en milieu côtier pour la consommation. Riches en protéines, minéraux et oligo-éléments, elles constituent un aliment traditionnel dans de nombreuses régions, notamment sur les côtes de la Manche et de l’Atlantique. Elles se dégustent nature, marinières, en soupe ou en sauce.",
+    "seasonality": "Septembre à avril",
+    "buying_guide": "Choisissez des moules vivantes à coquille fermée ou se refermant au toucher. Privilégiez celles expédiées vivantes et portant une étiquette d’origine (Baie de Somme, Mer du Nord, etc.). Évitez les spécimens fissurés, cassés ou dégageant une odeur désagréable.",
+    "storage_guide": "Conservez-les vivantes en position tête en bas dans un récipient couvert d’un linge humide, au réfrigérateur (4 °C) pendant 1 à 2 jours maximum. Ne pas les immerger dans l’eau douce pour éviter qu’elles meurent prématurément.",
+    "prep_guide": "Ébarbez (débarbez) les moules en retirant les filaments (la byssus), grattez et rincez abondamment sous l’eau froide. Éliminez celles qui restent ouvertes après un léger choc. Cuisez-les à l’étouffée ou à la marinière 3 à 5 minutes jusqu’à ouverture complète des coquilles.",
+    "nutrition_info": "Au 100 g (cuite) : énergie 172 kJ (41 kcal), 10,8 g de protéines, 2,2 g de lipides, 3,7 g de glucides, 0 g de fibres, sodium 350 mg. Excellente source de fer, zinc, iode et vitamine B12.",
+    "texture": "Chair ferme, tendre et légèrement caoutchouteuse, saveur iodée et salée, avec une pointe amère caractéristique.",
+    "image_filename": "moules.webp",
+    "functional_categories": [
+      "ingrédient-principal",
+      "aromatisation"
+    ],
+    "tags": [
+      "frais",
+      "iodé",
+      "bivalve"
+    ],
+    "specific_data": {
+      "composition": "Environ 78 % d’eau, 12 % de protéines, 2 % de lipides, glucides et fibres négligeables, minéraux (fer, iode, zinc).",
+      "famille_botanique": "Mytilidae"
+    }
+  },
+  {
+    "name": "Oursin",
+    "scientific_name": "Paracentrotus lividus",
+    "glossary_term": "Oursin",
+    "category": "fruit de mer",
+    "description": "L’oursin est un échinoderme marin caractérisé par sa coque sphérique couverte de piquants. Très prisé pour ses gonades comestibles, appelées « rouge » ou « corail », il offre une saveur marine prononcée, iodée et délicatement sucrée. Présent dans les fonds rocheux de Méditerranée et de l’Atlantique Nord-Est, il se récolte à la main ou à l’aide de petits filets et constitue un mets de choix dans la cuisine fine.",
+    "seasonality": "Novembre à avril",
+    "buying_guide": "Choisissez des oursins lourds pour leur taille, à piquants intacts et mobiles. La carapace doit être ferme, sans fissures, et le poids doit témoigner d’un contenu plein et frais.",
+    "storage_guide": "Conservez-les vivants à 4 °C, à plat, recouverts d’un linge humide ou d’algues fraîches. Consommez-les idéalement dans les 24 heures pour préserver leur texture et leur goût.",
+    "prep_guide": "Ouvrez l’oursin avec une paire de ciseaux adaptées aux coquillages en sectionnant le pourtour de la coquille. Retirez délicatement la membrane interne et rincez brièvement les gonades à l’eau de mer ou à l’eau salée froide sans frotter.",
+    "nutrition_info": "Pour 100 g : 125 kcal, 16 g de protéines, 4 g de lipides (notamment oméga-3), 2 g de glucides, riche en zinc, fer et vitamines A, B12.",
+    "texture": "Fondante et crémeuse en bouche, avec une légère fermeté et une onctuosité caractéristique.",
+    "image_filename": "oursin.webp",
+    "functional_categories": [
+      "aromatisation",
+      "ingredient-principal"
+    ],
+    "tags": [
+      "iodé",
+      "raffiné"
+    ],
+    "specific_data": {
+      "composition": "Environ 80 % d’eau, 10 % de protéines, 4 % de lipides, 1 % de glucides, fibres négligeables",
+      "famille_botanique": "Echinoidea"
+    }
+  },
+  {
+    "name": "Palourdes",
+    "scientific_name": "Ruditapes decussatus",
+    "glossary_term": "Palourde",
+    "category": "coquillage",
+    "description": "La palourde est un mollusque bivalve comestible apprécié pour sa chair délicate et iodée. Elle vit enfouie dans les fonds sableux ou vaseux des zones côtières. Riche en protéines et minéraux, elle est cuisinée depuis des siècles dans de nombreuses traditions gastronomiques, aussi bien crue (en carpaccio ou en verrine) que cuite (moules-frites, sauces, potages).",
+    "seasonality": "Septembre à avril",
+    "buying_guide": "Choisir des palourdes vivantes : la coquille doit être fermée ou se refermer lorsqu’on la touche. Opter pour des spécimens de taille homogène, brillants et sans odeur forte. Éviter les coquilles fissurées ou ouvertes.",
+    "storage_guide": "Conserver les palourdes vivantes au réfrigérateur entre 2 et 4 °C, dans un récipient aéré couvert d’un linge humide. À consommer de préférence dans les 24 h. Jeter celles dont la coquille reste ouverte après légère percussion.",
+    "prep_guide": "Rincer plusieurs fois les palourdes à l’eau froide pour éliminer le sable. Laisser tremper 1 h dans de l’eau salée (35 g de sel/1 L) pour qu’elles se purgent. Cuire à la vapeur ou au court-bouillon selon la recette, en veillant à ne pas trop prolonger la cuisson pour préserver la tendreté.",
+    "nutrition_info": "Pour 100 g : énergie 92 kcal, protéines 12,8 g, lipides 1,5 g, glucides 2,6 g, sodium 350 mg, fer 3,9 mg.",
+    "texture": "Chair ferme et charnue, légèrement élastique, fondante en bouche avec une pointe caoutchouteuse lorsqu’elle est trop cuite.",
+    "image_filename": "palourdes.webp",
+    "functional_categories": [
+      "base-sauce",
+      "aromatisation"
+    ],
+    "tags": [
+      "mer",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "≈70 % eau, 20 % protéines, 1,5 % lipides, 2,6 % glucides, minéraux (fer, sodium, zinc)",
+      "famille_botanique": "Veneridae"
+    }
+  },
+  {
+    "name": "Pétoncle",
+    "scientific_name": "Pecten jacobaeus",
+    "glossary_term": "Pétoncle",
+    "category": "fruit de mer",
+    "description": "Le pétoncle est un coquillage bivalve marin apprécié pour sa chair fine, délicate et légèrement sucrée. Il appartient à la famille des Pectinidae et se distingue par sa coquille ronde et nervurée. Très utilisé en cuisine gastronomique, il se décline en carpaccio, poêlé ou gratiné, rehaussant plats de la mer et recettes festives.",
+    "seasonality": "Automne, Hiver",
+    "buying_guide": "Choisir des pétoncles à chair ferme et nacrée, sans odeur désagréable. Privilégier les coquilles bien fermées ou légèrement entrouvertes qui se referment sous la pression. Opter pour un fournisseur ou poissonnier de confiance.",
+    "storage_guide": "Conserver les pétoncles vivants au réfrigérateur entre 0 °C et 4 °C, recouverts d’un linge humide pour maintenir l’humidité. À consommer dans les 24 h suivant l’achat.",
+    "prep_guide": "Rincer les pétoncles à l’eau claire. Retirer le muscle adducteur et ôter le corail si nécessaire. Pour poêler, sécher soigneusement la chair et saisir à feu vif quelques secondes de chaque côté.",
+    "nutrition_info": "Pour 100 g : Énergie 120 kJ (28 kcal), Protéines 20 g, Lipides 1 g, Glucides 0,5 g, Sodium 300 mg.",
+    "texture": "Chair ferme, fondante et légèrement granuleuse, fond en bouche.",
+    "image_filename": "Pétoncle.webp",
+    "functional_categories": [
+      "protéine",
+      "luxe"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 80 %, Protéines 20 %, Lipides 1 %, Glucides 0,5 %, Minéraux 0,8 %",
+      "famille_botanique": "Pectinidae"
+    }
+  },
+  {
+    "name": "Poulpe",
+    "scientific_name": "Octopus vulgaris",
+    "glossary_term": "Poulpe",
+    "category": "mollusque",
+    "description": "Le poulpe est un céphalopode marin reconnu pour ses huit bras munis de ventouses. Très présent en Méditerranée et en Atlantique, il fait partie intégrante de nombreuses cuisines du monde. Sa chair, fine et savoureuse, se prête à diverses préparations culinaires, de la cuisson à l’eau à la grillade.",
+    "seasonality": "Toute l'année (pic de fraîcheur au printemps)",
+    "buying_guide": "Choisir un poulpe aux bras entiers, à la peau lisse et brillante. Il doit sentir la mer, sans odeur d’ammoniac. Préférez-le de taille moyenne pour une organisation de cuisson plus homogène.",
+    "storage_guide": "Conserver au réfrigérateur (0–4 °C) dans une boîte hermétique ou un sac plastique. À consommer sous 24 à 48 heures. Peut être congelé jusqu’à 3 mois après avoir été blanchi et séché.",
+    "prep_guide": "Nettoyer le bec et les entrailles si non préparé. Blanchir 2 minutes pour raffermir la chair. Cuire ensuite doucement (braisage, bouillon, grillade) pour obtenir une texture tendre. Masser la chair avec du sel avant cuisson pour attendrir.",
+    "nutrition_info": "Pour 100 g : énergie 82 kcal, eau 82 g, protéines 16 g, lipides 1 g, glucides 1 g, sodium 350 mg.",
+    "texture": "Chair ferme et légèrement élastique, fondante lorsqu’elle est bien cuite.",
+    "image_filename": "Poulpe.webp",
+    "functional_categories": [
+      "plat-principal",
+      "marinade"
+    ],
+    "tags": [
+      "frais",
+      "riche en protéines"
+    ],
+    "specific_data": {
+      "composition": "Eau 82%, protéines 16%, lipides 1%, glucides 1%",
+      "famille_botanique": "Octopodidae"
+    }
+  },
+  {
+    "name": "Coquille Saint-Jacques",
+    "scientific_name": "Pecten maximus",
+    "glossary_term": "Saint-Jacques",
+    "category": "fruit de mer",
+    "description": "La coquille Saint-Jacques est un mollusque bivalve apprécié pour sa chair délicate et légèrement sucrée. Elle se caractérise par un muscle adducteur ferme et fondant, souvent accompagné de son corail de couleur orange. Provenant principalement des côtes atlantiques européennes, elle figure parmi les produits de la mer les plus raffinés.",
+    "seasonality": "Octobre à avril",
+    "buying_guide": "Choisir des coquilles dont la chair est blanche et ferme, sans odeur forte. Vérifier que le corail est d’un orange vif et que la coquille est bien fermée ou se referme au toucher. Privilégier les produits labellisés pêche durable.",
+    "storage_guide": "Conserver dans le bac à légumes du réfrigérateur, idéalement sur un lit de glace, entre 0 et 4 °C. Consommer dans les 24 à 48 heures suivant l’achat. Ne pas stocker dans l’eau douce.",
+    "prep_guide": "Rincer rapidement sous un filet d’eau froide. Séparer délicatement le muscle adducteur du reste de la coquille, retirer la membrane fine et, si désiré, le corail. Cuire rapidement à la poêle, au grill ou en carpaccio pour préserver la tendreté.",
+    "nutrition_info": "Pour 100 g : énergie 90 kcal, protéines 20 g, lipides 1,2 g, glucides 0,4 g, sel 0,3 g.",
+    "texture": "Chair ferme et fondante, à la fois tendre et légèrement élastique, avec une sensation veloutée en bouche.",
+    "image_filename": "coquille-st-jacques.webp",
+    "functional_categories": [
+      "proteine-principale",
+      "garniture"
+    ],
+    "tags": [
+      "terroir",
+      "frais",
+      "raffiné"
+    ],
+    "specific_data": {
+      "composition": "Eau 79%, Protéines 19%, Lipides 1,2%, Glucides 0,4%",
+      "famille_botanique": "Pectinidae"
+    }
+  },
+  {
+    "name": "Tellines",
+    "scientific_name": "Donax trunculus",
+    "glossary_term": "Telline",
+    "category": "coquillage",
+    "description": "Les tellines sont de petits mollusques bivalves marins prisés pour leur goût délicat et iodé. Vivant enfouies dans le sable des plages à faible profondeur, elles sont récoltées notamment sur les côtes atlantiques et méditerranéennes. Leur coquille fine et colorée varie du beige au rose pourpre. Utilisées depuis l’Antiquité, elles s’intègrent dans de nombreuses préparations culinaires, de l’apéritif aux sauces en passant par les potages.",
+    "seasonality": "Avril à septembre",
+    "buying_guide": "Choisissez des tellines vivantes, dont la coquille est fermée ou se referme légèrement sous la pression. Privilégiez les spécimens frais, rejetant peu de sable et sans coquille cassée.",
+    "storage_guide": "Conservez-les dans le bas du réfrigérateur, dans une boîte perforée recouverte d’un linge humide, à 2–4 °C. À consommer de préférence dans les 24 h.",
+    "prep_guide": "Faites dégorger 1 à 2 h dans de l’eau salée et plusieurs changements d’eau pour éliminer le sable. Rincez-les abondamment avant cuisson. Poêlées à l’ail et au persil, en sauce blanche ou incorporées dans un potage, elles s’apprêtent rapidement à feu vif.",
+    "nutrition_info": "Pour 100 g : Énergie 70 kcal, Protéines 12 g, Lipides 1,5 g, Glucides 0,5 g, Sodium 300 mg",
+    "texture": "Chair ferme et légèrement croquante, saveur iodée et délicate",
+    "image_filename": "tellines.webp",
+    "functional_categories": [
+      "base-potage",
+      "apéritif"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau: 82 g, Protéines: 12 g, Lipides: 1,5 g, Glucides: 0,5 g, Fibres: 0 g",
+      "famille_botanique": "Mollusques bivalves"
+    }
+  },
+  {
+    "name": "Tourteau",
+    "scientific_name": "Cancer pagurus",
+    "glossary_term": "Tourteau",
+    "category": "crustacé",
+    "description": "Le tourteau, ou crabe brun, est un crustacé marin très apprécié dans la cuisine européenne. Il vit essentiellement en Atlantique Nord-Est, sur des fonds rocheux et vaseux, à des profondeurs pouvant atteindre 100 m. Sa carapace ronde, épaisse et rugueuse présente une couleur brun roux caractéristique. En cuisine, on valorise sa chair délicate aussi bien pour des plats froids que chauds : bisques, salades, farces ou simplement dégusté nature.",
+    "seasonality": "Mai à Août",
+    "buying_guide": "Choisissez un tourteau vivant dont la carapace est brillante et ferme. Vérifiez que les pattes sont mobiles et que l’odeur reste marine, sans note ammoniacale. Évitez les spécimens abîmés ou dont la chair se détache facilement.",
+    "storage_guide": "Conservez le tourteau vivant sur un lit de glace ou dans le bas du réfrigérateur, protégé par un linge humide. Consommez-le de préférence dans les 24 heures suivant l’achat. Une fois cuit, enveloppez-le dans un film alimentaire et gardez-le au frais 1 à 2 jours.",
+    "prep_guide": "Portez une grande marmite d’eau salée à ébullition, plongez-y le tourteau tête la première et laissez cuire 12 à 15 minutes selon la taille. Refroidissez-le sous un filet d’eau glacée pour faciliter le décorticage. Récupérez la chair des pinces, pattes et corps pour bisques, salades ou tartinades.",
+    "nutrition_info": "Pour 100 g de chair comestible : énergie 97 kcal, protéines 18,1 g, lipides 1,3 g, glucides 0 g, cholestérol 72 mg, sodium 400 mg.",
+    "texture": "Chair ferme, tendre et légèrement filandreuse, révélant une saveur douce et iodée.",
+    "image_filename": "tourteau.webp",
+    "functional_categories": [
+      "base-bisque",
+      "principe-protéine",
+      "accompagnement"
+    ],
+    "tags": [
+      "frais",
+      "savoureux"
+    ],
+    "specific_data": {
+      "composition": "Eau 80 %, Protéines 18 %, Lipides 1 %, Cendres 1 %",
+      "famille_botanique": "Cancridae"
+    }
+  },
+  {
+    "name": "Coques",
+    "scientific_name": "Donax trunculus",
+    "glossary_term": "Coque",
+    "category": "coquillage",
+    "description": "Les coques sont de petits bivalves marins appartenant à la famille des Donacidae. Elles sont reconnues pour leur chair fine et délicate ainsi que pour leur saveur iodée. Très prisées en Méditerranée et sur les côtes atlantiques, elles se récoltent généralement sur les plages sablonneuses à marée basse. En cuisine, elles sont couramment dégustées en entrée, poêlées à l'ail et au persil, ou incorporées dans des plats de pâtes et des verrines. Elles peuvent également servir de base à un bouillon marin parfumé.",
+    "seasonality": "Printemps et été (mars à septembre)",
+    "buying_guide": "Choisir des coques vivantes à la coquille propre et non fendue. Les animaux doivent être fermés ou se refermer légèrement sous la pression : signe de fraîcheur et de bonne qualité.",
+    "storage_guide": "Conserver au réfrigérateur dans une passoire recouverte d'un linge humide. Utiliser dans les 48 heures. Jeter les coques restées ouvertes après un léger choc pour vérifier la réactivité.",
+    "prep_guide": "Faire dégorger dans de l'eau salée (35 g de sel par litre) pendant 1 à 2 heures pour éliminer le sable. Rincer à plusieurs eaux fraîches avant cuisson. Cuire à la vapeur, poêlées ou en sauce en s'assurant d'une cuisson rapide pour préserver la texture.",
+    "nutrition_info": "Pour 100 g de coques : énergie 79 kcal, protéines 14 g, lipides 1 g, glucides 2 g, eau 83 g. Riches en vitamines B12, fer, magnésium et zinc.",
+    "texture": "Chair ferme, légèrement caoutchouteuse, fondante en bouche et juteuse.",
+    "image_filename": "Coques.webp",
+    "functional_categories": [
+      "source-proteines",
+      "aromatisation"
+    ],
+    "tags": [
+      "mer",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 83%, Protéines 14%, Lipides 1%, Glucides 2%, Cendres 1%",
+      "famille_botanique": "Donacidae"
+    }
+  },
+  {
+    "name": "Crabe",
+    "scientific_name": "Cancer pagurus",
+    "glossary_term": "Crabe",
+    "category": "crustacé",
+    "description": "Le crabe est un crustacé décapode à large carapace et à cinq paires de pattes, dont la première porte des pinces. Présent dans les eaux côtières tempérées et froides de l'Atlantique Nord et de la Manche, il est apprécié pour sa chair délicate et légèrement sucrée. Il est cuisiné entier, en tourte, en bisque, ou utilisé pour préparer des salades et des garnitures raffinées.",
+    "seasonality": "Avril à juin et septembre à novembre",
+    "buying_guide": "Choisir un crabe vivant, réactif et lourd pour sa taille. La carapace doit être intacte, sans odeur ammoniacale. Préférer les mâles pour leur chair plus ferme et les femelles pour leur corail abondant.",
+    "storage_guide": "Conserver le crabe vivant dans un bac aéré sur lit de glace fondante, à 2–4 °C, maximum 24 h. Une fois cuit, emballer hermétiquement et garder au réfrigérateur jusqu’à 48 h.",
+    "prep_guide": "Plonger le crabe vivant dans l’eau bouillante salée (35 g/L) pendant 12 à 15 min selon le poids. Laisser refroidir, décortiquer en retirant pattes, pinces et carapace, puis extraire la chair et le corail pour utilisation.",
+    "nutrition_info": "Pour 100 g de chair cuite : énergie 82 kcal, protéines 19,6 g, lipides 1,3 g, glucides 0 g, cholestérol 70 mg, sodium 800 mg.",
+    "texture": "Chair fine, ferme et légèrement élastique, avec des parties plus tendres au niveau du corail et des pinces.",
+    "image_filename": "Crabe.webp",
+    "functional_categories": [
+      "base-soupe",
+      "garniture"
+    ],
+    "tags": [
+      "marin",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 79,8 g; Protéines 19,6 g; Lipides 1,3 g; Glucides 0 g; Sel 0,8 g",
+      "famille_botanique": "Portunidae"
+    }
+  },
+  {
+    "name": "Crevettes grises",
+    "scientific_name": "Crangon crangon",
+    "glossary_term": "Crevette",
+    "category": "crustacé",
+    "description": "Les crevettes grises sont de petits crustacés marins très prisés pour leur chair délicate et légèrement sucrée. Elles vivent principalement dans les eaux froides de la Manche et de la mer du Nord, où elles se nourrissent de plancton et de petits invertébrés. Récoltées traditionnellement à la côte, elles sont un symbole du terroir maritime d’Europe du Nord. Leur saveur iodée et leur texture fine en font un ingrédient de choix en apéritif, en garniture de salades ou dans les plats de coquillages.",
+    "seasonality": "Décembre à avril (pic de fraîcheur de janvier à mars)",
+    "buying_guide": "Privilégiez les crevettes dont la carapace est intacte et non gluante, à la couleur uniforme grise à brunâtre. L’odeur doit être fraîche et marine, sans notes ammoniacales. Achetez-les vivantes ou fraîchement décortiquées chez un poissonnier de confiance.",
+    "storage_guide": "Conservez-les au réfrigérateur (0–4 °C) dans leur emballage d’origine ou dans un récipient hermétique, recouvert d’un linge humide, et consommez-les dans les 24 h. Pour une conservation plus longue, épluchez-les puis congelez-les à –18 °C pour 2–3 mois.",
+    "prep_guide": "Décortiquez les crevettes en retirant la tête et la carapace, puis enlevez le boyau dorsal. Rincez-les rapidement à l’eau froide. Elles se poêlent 2–3 min à feu vif avec un filet d’huile d’olive, se cuisent en court-bouillon 1–2 min ou s’intègrent crues en tartare.",
+    "nutrition_info": "Pour 100 g : énergie 360 kJ (86 kcal), protéines 18–20 g, lipides 0,7–1,5 g dont oméga-3, glucides 0 g, fibres 0 g, cholestérol 150 mg, sodium ~450 mg.",
+    "texture": "Chair ferme et légèrement élastique, texture fondante et croquante à la fois.",
+    "image_filename": "crevettes-grises.webp",
+    "functional_categories": [
+      "protide",
+      "garniture"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "78% eau, 20% protéines, 1% lipides, 1% minéraux et oligo-éléments",
+      "famille_botanique": "Crangonidae"
+    }
+  },
+  {
+    "name": "Bigorneaux",
+    "scientific_name": "Littorina littorea",
+    "glossary_term": "Bigorneau",
+    "category": "coquillage",
+    "description": "Les bigorneaux sont de petits mollusques gastéropodes marins vivant le long des côtes rocheuses. Ils se reconnaissent à leur coquille spirale solide, souvent de teinte brune ou verdâtre, et à leur petit opercule qui ferme l’ouverture de la coquille. Très appréciés en gastronomie traditionnelle, ils se dégustent en entrée ou en accompagnement, notamment avec une sauce au vin blanc ou au beurre persillé.",
+    "seasonality": "Printemps à automne",
+    "buying_guide": "Choisir des bigorneaux vivants : la coquille doit être bien fermée ou se refermer au toucher. Préférer ceux issus de pêche locale, non décolorés et à la membrane opérculaire intacte.",
+    "storage_guide": "Conserver au frais (4 °C max), dans un récipient perforé ou une poche à maille, recouverts d’un linge humide. À consommer dans les 48 heures.",
+    "prep_guide": "1. Rincer et brosser les coquilles sous l’eau. 2. Les placer 2 heures dans de l’eau salée pour les faire dégorger. 3. Blanchir 1 à 2 minutes dans l’eau bouillante avant cuisson finale en court-bouillon, au vin blanc ou au beurre à l’ail.",
+    "nutrition_info": "Pour 100 g : énergie 80 kcal, protéines 16 g, lipides 1,5 g, glucides 1 g, fibres 0 g, sodium 300 mg.",
+    "texture": "Chair ferme et légèrement caoutchouteuse, légèrement élastique, offrant une mâche soutenue.",
+    "image_filename": "Bigorneaux.webp",
+    "functional_categories": [
+      "base-potage",
+      "aromatisation"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 78 %, protéines 16 %, lipides 1,5 %, glucides 1 %",
+      "famille_botanique": "Mollusques Gastéropodes"
+    }
+  },
+  {
+    "name": "Seiche",
+    "scientific_name": "Sepia officinalis",
+    "glossary_term": "Seiche",
+    "category": "fruit de mer",
+    "description": "La seiche est un mollusque céphalopode appartenant à la famille des Sepiidae. On la reconnaît à sa coquille interne calcaire, le fameux os de seiche. Elle fréquente les fonds sableux et rocheux des côtes atlantiques et méditerranéennes. Réputée pour sa chair délicate et son goût iodé, la seiche est consommée grillée, poêlée, en ragoût ou intégrée dans des plats de fruits de mer. Elle joue également un rôle culturel dans de nombreuses traditions culinaires, de la bouillabaisse provençale aux pintxos basques.",
+    "seasonality": "Octobre à avril",
+    "buying_guide": "Choisir des seiches fraîches au corps ferme et lisse, aux yeux clairs et brillants. La chair ne doit pas dégager d’odeur trop prononcée. Privilégier un achat en criée ou chez un poissonnier de confiance.",
+    "storage_guide": "Conserver au réfrigérateur entre 0 et 4 °C, idéalement dans un bac hermétique ou sous film alimentaire. À consommer dans les 24 h suivant l’achat. Peut se congeler sous vide jusqu’à 3 mois.",
+    "prep_guide": "Rincer à l’eau claire, retirer la tête et la poche d’encre si désiré. Enlever le cartilage interne (os de seiche). Couper en lanières ou en anneaux selon la recette. Cuire rapidement à feu vif pour préserver la tendreté, ou mijoter doucement pour un résultat fondant.",
+    "nutrition_info": "Pour 100 g : énergie 74 kcal, protéines 16 g, lipides 0,7 g, glucides 0 g, sodium 800 mg, cholestérol 69 mg.",
+    "texture": "Chair ferme, légèrement élastique et moelleuse lorsque bien cuite, avec un léger croquant en bouche.",
+    "image_filename": "seiche.webp",
+    "functional_categories": [
+      "umami",
+      "base-bouillon"
+    ],
+    "tags": [
+      "méditerranéen",
+      "protéine",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 82 %, Protéines 16 %, Lipides 1 %, Glucides 0 %, Minéraux 1 %",
+      "famille_botanique": "Sepiidae"
+    }
+  },
+  {
+    "name": "Crevettes roses",
+    "scientific_name": "Parapenaeus longirostris",
+    "glossary_term": "Crevette",
+    "category": "crustacé",
+    "description": "Les crevettes roses sont des crustacés décapodes appréciés pour leur chair délicate et légèrement sucrée. Originaires principalement des eaux tempérées de l’Atlantique Nord et de la Méditerranée, elles se distinguent par leur carapace rosée et leur goût subtil. Utilisées dans de nombreuses cuisines du monde, elles peuvent être servies crues en carpaccio, poêlées, grillées ou intégrées à des plats mijotés et des salades.",
+    "seasonality": "Mai à octobre",
+    "buying_guide": "Choisissez des crevettes fermes, à l’odeur fraîche de la mer et à la couleur uniforme. Évitez les sujets présentant des taches noires sur la carapace ou un aspect visqueux. Privilégiez les produits issus de pêches durables ou labellisés MSC.",
+    "storage_guide": "Conservez les crevettes roses au réfrigérateur (0–2 °C) dans leur emballage d’origine ou dans un récipient hermétique. Consommez-les de préférence dans les 24 heures. Pour une conservation plus longue, équeutez-les et congelez-les à –18 °C.",
+    "prep_guide": "Décortiquez les crevettes en laissant éventuellement la queue pour la présentation, puis retirez le boyau dorsal avec la pointe d’un couteau. Faites-les pocher quelques minutes dans un court-bouillon, saisissez-les à la poêle ou grillez-les au four. Elles se marient bien avec l’ail, le citron, le piment ou les herbes fraîches.",
+    "nutrition_info": "Pour 100 g : Énergie 95 kcal, Protéines 20 g, Lipides 1,2 g (dont acides gras saturés 0,3 g), Glucides 0 g, Cholestérol 180 mg, Sodium 150 mg.",
+    "texture": "Chair ferme et légèrement croquante, fondante en bouche lorsqu’elle est correctement cuite.",
+    "image_filename": "crevettes-roses.webp",
+    "functional_categories": [
+      "protéine",
+      "aromatisation"
+    ],
+    "tags": [
+      "marin",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 75%, Protéines 20%, Lipides 1,2%, Minéraux 1,8%",
+      "famille_botanique": "Penaeidae"
+    }
+  },
+  {
+    "name": "Homard",
+    "scientific_name": "Homarus gammarus",
+    "glossary_term": "Homard",
+    "category": "crustacé",
+    "description": "Le homard est un crustacé décapode vivant principalement sur les fonds rocheux côtiers de l'Atlantique Nord et de la mer Méditerranée. Apprécié pour sa chair fine et savoureuse, il se décline en plusieurs espèces dont le homard européen (Homarus gammarus) et le homard américain (Homarus americanus). Son mode de vie benthique et sa croissance lente confèrent à sa chair une texture ferme et un goût délicat, très recherché en gastronomie.",
+    "seasonality": "Mai à août",
+    "buying_guide": "Privilégiez les homards vivants ou tout juste étourdis. Le corps doit être ferme, la carapace brillante et les pinces bien serrées. Évitez les spécimens inertes ou dont la carapace présente des taches noires ou des fissures.",
+    "storage_guide": "Conservez-le vivant en bassine ou sur de la glace fondue, dans un endroit frais (4-6 °C) et humide. Consommez-le dans les 24 heures. Pour un stockage plus long, ébouillantez, décortiquez puis congelez la chair sous vide jusqu’à 3 mois.",
+    "prep_guide": "Plongez le homard vivant dans l’eau bouillante salée pendant 8–12 minutes selon le poids. Décortiquez les pinces et la queue, puis récupérez la chair. Vous pouvez ensuite flamber au cognac, griller au beurre à l’ail ou intégrer dans une bisque ou un risotto.",
+    "nutrition_info": "Pour 100 g de chair cuite : Énergie 90 kcal, Protéines 20 g, Lipides 1 g, Glucides 0 g, Cholestérol 165 mg, Sodium 360 mg.",
+    "texture": "Chair ferme et fibreuse avec une légère onctuosité, moelleuse en bouche",
+    "image_filename": "homard.webp",
+    "functional_categories": [
+      "base-de-bisque",
+      "garniture"
+    ],
+    "tags": [
+      "luxe",
+      "fruit-de-mer"
+    ],
+    "specific_data": {
+      "composition": "Eau 78 %, Protéines 20 %, Lipides 1 %, Glucides 0 %, Cendres 1 %",
+      "famille_botanique": "Nephropidae"
+    }
+  },
+  {
+    "name": "Palourde",
+    "scientific_name": "Ruditapes decussatus",
+    "glossary_term": "Palourde",
+    "category": "coquillage",
+    "description": "La palourde est un mollusque bivalve de la famille des Veneridae. Son coquillage ovale et fin abrite un organisme charnu et savoureux. Elle vit enfouie dans le sable des côtes atlantiques et de la Méditerranée, où elle filtre l’eau de mer pour se nourrir de plancton. Très appréciée pour sa chair délicate, elle entre dans la composition de nombreuses recettes traditionnelles : soupes de poissons, plateaux de fruits de mer, sauces et farces.",
+    "seasonality": "Avril à septembre",
+    "buying_guide": "Choisissez des palourdes avec des coquilles fermées et intactes, lourdes au toucher. Elles doivent dégager une légère odeur marine, sans ammoniaque. Évitez toute coquille entrouverte ou cassée.",
+    "storage_guide": "Conservez-les vivantes au réfrigérateur (4 °C), dans un contenant aéré, recouvert d’un linge humide. À consommer de préférence dans les 48 heures. Ne pas les stocker sous eau douce.",
+    "prep_guide": "Rincez abondamment les coquilles pour éliminer sable et boue. Faites-les dégorger 1 à 2 heures dans un grand volume d'eau froide légèrement salée, puis grattez les coquilles avant cuisson.",
+    "nutrition_info": "Pour 100 g : énergie 82 kcal, protéines 12 g, lipides 2 g, glucides 3 g, sel minéraux (fer, zinc) et vitamines B12.",
+    "texture": "Chair ferme et moelleuse, légèrement caoutchouteuse, à la saveur iodée et saline.",
+    "image_filename": "Palourde.webp",
+    "functional_categories": [
+      "bouillon",
+      "aromatisation"
+    ],
+    "tags": [
+      "marin",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 82 %, protéines 12 %, lipides 2 %, glucides 3 %, minéraux 1 %",
+      "famille_botanique": "Veneridae"
+    }
+  }
+]

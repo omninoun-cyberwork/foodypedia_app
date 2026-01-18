@@ -1,0 +1,3139 @@
+[
+  {
+    "name": "Brie de Meaux",
+    "scientific_name": "AOP Brie de Meaux",
+    "glossary_term": "Pâte molle à croûte fleurie",
+    "category": "fromage",
+    "description": "Surnommé le 'Roi des Fromages', c'est un fromage au lait de vache à la croûte duveteuse blanche et au cœur onctueux.",
+    "seasonality": "Avril à Septembre",
+    "buying_guide": "La croûte doit être bien blanche, avec quelques taches rougeâtres. Le cœur doit être souple mais pas coulant.",
+    "storage_guide": "Conserver dans son papier d'origine au réfrigérateur. Sortir 45 min avant dégustation.",
+    "prep_guide": "Se déguste à température ambiante avec du pain de campagne ou des noix.",
+    "nutrition_info": "280 kcal/100g.",
+    "texture": "Onctueuse et crémeuse.",
+    "image_filename": "brie-de-meaux.webp",
+    "variant_images": [
+      "brie-de-melun.webp"
+    ],
+    "functional_categories": [
+      "plateau",
+      "tradition"
+    ],
+    "tags": [
+      "doux",
+      "onctueux",
+      "ile-de-france"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Île-de-France",
+      "affinage": "4 à 8 semaines"
+    }
+  },
+  {
+    "name": "Gorgonzola",
+    "scientific_name": "DOP Gorgonzola",
+    "glossary_term": "Pâte persillée",
+    "category": "fromage",
+    "description": "Fromage italien célèbre pour ses veines bleues. Il existe en version 'Piccante' (ferme) ou 'Dolce' (très crémeuse).",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte doit être blanc crème, les veines bleues bien visibles. L'odeur doit être typée mais pas piquante au nez.",
+    "storage_guide": "Bien emballer dans du papier aluminium car il s'oxyde vite.",
+    "prep_guide": "Idéal dans les sauces pour pâtes, sur les pizzas ou avec de la polenta.",
+    "nutrition_info": "320 kcal/100g.",
+    "texture": "Crémeuse (Dolce) ou friable (Piccante).",
+    "image_filename": "gorgonzola.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "cuisine",
+      "sauce"
+    ],
+    "tags": [
+      "bleu",
+      "italie",
+      "onctueux"
+    ],
+    "specific_data": {
+      "pays": "Italie",
+      "type_lait": "Vache",
+      "famille": "Pâte persillée",
+      "region": "Lombardie",
+      "affinage": "2 à 4 mois"
+    }
+  },
+  {
+    "name": "Saint-Nectaire",
+    "scientific_name": "AOP Saint-Nectaire",
+    "glossary_term": "Pâte pressée non cuite",
+    "category": "fromage",
+    "description": "Fromage auvergnat à la croûte grise et au goût de noisette et de terroir très marqué.",
+    "seasonality": "Mai à Novembre",
+    "buying_guide": "Préférer le Saint-Nectaire Fermier (pastille verte). La croûte doit être saine avec des moisissures blanches ou jaunes.",
+    "storage_guide": "Au frais, mais supporte bien quelques heures à température ambiante.",
+    "prep_guide": "Se mange tel quel ou fondu sur des pommes de terre.",
+    "nutrition_info": "350 kcal/100g.",
+    "texture": "Souple et onctueuse.",
+    "image_filename": "saint-nectaire.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "montagne"
+    ],
+    "tags": [
+      "noisette",
+      "auvergne",
+      "terroir"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Auvergne",
+      "affinage": "28 jours minimum"
+    }
+  },
+  {
+    "name": "Emmental",
+    "scientific_name": "Emmental",
+    "glossary_term": "Pâte pressée cuite",
+    "category": "fromage",
+    "description": "Célèbre fromage à trous, doux et fruité, pilier de la cuisine quotidienne.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Les trous (yeux) doivent être bien formés et la pâte d'un jaune ivoire uniforme.",
+    "storage_guide": "Au frigo, bien emballé pour éviter qu'il ne sèche.",
+    "prep_guide": "Le fromage de prédilection pour le râpé et les gratins.",
+    "nutrition_info": "380 kcal/100g.",
+    "texture": "Ferme et élastique.",
+    "image_filename": "emmental.webp",
+    "variant_images": [
+      "emmental-rape.webp"
+    ],
+    "functional_categories": [
+      "cuisine",
+      "enfant"
+    ],
+    "tags": [
+      "doux",
+      "trous",
+      "fondant"
+    ],
+    "specific_data": {
+      "pays": "Suisse / France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée cuite",
+      "region": "Savoie / Suisse centrale",
+      "affinage": "2 à 12 mois"
+    }
+  },
+  {
+    "name": "Manchego",
+    "scientific_name": "DOP Queso Manchego",
+    "glossary_term": "Pâte pressée",
+    "category": "fromage",
+    "description": "Le plus célèbre fromage d'Espagne, produit avec du lait de brebis de race Manchega dans la région de Castille.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La croûte présente des motifs de tresses (pleita). La pâte doit être dense et sans trous.",
+    "storage_guide": "Au frais. S'il est vieux (Curado), il peut se garder très longtemps.",
+    "prep_guide": "Se sert traditionnellement avec de la pâte de coing (Membrillo).",
+    "nutrition_info": "420 kcal/100g.",
+    "texture": "Ferme et légèrement granuleuse.",
+    "image_filename": "manchego.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "tapas",
+      "plateau"
+    ],
+    "tags": [
+      "espagne",
+      "brebis",
+      "sec"
+    ],
+    "specific_data": {
+      "pays": "Espagne",
+      "type_lait": "Brebis",
+      "famille": "Pâte pressée non cuite",
+      "region": "Castille-La Manche",
+      "affinage": "2 mois à 2 ans"
+    }
+  },
+  {
+    "name": "Beaufort",
+    "scientific_name": "AOP Beaufort",
+    "glossary_term": "Prince des Gruyères",
+    "category": "fromage",
+    "description": "Grand fromage de montagne des Alpes, à la forme concave, offrant une palette aromatique exceptionnelle.",
+    "seasonality": "Été (Beaufort d'été ou Chalet d'alpage)",
+    "buying_guide": "Rechercher le Beaufort d'été pour ses arômes fleuris. La pâte doit être sans trous et lisse.",
+    "storage_guide": "Au frais dans un linge ou papier sulfurisé.",
+    "prep_guide": "Élément central de la véritable fondue savoyarde.",
+    "nutrition_info": "395 kcal/100g.",
+    "texture": "Ferme et fondante.",
+    "image_filename": "beaufort.webp",
+    "variant_images": [
+      "beaufort-alpage.webp"
+    ],
+    "functional_categories": [
+      "fondue",
+      "noble"
+    ],
+    "tags": [
+      "savoie",
+      "alpage",
+      "fruité"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée cuite",
+      "region": "Savoie",
+      "affinage": "5 à 12 mois"
+    }
+  },
+  {
+    "name": "Gouda",
+    "scientific_name": "Gouda Holland",
+    "glossary_term": "Pâte pressée",
+    "category": "fromage",
+    "description": "Fromage hollandais polyvalent, allant du 'jeune' très doux au 'vieux' (Old Amsterdam) au goût de caramel.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Pour un fromage de dégustation, privilégier un Gouda vieux (plus de 18 mois) reconnaissable à sa couleur orange foncé.",
+    "storage_guide": "Au frais. Les versions vieilles supportent bien le transport.",
+    "prep_guide": "En cubes à l'apéritif ou râpé dans les gratins.",
+    "nutrition_info": "350 kcal/100g.",
+    "texture": "Souple (jeune) à cassante et cristallisée (vieux).",
+    "image_filename": "gouda.webp",
+    "variant_images": [
+      "gouda-vieux.webp"
+    ],
+    "functional_categories": [
+      "apéritif",
+      "polyvalent"
+    ],
+    "tags": [
+      "hollande",
+      "doux",
+      "caramel"
+    ],
+    "specific_data": {
+      "pays": "Pays-Bas",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Hollande méridionale",
+      "affinage": "1 mois à 3 ans"
+    }
+  },
+  {
+    "name": "Boursin",
+    "scientific_name": "N/A",
+    "glossary_term": "Fromage frais aromatisé",
+    "category": "fromage",
+    "description": "Marque mondiale de fromage frais à la texture aérée, célèbre pour sa recette Ail et Fines Herbes.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Vérifier la date de péremption, doit être consommé très frais.",
+    "storage_guide": "Toujours au réfrigérateur.",
+    "prep_guide": "Idéal à tartiner ou pour réaliser des sauces rapides pour viandes blanches.",
+    "nutrition_info": "400 kcal/100g.",
+    "texture": "Crémeuse, onctueuse et fondante.",
+    "image_filename": "boursin.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "tartinable",
+      "apéritif"
+    ],
+    "tags": [
+      "herbes",
+      "frais",
+      "populaire"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte fraîche",
+      "region": "Normandie",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Burrata",
+    "scientific_name": "Burrata di Andria",
+    "glossary_term": "Pâte filée enrichie",
+    "category": "fromage",
+    "description": "Version ultra-gourmande de la mozzarella, farcie d'un mélange de crème et de filaments de pâte filée (stracciatella).",
+    "seasonality": "Printemps / Été",
+    "buying_guide": "Doit être d'un blanc pur et bien bombée. Une burrata fraîche doit 'couler' généreusement à la coupe.",
+    "storage_guide": "Consommer sous 24h après achat.",
+    "prep_guide": "Servir crue avec une huile d'olive d'excellence, des tomates ou du jambon cru.",
+    "nutrition_info": "285 kcal/100g.",
+    "texture": "Enveloppe ferme, cœur liquide et crémeux.",
+    "image_filename": "burrata.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "entrée",
+      "italien"
+    ],
+    "tags": [
+      "cremeux",
+      "italie",
+      "gourmand"
+    ],
+    "specific_data": {
+      "pays": "Italie",
+      "type_lait": "Vache (ou Bufflonne)",
+      "famille": "Pâte filée",
+      "region": "Pouilles",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Mascarpone",
+    "scientific_name": "Mascarpone",
+    "glossary_term": "Crème de fromage",
+    "category": "fromage",
+    "description": "Fromage italien très riche et crémeux, obtenu à partir de crème de lait de vache. Ingrédient clé du tiramisu.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Doit être d'une couleur blanc ivoire, sans trace de liquide jaune (sérum).",
+    "storage_guide": "Très fragile, conserver au frigo et finir rapidement après ouverture.",
+    "prep_guide": "Utilisé principalement en pâtisserie ou pour lier des risottos.",
+    "nutrition_info": "450 kcal/100g.",
+    "texture": "Épaisse, lisse et extrêmement veloutée.",
+    "image_filename": "mascarpone.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "dessert",
+      "italien"
+    ],
+    "tags": [
+      "riche",
+      "onctueux",
+      "sucre"
+    ],
+    "specific_data": {
+      "pays": "Italie",
+      "type_lait": "Vache",
+      "famille": "Pâte fraîche",
+      "region": "Lombardie",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Gruyère Suisse",
+    "scientific_name": "AOP Le Gruyère",
+    "glossary_term": "Pâte pressée cuite",
+    "category": "fromage",
+    "description": "Fromage suisse iconique, contrairement à son cousin français, le véritable Gruyère suisse n'a pas de trous. Goût riche et complexe.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte doit être ferme mais souple, d'une couleur ivoire à jaune pâle selon la saison.",
+    "storage_guide": "Emballé dans du papier film ou sulfurisé dans la partie la plus froide du réfrigérateur.",
+    "prep_guide": "Incontournable pour la fondue suisse, les gratins ou en plateau.",
+    "nutrition_info": "413 kcal/100g, très riche en protéines.",
+    "texture": "Dense, fine et légèrement granuleuse sur les affinages longs.",
+    "image_filename": "gruyere.webp",
+    "variant_images": [
+      "gruyere-alpage.webp"
+    ],
+    "functional_categories": [
+      "fondue",
+      "cuisine"
+    ],
+    "tags": [
+      "suisse",
+      "robuste",
+      "fondant"
+    ],
+    "specific_data": {
+      "pays": "Suisse",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée cuite",
+      "region": "Canton de Fribourg",
+      "affinage": "5 à 18 mois"
+    }
+  },
+  {
+    "name": "Cantal",
+    "scientific_name": "AOP Cantal",
+    "glossary_term": "Fourme de Cantal",
+    "category": "fromage",
+    "description": "Doyen des fromages d'Auvergne, il existe en trois stades : Jeune, Entre-deux, ou Vieux.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Le 'Vieux' a une croûte épaisse et brune, tandis que le 'Jeune' a une croûte fine et grise.",
+    "storage_guide": "Au frais. Le Cantal vieux supporte très bien la conservation longue.",
+    "prep_guide": "Idéal pour l'aligot, la truffade ou simplement avec du pain de seigle.",
+    "nutrition_info": "367 kcal/100g.",
+    "texture": "Ferme, un peu friable pour le vieux.",
+    "image_filename": "cantal.webp",
+    "variant_images": [
+      "cantal-vieux.webp"
+    ],
+    "functional_categories": [
+      "terroir",
+      "cuisine"
+    ],
+    "tags": [
+      "auvergne",
+      "beurré",
+      "ancien"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Auvergne",
+      "affinage": "1 à 12 mois"
+    }
+  },
+  {
+    "name": "Morbier",
+    "scientific_name": "AOP Morbier",
+    "glossary_term": "Fromage à raie noire",
+    "category": "fromage",
+    "description": "Facilement reconnaissable à sa ligne de charbon végétal au centre, héritage d'une tradition de fabrication en deux temps.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La raie noire doit être bien nette. La pâte doit être souple et sans fissures.",
+    "storage_guide": "Au frais, bien protégé pour éviter qu'il ne s'assèche.",
+    "prep_guide": "Excellent en raclette originale ou sur un plateau de caractère.",
+    "nutrition_info": "347 kcal/100g.",
+    "texture": "Très souple et crémeuse en bouche.",
+    "image_filename": "morbier.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "fonte"
+    ],
+    "tags": [
+      "jura",
+      "charbon",
+      "doux"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Franche-Comté",
+      "affinage": "45 jours minimum"
+    }
+  },
+  {
+    "name": "Raclette",
+    "scientific_name": "IGP Raclette de Savoie",
+    "glossary_term": "Fromage à fondre",
+    "category": "fromage",
+    "description": "Le fromage convivial par excellence, conçu pour être fondu et accompagner pommes de terre et charcuterie.",
+    "seasonality": "Hiver (Octobre à Mars)",
+    "buying_guide": "La pâte doit être homogène. Éviter les versions industrielles trop grasses si possible.",
+    "storage_guide": "Au frais. Se congèle très bien en tranches.",
+    "prep_guide": "À faire fondre à l'appareil traditionnel ou au poêlon.",
+    "nutrition_info": "355 kcal/100g.",
+    "texture": "Ferme à froid, extrêmement onctueuse à chaud.",
+    "image_filename": "raclette.webp",
+    "variant_images": [
+      "raclette-fumee.webp",
+      "raclette-poivre.webp"
+    ],
+    "functional_categories": [
+      "fonte",
+      "convivial"
+    ],
+    "tags": [
+      "savoie",
+      "hiver",
+      "fondant"
+    ],
+    "specific_data": {
+      "pays": "France / Suisse",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Savoie / Valais",
+      "affinage": "8 à 16 semaines"
+    }
+  },
+  {
+    "name": "Appenzeller",
+    "scientific_name": "Appenzeller",
+    "glossary_term": "Fromage corsé",
+    "category": "fromage",
+    "description": "Fromage suisse célèbre pour être frotté avec une saumure d'herbes et de vin blanc pendant l'affinage.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Rechercher l'étiquette 'Extra' (noire) pour un goût plus corsé et puissant.",
+    "storage_guide": "Au frais. Son parfum est fort, prévoyez une boîte hermétique.",
+    "prep_guide": "Parfait pour relever une fondue ou en dégustation pure.",
+    "nutrition_info": "390 kcal/100g.",
+    "texture": "Ferme et onctueuse.",
+    "image_filename": "appenzeller.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "noble",
+      "plateau"
+    ],
+    "tags": [
+      "suisse",
+      "herbes",
+      "puissant"
+    ],
+    "specific_data": {
+      "pays": "Suisse",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée cuite",
+      "region": "Appenzell",
+      "affinage": "3 à 6 mois"
+    }
+  },
+  {
+    "name": "Provolone",
+    "scientific_name": "DOP Provolone Valpadana",
+    "glossary_term": "Pâte filée",
+    "category": "fromage",
+    "description": "Fromage italien à pâte filée, souvent suspendu pour l'affinage. Existe en 'Dolce' (doux) ou 'Piccante' (piquant).",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Le 'Piccante' est affiné plus longtemps (jusqu'à 1 an) et offre un goût beaucoup plus tranché.",
+    "storage_guide": "Au frais. Se conserve longtemps grâce à sa peau de cire.",
+    "prep_guide": "Excellent grillé (Provoleta) ou en sandwich.",
+    "nutrition_info": "350 kcal/100g.",
+    "texture": "Semi-dure et compacte.",
+    "image_filename": "provolone.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "cuisine",
+      "italien"
+    ],
+    "tags": [
+      "italie",
+      "fumage",
+      "fondant"
+    ],
+    "specific_data": {
+      "pays": "Italie",
+      "type_lait": "Vache",
+      "famille": "Pâte filée",
+      "region": "Lombardie",
+      "affinage": "2 à 12 mois"
+    }
+  },
+  {
+    "name": "Mimolette",
+    "scientific_name": "Mimolette Vieille",
+    "glossary_term": "Boule de Lille",
+    "category": "fromage",
+    "description": "Fromage à la couleur orange éclatante due au rocou, ressemblant à un boulet de canon ou un melon.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La version 'Vieille' ou 'Extra-Vieille' est la plus recherchée pour ses notes de noisette et sa dureté.",
+    "storage_guide": "Au frais. Ne craint pas d'être laissé à l'air libre si elle est très sèche.",
+    "prep_guide": "Se déguste en copeaux ou râpé pour apporter de la couleur aux plats.",
+    "nutrition_info": "385 kcal/100g.",
+    "texture": "Cassante et sèche (quand vieille).",
+    "image_filename": "mimolette.webp",
+    "variant_images": [
+      "mimolette-extra-vieille.webp"
+    ],
+    "functional_categories": [
+      "apéritif",
+      "couleur"
+    ],
+    "tags": [
+      "nord",
+      "noisette",
+      "orange"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Hauts-de-France",
+      "affinage": "3 à 24 mois"
+    }
+  },
+  {
+    "name": "Halloumi",
+    "scientific_name": "Halloumi",
+    "glossary_term": "Fromage à griller",
+    "category": "fromage",
+    "description": "Fromage chypriote qui a la particularité unique de ne pas fondre à la cuisson. Idéal pour le barbecue.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Souvent vendu sous vide. Il doit être bien blanc avec des traces de menthe séchée.",
+    "storage_guide": "Se garde plusieurs mois sous vide au frigo.",
+    "prep_guide": "À griller à la poêle ou au barbecue jusqu'à ce qu'il soit doré.",
+    "nutrition_info": "320 kcal/100g.",
+    "texture": "Élastique et 'couinante' sous la dent.",
+    "image_filename": "halloumi.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "barbecue",
+      "végétarien"
+    ],
+    "tags": [
+      "chypre",
+      "grillé",
+      "été"
+    ],
+    "specific_data": {
+      "pays": "Chypre",
+      "type_lait": "Mélange Chèvre et Brebis",
+      "famille": "Pâte fraîche saumurée",
+      "region": "Chypre",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Pecorino Romano",
+    "scientific_name": "DOP Pecorino Romano",
+    "glossary_term": "Fromage de brebis sec",
+    "category": "fromage",
+    "description": "Ancien fromage italien à base de lait de brebis, très salé et piquant, pilier de la recette Carbonara.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte doit être très blanche et dure. Goût beaucoup plus fort que le parmesan.",
+    "storage_guide": "Se conserve très longtemps au sec.",
+    "prep_guide": "À râper finement sur les pâtes (Carbonara, Cacio e Pepe).",
+    "nutrition_info": "380 kcal/100g.",
+    "texture": "Dure et granuleuse.",
+    "image_filename": "pecorino.webp",
+    "variant_images": [
+      "pecorino-sardo.webp"
+    ],
+    "functional_categories": [
+      "condiment",
+      "italien"
+    ],
+    "tags": [
+      "italie",
+      "brebis",
+      "salé"
+    ],
+    "specific_data": {
+      "pays": "Italie",
+      "type_lait": "Brebis",
+      "famille": "Pâte pressée cuite",
+      "region": "Latium / Sardaigne",
+      "affinage": "5 à 12 mois"
+    }
+  },
+  {
+    "name": "Saint-Félicien",
+    "scientific_name": "Saint-Félicien",
+    "glossary_term": "Cousin du Saint-Marcellin",
+    "category": "fromage",
+    "description": "Fromage crémeux et onctueux du Dauphiné, souvent présenté dans une petite coupelle en grès.",
+    "seasonality": "Avril à Octobre",
+    "buying_guide": "Le fromage doit être très souple, presque coulant sous une croûte plissée et fine.",
+    "storage_guide": "Au frais, à consommer rapidement dès qu'il commence à couler.",
+    "prep_guide": "Se déguste à la petite cuillère ou sur une tranche de pain grillé.",
+    "nutrition_info": "280 kcal/100g.",
+    "texture": "Extrêmement crémeuse et fondante.",
+    "image_filename": "saint-felicien.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "onctueux"
+    ],
+    "tags": [
+      "lyon",
+      "crémeux",
+      "doux"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Auvergne-Rhône-Alpes",
+      "affinage": "2 à 4 semaines"
+    }
+  },
+  {
+    "name": "Brie de Melun",
+    "scientific_name": "AOP Brie de Melun",
+    "glossary_term": "Pâte molle à croûte fleurie",
+    "category": "fromage",
+    "description": "Plus petit, plus salé et plus typé que son cousin de Meaux, il possède une personnalité affirmée et des arômes de terroir puissants.",
+    "seasonality": "Printemps à Automne",
+    "buying_guide": "La croûte doit présenter des stries rouges ou brunes. La pâte doit être souple sans être totalement coulante.",
+    "storage_guide": "Au réfrigérateur dans son emballage, mais à sortir impérativement 1h avant pour libérer ses arômes.",
+    "prep_guide": "Se déguste idéalement avec un pain de seigle ou un vin rouge corsé.",
+    "nutrition_info": "290 kcal/100g.",
+    "texture": "Onctueuse, un peu plus ferme que le Brie de Meaux.",
+    "image_filename": "brie-de-melun.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "tradition"
+    ],
+    "tags": [
+      "typé",
+      "puissant",
+      "ile-de-france"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache (Cru)",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Île-de-France",
+      "affinage": "3 mois"
+    }
+  },
+  {
+    "name": "Époisses",
+    "scientific_name": "AOP Époisses",
+    "glossary_term": "Pâte molle à croûte lavée",
+    "category": "fromage",
+    "description": "Fromage de Bourgogne célèbre pour sa croûte orange brillante lavée au Marc de Bourgogne. Son odeur est forte mais son goût est subtil et crémeux.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La croûte doit être bien plissée, humide et d'un orange soutenu. Le fromage doit être très souple.",
+    "storage_guide": "Boîte hermétique obligatoire au frigo à cause de son odeur pénétrante.",
+    "prep_guide": "Se mange à la petite cuillère sur du pain grillé ou rôti au four.",
+    "nutrition_info": "285 kcal/100g.",
+    "texture": "Extrêmement coulante et fondante.",
+    "image_filename": "epoisses.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "noble",
+      "plateau"
+    ],
+    "tags": [
+      "bourgogne",
+      "puissant",
+      "crémeux"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte lavée",
+      "region": "Bourgogne",
+      "affinage": "4 semaines minimum"
+    }
+  },
+  {
+    "name": "Ossau-Iraty",
+    "scientific_name": "AOP Ossau-Iraty",
+    "glossary_term": "Fromage de brebis basco-béarnais",
+    "category": "fromage",
+    "description": "Fromage à pâte pressée non cuite issu du Pays Basque et du Béarn. Il offre des notes de noisette et de fleurs des montagnes.",
+    "seasonality": "Printemps à Automne",
+    "buying_guide": "La pâte doit être blanc cassé, lisse, sans trous. La croûte varie du gris au jaune orangé.",
+    "storage_guide": "Au frais. S'il est très sec, il se conserve très longtemps.",
+    "prep_guide": "Traditionnellement accompagné de confiture de cerises noires d'Itxassou.",
+    "nutrition_info": "400 kcal/100g.",
+    "texture": "Ferme et fondante.",
+    "image_filename": "ossau-iraty.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "terroir"
+    ],
+    "tags": [
+      "brebis",
+      "pyrenées",
+      "doux"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Brebis",
+      "famille": "Pâte pressée non cuite",
+      "region": "Nouvelle-Aquitaine",
+      "affinage": "3 à 12 mois"
+    }
+  },
+  {
+    "name": "Fourme d'Ambert",
+    "scientific_name": "AOP Fourme d'Ambert",
+    "glossary_term": "Bleu doux",
+    "category": "fromage",
+    "description": "L'un des plus anciens fromages de France. C'est le plus doux des fromages bleus, avec une forme cylindrique caractéristique.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Le persillage bleu doit être régulier et la croûte grise doit être sèche et saine.",
+    "storage_guide": "Dans le bas du frigo, emballé pour protéger les autres aliments de ses moisissures.",
+    "prep_guide": "Excellent en salade avec des poires ou fondu dans une sauce pour viande blanche.",
+    "nutrition_info": "340 kcal/100g.",
+    "texture": "Souple et onctueuse.",
+    "image_filename": "fourme-ambert.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "bleu",
+      "cuisine"
+    ],
+    "tags": [
+      "auvergne",
+      "doux",
+      "persillé"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte persillée",
+      "region": "Auvergne",
+      "affinage": "28 jours minimum"
+    }
+  },
+  {
+    "name": "Grana Padano",
+    "scientific_name": "DOP Grana Padano",
+    "glossary_term": "Fromage à grain",
+    "category": "fromage",
+    "description": "Cousin du Parmesan, il est produit dans une zone plus large d'Italie. Son goût est plus doux et moins piquant, idéal pour la cuisine quotidienne.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Vérifier le logo DOP sur la croûte. La pâte doit être granuleuse et se casser en éclats.",
+    "storage_guide": "Se conserve très bien au sec, emballé hermétiquement.",
+    "prep_guide": "À râper sur les pâtes, les risottos ou à utiliser en copeaux dans les salades.",
+    "nutrition_info": "398 kcal/100g.",
+    "texture": "Dure et granuleuse.",
+    "image_filename": "grana-padano.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "cuisine",
+      "italien"
+    ],
+    "tags": [
+      "italie",
+      "umami",
+      "sec"
+    ],
+    "specific_data": {
+      "pays": "Italie",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée cuite",
+      "region": "Plaine du Pô",
+      "affinage": "9 à 20 mois"
+    }
+  },
+  {
+    "name": "Stilton",
+    "scientific_name": "Blue Stilton",
+    "glossary_term": "Bleu britannique",
+    "category": "fromage",
+    "description": "Le roi des fromages anglais. Un fromage bleu à pâte persillée, riche, crémeux et possédant une croûte auto-formée.",
+    "seasonality": "Toute l'année (très prisé à Noël)",
+    "buying_guide": "Le persillage doit partir du centre vers la croûte. Éviter les morceaux trop secs ou jaunis.",
+    "storage_guide": "Envelopper dans du papier sulfurisé. Se congèle étonnamment bien.",
+    "prep_guide": "Se déguste traditionnellement avec un verre de Porto et du céleri.",
+    "nutrition_info": "410 kcal/100g.",
+    "texture": "Friable, crémeuse et onctueuse.",
+    "image_filename": "stilton.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "bleu",
+      "fêtes"
+    ],
+    "tags": [
+      "angleterre",
+      "puissant",
+      "porto"
+    ],
+    "specific_data": {
+      "pays": "Royaume-Uni",
+      "type_lait": "Vache",
+      "famille": "Pâte persillée",
+      "region": "Midlands",
+      "affinage": "9 semaines minimum"
+    }
+  },
+  {
+    "name": "Edam",
+    "scientific_name": "Edam Holland",
+    "glossary_term": "Boule rouge",
+    "category": "fromage",
+    "description": "Fromage hollandais mondialement connu pour sa protection de cire rouge. Goût très doux, apprécié des enfants.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Doit être bien rond et la cire intacte. Il existe des versions 'vieux' sans cire qui sont beaucoup plus savoureuses.",
+    "storage_guide": "Grâce à sa cire, il se conserve très bien, même hors du frigo pour de courtes durées.",
+    "prep_guide": "Parfait pour les pique-niques, les sandwichs ou en cubes pour l'apéritif.",
+    "nutrition_info": "310 kcal/100g.",
+    "texture": "Souple, élastique et compacte.",
+    "image_filename": "edam.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "enfant",
+      "apéritif"
+    ],
+    "tags": [
+      "hollande",
+      "doux",
+      "voyage"
+    ],
+    "specific_data": {
+      "pays": "Pays-Bas",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Hollande-du-Nord",
+      "affinage": "1 à 10 mois"
+    }
+  },
+  {
+    "name": "Münster",
+    "scientific_name": "AOP Munster-Géromé",
+    "glossary_term": "Pâte molle à croûte lavée",
+    "category": "fromage",
+    "description": "Fromage de l'Est de la France au caractère bien trempé. Son odeur est forte mais son goût est doux et lacté.",
+    "seasonality": "Mai à Octobre",
+    "buying_guide": "La croûte doit être lisse, humide et orangée. Le fromage doit être souple à cœur.",
+    "storage_guide": "Au frais, bien enfermé. S'affine très vite à température ambiante.",
+    "prep_guide": "Se déguste souvent avec des graines de cumin et des pommes de terre sautées.",
+    "nutrition_info": "330 kcal/100g.",
+    "texture": "Onctueuse et fondante.",
+    "image_filename": "munster.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "terroir"
+    ],
+    "tags": [
+      "alsace",
+      "puissant",
+      "cumin"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte lavée",
+      "region": "Grand Est",
+      "affinage": "21 jours minimum"
+    }
+  },
+  {
+    "name": "Gouda Vieux",
+    "scientific_name": "Noord-Hollandse Gouda",
+    "glossary_term": "Gouda affiné",
+    "category": "fromage",
+    "description": "Version très affinée du Gouda classique. Il développe des cristaux de sel et des notes de caramel et de noisette.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte doit être d'un orange foncé, presque brun. Recherchez les petits grains blancs croustillants.",
+    "storage_guide": "Se conserve très longtemps au frais.",
+    "prep_guide": "Se déguste seul en petits morceaux pour apprécier sa complexité.",
+    "nutrition_info": "430 kcal/100g.",
+    "texture": "Dure, cassante et cristallisée.",
+    "image_filename": "gouda-vieux.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "apéritif",
+      "noble"
+    ],
+    "tags": [
+      "hollande",
+      "caramel",
+      "sec"
+    ],
+    "specific_data": {
+      "pays": "Pays-Bas",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Hollande",
+      "affinage": "18 à 36 mois"
+    }
+  },
+  {
+    "name": "Brie au Bleu",
+    "scientific_name": "Brie de caractère",
+    "glossary_term": "Fromage hybride",
+    "category": "fromage",
+    "description": "Un mariage entre l'onctuosité du Brie et le piquant d'un fromage bleu. Idéal pour s'initier aux pâtes persillées.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La croûte fleurie doit être intacte, masquant un cœur parsemé de petites veines bleues.",
+    "storage_guide": "Au frais. À consommer assez rapidement après ouverture.",
+    "prep_guide": "Excellent sur un plateau de fromages varié ou dans des quiches.",
+    "nutrition_info": "320 kcal/100g.",
+    "texture": "Très crémeuse avec des pointes de fermeté dues au bleu.",
+    "image_filename": "brie-bleu.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "découverte"
+    ],
+    "tags": [
+      "crémeux",
+      "bleu",
+      "doux"
+    ],
+    "specific_data": {
+      "pays": "France / Allemagne",
+      "type_lait": "Vache",
+      "famille": "Pâte mixte",
+      "region": "Diverse",
+      "affinage": "4 à 6 semaines"
+    }
+  },
+  {
+    "name": "Saint-Marcellin",
+    "scientific_name": "IGP Saint-Marcellin",
+    "glossary_term": "Pâte molle à croûte fleurie",
+    "category": "fromage",
+    "description": "Petit fromage du Dauphiné autrefois au lait de chèvre, aujourd'hui exclusivement au lait de vache. Très crémeux et délicat.",
+    "seasonality": "Avril à Septembre",
+    "buying_guide": "Choisir 'sec' pour un goût de noisette ou 'moelleux' pour une texture coulante. La croûte doit être légèrement plissée.",
+    "storage_guide": "Fragile, à conserver dans sa coupelle en grès ou son emballage d'origine au frais.",
+    "prep_guide": "Parfait rôti au four avec du miel ou simplement sur une tranche de pain aux noix.",
+    "nutrition_info": "270 kcal/100g.",
+    "texture": "De souple à très coulante selon l'affinage.",
+    "image_filename": "saint-marcellin.webp",
+    "variant_images": [
+      "saint-felicien.webp"
+    ],
+    "functional_categories": [
+      "onctueux",
+      "plateau"
+    ],
+    "tags": [
+      "dauphiné",
+      "doux",
+      "crémeux"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Isère",
+      "affinage": "2 à 4 semaines"
+    }
+  },
+  {
+    "name": "Valençay",
+    "scientific_name": "AOP Valençay",
+    "glossary_term": "Fromage pyramidal",
+    "category": "fromage",
+    "description": "Fromage de chèvre en forme de pyramide tronquée, recouvert d'une fine couche de cendre végétale.",
+    "seasonality": "Mars à Octobre",
+    "buying_guide": "La forme doit être régulière et la robe grise cendrée uniforme, sans taches humides excessives.",
+    "storage_guide": "Au frais. Ne pas enfermer hermétiquement trop longtemps pour laisser la croûte respirer.",
+    "prep_guide": "Excellent avec un vin blanc sec du Val de Loire (Sancerre ou Quincy).",
+    "nutrition_info": "250 kcal/100g.",
+    "texture": "Fine, homogène et fondante.",
+    "image_filename": "valencay.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "chèvre",
+      "esthétique"
+    ],
+    "tags": [
+      "berry",
+      "cendré",
+      "pyramide"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Chèvre",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Centre-Val de Loire",
+      "affinage": "11 jours minimum"
+    }
+  },
+  {
+    "name": "Gorgonzola Dolce",
+    "scientific_name": "DOP Gorgonzola Dolce",
+    "glossary_term": "Bleu crémeux",
+    "category": "fromage",
+    "description": "La version la plus douce et la plus crémeuse du Gorgonzola. Moins piquant que le 'Piccante', il est presque tartinable.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte doit être très crémeuse, presque liquide, avec peu de veines bleues.",
+    "storage_guide": "Très sensible à l'oxydation, bien protéger la tranche avec du film alimentaire.",
+    "prep_guide": "Idéal pour tartiner, faire des sauces pour gnocchis ou déguster avec du mascarpone.",
+    "nutrition_info": "315 kcal/100g.",
+    "texture": "Extrêmement onctueuse et beurrée.",
+    "image_filename": "gorgonzola-dolce.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "tartinable",
+      "sauce"
+    ],
+    "tags": [
+      "italie",
+      "doux",
+      "crème"
+    ],
+    "specific_data": {
+      "pays": "Italie",
+      "type_lait": "Vache",
+      "famille": "Pâte persillée",
+      "region": "Lombardie",
+      "affinage": "50 jours minimum"
+    }
+  },
+  {
+    "name": "Manchego Curado",
+    "scientific_name": "DOP Queso Manchego",
+    "glossary_term": "Brebis affiné",
+    "category": "fromage",
+    "description": "Le Manchego 'Curado' a été affiné plus longtemps, ce qui lui donne un goût plus noisette et une texture plus ferme que la version 'Fresco'.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La croûte doit être dure et marquée du motif 'pleita' (tresse de paille).",
+    "storage_guide": "Se conserve très bien plusieurs mois au frais grâce à sa faible humidité.",
+    "prep_guide": "Servir en fines tranches avec des amandes grillées ou du jambon serrano.",
+    "nutrition_info": "430 kcal/100g.",
+    "texture": "Ferme, compacte et légèrement huileuse.",
+    "image_filename": "manchego-curado.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "tapas",
+      "plateau"
+    ],
+    "tags": [
+      "espagne",
+      "brebis",
+      "caractère"
+    ],
+    "specific_data": {
+      "pays": "Espagne",
+      "type_lait": "Brebis",
+      "famille": "Pâte pressée non cuite",
+      "region": "Castille-La Manche",
+      "affinage": "6 à 12 mois"
+    }
+  },
+  {
+    "name": "Petit Gaugry",
+    "scientific_name": "Petit Gaugry",
+    "glossary_term": "Lait cru à croûte lavée",
+    "category": "fromage",
+    "description": "Petit frère de l'Époisses, ce fromage de Bourgogne est lavé au Marc de Bourgogne. Puissant en nez, fondant en bouche.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La croûte doit être orangée et humide. Le fromage doit céder sous la pression du doigt.",
+    "storage_guide": "Boîte hermétique indispensable. Sortir peu de temps avant de consommer.",
+    "prep_guide": "Idéal pour un plateau de dégustation individuel.",
+    "nutrition_info": "280 kcal/100g.",
+    "texture": "Très crémeuse et fondante.",
+    "image_filename": "petit-gaugry.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "noble",
+      "individuel"
+    ],
+    "tags": [
+      "bourgogne",
+      "lavé",
+      "puissant"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache (Cru)",
+      "famille": "Pâte molle à croûte lavée",
+      "region": "Bourgogne",
+      "affinage": "3 semaines"
+    }
+  },
+  {
+    "name": "Chaource",
+    "scientific_name": "AOP Chaource",
+    "glossary_term": "Pâte molle",
+    "category": "fromage",
+    "description": "Fromage à la croûte fleurie blanche, offrant un cœur crayeux qui devient crémeux en s'affinant. Goût léger de champignon.",
+    "seasonality": "Avril à Octobre",
+    "buying_guide": "Choisir un fromage qui semble lourd. Le cœur doit être encore un peu ferme mais le tour fondant.",
+    "storage_guide": "Conserver dans son papier d'origine au réfrigérateur.",
+    "prep_guide": "Se marie divinement bien avec le Champagne ou un vin blanc de la région.",
+    "nutrition_info": "275 kcal/100g.",
+    "texture": "Crayeuse au centre, onctueuse sous la croûte.",
+    "image_filename": "chaource.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "apéritif"
+    ],
+    "tags": [
+      "champagne",
+      "doux",
+      "crayeux"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Grand Est",
+      "affinage": "2 semaines minimum"
+    }
+  },
+  {
+    "name": "Ossau-Iraty Vieux",
+    "scientific_name": "AOP Ossau-Iraty",
+    "glossary_term": "Brebis affiné",
+    "category": "fromage",
+    "description": "Version de l'Ossau-Iraty ayant subi un affinage prolongé. Le goût de noisette est décuplé et la texture devient plus cassante.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Rechercher une croûte épaisse et une pâte d'un blanc mat sans trous. Mention 'Grande Réserve' souvent présente.",
+    "storage_guide": "Se conserve très bien enveloppé dans un linge sec au frais.",
+    "prep_guide": "Excellent en copeaux sur une soupe de potiron ou avec une confiture de cerise noire.",
+    "nutrition_info": "410 kcal/100g.",
+    "texture": "Ferme, dense et légèrement granuleuse.",
+    "image_filename": "ossau-iraty-vieux.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "noble",
+      "plateau"
+    ],
+    "tags": [
+      "basque",
+      "puissant",
+      "noisette"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Brebis",
+      "famille": "Pâte pressée non cuite",
+      "region": "Pyrénées-Atlantiques",
+      "affinage": "8 à 12 mois"
+    }
+  },
+  {
+    "name": "Brie de Meaux Truffé",
+    "scientific_name": "Fromage préparé",
+    "glossary_term": "Fromage de luxe",
+    "category": "fromage",
+    "description": "Un Brie de Meaux coupé en deux et garni d'une préparation à base de crème et de brisures de truffes noires (Tuber melanosporum).",
+    "seasonality": "Hiver (Décembre à Février)",
+    "buying_guide": "La couche de truffe doit être bien visible et parfumée. Éviter les produits avec des arômes artificiels trop forts.",
+    "storage_guide": "À consommer sous 3-4 jours, la truffe perd vite son parfum.",
+    "prep_guide": "Le clou d'un plateau de fêtes. Servir avec un pain brioché.",
+    "nutrition_info": "310 kcal/100g.",
+    "texture": "Très crémeuse avec le croquant de la truffe.",
+    "image_filename": "brie-truffe.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "noble",
+      "fêtes"
+    ],
+    "tags": [
+      "truffe",
+      "prestigieux",
+      "onctueux"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte préparée",
+      "region": "Île-de-France",
+      "affinage": "4 à 8 semaines"
+    }
+  },
+  {
+    "name": "Cantal Entre-deux",
+    "scientific_name": "AOP Cantal",
+    "glossary_term": "Fourme de Cantal",
+    "category": "fromage",
+    "description": "Le stade intermédiaire du Cantal, offrant un équilibre parfait entre la douceur du lait et la force de l'affinage.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La croûte doit être boutonnée de taches dorées ou grises. La pâte doit être ferme et fondante.",
+    "storage_guide": "Au frais. Envelopper la tranche dans du film étirable.",
+    "prep_guide": "Idéal pour les gratins, les burgers de terroir ou en dégustation simple.",
+    "nutrition_info": "370 kcal/100g.",
+    "texture": "Ferme et fondante.",
+    "image_filename": "cantal-entre-deux.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "polyvalent",
+      "terroir"
+    ],
+    "tags": [
+      "auvergne",
+      "beurré",
+      "équilibre"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Auvergne",
+      "affinage": "3 à 7 mois"
+    }
+  },
+  {
+    "name": "Saint-Félicien Tentation",
+    "scientific_name": "Saint-Félicien",
+    "glossary_term": "Triple crème",
+    "category": "fromage",
+    "description": "Version enrichie en crème du Saint-Félicien classique. C'est le summum de l'onctuosité et de la gourmandise.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Souvent présenté en coupelle céramique car le fromage est presque liquide à maturité.",
+    "storage_guide": "À consommer très frais.",
+    "prep_guide": "À tartiner généreusement ou à manger à la cuillère.",
+    "nutrition_info": "380 kcal/100g.",
+    "texture": "Double ou triple crème, extrêmement fondante.",
+    "image_filename": "saint-felicien-tentation.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "onctueux",
+      "gourmand"
+    ],
+    "tags": [
+      "riche",
+      "crème",
+      "doux"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Dauphiné",
+      "affinage": "3 semaines"
+    }
+  },
+  {
+    "name": "Tomme de Savoie",
+    "scientific_name": "IGP Tomme de Savoie",
+    "glossary_term": "Pâte pressée non cuite",
+    "category": "fromage",
+    "description": "Le plus ancien des fromages de Savoie. Il se reconnaît à sa croûte grise et épaisse et à sa pâte parsemée de petits trous.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La croûte doit être régulière avec des moisissures blanches ou jaunes (le 'fleuri'). La pâte doit être souple sous le doigt.",
+    "storage_guide": "Dans le bas du réfrigérateur, idéalement enveloppée dans un linge humide ou son papier d'origine.",
+    "prep_guide": "Parfaite sur un plateau, elle se cuisine aussi très bien fondue sur des crozets ou des pommes de terre.",
+    "nutrition_info": "330 kcal/100g, teneur en matières grasses variable (souvent de 20% à 40%).",
+    "texture": "Ferme mais très souple et fondante.",
+    "image_filename": "tomme-de-savoie.webp",
+    "variant_images": [
+      "tomme-fermiere.webp"
+    ],
+    "functional_categories": [
+      "terroir",
+      "polyvalent"
+    ],
+    "tags": [
+      "savoie",
+      "authentique",
+      "montagne"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Auvergne-Rhône-Alpes",
+      "affinage": "1 à 3 mois"
+    }
+  },
+  {
+    "name": "Bleu d'Auvergne",
+    "scientific_name": "AOP Bleu d'Auvergne",
+    "glossary_term": "Pâte persillée",
+    "category": "fromage",
+    "description": "Un fromage bleu au caractère affirmé, né au cœur des volcans d'Auvergne. Plus intense que la Fourme d'Ambert mais moins salé que le Roquefort.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Le persillage bleu-vert doit être bien réparti. La pâte doit être humide et brillante, sans jaunissement sur les bords.",
+    "storage_guide": "Emballer soigneusement dans de l'aluminium pour préserver son humidité et ses moisissures.",
+    "prep_guide": "Excellent dans une salade d'endives aux noix ou pour napper une entrecôte.",
+    "nutrition_info": "340 kcal/100g, riche en calcium.",
+    "texture": "Onctueuse, crémeuse et légèrement friable.",
+    "image_filename": "bleu-auvergne.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "bleu",
+      "sauce"
+    ],
+    "tags": [
+      "auvergne",
+      "puissant",
+      "persillé"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte persillée",
+      "region": "Auvergne",
+      "affinage": "4 semaines minimum"
+    }
+  },
+  {
+    "name": "Salers",
+    "scientific_name": "AOP Salers",
+    "glossary_term": "Fromage de haute montagne",
+    "category": "fromage",
+    "description": "Fromage d'exception produit uniquement lorsque les vaches sont au pâturage. Un cousin du Cantal, mais fabriqué exclusivement à la ferme.",
+    "seasonality": "Printemps à Automne (production liée à l'herbe fraîche)",
+    "buying_guide": "Rechercher la plaque rouge certifiant l'AOP. La croûte doit être épaisse et de couleur pierre.",
+    "storage_guide": "Au frais. C'est un fromage de garde qui évolue très bien avec le temps.",
+    "prep_guide": "Se déguste seul pour apprécier ses notes fleuries et épicées.",
+    "nutrition_info": "380 kcal/100g.",
+    "texture": "Ferme, dense et légèrement granuleuse sur les bords.",
+    "image_filename": "salers.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "noble",
+      "terroir"
+    ],
+    "tags": [
+      "auvergne",
+      "rare",
+      "puissant"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache (Race Salers idéalement)",
+      "famille": "Pâte pressée non cuite",
+      "region": "Cantal",
+      "affinage": "3 mois à 1 an"
+    }
+  },
+  {
+    "name": "Crottin de Chavignol",
+    "scientific_name": "AOP Chavignol",
+    "glossary_term": "Chèvre du Sancerrois",
+    "category": "fromage",
+    "description": "Petit fromage de chèvre cylindrique du Berry. Il se déguste à tous les stades : frais, bleuté, ou très sec.",
+    "seasonality": "Mars à Novembre",
+    "buying_guide": "Choisir 'demi-sec' pour un équilibre parfait, ou 'repassé' (affiné en pot) pour les amateurs de sensations fortes.",
+    "storage_guide": "Les secs se conservent à l'air libre (cloche à fromage), les frais au réfrigérateur.",
+    "prep_guide": "La star de la salade de chèvre chaud. Passer quelques minutes sous le grill sur un toast.",
+    "nutrition_info": "280 kcal/100g.",
+    "texture": "D'abord crémeuse puis cassante et dense en s'affinant.",
+    "image_filename": "crottin-chavignol.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "chèvre",
+      "apéritif"
+    ],
+    "tags": [
+      "berry",
+      "sancerre",
+      "typé"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Chèvre",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Centre-Val de Loire",
+      "affinage": "10 jours minimum"
+    }
+  },
+  {
+    "name": "Gorgonzola Piccante",
+    "scientific_name": "DOP Gorgonzola Piccante",
+    "glossary_term": "Bleu intense",
+    "category": "fromage",
+    "description": "La version historique et corsée du Gorgonzola italien. Affiné plus longtemps, il est plus sec et plus piquant que le 'Dolce'.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte doit être plus ferme et plus blanche, avec un réseau de veines bleues beaucoup plus dense.",
+    "storage_guide": "Bien envelopper hermétiquement, son parfum est très puissant et peut marquer les autres aliments.",
+    "prep_guide": "S'accorde merveilleusement avec des vins liquoreux ou des poires mûres.",
+    "nutrition_info": "325 kcal/100g.",
+    "texture": "Ferme, friable et légèrement crémeuse.",
+    "image_filename": "gorgonzola-piccante.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "noble",
+      "plateau"
+    ],
+    "tags": [
+      "italie",
+      "puissant",
+      "caractère"
+    ],
+    "specific_data": {
+      "pays": "Italie",
+      "type_lait": "Vache",
+      "famille": "Pâte persillée",
+      "region": "Lombardie",
+      "affinage": "80 jours minimum"
+    }
+  },
+  {
+    "name": "Havarti",
+    "scientific_name": "Havarti",
+    "glossary_term": "Fromage danois",
+    "category": "fromage",
+    "description": "Fromage danois très populaire, doux et beurré, souvent aromatisé (aneth, ail, jalapeno).",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte doit présenter de très petits trous irréguliers et être d'un jaune crème clair.",
+    "storage_guide": "Au frais dans un contenant fermé pour éviter qu'il n'absorbe les odeurs.",
+    "prep_guide": "Idéal pour les sandwichs froids ou fondu sur un burger gourmand.",
+    "nutrition_info": "370 kcal/100g.",
+    "texture": "Semi-molle, souple et très onctueuse.",
+    "image_filename": "havarti.webp",
+    "variant_images": [
+      "havarti-aneth.webp"
+    ],
+    "functional_categories": [
+      "sandwich",
+      "enfant"
+    ],
+    "tags": [
+      "danemark",
+      "beurré",
+      "doux"
+    ],
+    "specific_data": {
+      "pays": "Danemark",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Danemark",
+      "affinage": "3 mois"
+    }
+  },
+  {
+    "name": "Bondon",
+    "scientific_name": "Bondon de Neufchâtel",
+    "glossary_term": "Cylindre normand",
+    "category": "fromage",
+    "description": "Petit fromage de Normandie en forme de cylindre court, proche du Neufchâtel mais souvent moins salé.",
+    "seasonality": "Toute l'année (meilleur en été)",
+    "buying_guide": "La croûte fleurie blanche doit être uniforme. Il doit être moelleux au toucher.",
+    "storage_guide": "Au réfrigérateur dans son papier d'emballage.",
+    "prep_guide": "Parfait pour un apéritif dînatoire ou un plateau de fromages frais.",
+    "nutrition_info": "260 kcal/100g.",
+    "texture": "Très fondante, cœur légèrement crayeux quand il est jeune.",
+    "image_filename": "bondon.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "apéritif"
+    ],
+    "tags": [
+      "normandie",
+      "doux",
+      "lacté"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Normandie",
+      "affinage": "12 jours minimum"
+    }
+  },
+  {
+    "name": "Pouligny-Saint-Pierre",
+    "scientific_name": "AOP Pouligny-Saint-Pierre",
+    "glossary_term": "Tour Eiffel du Berry",
+    "category": "fromage",
+    "description": "Fromage de chèvre à la forme pyramidale élancée. Son goût évoque la noisette et les herbes sèches.",
+    "seasonality": "Avril à Novembre",
+    "buying_guide": "La pyramide doit être bien droite avec une croûte fine, parfois parsemée de moisissures bleutées.",
+    "storage_guide": "Au frais. Ne pas écraser la pointe lors du rangement.",
+    "prep_guide": "Se déguste avec un vin blanc de Touraine ou du Berry.",
+    "nutrition_info": "255 kcal/100g.",
+    "texture": "Ferme, lisse et très fondante en bouche.",
+    "image_filename": "pouligny-saint-pierre.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "chèvre",
+      "noble"
+    ],
+    "tags": [
+      "berry",
+      "pyramide",
+      "noisette"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Chèvre",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Centre-Val de Loire",
+      "affinage": "10 jours minimum"
+    }
+  },
+  {
+    "name": "Morbier Vieux",
+    "scientific_name": "AOP Morbier Affiné",
+    "glossary_term": "Morbier de réserve",
+    "category": "fromage",
+    "description": "Un Morbier qui a bénéficié d'un affinage prolongé. La raie de charbon est toujours présente, mais les arômes fruités laissent place à des notes plus animales et corsées.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte est plus sombre, plus jaune et présente parfois quelques cristaux. Le goût est plus piquant.",
+    "storage_guide": "Bien protéger dans une boîte hermétique pour ne pas dessécher la pâte.",
+    "prep_guide": "Pour les amateurs de fromages de caractère, à déguster avec un pain aux figues.",
+    "nutrition_info": "360 kcal/100g.",
+    "texture": "Moins élastique que le jeune, plus dense.",
+    "image_filename": "morbier-vieux.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "caractère"
+    ],
+    "tags": [
+      "jura",
+      "puissant",
+      "affiné"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Franche-Comté",
+      "affinage": "4 à 6 mois"
+    }
+  },
+  {
+    "name": "Boursault",
+    "scientific_name": "Boursault",
+    "glossary_term": "Triple crème",
+    "category": "fromage",
+    "description": "Fromage enrichi en crème, extrêmement onctueux. Il offre une saveur douce, lactée et très consensuelle.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Le fromage doit être très souple, presque mou. La croûte fleurie doit être bien blanche.",
+    "storage_guide": "Très fragile à cause de sa teneur en crème, à consommer rapidement après achat.",
+    "prep_guide": "Idéal pour finir un repas sur une note de douceur ou pour le goûter des enfants.",
+    "nutrition_info": "350 kcal/100g, très riche en lipides.",
+    "texture": "Fondante, crémeuse, presque mousseuse.",
+    "image_filename": "boursault.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "onctueux",
+      "famille"
+    ],
+    "tags": [
+      "crème",
+      "doux",
+      "riche"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Île-de-France",
+      "affinage": "12 jours"
+    }
+  },
+  {
+    "name": "Tête de Moine",
+    "scientific_name": "AOP Tête de Moine",
+    "glossary_term": "Fromage à racler",
+    "category": "fromage",
+    "description": "Célèbre fromage suisse que l'on ne coupe pas, mais que l'on racle en fines Rosettes à l'aide d'une Girolle pour libérer ses arômes.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La meule doit être intacte, sans fissures. Préférer l'appellation 'Réserve' pour un goût plus typé.",
+    "storage_guide": "Garder la meule entière au frais, protégée par sa cloche ou un film alimentaire.",
+    "prep_guide": "Utiliser impérativement une Girolle. Les rosettes doivent être formées au dernier moment pour éviter le dessèchement.",
+    "nutrition_info": "401 kcal/100g.",
+    "texture": "Fine et fondante sous forme de rosettes.",
+    "image_filename": "tete-de-moine.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "apéritif",
+      "esthétique"
+    ],
+    "tags": [
+      "suisse",
+      "girolle",
+      "partage"
+    ],
+    "specific_data": {
+      "pays": "Suisse",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée cuite",
+      "region": "Jura bernois",
+      "affinage": "2.5 mois minimum"
+    }
+  },
+  {
+    "name": "Valençay",
+    "scientific_name": "AOP Valençay",
+    "glossary_term": "Pyramide cendrée",
+    "category": "fromage",
+    "description": "Fromage de chèvre en forme de pyramide tronquée. La légende dit que Napoléon aurait fait trancher le sommet après une défaite.",
+    "seasonality": "Mars à Octobre",
+    "buying_guide": "La robe cendrée doit être d'un gris bleuté uniforme. La pâte doit être bien blanche et sans fissures.",
+    "storage_guide": "Au frais. Sortir 30 min avant pour apprécier les notes de noisette.",
+    "prep_guide": "Parfait avec un vin blanc sec (Sancerre) ou sur un plateau de chèvres variés.",
+    "nutrition_info": "250 kcal/100g.",
+    "texture": "Fine, homogène et fondante.",
+    "image_filename": "valencay.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "chèvre",
+      "noble"
+    ],
+    "tags": [
+      "berry",
+      "cendré",
+      "pyramide"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Chèvre",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Centre-Val de Loire",
+      "affinage": "11 jours minimum"
+    }
+  },
+  {
+    "name": "Taleggio",
+    "scientific_name": "DOP Taleggio",
+    "glossary_term": "Pâte molle italienne",
+    "category": "fromage",
+    "description": "Fromage italien à croûte lavée, de forme carrée. Malgré son odeur forte, son goût est doux, fruité et légèrement acidulé.",
+    "seasonality": "Printemps / Automne",
+    "buying_guide": "La croûte doit être fine, rosée avec quelques moisissures grises. Le cœur doit être souple.",
+    "storage_guide": "Emballer dans un linge humide ou du papier sulfurisé pour garder son onctuosité.",
+    "prep_guide": "Excellent fondu dans un risotto, sur une pizza blanche ou avec des poires.",
+    "nutrition_info": "300 kcal/100g.",
+    "texture": "Très souple et crémeuse.",
+    "image_filename": "taleggio.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "cuisine",
+      "italien"
+    ],
+    "tags": [
+      "italie",
+      "lavé",
+      "doux"
+    ],
+    "specific_data": {
+      "pays": "Italie",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte lavée",
+      "region": "Lombardie",
+      "affinage": "35 à 40 jours"
+    }
+  },
+  {
+    "name": "Mimolette Vieille",
+    "scientific_name": "Mimolette",
+    "glossary_term": "Boule de Lille",
+    "category": "fromage",
+    "description": "Ressemblant à un boulet de canon, sa couleur orange intense vient du rocou. Affinée, elle développe des notes de noisette grillée.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La croûte doit être criblée de petits trous (dus aux cirons). Plus elle est dure, plus elle est affinée.",
+    "storage_guide": "Se conserve très longtemps au sec, même hors du réfrigérateur si elle est très vieille.",
+    "prep_guide": "Se déguste en copeaux avec une bière du Nord ou un vin liquoreux.",
+    "nutrition_info": "380 kcal/100g.",
+    "texture": "Cassante, sèche et granuleuse.",
+    "image_filename": "mimolette-vieille.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "apéritif",
+      "noble"
+    ],
+    "tags": [
+      "nord",
+      "orange",
+      "noisette"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Hauts-de-France",
+      "affinage": "12 à 18 mois"
+    }
+  },
+  {
+    "name": "Maasdam",
+    "scientific_name": "Maasdam",
+    "glossary_term": "Fromage à trous",
+    "category": "fromage",
+    "description": "Fromage hollandais créé pour rivaliser avec l'Emmental suisse. Il est plus doux, plus gras et possède de gros trous caractéristiques.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La croûte est généralement cirée en jaune. La pâte doit être souple et brillante.",
+    "storage_guide": "Au frais. Se conserve bien grâce à sa croûte protectrice.",
+    "prep_guide": "Idéal pour les sandwichs, les collations d'enfants ou en cubes à l'apéritif.",
+    "nutrition_info": "350 kcal/100g.",
+    "texture": "Élastique et souple.",
+    "image_filename": "maasdam.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "famille",
+      "sandwich"
+    ],
+    "tags": [
+      "hollande",
+      "doux",
+      "trous"
+    ],
+    "specific_data": {
+      "pays": "Pays-Bas",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée cuite",
+      "region": "Maasdam",
+      "affinage": "4 à 12 semaines"
+    }
+  },
+  {
+    "name": "Livarot",
+    "scientific_name": "AOP Livarot",
+    "glossary_term": "Le Colonel",
+    "category": "fromage",
+    "description": "Surnommé 'Le Colonel' à cause des cinq laiches (brins de laîche) qui l'entourent pour l'empêcher de s'affaisser.",
+    "seasonality": "Mai à Octobre",
+    "buying_guide": "La croûte doit être d'un orange chaud. Le fromage doit être bien bombée et souple sous la pression.",
+    "storage_guide": "Boîte hermétique au frais. Sortir 1h avant dégustation.",
+    "prep_guide": "Se déguste avec un cidre brut normand ou un Calvados.",
+    "nutrition_info": "300 kcal/100g.",
+    "texture": "Onctueuse et élastique.",
+    "image_filename": "livarot.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "terroir",
+      "puissant"
+    ],
+    "tags": [
+      "normandie",
+      "typé",
+      "tradition"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte lavée",
+      "region": "Normandie",
+      "affinage": "35 jours minimum"
+    }
+  },
+  {
+    "name": "Manouri",
+    "scientific_name": "PDO Manouri",
+    "glossary_term": "Fromage de lactosérum",
+    "category": "fromage",
+    "description": "Fromage grec crémeux produit à partir du lactosérum de brebis ou chèvre. Plus gras et moins salé que la Feta.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Vendu en cylindres blancs. La pâte doit être compacte mais très fondante.",
+    "storage_guide": "Au frais, à consommer rapidement après ouverture.",
+    "prep_guide": "Excellent grillé avec du miel, dans des salades de fruits ou des pâtisseries.",
+    "nutrition_info": "400 kcal/100g.",
+    "texture": "Crémeuse et légèrement granuleuse.",
+    "image_filename": "manouri.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "frais",
+      "dessert"
+    ],
+    "tags": [
+      "grèce",
+      "riche",
+      "doux"
+    ],
+    "specific_data": {
+      "pays": "Grèce",
+      "type_lait": "Brebis et Chèvre",
+      "famille": "Pâte fraîche",
+      "region": "Macédoine / Thessalie",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Sainte-Maure de Touraine",
+    "scientific_name": "AOP Sainte-Maure de Touraine",
+    "glossary_term": "Bûche cendrée",
+    "category": "fromage",
+    "description": "Bûche de chèvre cendrée traversée par un fétu de paille de seigle, gage de son origine et de sa solidité.",
+    "seasonality": "Mars à Novembre",
+    "buying_guide": "La paille doit comporter le nom du producteur. La croûte doit être fine avec un léger duvet gris-bleu.",
+    "storage_guide": "Au frais. Si vous l'aimez sec, laissez-le s'affiner dans une cave fraîche.",
+    "prep_guide": "Retirer la paille avant de couper. Parfait avec un vin blanc de Touraine.",
+    "nutrition_info": "280 kcal/100g.",
+    "texture": "Onctueuse à sèche selon l'affinage.",
+    "image_filename": "sainte-maure.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "chèvre",
+      "noble"
+    ],
+    "tags": [
+      "touraine",
+      "cendré",
+      "bûche"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Chèvre",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Centre-Val de Loire",
+      "affinage": "10 jours minimum"
+    }
+  },
+  {
+    "name": "Gorgonzola Cremoso",
+    "scientific_name": "DOP Gorgonzola",
+    "glossary_term": "Gorgonzola à la louche",
+    "category": "fromage",
+    "description": "Une version ultra-crémeuse du Gorgonzola Dolce, souvent servie à la louche. Goût de crème prononcé et bleu très discret.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Doit être quasiment coulant. Couleur crème avec de rares veines bleu-gris.",
+    "storage_guide": "Très périssable. À consommer dans les 2-3 jours.",
+    "prep_guide": "Se déguste à la cuillère ou pour lier des sauces gastronomiques.",
+    "nutrition_info": "310 kcal/100g.",
+    "texture": "Liquide, crémeuse, fondante.",
+    "image_filename": "gorgonzola-cremoso.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "noble",
+      "onctueux"
+    ],
+    "tags": [
+      "italie",
+      "crème",
+      "luxe"
+    ],
+    "specific_data": {
+      "pays": "Italie",
+      "type_lait": "Vache",
+      "famille": "Pâte persillée",
+      "region": "Piémont",
+      "affinage": "50 jours"
+    }
+  },
+  {
+    "name": "Boursin Ail et Fines Herbes",
+    "scientific_name": "Boursin",
+    "glossary_term": "Fromage frais aromatisé",
+    "category": "fromage",
+    "description": "Le fromage frais le plus célèbre de France, connu pour sa texture onctueuse et ses saveurs intenses d'ail et d'herbes.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Vérifier l'intégrité de l'emballage en aluminium plissé.",
+    "storage_guide": "Toujours au réfrigérateur.",
+    "prep_guide": "Idéal sur des tartines, des blinis ou pour farcir des légumes (champignons, tomates cerises).",
+    "nutrition_info": "400 kcal/100g.",
+    "texture": "Crémeuse et aérée.",
+    "image_filename": "boursin-ail-herbes.webp",
+    "variant_images": [
+      "boursin-poivre.webp"
+    ],
+    "functional_categories": [
+      "apéritif",
+      "famille"
+    ],
+    "tags": [
+      "populaire",
+      "herbes",
+      "frais"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte fraîche",
+      "region": "Normandie",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Camembert de Normandie",
+    "scientific_name": "AOP Camembert de Normandie",
+    "glossary_term": "Pâte molle à croûte fleurie",
+    "category": "fromage",
+    "description": "L'emblème du fromage français. Fabriqué au lait cru et moulé à la louche, il offre des arômes de terroir et de sous-bois.",
+    "seasonality": "Avril à Octobre",
+    "buying_guide": "La boîte doit être lourde. Le fromage doit être souple sur les bords et un peu plus ferme au centre. Éviter les croûtes trop sèches.",
+    "storage_guide": "Conserver dans sa boîte en bois d'origine, au frais. Sortir 1h avant de servir.",
+    "prep_guide": "Délicieux tel quel, ou rôti au four avec une branche de romarin et du miel.",
+    "nutrition_info": "265 kcal/100g.",
+    "texture": "Onctueuse, souple et fondante.",
+    "image_filename": "camembert-normandie.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "tradition"
+    ],
+    "tags": [
+      "normandie",
+      "classique",
+      "typé"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache (Cru)",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Normandie",
+      "affinage": "3 à 4 semaines"
+    }
+  },
+  {
+    "name": "Brillat-Savarin",
+    "scientific_name": "IGP Brillat-Savarin",
+    "glossary_term": "Triple crème",
+    "category": "fromage",
+    "description": "Un fromage de luxe extrêmement riche, inventé en hommage au célèbre gastronome. C'est le 'foie gras des fromages'.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La croûte doit être bien blanche et duveteuse. Le fromage ne doit pas couler mais être d'une tenue parfaite.",
+    "storage_guide": "Très fragile, à consommer rapidement après l'achat. Garder au frais.",
+    "prep_guide": "S'accorde magnifiquement avec du Champagne ou des fruits frais (fraises, framboises).",
+    "nutrition_info": "385 kcal/100g, environ 75% de matière grasse sur extrait sec.",
+    "texture": "Beurrée, mousseuse et fondante.",
+    "image_filename": "brillat-savarin.webp",
+    "variant_images": [
+      "brillat-savarin-truffe.webp"
+    ],
+    "functional_categories": [
+      "noble",
+      "fêtes"
+    ],
+    "tags": [
+      "riche",
+      "onctueux",
+      "luxe"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Bourgogne / Normandie",
+      "affinage": "1 à 2 semaines"
+    }
+  },
+  {
+    "name": "Langres",
+    "scientific_name": "AOP Langres",
+    "glossary_term": "Fromage à cuvette",
+    "category": "fromage",
+    "description": "Reconnaissable à la petite cuvette au sommet de sa croûte (la fontaine), car il n'est jamais retourné pendant l'affinage.",
+    "seasonality": "Mai à Octobre",
+    "buying_guide": "La croûte doit être plissée et d'un orange vif. Plus la cuvette est profonde, plus l'affinage est poussé.",
+    "storage_guide": "Au frais dans sa boîte d'origine.",
+    "prep_guide": "Une tradition consiste à verser un peu de Champagne ou de Marc de Bourgogne dans sa cuvette avant dégustation.",
+    "nutrition_info": "295 kcal/100g.",
+    "texture": "Onctueuse sous la croûte avec un cœur légèrement plus ferme.",
+    "image_filename": "langres.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "insolite"
+    ],
+    "tags": [
+      "champagne",
+      "puissant",
+      "lavé"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte lavée",
+      "region": "Grand Est",
+      "affinage": "15 à 21 jours"
+    }
+  },
+  {
+    "name": "Provolone Dolce",
+    "scientific_name": "DOP Provolone Valpadana Dolce",
+    "glossary_term": "Pâte filée",
+    "category": "fromage",
+    "description": "La version douce du Provolone italien. Sa saveur est lactée et délicate, parfaite pour plaire à toute la famille.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Souvent en forme de poire ou de saucisson. La croûte doit être fine, lisse et d'un jaune clair.",
+    "storage_guide": "Au frais. S'il est entamé, protéger la coupe avec du film étirable.",
+    "prep_guide": "Idéal en tranches dans les paninis ou découpé en cubes pour l'apéritif.",
+    "nutrition_info": "345 kcal/100g.",
+    "texture": "Semi-molle, élastique et compacte.",
+    "image_filename": "provolone-dolce.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "sandwich",
+      "famille"
+    ],
+    "tags": [
+      "italie",
+      "doux",
+      "lacté"
+    ],
+    "specific_data": {
+      "pays": "Italie",
+      "type_lait": "Vache",
+      "famille": "Pâte filée",
+      "region": "Lombardie",
+      "affinage": "2 à 3 mois"
+    }
+  },
+  {
+    "name": "Selles-sur-Cher",
+    "scientific_name": "AOP Selles-sur-Cher",
+    "glossary_term": "Chèvre cendré",
+    "category": "fromage",
+    "description": "Petit fromage de chèvre plat aux bords biseautés, recouvert d'un mélange de sel et de charbon de bois.",
+    "seasonality": "Avril à Octobre",
+    "buying_guide": "La croûte doit être gris bleuté, fine et non visqueuse. L'odeur doit être discrète (caprine et noisette).",
+    "storage_guide": "Au frais, mais supporte d'être laissé à température ambiante pour finir son affinage.",
+    "prep_guide": "Se déguste avec la croûte pour profiter de l'équilibre entre la cendre et le cœur lacté.",
+    "nutrition_info": "240 kcal/100g.",
+    "texture": "Fine, fondante et homogène.",
+    "image_filename": "selles-sur-cher.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "chèvre",
+      "noble"
+    ],
+    "tags": [
+      "loire",
+      "cendré",
+      "doux"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Chèvre",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Centre-Val de Loire",
+      "affinage": "10 jours minimum"
+    }
+  },
+  {
+    "name": "Leicester Rouge",
+    "scientific_name": "Red Leicester",
+    "glossary_term": "Fromage britannique",
+    "category": "fromage",
+    "description": "Fromage anglais proche du Cheddar mais plus friable, célèbre pour sa couleur orange vif naturelle (rocou).",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Doit être d'un orange uniforme. Préférer le Leicester 'affiné' pour plus de complexité.",
+    "storage_guide": "Au frais. Bien emballer après chaque utilisation.",
+    "prep_guide": "Parfait pour colorer et donner du goût aux Welsh Rabbits ou aux gratins.",
+    "nutrition_info": "395 kcal/100g.",
+    "texture": "Ferme mais nettement plus friable que le cheddar.",
+    "image_filename": "red-leicester.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "cuisine",
+      "couleur"
+    ],
+    "tags": [
+      "angleterre",
+      "orange",
+      "doux"
+    ],
+    "specific_data": {
+      "pays": "Royaume-Uni",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Leicestershire",
+      "affinage": "4 à 12 mois"
+    }
+  },
+  {
+    "name": "Banon",
+    "scientific_name": "AOP Banon",
+    "glossary_term": "Fromage sous feuilles",
+    "category": "fromage",
+    "description": "Petit fromage de chèvre de Provence, plié dans des feuilles de châtaignier brunes liées avec du raphia.",
+    "seasonality": "Printemps à Automne",
+    "buying_guide": "L'emballage de feuilles doit être intact. Le fromage à l'intérieur doit être très souple.",
+    "storage_guide": "À conserver au frais dans son emballage de feuilles qui protège son humidité.",
+    "prep_guide": "Servir tel quel. Les feuilles ne se mangent pas mais parfument le fromage.",
+    "nutrition_info": "260 kcal/100g.",
+    "texture": "Onctueuse, crémeuse et parfois coulante.",
+    "image_filename": "banon.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "insolite"
+    ],
+    "tags": [
+      "provence",
+      "chèvre",
+      "feuille"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Chèvre",
+      "famille": "Pâte molle à croûte naturelle",
+      "region": "Provence-Alpes-Côte d'Azur",
+      "affinage": "15 jours minimum"
+    }
+  },
+  {
+    "name": "Pecorino Toscano",
+    "scientific_name": "DOP Pecorino Toscano",
+    "glossary_term": "Fromage de brebis",
+    "category": "fromage",
+    "description": "Moins salé que le Romano, ce fromage de brebis toscan est apprécié pour ses notes beurrées et douces.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte doit être blanc crème. La version 'Stagionato' (affinée) est plus ferme et savoureuse.",
+    "storage_guide": "Au frais dans du papier alimentaire.",
+    "prep_guide": "Excellent avec des fèves fraîches, des noix ou un filet de miel de châtaignier.",
+    "nutrition_info": "375 kcal/100g.",
+    "texture": "Semi-dure (jeune) à dure (affiné).",
+    "image_filename": "pecorino-toscano.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "italien"
+    ],
+    "tags": [
+      "italie",
+      "brebis",
+      "douceur"
+    ],
+    "specific_data": {
+      "pays": "Italie",
+      "type_lait": "Brebis",
+      "famille": "Pâte pressée cuite",
+      "region": "Toscane",
+      "affinage": "20 jours à 4 mois"
+    }
+  },
+  {
+    "name": "Boulette d'Avesnes",
+    "scientific_name": "Boulette d'Avesnes",
+    "glossary_term": "Fromage aromatisé",
+    "category": "fromage",
+    "description": "Fromage du Nord en forme de cône, fabriqué à partir de débris de Maroilles, enrichi d'herbes, de poivre et d'épices, puis enrobé de paprika.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La couleur rouge brique doit être intense. L'odeur est extrêmement forte.",
+    "storage_guide": "Conservation au frais dans une boîte hermétique doublement fermée.",
+    "prep_guide": "Pour les amateurs de fromages très puissants. Se déguste avec une bière d'abbaye brune.",
+    "nutrition_info": "285 kcal/100g.",
+    "texture": "Granuleuse et compacte.",
+    "image_filename": "boulette-avesnes.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "caractère",
+      "insolite"
+    ],
+    "tags": [
+      "nord",
+      "paprika",
+      "puissant"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte préparée",
+      "region": "Hauts-de-France",
+      "affinage": "3 mois"
+    }
+  },
+  {
+    "name": "Abondance",
+    "scientific_name": "AOP Abondance",
+    "glossary_term": "Fromage de montagne",
+    "category": "fromage",
+    "description": "Produit avec le lait des vaches de race Abondance, ce fromage de Savoie présente une croûte ambrée et une pâte fruitée.",
+    "seasonality": "Été à Automne (pour les meilleurs arômes)",
+    "buying_guide": "La meule doit avoir le talon concave. La pâte doit être souple avec quelques petits trous.",
+    "storage_guide": "Au frais dans un linge ou son papier d'emballage.",
+    "prep_guide": "Base essentielle du 'Berthoud' (spécialité au fromage fondu et vin blanc).",
+    "nutrition_info": "390 kcal/100g.",
+    "texture": "Souple, onctueuse et fondante.",
+    "image_filename": "abondance.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "fonte",
+      "noble"
+    ],
+    "tags": [
+      "savoie",
+      "fruité",
+      "montagne"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée cuite",
+      "region": "Haute-Savoie",
+      "affinage": "100 jours minimum"
+    }
+  },
+  {
+    "name": "Mont d'Or",
+    "scientific_name": "AOP Vacherin du Haut-Doubs",
+    "glossary_term": "Fromage de saison",
+    "category": "fromage",
+    "description": "Fromage saisonnier ceinturé par une sangle d'épicéa qui lui donne un parfum boisé unique. Il est présenté dans sa boîte en bois d'épicéa.",
+    "seasonality": "Automne / Hiver (du 10 septembre au 10 mai)",
+    "buying_guide": "La croûte doit être plissée comme un paysage de montagne, de couleur rosée. Il doit être très souple au toucher.",
+    "storage_guide": "Au frais dans sa boîte. Ne pas retirer la sangle d'épicéa qui maintient le fromage.",
+    "prep_guide": "Se déguste à la cuillère ou chaud ('boîte chaude') après passage au four avec un peu de vin blanc et d'ail.",
+    "nutrition_info": "290 kcal/100g.",
+    "texture": "Coulante, crémeuse et onctueuse.",
+    "image_filename": "mont-dor.webp",
+    "variant_images": [
+      "vacherin-fribourgeois.webp"
+    ],
+    "functional_categories": [
+      "fonte",
+      "fêtes"
+    ],
+    "tags": [
+      "jura",
+      "boisé",
+      "hiver"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache (Cru)",
+      "famille": "Pâte molle à croûte lavée",
+      "region": "Bourgogne-Franche-Comté",
+      "affinage": "21 jours minimum"
+    }
+  },
+  {
+    "name": "Maroilles",
+    "scientific_name": "AOP Maroilles",
+    "glossary_term": "Plus fin des fromages forts",
+    "category": "fromage",
+    "description": "Originaire du Nord, ce fromage de forme carrée possède une odeur puissante mais un goût d'une grande finesse avec des notes lactées.",
+    "seasonality": "Toute l'année (meilleur en été et automne)",
+    "buying_guide": "La croûte doit être d'un rouge brique orangé, lisse et brillante. Éviter les croûtes trop sèches ou blanchâtres.",
+    "storage_guide": "Boîte hermétique indispensable. Supporte très bien la congélation s'il est destiné à la cuisine.",
+    "prep_guide": "Célèbre en 'Flamiche au Maroilles' ou simplement trempé dans le café pour les plus audacieux.",
+    "nutrition_info": "340 kcal/100g.",
+    "texture": "Onctueuse, souple et élastique.",
+    "image_filename": "maroilles.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "terroir",
+      "cuisine"
+    ],
+    "tags": [
+      "nord",
+      "puissant",
+      "tradition"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte lavée",
+      "region": "Hauts-de-France",
+      "affinage": "5 semaines minimum"
+    }
+  },
+  {
+    "name": "Cabrales",
+    "scientific_name": "DOP Queso de Cabrales",
+    "glossary_term": "Bleu des Asturies",
+    "category": "fromage",
+    "description": "Fromage bleu espagnol très puissant, affiné dans des grottes naturelles. Sa moisissure se développe naturellement sans injection.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte doit être crémeuse avec des veines bleu-vert intenses. L'odeur est très forte et caractéristique.",
+    "storage_guide": "Envelopper dans du papier aluminium ou sulfurisé. À conserver au frais mais à isoler.",
+    "prep_guide": "Se déguste en petites quantités sur du pain, ou fondu pour créer des sauces pour viande rouge.",
+    "nutrition_info": "390 kcal/100g.",
+    "texture": "Beurrée, granuleuse et fondante.",
+    "image_filename": "cabrales.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "bleu",
+      "caractère"
+    ],
+    "tags": [
+      "espagne",
+      "puissant",
+      "grotte"
+    ],
+    "specific_data": {
+      "pays": "Espagne",
+      "type_lait": "Mélange (Vache, Chèvre, Brebis)",
+      "famille": "Pâte persillée",
+      "region": "Asturies",
+      "affinage": "2 à 4 mois"
+    }
+  },
+  {
+    "name": "Bleu de Gex",
+    "scientific_name": "AOP Bleu de Gex Haut-Jura",
+    "glossary_term": "Bleu de montagne",
+    "category": "fromage",
+    "description": "Un bleu doux et montagnard. Sa croûte est sèche et sa pâte blanc ivoire est marbrée de bleu-vert assez pâle.",
+    "seasonality": "Été / Automne",
+    "buying_guide": "Rechercher le mot 'GEX' imprimé en relief sur la croûte. La pâte doit être souple.",
+    "storage_guide": "Au frais. Envelopper dans un papier qui laisse respirer le fromage.",
+    "prep_guide": "Incontournable dans la 'Gexoise' (sorte de raclette au bleu de Gex).",
+    "nutrition_info": "340 kcal/100g.",
+    "texture": "Ferme et onctueuse.",
+    "image_filename": "bleu-de-gex.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "bleu",
+      "montagne"
+    ],
+    "tags": [
+      "jura",
+      "doux",
+      "terroir"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte persillée",
+      "region": "Bourgogne-Franche-Comté",
+      "affinage": "21 jours minimum"
+    }
+  },
+  {
+    "name": "Picodon",
+    "scientific_name": "AOP Picodon",
+    "glossary_term": "Petit chèvre piquant",
+    "category": "fromage",
+    "description": "Petit palet de chèvre de la Drôme et de l'Ardèche. Son nom signifie 'petit piquant' en langue d'oc.",
+    "seasonality": "Printemps à Automne",
+    "buying_guide": "Choisir 'Dieulefit' pour un goût plus puissant et une texture lavée, ou 'Ardèche' pour un côté plus sec.",
+    "storage_guide": "Au frais. S'affine très bien dans une cave saine.",
+    "prep_guide": "Délicieux avec un miel de lavande ou mariné dans l'huile d'olive et les herbes de Provence.",
+    "nutrition_info": "290 kcal/100g.",
+    "texture": "Ferme, dense et un peu cassante quand il est affiné.",
+    "image_filename": "picodon.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "chèvre",
+      "apéritif"
+    ],
+    "tags": [
+      "ardèche",
+      "piquant",
+      "provence"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Chèvre",
+      "famille": "Pâte molle à croûte fleurie",
+      "region": "Auvergne-Rhône-Alpes",
+      "affinage": "12 jours minimum"
+    }
+  },
+  {
+    "name": "Port-Salut",
+    "scientific_name": "Port-Salut",
+    "glossary_term": "Fromage monastique",
+    "category": "fromage",
+    "description": "Créé à l'origine par les moines de l'abbaye du Port-du-Salut, c'est un fromage très doux à la croûte orange caractéristique.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La croûte est fine et orange vif (colorant naturel). La pâte doit être d'un jaune uniforme sans trous.",
+    "storage_guide": "Au frais. Bien emballer car la pâte est souple et peut coller.",
+    "prep_guide": "Le fromage familial par excellence, idéal en fin de repas ou en sandwich.",
+    "nutrition_info": "310 kcal/100g.",
+    "texture": "Souple, élastique et très fondante.",
+    "image_filename": "port-salut.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "famille",
+      "doux"
+    ],
+    "tags": [
+      "tradition",
+      "lacté",
+      "moine"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Pays de la Loire",
+      "affinage": "4 semaines"
+    }
+  },
+  {
+    "name": "Fromage de Herve",
+    "scientific_name": "AOP Herve",
+    "glossary_term": "Pâte molle belge",
+    "category": "fromage",
+    "description": "Le seul fromage belge bénéficiant d'une AOP. Il possède une odeur très forte mais une saveur douce et beurrée.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Le 'Herve piquant' est affiné plus longtemps que le 'Herve doux'. La croûte doit être humide et orangée.",
+    "storage_guide": "Boîte hermétique au réfrigérateur.",
+    "prep_guide": "Se déguste traditionnellement sur une tranche de pain beurrée avec du sirop de Liège.",
+    "nutrition_info": "310 kcal/100g.",
+    "texture": "Onctueuse, homogène et un peu élastique.",
+    "image_filename": "herve.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "terroir",
+      "caractère"
+    ],
+    "tags": [
+      "belgique",
+      "puissant",
+      "sirop-liege"
+    ],
+    "specific_data": {
+      "pays": "Belgique",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte lavée",
+      "region": "Pays de Herve",
+      "affinage": "4 semaines minimum"
+    }
+  },
+  {
+    "name": "Manchego Viejo",
+    "scientific_name": "DOP Queso Manchego",
+    "glossary_term": "Brebis extra-affiné",
+    "category": "fromage",
+    "description": "La version la plus prestigieuse du Manchego, affinée pendant au moins un an. Goût intense, piquant et complexe.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte est d'un jaune foncé, très dure. On y trouve souvent des cristaux de tyrosine (signe d'affinage).",
+    "storage_guide": "Au frais, enveloppé dans du papier sulfurisé.",
+    "prep_guide": "À déguster avec un vin rouge puissant ou quelques gouttes de vieux vinaigre balsamique.",
+    "nutrition_info": "450 kcal/100g.",
+    "texture": "Très ferme, cassante et granuleuse.",
+    "image_filename": "manchego-viejo.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "noble",
+      "tapas"
+    ],
+    "tags": [
+      "espagne",
+      "affiné",
+      "puissant"
+    ],
+    "specific_data": {
+      "pays": "Espagne",
+      "type_lait": "Brebis",
+      "famille": "Pâte pressée non cuite",
+      "region": "Castille-La Manche",
+      "affinage": "12 à 24 mois"
+    }
+  },
+  {
+    "name": "Tomme de Corse",
+    "scientific_name": "Tomme Corse",
+    "glossary_term": "U Pecurinu",
+    "category": "fromage",
+    "description": "Fromage de brebis à croûte lavée ou fleurie, au caractère sauvage reflétant le maquis corse.",
+    "seasonality": "Hiver / Printemps",
+    "buying_guide": "La croûte peut être couverte de moisissures grises. L'odeur doit évoquer les herbes et la terre humide.",
+    "storage_guide": "Au frais, mais supporte bien les variations de température.",
+    "prep_guide": "Accompagner d'une confiture de figues ou de noix.",
+    "nutrition_info": "380 kcal/100g.",
+    "texture": "Ferme mais onctueuse en bouche.",
+    "image_filename": "tomme-corse.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "terroir",
+      "insulaire"
+    ],
+    "tags": [
+      "corse",
+      "brebis",
+      "sauvage"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Brebis",
+      "famille": "Pâte pressée non cuite",
+      "region": "Corse",
+      "affinage": "3 à 6 mois"
+    }
+  },
+  {
+    "name": "Feta AOP",
+    "scientific_name": "PDO Feta",
+    "glossary_term": "Fromage en saumure",
+    "category": "fromage",
+    "description": "Le fromage grec le plus connu au monde. Conservé en saumure, il a un goût frais, salé et acidulé.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Privilégier la Feta vendue en bloc dans sa saumure plutôt que déjà émiettée. Elle doit être bien blanche.",
+    "storage_guide": "Toujours conserver dans son liquide (saumure) pour éviter qu'elle ne s'assèche.",
+    "prep_guide": "Indispensable dans la salade grecque, ou rôtie au four avec des herbes.",
+    "nutrition_info": "260 kcal/100g.",
+    "texture": "Friable, ferme et fondante.",
+    "image_filename": "feta.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "cuisine",
+      "salade"
+    ],
+    "tags": [
+      "grèce",
+      "salé",
+      "frais"
+    ],
+    "specific_data": {
+      "pays": "Grèce",
+      "type_lait": "Brebis (min 70%) et Chèvre",
+      "famille": "Pâte fraîche saumurée",
+      "region": "Grèce continentale",
+      "affinage": "2 mois minimum"
+    }
+  },
+  {
+    "name": "Pont-l'Évêque",
+    "scientific_name": "AOP Pont-l'Évêque",
+    "glossary_term": "Pâte molle à croûte lavée",
+    "category": "fromage",
+    "description": "L'un des quatre grands fromages normands. De forme carrée, il est plus doux que le Livarot mais possède une personnalité affirmée avec des notes de noisette et de beurre.",
+    "seasonality": "Mai à Octobre",
+    "buying_guide": "La croûte doit être bien lisse, de couleur ocre ou rosée. Le fromage doit être souple au toucher, surtout pas dur.",
+    "storage_guide": "Au frais dans sa boîte en bois. Le sortir 45 minutes avant dégustation pour qu'il retrouve sa souplesse.",
+    "prep_guide": "Excellent avec une miche de pain de campagne et un verre de cidre de pays.",
+    "nutrition_info": "290 kcal/100g.",
+    "texture": "Onctueuse, lisse et fondante.",
+    "image_filename": "pont-leveque.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "tradition"
+    ],
+    "tags": [
+      "normandie",
+      "doux",
+      "caractère"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte molle à croûte lavée",
+      "region": "Normandie",
+      "affinage": "2 à 6 semaines"
+    }
+  },
+  {
+    "name": "Brocciu",
+    "scientific_name": "AOP Brocciu",
+    "glossary_term": "Fromage de lactosérum",
+    "category": "fromage",
+    "description": "Le fromage national de la Corse. Fabriqué à partir de petit-lait (lactosérum), c'est un fromage frais, blanc et très léger.",
+    "seasonality": "Hiver / Printemps (période de lactation des brebis et chèvres)",
+    "buying_guide": "Doit être d'un blanc pur et présenté dans son petit panier (faisselle). L'odeur doit être fraîche et lactée.",
+    "storage_guide": "Très fragile, à consommer dans les 2 ou 3 jours après l'achat.",
+    "prep_guide": "Incontournable dans le Fiadone (dessert corse) ou en omelette avec de la menthe fraîche.",
+    "nutrition_info": "180 kcal/100g.",
+    "texture": "Mousseuse, légère et granuleuse.",
+    "image_filename": "brocciu.webp",
+    "variant_images": [
+      "brocciu-passu.webp"
+    ],
+    "functional_categories": [
+      "frais",
+      "cuisine"
+    ],
+    "tags": [
+      "corse",
+      "léger",
+      "tradition"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Brebis ou Chèvre",
+      "famille": "Pâte fraîche",
+      "region": "Corse",
+      "affinage": "Aucun (ou passu si affiné)"
+    }
+  },
+  {
+    "name": "Saint-Nectaire Laitier",
+    "scientific_name": "AOP Saint-Nectaire",
+    "glossary_term": "Fromage de zone",
+    "category": "fromage",
+    "description": "Version produite en laiterie du célèbre fromage auvergnat. Il est plus régulier et souvent plus doux que la version fermière.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Rechercher la pastille de caséine carrée rouge. La croûte est plus uniforme que celle du fermier.",
+    "storage_guide": "Au frais. Envelopper dans du papier sulfurisé pour le laisser respirer.",
+    "prep_guide": "Idéal pour une cuisine quotidienne de qualité ou sur un plateau familial.",
+    "nutrition_info": "350 kcal/100g.",
+    "texture": "Souple, élastique et fondante.",
+    "image_filename": "saint-nectaire-laitier.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "famille",
+      "polyvalent"
+    ],
+    "tags": [
+      "auvergne",
+      "doux",
+      "onctueux"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Auvergne",
+      "affinage": "28 jours minimum"
+    }
+  },
+  {
+    "name": "Morbier Jeune",
+    "scientific_name": "AOP Morbier",
+    "glossary_term": "Morbier fruité",
+    "category": "fromage",
+    "description": "Un Morbier affiné peu de temps, mettant l'accent sur les arômes lactiques et fruités. La ligne de cendre centrale est purement décorative.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte doit être très souple et d'un blanc ivoire. La ligne noire doit être bien nette.",
+    "storage_guide": "Au frais. Se consomme rapidement après la coupe.",
+    "prep_guide": "Excellent en raclette car il fond très bien sans rejeter trop de gras.",
+    "nutrition_info": "340 kcal/100g.",
+    "texture": "Très souple et élastique.",
+    "image_filename": "morbier-jeune.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "fonte",
+      "famille"
+    ],
+    "tags": [
+      "jura",
+      "doux",
+      "fruit"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Bourgogne-Franche-Comté",
+      "affinage": "45 jours"
+    }
+  },
+  {
+    "name": "Cantal Jeune",
+    "scientific_name": "AOP Cantal",
+    "glossary_term": "Pâte lactique",
+    "category": "fromage",
+    "description": "Le premier stade du Cantal. C'est un fromage doux, frais en bouche, aux saveurs de crème et de beurre.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La croûte est fine et grise/blanche. La pâte doit être compacte mais souple.",
+    "storage_guide": "Au frais. Idéal pour être râpé si vous ne le consommez pas vite.",
+    "prep_guide": "Parfait pour les enfants ou pour lier des purées de pommes de terre (aligot rapide).",
+    "nutrition_info": "360 kcal/100g.",
+    "texture": "Ferme et fondante.",
+    "image_filename": "cantal-jeune.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "famille",
+      "cuisine"
+    ],
+    "tags": [
+      "auvergne",
+      "beurré",
+      "lacté"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Auvergne",
+      "affinage": "30 à 60 jours"
+    }
+  },
+  {
+    "name": "Sainte-Maure de Touraine Affiné",
+    "scientific_name": "AOP Sainte-Maure de Touraine",
+    "glossary_term": "Chèvre de caractère",
+    "category": "fromage",
+    "description": "Bûche de chèvre ayant subi un affinage long. Le fromage se rétracte sur la paille et développe une puissance aromatique remarquable.",
+    "seasonality": "Été / Automne",
+    "buying_guide": "La bûche doit être plus fine que la version classique. La croûte est souvent couverte d'un duvet gris bleuté.",
+    "storage_guide": "Se conserve longtemps au sec dans une cave ou le bac à légumes du frigo.",
+    "prep_guide": "À déguster seul, en fines tranches, pour apprécier sa longueur en bouche.",
+    "nutrition_info": "290 kcal/100g.",
+    "texture": "Cassante, sèche et très dense.",
+    "image_filename": "sainte-maure-affine.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "chèvre",
+      "noble"
+    ],
+    "tags": [
+      "touraine",
+      "puissant",
+      "sec"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Chèvre",
+      "famille": "Pâte molle à croûte naturelle",
+      "region": "Centre-Val de Loire",
+      "affinage": "1 mois et plus"
+    }
+  },
+  {
+    "name": "Reblochon Laitier",
+    "scientific_name": "AOP Reblochon",
+    "glossary_term": "Fromage de zone",
+    "category": "fromage",
+    "description": "Reblochon fabriqué en laiterie ou coopérative, reconnaissable à sa pastille rouge. Il est plus régulier et plus doux que le fermier.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Vérifier la pastille de caséine rouge. La croûte doit être jaune-orangée fine avec un léger voile blanc.",
+    "storage_guide": "Au frais. Le sortir impérativement 1h avant pour qu'il soit crémeux.",
+    "prep_guide": "Le fromage indispensable pour la Tartiflette.",
+    "nutrition_info": "330 kcal/100g.",
+    "texture": "Onctueuse, souple et veloutée.",
+    "image_filename": "reblochon-laitier.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "fonte",
+      "famille"
+    ],
+    "tags": [
+      "savoie",
+      "crémeux",
+      "tartiflette"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Haute-Savoie",
+      "affinage": "18 jours minimum"
+    }
+  },
+  {
+    "name": "Chaubier",
+    "scientific_name": "Chaubier",
+    "glossary_term": "Fromage mixte",
+    "category": "fromage",
+    "description": "Un fromage original mélangeant du lait de vache et du lait de chèvre, offrant un équilibre entre onctuosité et typicité.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte doit être souple et homogène. La saveur doit être équilibrée.",
+    "storage_guide": "Au frais dans son emballage.",
+    "prep_guide": "Idéal pour ceux qui trouvent le chèvre trop fort mais cherchent plus de goût que le fromage de vache pur.",
+    "nutrition_info": "320 kcal/100g.",
+    "texture": "Souple et fondante.",
+    "image_filename": "chaubier.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "plateau",
+      "découverte"
+    ],
+    "tags": [
+      "mixte",
+      "doux",
+      "équilibré"
+    ],
+    "specific_data": {
+      "pays": "France",
+      "type_lait": "Vache et Chèvre",
+      "famille": "Pâte pressée non cuite",
+      "region": "Pays de la Loire",
+      "affinage": "1 à 2 mois"
+    }
+  },
+  {
+    "name": "Graviera",
+    "scientific_name": "PDO Graviera Kritis",
+    "glossary_term": "Gruyère grec",
+    "category": "fromage",
+    "description": "Le deuxième fromage le plus populaire en Grèce après la Feta. Un fromage à pâte dure aux notes douces de noisette et d'herbes.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte doit être compacte avec de très petits trous. Elle devient plus piquante avec l'âge.",
+    "storage_guide": "Au frais. Se conserve très longtemps grâce à sa dureté.",
+    "prep_guide": "Se déguste en table (table cheese), frit (saganaki) ou râpé sur des plats de pâtes.",
+    "nutrition_info": "390 kcal/100g.",
+    "texture": "Dure, dense et légèrement granuleuse.",
+    "image_filename": "graviera.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "italien",
+      "polyvalent"
+    ],
+    "tags": [
+      "grèce",
+      "brebis",
+      "noisette"
+    ],
+    "specific_data": {
+      "pays": "Grèce",
+      "type_lait": "Brebis (souvent avec un peu de chèvre)",
+      "famille": "Pâte pressée cuite",
+      "region": "Crète / Thessalie",
+      "affinage": "3 à 12 mois"
+    }
+  },
+  {
+    "name": "Halloumi à la Menthe",
+    "scientific_name": "Halloumi",
+    "glossary_term": "Fromage de Chypre",
+    "category": "fromage",
+    "description": "Version traditionnelle du Halloumi, pliée avec des feuilles de menthe séchées pour une meilleure conservation et un goût frais.",
+    "seasonality": "Printemps / Été",
+    "buying_guide": "Vendu sous vide dans sa saumure. Les éclats de menthe doivent être bien visibles.",
+    "storage_guide": "Se garde plusieurs mois au frais sous vide.",
+    "prep_guide": "Indispensable au grill ou à la poêle. Il ne fond pas !",
+    "nutrition_info": "320 kcal/100g.",
+    "texture": "Ferme, élastique et résistante à la chaleur.",
+    "image_filename": "halloumi-menthe.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "barbecue",
+      "été"
+    ],
+    "tags": [
+      "chypre",
+      "grillé",
+      "menthe"
+    ],
+    "specific_data": {
+      "pays": "Chypre",
+      "type_lait": "Mélange Chèvre et Brebis",
+      "famille": "Pâte fraîche saumurée",
+      "region": "Chypre",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Parmigiano Reggiano 24 mois",
+    "scientific_name": "DOP Parmigiano Reggiano",
+    "glossary_term": "Vecchio",
+    "category": "fromage",
+    "description": "Le roi des fromages italiens à son apogée. À 24 mois, l'équilibre entre le doux et le piquant est parfait, avec une présence marquée de cristaux de tyrosine.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte doit être de couleur paille, se briser en éclats granuleux et ne pas être élastique.",
+    "storage_guide": "Envelopper dans du papier sulfurisé puis un film étirable, dans la zone la moins froide du frigo.",
+    "prep_guide": "À déguster en éclats avec quelques gouttes de vinaigre balsamique traditionnel ou râpé sur des plats de gastronomie.",
+    "nutrition_info": "392 kcal/100g, très riche en protéines et calcium.",
+    "texture": "Dure, granuleuse et friable.",
+    "image_filename": "parmesan-24-mois.webp",
+    "variant_images": [
+      "parmigiano-36-mois.webp"
+    ],
+    "functional_categories": [
+      "noble",
+      "cuisine"
+    ],
+    "tags": [
+      "italie",
+      "umami",
+      "prestigieux"
+    ],
+    "specific_data": {
+      "pays": "Italie",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée cuite",
+      "region": "Émilie-Romagne",
+      "affinage": "24 mois"
+    }
+  },
+  {
+    "name": "Vacherin Fribourgeois",
+    "scientific_name": "AOP Vacherin Fribourgeois",
+    "glossary_term": "Fromage à fondue",
+    "category": "fromage",
+    "description": "Fromage suisse à pâte mi-dure, d'une onctuosité incomparable. C'est l'ingrédient secret de la fondue 'moitié-moitié'.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La pâte doit être très souple et l'odeur agréablement typée. La croûte est fine et frottée.",
+    "storage_guide": "Au frais. Bien protéger la coupe car il s'affine (et coule) rapidement.",
+    "prep_guide": "Indispensable pour la fondue fribourgeoise (100% vacherin) ou en plateau.",
+    "nutrition_info": "380 kcal/100g.",
+    "texture": "Extrêmement fondante et onctueuse.",
+    "image_filename": "vacherin-fribourgeois.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "fondue",
+      "onctueux"
+    ],
+    "tags": [
+      "suisse",
+      "crémeux",
+      "tradition"
+    ],
+    "specific_data": {
+      "pays": "Suisse",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Canton de Fribourg",
+      "affinage": "2 à 4 mois"
+    }
+  },
+  {
+    "name": "Tomme aux Fleurs",
+    "scientific_name": "Tomme de montagne",
+    "glossary_term": "Fromage fleuri",
+    "category": "fromage",
+    "description": "Une tomme de montagne dont la croûte est recouverte de fleurs séchées (mauve, souci, bleuet). Les fleurs parfument délicatement la pâte.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La couverture florale doit être dense et colorée. La pâte doit être souple.",
+    "storage_guide": "Au frais. Manipuler avec soin pour ne pas détacher les fleurs.",
+    "prep_guide": "Magnifique sur un plateau de fromages, apporte une touche visuelle et printanière.",
+    "nutrition_info": "340 kcal/100g.",
+    "texture": "Souple et tendre.",
+    "image_filename": "tomme-fleurs.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "esthétique",
+      "apéritif"
+    ],
+    "tags": [
+      "fleurs",
+      "visuel",
+      "doux"
+    ],
+    "specific_data": {
+      "pays": "France / Autriche",
+      "type_lait": "Vache",
+      "famille": "Pâte pressée non cuite",
+      "region": "Alpes",
+      "affinage": "3 mois"
+    }
+  },
+  {
+    "name": "Ricotta di Bufala",
+    "scientific_name": "DOP Ricotta di Bufala Campana",
+    "glossary_term": "Fromage frais italien",
+    "category": "fromage",
+    "description": "Produite à partir du lactosérum de lait de bufflonne. Elle est beaucoup plus crémeuse et riche que la ricotta de vache classique.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Doit être d'un blanc neige, avec une texture fine et sans trop de liquide résiduel.",
+    "storage_guide": "Très périssable. À consommer dans les 48h après ouverture.",
+    "prep_guide": "Excellente nature avec un filet de miel, ou dans des pâtes fraîches haut de gamme.",
+    "nutrition_info": "210 kcal/100g.",
+    "texture": "Granuleuse, très fine et crémeuse.",
+    "image_filename": "ricotta-bufala.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "frais",
+      "cuisine"
+    ],
+    "tags": [
+      "italie",
+      "bufflonne",
+      "léger"
+    ],
+    "specific_data": {
+      "pays": "Italie",
+      "type_lait": "Bufflonne",
+      "famille": "Pâte fraîche",
+      "region": "Campanie",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Queso Blanco",
+    "scientific_name": "Queso Blanco",
+    "glossary_term": "Fromage frais latino",
+    "category": "fromage",
+    "description": "Fromage frais blanc typique d'Amérique latine. Il a la particularité de ramollir à la chaleur sans couler totalement.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Doit être ferme, blanc et avoir une odeur de lait frais acidulé.",
+    "storage_guide": "Au frais dans son petit-lait si possible.",
+    "prep_guide": "Se mange frais en salade, ou grillé à la poêle pour accompagner des arepas.",
+    "nutrition_info": "250 kcal/100g.",
+    "texture": "Ferme, un peu élastique et granuleuse.",
+    "image_filename": "queso-blanco.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "cuisine",
+      "frais"
+    ],
+    "tags": [
+      "amérique-latine",
+      "lacté",
+      "grillé"
+    ],
+    "specific_data": {
+      "pays": "Amérique latine",
+      "type_lait": "Vache",
+      "famille": "Pâte fraîche",
+      "region": "Diverse",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Fromage fondu type process",
+    "scientific_name": "Fromage fondu",
+    "glossary_term": "Fromage industriel",
+    "category": "fromage",
+    "description": "Produit transformé à base de fromage, crème et sels de fonte. Connu pour sa texture extrêmement lisse et sa conservation longue.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Vérifier la liste des ingrédients (privilégier ceux avec le plus de vrai fromage).",
+    "storage_guide": "Se conserve longtemps au frais, parfois même hors frigo selon le traitement.",
+    "prep_guide": "Idéal pour les tartines d'enfants ou pour des sauces burgers ultra-lisses.",
+    "nutrition_info": "240 kcal/100g, souvent riche en sodium.",
+    "texture": "Crémeuse, lisse et élastique.",
+    "image_filename": "fromage-fondu-process.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "enfant",
+      "pratique"
+    ],
+    "tags": [
+      "industriel",
+      "doux",
+      "tartinable"
+    ],
+    "specific_data": {
+      "pays": "International",
+      "type_lait": "Vache",
+      "famille": "Pâte fondue",
+      "region": "N/A",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Skyr",
+    "scientific_name": "Skyr",
+    "glossary_term": "Spécialité islandaise",
+    "category": "fromage",
+    "description": "Techniquement un fromage très frais bien qu'utilisé comme un yaourt. Très riche en protéines et naturellement sans matières grasses.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Choisir 'Nature' pour éviter les sucres ajoutés. La texture doit être beaucoup plus dense qu'un yaourt classique.",
+    "storage_guide": "Toujours au réfrigérateur.",
+    "prep_guide": "Au petit-déjeuner avec des baies et du granola, ou en remplacement de la crème dans les sauces.",
+    "nutrition_info": "65 kcal/100g, riche en protéines (10%).",
+    "texture": "Épaisse, onctueuse et ferme.",
+    "image_filename": "skyr.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "santé",
+      "petit-déjeuner"
+    ],
+    "tags": [
+      "islande",
+      "protéines",
+      "maigre"
+    ],
+    "specific_data": {
+      "pays": "Islande",
+      "type_lait": "Vache (écrémé)",
+      "famille": "Pâte fraîche",
+      "region": "Islande",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Quark",
+    "scientific_name": "Speisequark",
+    "glossary_term": "Fromage blanc allemand",
+    "category": "fromage",
+    "description": "Fromage frais très répandu dans les pays germaniques et d'Europe du Nord. Texture entre le fromage blanc et la ricotta.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Existe en différents taux de matière grasse (Magerquark est le plus maigre).",
+    "storage_guide": "Au frais. Bien refermer après usage.",
+    "prep_guide": "Base du célèbre Cheesecake allemand (Käsekuchen).",
+    "nutrition_info": "70 à 150 kcal/100g selon la teneur en gras.",
+    "texture": "Lisse, humide et légèrement granuleuse.",
+    "image_filename": "quark.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "cuisine",
+      "pâtisserie"
+    ],
+    "tags": [
+      "allemagne",
+      "frais",
+      "polyvalent"
+    ],
+    "specific_data": {
+      "pays": "Allemagne",
+      "type_lait": "Vache",
+      "famille": "Pâte fraîche",
+      "region": "Europe Centrale",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Labneh",
+    "scientific_name": "Labneh",
+    "glossary_term": "Yaourt égoutté",
+    "category": "fromage",
+    "description": "Spécialité du Moyen-Orient obtenue en égouttant du yaourt. On obtient un fromage frais, crémeux et acidulé.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Privilégier les versions à l'huile d'olive (en boules) pour une conservation traditionnelle.",
+    "storage_guide": "Au frais. Couvrir d'huile d'olive pour prolonger la conservation.",
+    "prep_guide": "Servir en mezze avec du zaatar, de l'huile d'olive et du pain pita chaud.",
+    "nutrition_info": "160 kcal/100g.",
+    "texture": "Crémeuse à ferme (si très égoutté).",
+    "image_filename": "labneh.webp",
+    "variant_images": [
+      "labneh-boules.webp"
+    ],
+    "functional_categories": [
+      "mezze",
+      "frais"
+    ],
+    "tags": [
+      "liban",
+      "acidulé",
+      "santé"
+    ],
+    "specific_data": {
+      "pays": "Liban / Syrie",
+      "type_lait": "Vache ou Chèvre",
+      "famille": "Pâte fraîche",
+      "region": "Moyen-Orient",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Mascarpone",
+    "scientific_name": "Mascarpone",
+    "glossary_term": "Crème de fromage",
+    "category": "fromage",
+    "description": "Plus proche d'une crème épaisse que d'un fromage, il est obtenu par coagulation de la crème. Ultra-riche et onctueux.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La couleur doit être ivoire, sans liquide en surface. L'odeur doit être celle de la crème fraîche.",
+    "storage_guide": "Très périssable. Absorbe les odeurs du frigo, donc bien refermer.",
+    "prep_guide": "Ingrédient indispensable du Tiramisu ou pour enrichir des sauces de pâtes.",
+    "nutrition_info": "450 kcal/100g, extrêmement riche en lipides.",
+    "texture": "Lisse, épaisse et très veloutée.",
+    "image_filename": "mascarpone.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "pâtisserie",
+      "cuisine"
+    ],
+    "tags": [
+      "italie",
+      "riche",
+      "onctueux"
+    ],
+    "specific_data": {
+      "pays": "Italie",
+      "type_lait": "Vache (Crème)",
+      "famille": "Pâte fraîche",
+      "region": "Lombardie",
+      "affinage": "Aucun"
+    }
+  }
+]

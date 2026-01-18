@@ -1,0 +1,610 @@
+[
+  {
+    "name": "Blanc de poulet",
+    "scientific_name": "Pectoralis major",
+    "glossary_term": "Suprême (si avec peau et manchon)",
+    "category": "volaille",
+    "description": "Muscle de poitrine du poulet. C'est la partie la plus maigre et la plus demandée pour sa rapidité de cuisson.",
+    "buying_guide": "La chair doit être rosée, bombée et reprendre sa forme après une légère pression du doigt.",
+    "storage_guide": "2 à 3 jours au réfrigérateur dans la partie la plus froide.",
+    "prep_guide": "Poêlé, grillé ou poché. Attention : une cuisson trop longue le dessèche rapidement.",
+    "nutrition_info": "Environ 110 kcal/100g. Très riche en protéines (23%) et pauvre en graisses.",
+    "texture": "Tendre, dense et filandreuse.",
+    "image_filename": "blanc-poulet.webp",
+    "variant_images": [
+      "filet-poulet.webp",
+      "supreme-poulet.webp"
+    ],
+    "functional_categories": [
+      "grillade",
+      "rapide",
+      "maigre"
+    ],
+    "tags": [
+      "poulet",
+      "tendre",
+      "polyvalent"
+    ],
+    "specific_data": {
+      "animal": "Poulet",
+      "emplacement": "Poitrine",
+      "cuisson_ideale": "À cœur (65-70°C)",
+      "caracteristiques": "Peut être vendu avec ou sans peau"
+    }
+  },
+  {
+    "name": "Cuisses de poulet",
+    "scientific_name": "Iliotibialis latialis",
+    "glossary_term": "Quartier arrière",
+    "category": "volaille",
+    "description": "Comprend le haut de cuisse et le pilon. C'est une viande plus brune et plus juteuse que le blanc grâce à sa teneur en collagène.",
+    "buying_guide": "La peau doit être bien adhérente et ne pas présenter de taches brunes ou de brûlures de congélation.",
+    "storage_guide": "2 à 3 jours au réfrigérateur.",
+    "prep_guide": "Idéal pour le rôtissage ou les plats mijotés (tajines, coq au vin). Supporte mieux les cuissons longues que le blanc.",
+    "nutrition_info": "Plus riche en fer et en zinc que le blanc.",
+    "texture": "Moelleuse, fondante et légèrement grasse.",
+    "image_filename": "cuisses-poulet.webp",
+    "variant_images": [
+      "pilon-poulet.webp",
+      "haut-de-cuisse.webp"
+    ],
+    "functional_categories": [
+      "rôti",
+      "mijoté"
+    ],
+    "tags": [
+      "juteux",
+      "classique",
+      "os"
+    ],
+    "specific_data": {
+      "animal": "Poulet",
+      "emplacement": "Membre postérieur",
+      "cuisson_ideale": "Bien cuit (75°C à l'os)",
+      "caracteristiques": "Le gras se trouve principalement sous la peau"
+    }
+  },
+  {
+    "name": "Sot-l'y-laisse",
+    "scientific_name": "Iliacus",
+    "glossary_term": "Médaillon de volaille",
+    "category": "volaille",
+    "description": "Deux petits morceaux de chair très tendre situés de chaque côté de la colonne vertébrale, au-dessus du croupion. 'Seul un sot laisse ce morceau' sans le manger.",
+    "buying_guide": "Souvent vendus séparément en barquettes. Ils doivent être bien charnus et brillants.",
+    "storage_guide": "2 jours maximum au frais.",
+    "prep_guide": "Poêlé rapidement avec un peu de beurre ou confit. C'est le 'filet mignon' de la volaille.",
+    "nutrition_info": "Équilibré entre protéines et lipides.",
+    "texture": "D'une finesse et d'une tendreté exceptionnelles.",
+    "image_filename": "sot-ly-laisse.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "poêlé",
+      "gastronomie"
+    ],
+    "tags": [
+      "rare",
+      "tendre",
+      "gourmet"
+    ],
+    "specific_data": {
+      "animal": "Poulet / Dinde",
+      "emplacement": "Dos, près du croupion",
+      "cuisson_ideale": "Sauté",
+      "caracteristiques": "Morceau très prisé des chefs"
+    }
+  },
+  {
+    "name": "Ailes de poulet",
+    "scientific_name": "Humerus / Radius",
+    "glossary_term": "Ailerons / Wings",
+    "category": "volaille",
+    "description": "Composées de trois segments (le manchon, l'aileron et la pointe). Très riches en peau et en cartilage.",
+    "buying_guide": "Vérifier que les pointes ne sont pas desséchées.",
+    "storage_guide": "1 à 2 jours au réfrigérateur.",
+    "prep_guide": "Parfaites pour le snacking : frites, marinées ou grillées au barbecue.",
+    "nutrition_info": "Riche en collagène, calorique si consommées avec la peau frite.",
+    "texture": "Peu de chair, mais très savoureuse et croustillante.",
+    "image_filename": "ailes-poulet.webp",
+    "variant_images": [
+      "wings-bbq.webp"
+    ],
+    "functional_categories": [
+      "grillade",
+      "apéritif"
+    ],
+    "tags": [
+      "snacking",
+      "frit",
+      "barbecue"
+    ],
+    "specific_data": {
+      "animal": "Poulet",
+      "emplacement": "Membre antérieur",
+      "cuisson_ideale": "Bien doré / Croustillant",
+      "caracteristiques": "Le manchon est la partie la plus charnue"
+    }
+  },
+  {
+    "name": "Magret de canard",
+    "scientific_name": "Pectoralis major (Anas platyrhynchos)",
+    "glossary_term": "Filet de canard gras",
+    "category": "volaille",
+    "description": "Poitrine d'un canard ayant été élevé pour le foie gras. Se distingue du simple 'filet' par son épaisseur et sa couche de gras.",
+    "buying_guide": "La chair doit être rouge sang (proche du bœuf) et la graisse bien blanche et épaisse.",
+    "storage_guide": "3 jours au frais. Se conserve très bien sous vide.",
+    "prep_guide": "Quadriller la peau au couteau, démarrer la cuisson à froid côté peau pour faire fondre le gras.",
+    "nutrition_info": "Riche en acides gras mono-insaturés (bon gras) et en fer.",
+    "texture": "Dense, juteuse et très parfumée.",
+    "image_filename": "magret-canard.webp",
+    "variant_images": [
+      "magret-fume.webp"
+    ],
+    "functional_categories": [
+      "poêlé",
+      "gourmet"
+    ],
+    "tags": [
+      "rouge",
+      "gras-noble",
+      "sud-ouest"
+    ],
+    "specific_data": {
+      "animal": "Canard",
+      "emplacement": "Poitrine",
+      "cuisson_ideale": "Rosé",
+      "caracteristiques": "Considéré comme une viande rouge en cuisine"
+    }
+  },
+  {
+    "name": "Cœur de volaille",
+    "scientific_name": "Cor",
+    "glossary_term": "Abat de volaille",
+    "category": "volaille",
+    "description": "Petit muscle ferme et énergique. Très consommé en brochettes dans de nombreuses cultures.",
+    "buying_guide": "Doit être d'un rouge vif, ferme et sans excès de sang coagulé.",
+    "storage_guide": "1 à 2 jours au frais.",
+    "prep_guide": "Sauté à la poêle avec de l'ail et du persil ou en brochettes grillées.",
+    "nutrition_info": "Très riche en fer et en protéines, peu gras si paré.",
+    "texture": "Ferme, élastique et croquante.",
+    "image_filename": "coeur-poulet.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "abats",
+      "grillade"
+    ],
+    "tags": [
+      "fer",
+      "économique",
+      "brochette"
+    ],
+    "specific_data": {
+      "animal": "Poulet / Canard",
+      "emplacement": "Cavité thoracique",
+      "cuisson_ideale": "Saisi rapidement",
+      "caracteristiques": "Goût de viande concentré"
+    }
+  },
+  {
+    "name": "Gésier",
+    "scientific_name": "Ventriculus",
+    "glossary_term": "Abat blanc",
+    "category": "volaille",
+    "description": "Partie de l'estomac de la volaille, muscle très puissant utilisé pour broyer les aliments.",
+    "buying_guide": "Souvent vendus déjà 'nettoyés'. Si crus, ils doivent être fermes et de couleur rose/violet.",
+    "storage_guide": "2 jours au frais.",
+    "prep_guide": "Doit être nettoyé de sa membrane interne. Idéal confit dans la graisse de canard pour les salades landaises.",
+    "nutrition_info": "Très maigre et riche en minéraux.",
+    "texture": "Ferme et croquante (cru) ou fondante (confit).",
+    "image_filename": "gesier-canard.webp",
+    "variant_images": [
+      "salade-landaise.webp"
+    ],
+    "functional_categories": [
+      "abats",
+      "confit"
+    ],
+    "tags": [
+      "confit",
+      "salade",
+      "terroir"
+    ],
+    "specific_data": {
+      "animal": "Poulet / Canard / Oie",
+      "emplacement": "Appareil digestif",
+      "cuisson_ideale": "Confitage lent",
+      "caracteristiques": "Nécessite une cuisson longue s'il n'est pas paré"
+    }
+  },
+  {
+    "name": "Foie de volaille",
+    "scientific_name": "Hepar",
+    "glossary_term": "Foie blond (si gras)",
+    "category": "volaille",
+    "description": "Abat rouge très riche. Le foie de poulet est quotidien, tandis que le foie de canard ou d'oie peut être 'gras'.",
+    "buying_guide": "Doit être brillant, de couleur uniforme et sans taches de fiel (vertes).",
+    "storage_guide": "À consommer le jour même de l'achat.",
+    "prep_guide": "Poêlé rapidement (doit rester rosé) ou utilisé pour faire des terrines et mousses.",
+    "nutrition_info": "Exceptionnelle teneur en vitamine A et B12.",
+    "texture": "Très tendre, crémeuse et fondante.",
+    "image_filename": "foie-poulet.webp",
+    "variant_images": [
+      "mousse-foie-volaille.webp"
+    ],
+    "functional_categories": [
+      "abats",
+      "terrine"
+    ],
+    "tags": [
+      "vitamines",
+      "fondant",
+      "entrée"
+    ],
+    "specific_data": {
+      "animal": "Poulet / Canard",
+      "emplacement": "Abdomen",
+      "cuisson_ideale": "Rosé",
+      "caracteristiques": "Base de la mousse de foie"
+    }
+  },
+  {
+    "name": "Croupion",
+    "scientific_name": "Pygostyle",
+    "glossary_term": "Le 'pape' (en anglais)",
+    "category": "volaille",
+    "description": "Extrémité postérieure de la volaille où se trouvent les plumes de la queue. Partie très grasse.",
+    "buying_guide": "Souvent laissé sur la carcasse entière, mais peut être acheté à part.",
+    "storage_guide": "2 jours au frais.",
+    "prep_guide": "Grillé jusqu'à ce qu'il soit très croustillant. Très apprécié en Asie en brochettes.",
+    "nutrition_info": "Très riche en graisses saturées.",
+    "texture": "Très grasse et croustillante après cuisson.",
+    "image_filename": "croupion-poulet.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "grillade",
+      "snacking"
+    ],
+    "tags": [
+      "gras",
+      "croustillant",
+      "insolite"
+    ],
+    "specific_data": {
+      "animal": "Poulet / Dinde",
+      "emplacement": "Extrémité arrière",
+      "cuisson_ideale": "Grillé",
+      "caracteristiques": "Contient la glande uropygienne"
+    }
+  },
+  {
+    "name": "Pattes de poulet",
+    "scientific_name": "Tarsometatarsus",
+    "glossary_term": "Abat blanc",
+    "category": "volaille",
+    "description": "Extrémités inférieures, composées de peau, de tendons et de cartilages. Très populaires en cuisine asiatique.",
+    "buying_guide": "Doivent être bien nettoyées, sans taches noires (brûlures d'ammoniac).",
+    "storage_guide": "2 à 3 jours au frais.",
+    "prep_guide": "Braisées, frites ou utilisées pour enrichir les bouillons en gélatine.",
+    "nutrition_info": "Riches en collagène, bénéfiques pour la peau et les articulations.",
+    "texture": "Gélatineuse et cartilagineuse.",
+    "image_filename": "pattes-poulet.webp",
+    "variant_images": [
+      "dim-sum-pattes.webp"
+    ],
+    "functional_categories": [
+      "abats",
+      "bouillon"
+    ],
+    "tags": [
+      "gélatine",
+      "asie",
+      "insolite"
+    ],
+    "specific_data": {
+      "animal": "Poulet",
+      "emplacement": "Extrémités",
+      "cuisson_ideale": "Braisé",
+      "caracteristiques": "Donne un corps incroyable aux sauces"
+    }
+  },
+  {
+    "name": "Filet de Dinde",
+    "scientific_name": "Meleagris gallopavo",
+    "glossary_term": "Escalope de dinde",
+    "category": "volaille",
+    "description": "Muscle de la poitrine de la dinde. C'est la viande la plus maigre du marché, très appréciée en nutrition sportive.",
+    "buying_guide": "La chair doit être très claire, presque translucide, et bien humide sans être collante.",
+    "storage_guide": "2 jours au réfrigérateur. S'oxyde plus vite que le poulet.",
+    "prep_guide": "À poêler ou à rôtir. Supporte très bien les marinades pour éviter le dessèchement à la cuisson.",
+    "nutrition_info": "Environ 105 kcal/100g. Record de teneur en protéines pour une viande blanche.",
+    "texture": "Ferme, dense et très peu fibreuse.",
+    "image_filename": "filet-dinde.webp",
+    "variant_images": [
+      "escalope-dinde.webp"
+    ],
+    "functional_categories": [
+      "maigre",
+      "sportif",
+      "rapide"
+    ],
+    "tags": [
+      "dinde",
+      "protéines",
+      "léger"
+    ],
+    "specific_data": {
+      "animal": "Dinde",
+      "emplacement": "Poitrine",
+      "cuisson_ideale": "À cœur (70°C)",
+      "caracteristiques": "Absence totale de gras"
+    }
+  },
+  {
+    "name": "Suprême de Pintade",
+    "scientific_name": "Numida meleagris",
+    "glossary_term": "Blanc de pintade avec manchon",
+    "category": "volaille",
+    "description": "Le blanc de la pintade avec sa peau et le premier joint de l'aile. Offre un goût plus sauvage et typé que le poulet.",
+    "buying_guide": "La peau doit être jaune et bien tendue. La chair est naturellement plus foncée que celle du poulet.",
+    "storage_guide": "3 jours au frais.",
+    "prep_guide": "Rôtir côté peau pour la rendre croustillante. Se marie parfaitement avec des fruits (raisins, pommes).",
+    "nutrition_info": "Riche en magnésium et vitamines du groupe B.",
+    "texture": "Ferme et très juteuse sous la peau.",
+    "image_filename": "supreme-pintade.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "gastronomie",
+      "rôti"
+    ],
+    "tags": [
+      "pintade",
+      "caractère",
+      "terroir"
+    ],
+    "specific_data": {
+      "animal": "Pintade",
+      "emplacement": "Poitrine",
+      "cuisson_ideale": "Rosé à cœur",
+      "caracteristiques": "Saveur intermédiaire entre poulet et gibier"
+    }
+  },
+  {
+    "name": "Cuisse de Canard confite",
+    "scientific_name": "Anas platyrhynchos",
+    "glossary_term": "Confit de canard",
+    "category": "volaille",
+    "description": "Cuisse de canard cuite lentement dans sa propre graisse. Une spécialité emblématique du Sud-Ouest.",
+    "buying_guide": "Si achetée en conserve, la graisse doit être figée et bien blanche. La viande doit se détacher de l'os.",
+    "storage_guide": "Plusieurs mois en conserve ou sous vide au frais.",
+    "prep_guide": "Réchauffer au four côté peau pour la dorer ou effilocher pour un parmentier.",
+    "nutrition_info": "Calorique, mais riche en bons acides gras insaturés.",
+    "texture": "Extrêmement fondante et fibreuse.",
+    "image_filename": "confit-canard.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "conserve",
+      "tradition"
+    ],
+    "tags": [
+      "sud-ouest",
+      "gras-noble",
+      "fondant"
+    ],
+    "specific_data": {
+      "animal": "Canard",
+      "emplacement": "Cuisse",
+      "cuisson_ideale": "Grillé (peau)",
+      "caracteristiques": "Mode de conservation ancestral"
+    }
+  },
+  {
+    "name": "Chapon entier",
+    "scientific_name": "Gallus gallus domesticus",
+    "glossary_term": "Volaille de fête",
+    "category": "volaille",
+    "description": "Jeune coq castré et engraissé. Sa chair est d'une tendreté supérieure grâce au gras intramusculaire développé.",
+    "buying_guide": "Rechercher le label AOP (Chapon de Bresse). La peau doit être fine et nacrée.",
+    "storage_guide": "4 à 5 jours au frais.",
+    "prep_guide": "Poché puis rôti lentement au four pour une chair d'un moelleux incomparable.",
+    "nutrition_info": "Riche en lipides, mais d'une grande densité nutritionnelle.",
+    "texture": "Beurrée, fondante et très fine.",
+    "image_filename": "chapon-entier.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "fêtes",
+      "prestige"
+    ],
+    "tags": [
+      "exception",
+      "moelleux",
+      "noël"
+    ],
+    "specific_data": {
+      "animal": "Poulet (mâle castré)",
+      "emplacement": "Entier",
+      "cuisson_ideale": "Rôtissage basse température",
+      "caracteristiques": "Poids élevé (3 à 5kg)"
+    }
+  },
+  {
+    "name": "Gigue de Chevreuil",
+    "scientific_name": "Capreolus capreolus",
+    "glossary_term": "Cuisse de chevreuil",
+    "category": "gibier",
+    "description": "La cuisse arrière du chevreuil. C'est le morceau le plus imposant et le plus tendre du petit gibier à poil.",
+    "buying_guide": "La viande doit être rouge brun mais pas noire. L'odeur doit être boisée et non forte.",
+    "storage_guide": "2 à 3 jours au frais. Supporte très bien la congélation.",
+    "prep_guide": "À rôtir entière ou en pavés. Éviter les marinades trop longues qui masqueraient la finesse du goût.",
+    "nutrition_info": "Très maigre, riche en fer et potassium.",
+    "texture": "Fine, tendre et serrée.",
+    "image_filename": "gigue-chevreuil.webp",
+    "variant_images": [
+      "pave-chevreuil.webp"
+    ],
+    "functional_categories": [
+      "gibier",
+      "rôti"
+    ],
+    "tags": [
+      "maigre",
+      "forêt",
+      "noble"
+    ],
+    "specific_data": {
+      "animal": "Chevreuil",
+      "emplacement": "Membre postérieur",
+      "cuisson_ideale": "Rosé",
+      "caracteristiques": "Goût de sous-bois délicat"
+    }
+  },
+  {
+    "name": "Civet de Sanglier",
+    "scientific_name": "Sus scrofa",
+    "glossary_term": "Épaule ou collier de sanglier",
+    "category": "gibier",
+    "description": "Morceaux de l'avant du sanglier, riches en collagène, parfaits pour les cuissons longues en sauce.",
+    "buying_guide": "Viande rouge très foncé, presque pourpre. Le gras est très ferme.",
+    "storage_guide": "4 jours au frais.",
+    "prep_guide": "Mariner 24h au vin rouge corsé avant de faire mijoter 3 à 4 heures.",
+    "nutrition_info": "Moins gras que le porc domestique, riche en phosphore.",
+    "texture": "Ferme au départ, devient fondante et onctueuse.",
+    "image_filename": "civet-sanglier.webp",
+    "variant_images": [
+      "daube-sanglier.webp"
+    ],
+    "functional_categories": [
+      "gibier",
+      "mijoté"
+    ],
+    "tags": [
+      "puissant",
+      "vin-rouge",
+      "caractère"
+    ],
+    "specific_data": {
+      "animal": "Sanglier",
+      "emplacement": "Épaule / Cou",
+      "cuisson_ideale": "Mijotage long",
+      "caracteristiques": "Saveur très sauvage"
+    }
+  },
+  {
+    "name": "Pavé de Cerf",
+    "scientific_name": "Cervus elaphus",
+    "glossary_term": "Noix de cerf",
+    "category": "gibier",
+    "description": "Découpé dans le filet ou la gigue, c'est le morceau de choix pour apprécier la tendreté du grand gibier.",
+    "buying_guide": "La viande doit avoir un grain très lisse et ne présenter aucun nerf.",
+    "storage_guide": "2 à 3 jours au frais.",
+    "prep_guide": "Poêlé comme un steak de bœuf. Se marie divinement avec des sauces aux fruits rouges.",
+    "nutrition_info": "Exceptionnellement riche en protéines (25%) et fer.",
+    "texture": "Très tendre, proche du filet de bœuf mais plus dense.",
+    "image_filename": "pave-cerf.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "gibier",
+      "grillade"
+    ],
+    "tags": [
+      "prestige",
+      "maigre",
+      "puissant"
+    ],
+    "specific_data": {
+      "animal": "Cerf",
+      "emplacement": "Dos ou Cuisse",
+      "cuisson_ideale": "Saignant",
+      "caracteristiques": "Viande de grand gibier la plus noble"
+    }
+  },
+  {
+    "name": "Râble de Lièvre",
+    "scientific_name": "Lepus europaeus",
+    "glossary_term": "Dos de lièvre",
+    "category": "gibier",
+    "description": "Partie allant des côtes jusqu'à la queue. C'est le morceau le plus charnu et le plus prisé du lièvre.",
+    "buying_guide": "Doit être bien rebondi. La viande est d'un rouge très sombre, presque noir.",
+    "storage_guide": "2 jours maximum au frais.",
+    "prep_guide": "Rôti entier au four ou levé en filets. Ne pas trop cuire pour éviter que le goût ne devienne trop fort.",
+    "nutrition_info": "Viande très riche en fer, saveur sanguine.",
+    "texture": "Fine, serrée et d'une grande tendreté.",
+    "image_filename": "rable-lievre.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "gibier",
+      "gastronomie"
+    ],
+    "tags": [
+      "sanguin",
+      "fin",
+      "rare"
+    ],
+    "specific_data": {
+      "animal": "Lièvre",
+      "emplacement": "Dos",
+      "cuisson_ideale": "Rosé",
+      "caracteristiques": "Goût beaucoup plus fort que le lapin"
+    }
+  },
+  {
+    "name": "Faisan entier",
+    "scientific_name": "Phasianus colchicus",
+    "glossary_term": "Gibier à plumes",
+    "category": "gibier",
+    "description": "Oiseau de chasse à la chair fine. On distingue le coq (plus gros) de la poule (plus tendre).",
+    "buying_guide": "Éviter les sujets trop vieux (ergots longs). La peau doit être intacte.",
+    "storage_guide": "3 jours au frais. Le faisandage (maturation) n'est plus recommandé aujourd'hui.",
+    "prep_guide": "Souvent bardé de lard car sa chair est naturellement sèche. Idéal en terrine ou braisé.",
+    "nutrition_info": "Maigre et riche en sélénium.",
+    "texture": "Ferme, grain fin.",
+    "image_filename": "faisan.webp",
+    "variant_images": [
+      "terrine-faisan.webp"
+    ],
+    "functional_categories": [
+      "gibier",
+      "rôti"
+    ],
+    "tags": [
+      "plume",
+      "tradition",
+      "chasse"
+    ],
+    "specific_data": {
+      "animal": "Faisan",
+      "emplacement": "Entier",
+      "cuisson_ideale": "À point",
+      "caracteristiques": "Nécessite souvent d'être arrosé durant la cuisson"
+    }
+  },
+  {
+    "name": "Caille entière",
+    "scientific_name": "Coturnix coturnix",
+    "glossary_term": "Petit gibier à plumes",
+    "category": "gibier",
+    "description": "Le plus petit des gibiers à plumes. Chair délicate, souvent issue d'élevage aujourd'hui.",
+    "buying_guide": "Choisir des cailles bien charnues, peau jaune clair.",
+    "storage_guide": "2 jours au frais.",
+    "prep_guide": "Rôties, farcies ou crapaudines (ouvertes en deux). Cuisson rapide (15-20 min).",
+    "nutrition_info": "Riche en phosphore, peu calorique.",
+    "texture": "Tendre, fine et très juteuse.",
+    "image_filename": "caille.webp",
+    "variant_images": [
+      "cailles-aux-raisins.webp"
+    ],
+    "functional_categories": [
+      "gastronomie",
+      "rapide"
+    ],
+    "tags": [
+      "délicat",
+      "fêtes",
+      "petit"
+    ],
+    "specific_data": {
+      "animal": "Caille",
+      "emplacement": "Entier",
+      "cuisson_ideale": "À point",
+      "caracteristiques": "Une caille par personne"
+    }
+  }
+]

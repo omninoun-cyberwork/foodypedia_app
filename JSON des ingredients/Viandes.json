@@ -1,0 +1,1192 @@
+[
+  {
+    "name": "Filet",
+    "scientific_name": "Psoas major",
+    "glossary_term": "Pièce noble",
+    "category": "viande",
+    "description": "Situé le long de la colonne vertébrale, c'est le muscle le moins sollicité de l'animal, ce qui lui confère une finesse incomparable.",
+    "buying_guide": "Doit être d'un rouge brillant, avec un grain de viande très fin. Éviter s'il présente un aspect poisseux.",
+    "storage_guide": "À consommer très rapidement (2-3 jours) ou à conserver sous vide.",
+    "prep_guide": "Idéal pour les Chateaubriand, les tournedos ou en tartare. Cuisson rapide recommandée.",
+    "nutrition_info": "Très maigre, riche en protéines de haute valeur biologique.",
+    "texture": "Extrêmement tendre et fondante.",
+    "image_filename": "filet-boeuf.webp",
+    "variant_images": [
+      "tournedos.webp"
+    ],
+    "functional_categories": [
+      "grillade",
+      "prestige"
+    ],
+    "tags": [
+      "tendre",
+      "maigre",
+      "noble"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Partie interne du dos, sous la colonne",
+      "cuisson_ideale": "Saignant ou bleu",
+      "caracteristiques": "Peu gras"
+    }
+  },
+  {
+    "name": "Faux-filet",
+    "scientific_name": "Longissimus dorsi",
+    "glossary_term": "Contre-filet",
+    "category": "viande",
+    "description": "Muscle du dos qui borde le filet. Il est plus savoureux que le filet grâce à son léger persillage.",
+    "buying_guide": "Rechercher une fine bordure de gras extérieur qui nourrira la viande à la cuisson.",
+    "storage_guide": "Au réfrigérateur dans son emballage d'origine, 3 à 4 jours maximum.",
+    "prep_guide": "Grillé ou poêlé. Penser à entailler légèrement le gras pour éviter que la viande ne se rétracte.",
+    "nutrition_info": "Moyennement gras, riche en fer et zinc.",
+    "texture": "Ferme et juteuse.",
+    "image_filename": "faux-filet.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "grillade",
+      "classique"
+    ],
+    "tags": [
+      "goûteux",
+      "persillé",
+      "dos"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Dos, près de l’échine",
+      "cuisson_ideale": "À point ou saignant",
+      "caracteristiques": "Légèrement persillé"
+    }
+  },
+  {
+    "name": "Entrecôte",
+    "scientific_name": "Longissimus thoracis",
+    "glossary_term": "Noix d'entrecôte",
+    "category": "viande",
+    "description": "Malgré son nom, ce n'est pas un morceau entre les côtes, mais le même muscle que le faux-filet, situé dans la partie haute du dos.",
+    "buying_guide": "Le persillage (gras intramusculaire) est la clé : il doit être bien visible pour garantir la jutosité.",
+    "storage_guide": "Se conserve 3 jours au frais.",
+    "prep_guide": "Saisir à feu vif sans ajouter trop de matière grasse, le persillage suffit.",
+    "nutrition_info": "Plus calorique que le filet, excellente source de vitamines B12.",
+    "texture": "Juteuse et tendre.",
+    "image_filename": "entrecote.webp",
+    "variant_images": [
+      "cote-de-boeuf.webp"
+    ],
+    "functional_categories": [
+      "grillade",
+      "terroir"
+    ],
+    "tags": [
+      "persillé",
+      "juteux",
+      "savoureux"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Côte, entre le collier et le filet",
+      "cuisson_ideale": "Saignant",
+      "caracteristiques": "Riche en gras intramusculaire"
+    }
+  },
+  {
+    "name": "Paleron",
+    "scientific_name": "Infraspinatus",
+    "glossary_term": "Muscle de l'épaule",
+    "category": "viande",
+    "description": "Situé au niveau de l'omoplate, ce morceau est traversé en son milieu par un nerf (collagène) qui devient gélatineux à la cuisson.",
+    "buying_guide": "La viande doit être bien rouge et le nerf central bien blanc.",
+    "storage_guide": "4 jours au réfrigérateur.",
+    "prep_guide": "Idéal pour les plats mijotés comme le pot-au-feu ou le bœuf bourguignon. Peut être grillé si le nerf est retiré.",
+    "nutrition_info": "Riche en collagène, bénéfique pour les articulations.",
+    "texture": "Moelleuse après une cuisson longue.",
+    "image_filename": "paleron.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "mijoté",
+      "économique"
+    ],
+    "tags": [
+      "gélatineux",
+      "épaule",
+      "fondant"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Épaule (omoplate)",
+      "cuisson_ideale": "Braiser ou bouillir",
+      "caracteristiques": "Traversé par une bande gélatineuse"
+    }
+  },
+  {
+    "name": "Rumsteck",
+    "scientific_name": "Gluteus medius",
+    "glossary_term": "Cœur de rumsteck",
+    "category": "viande",
+    "description": "Partie noble de la cuisse, c'est un morceau de premier choix pour les amateurs de viande rouge tendre et peu grasse.",
+    "buying_guide": "La viande doit avoir un grain serré et une couleur rouge sombre.",
+    "storage_guide": "2 à 3 jours au frais.",
+    "prep_guide": "À griller, à rôtir ou à préparer en brochettes.",
+    "nutrition_info": "Faible en lipides, très riche en fer.",
+    "texture": "Tendre avec une légère mâche.",
+    "image_filename": "rumsteck.webp",
+    "variant_images": [
+      "pave-rumsteck.webp"
+    ],
+    "functional_categories": [
+      "grillade",
+      "rôti"
+    ],
+    "tags": [
+      "tendre",
+      "maigre",
+      "cuisse"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Arrière de la cuisse",
+      "cuisson_ideale": "Bleu ou saignant",
+      "caracteristiques": "Idéal pour les sportifs"
+    }
+  },
+  {
+    "name": "Bavette d'Aloyau",
+    "scientific_name": "Obliquus abdominis",
+    "glossary_term": "Viande à fibres",
+    "category": "viande",
+    "description": "Morceau situé sur le flanc, caractérisé par ses fibres longues et sa saveur très prononcée.",
+    "buying_guide": "Les fibres doivent être bien visibles et la viande doit avoir un aspect 'chevelu'.",
+    "storage_guide": "3 jours au réfrigérateur.",
+    "prep_guide": "Saisir rapidement à feu très vif. Toujours couper perpendiculairement aux fibres pour la tendreté.",
+    "nutrition_info": "Riche en fer et en minéraux.",
+    "texture": "Fibreuse mais très tendre si bien coupée.",
+    "image_filename": "bavette.webp",
+    "variant_images": [
+      "bavette-echalote.webp"
+    ],
+    "functional_categories": [
+      "grillade",
+      "bistrot"
+    ],
+    "tags": [
+      "fibreux",
+      "goûteux",
+      "flanc"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Flanc, bas de l’abdomen",
+      "cuisson_ideale": "Saignant",
+      "caracteristiques": "Goût de fer marqué"
+    }
+  },
+  {
+    "name": "Hampe",
+    "scientific_name": "Diaphragme (partie périphérique)",
+    "glossary_term": "Pièce du boucher",
+    "category": "viande",
+    "description": "Morceau de 'noble extraction' faisant partie des pièces du boucher. Très recherché pour sa saveur sanguine.",
+    "buying_guide": "Souvent vendue avec une fine peau qu'il faut retirer. La viande doit être d'un rouge très foncé.",
+    "storage_guide": "2 jours maximum, s'oxyde vite.",
+    "prep_guide": "Cuisson ultra-rapide à la poêle. Ne pas trop cuire sous peine de durcissement.",
+    "nutrition_info": "Très riche en hémoglobine.",
+    "texture": "Fibreuse et très juteuse.",
+    "image_filename": "hampe.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "grillade",
+      "expert"
+    ],
+    "tags": [
+      "sanguin",
+      "rare",
+      "puissant"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Attaché aux côtes, près du diaphragme",
+      "cuisson_ideale": "Bleu ou saignant",
+      "caracteristiques": "Goût très typé"
+    }
+  },
+  {
+    "name": "Plat de côtes",
+    "scientific_name": "Serratus ventralis",
+    "glossary_term": "Viande à bouillir",
+    "category": "viande",
+    "description": "Ensemble des muscles couvrant les côtes. C'est une viande entrelardée qui donne beaucoup de goût aux bouillons.",
+    "buying_guide": "Choisir un morceau alternant bien les couches de chair et de gras.",
+    "storage_guide": "4 à 5 jours au frais.",
+    "prep_guide": "Base du pot-au-feu. Doit cuire au moins 3 heures à frémissement.",
+    "nutrition_info": "Assez gras, mais le gras est essentiel pour la saveur du bouillon.",
+    "texture": "Ferme puis s'effiloche après cuisson.",
+    "image_filename": "plat-de-cotes.webp",
+    "variant_images": [
+      "short-ribs.webp"
+    ],
+    "functional_categories": [
+      "mijoté",
+      "bouillon"
+    ],
+    "tags": [
+      "gras",
+      "savoureux",
+      "hiver"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Partie basse des côtes",
+      "cuisson_ideale": "Mijotage long",
+      "caracteristiques": "Indispensable au pot-au-feu"
+    }
+  },
+  {
+    "name": "Jarret (Gîte)",
+    "scientific_name": "Extensor/Flexor",
+    "glossary_term": "Jarret arrière",
+    "category": "viande",
+    "description": "Muscle situé autour des os de la jambe. Très riche en tissus conjonctifs, parfait pour les cuissons lentes.",
+    "buying_guide": "Doit être brillant. S'il est vendu avec l'os, la moelle doit être bien blanche.",
+    "storage_guide": "3 jours au réfrigérateur.",
+    "prep_guide": "Cuisson lente obligatoire. C'est le morceau roi de l'Osso Buco ou du pot-au-feu.",
+    "nutrition_info": "Riche en gélatine, pauvre en cholestérol une fois dégraissé.",
+    "texture": "Gélatineuse et fondante après cuisson.",
+    "image_filename": "jarret-boeuf.webp",
+    "variant_images": [
+      "osso-buco.webp"
+    ],
+    "functional_categories": [
+      "mijoté",
+      "tradition"
+    ],
+    "tags": [
+      "gélatineux",
+      "moelle",
+      "fondant"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Bas des pattes",
+      "cuisson_ideale": "Braiser",
+      "caracteristiques": "Apporte du liant aux sauces"
+    }
+  },
+  {
+    "name": "Araignée",
+    "scientific_name": "Obturator internus",
+    "glossary_term": "Pièce du boucher",
+    "category": "viande",
+    "description": "Petit muscle de forme irrégulière dont les fibres rappellent une toile d'araignée. Morceau très rare (2 par animal).",
+    "buying_guide": "Rarement en étal, demandez-la à votre boucher. Elle doit être parfaitement parée.",
+    "storage_guide": "1 à 2 jours maximum.",
+    "prep_guide": "Sauter rapidement à la poêle. Un délice de tendreté.",
+    "nutrition_info": "Viande maigre et riche en protéines.",
+    "texture": "D'une tendreté exceptionnelle, très juteuse.",
+    "image_filename": "araignee-boeuf.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "grillade",
+      "expert"
+    ],
+    "tags": [
+      "rare",
+      "tendre",
+      "boucher"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Cuisse (bassin)",
+      "cuisson_ideale": "Saignant",
+      "caracteristiques": "Appelée gendarme dans certaines régions"
+    }
+  },
+  {
+    "name": "Onglet",
+    "scientific_name": "Diaphragme (partie centrale)",
+    "glossary_term": "Pièce du boucher",
+    "category": "viande",
+    "description": "Considéré comme l'un des morceaux les plus savoureux. C'est une 'viande rouge' par excellence, très riche en sang et en goût.",
+    "buying_guide": "La viande doit être sombre et d'un aspect brillant. Elle doit être bien parée de sa membrane centrale par le boucher.",
+    "storage_guide": "Se conserve 2 jours maximum au réfrigérateur.",
+    "prep_guide": "Saisir très vite à feu vif. Se consomme impérativement bleu ou saignant pour ne pas durcir.",
+    "nutrition_info": "Excellente source de fer biodisponible.",
+    "texture": "Longues fibres, très tendre et juteuse.",
+    "image_filename": "onglet-boeuf.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "grillade",
+      "expert"
+    ],
+    "tags": [
+      "sanguin",
+      "savoureux",
+      "noble"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Accroché à la colonne vertébrale",
+      "cuisson_ideale": "Saignant",
+      "caracteristiques": "Goût de terroir prononcé"
+    }
+  },
+  {
+    "name": "Macreuse",
+    "scientific_name": "Triceps brachii",
+    "glossary_term": "Macreuse à pot-au-feu",
+    "category": "viande",
+    "description": "Morceau de l'épaule, la macreuse est une viande dite 'longue' qui demande une cuisson lente pour révéler sa saveur.",
+    "buying_guide": "Choisir la macreuse à bifteck (noix) pour griller, ou la macreuse à pot-au-feu pour mijoter.",
+    "storage_guide": "3 à 4 jours au frais.",
+    "prep_guide": "Idéale pour les ragoûts, braisés ou le bœuf mode.",
+    "nutrition_info": "Riche en collagène, favorise l'onctuosité des sauces.",
+    "texture": "Ferme au départ, devient fondante après mijotage.",
+    "image_filename": "macreuse.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "mijoté",
+      "économique"
+    ],
+    "tags": [
+      "épaule",
+      "collagène",
+      "tradition"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Épaule, partie supérieure",
+      "cuisson_ideale": "Braiser",
+      "caracteristiques": "Viande peu grasse mais gélatineuse"
+    }
+  },
+  {
+    "name": "Aiguillette Baronne",
+    "scientific_name": "Tensor fasciae latae",
+    "glossary_term": "Morceau du quartier arrière",
+    "category": "viande",
+    "description": "Petit morceau long et plat situé sur la face interne de la cuisse. C'est une pièce méconnue mais délicieuse.",
+    "buying_guide": "Ressemble à une petite bavette. La chair doit être fine et de couleur rouge vif.",
+    "storage_guide": "2 à 3 jours au réfrigérateur.",
+    "prep_guide": "Peut être rôtie entière ou coupée en fines tranches pour être poêlée rapidement.",
+    "nutrition_info": "Morceau très maigre, idéal pour les régimes hypocaloriques.",
+    "texture": "Grain de viande fin, très tendre.",
+    "image_filename": "aiguillette-baronne.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "rôti",
+      "grillade"
+    ],
+    "tags": [
+      "maigre",
+      "méconnu",
+      "tendre"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Cuisse, près du rumsteck",
+      "cuisson_ideale": "À point",
+      "caracteristiques": "Souvent confondue avec l'aiguillette de rumsteck"
+    }
+  },
+  {
+    "name": "Jumeau",
+    "scientific_name": "Supraspinatus",
+    "glossary_term": "Jumeau à pot-au-feu",
+    "category": "viande",
+    "description": "Situé dans l'épaule, juste à côté du paleron. C'est un morceau longiligne parfait pour les plats en sauce.",
+    "buying_guide": "La viande doit être bien ferme. On distingue le jumeau à bifteck (plus tendre) du jumeau à pot-au-feu.",
+    "storage_guide": "3 jours au frais.",
+    "prep_guide": "Exige une cuisson longue et douce dans un liquide (vin, bouillon).",
+    "nutrition_info": "Source importante de vitamines du groupe B.",
+    "texture": "Fibreuse et moelleuse après cuisson.",
+    "image_filename": "jumeau-boeuf.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "mijoté",
+      "bouillon"
+    ],
+    "tags": [
+      "épaule",
+      "mijoter",
+      "classique"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Épaule, partie avant",
+      "cuisson_ideale": "Bouillir ou Braiser",
+      "caracteristiques": "Donne un excellent gélatineux"
+    }
+  },
+  {
+    "name": "Queue de Bœuf",
+    "scientific_name": "Vertèbres caudales",
+    "glossary_term": "Viande d'os",
+    "category": "viande",
+    "description": "Composée d'os entourés de chair charnue et gélatineuse. C'est l'un des morceaux les plus parfumés de l'animal.",
+    "buying_guide": "Vérifier que les tronçons sont bien charnus et que le gras environnant est bien blanc.",
+    "storage_guide": "3 jours au frais. Supporte très bien la congélation.",
+    "prep_guide": "Doit mijoter très longtemps. La chair doit se détacher toute seule de l'os.",
+    "nutrition_info": "Très riche en gélatine, excellente pour les fonds de sauce.",
+    "texture": "Onctueuse, filandreuse et fondante.",
+    "image_filename": "queue-boeuf.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "mijoté",
+      "soupe"
+    ],
+    "tags": [
+      "gélatineux",
+      "goût-intense",
+      "os"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Extrémité de la colonne vertébrale",
+      "cuisson_ideale": "Mijotage (4h+)",
+      "caracteristiques": "Indispensable pour le pot-au-feu"
+    }
+  },
+  {
+    "name": "Poitrine",
+    "scientific_name": "Pectoralis",
+    "glossary_term": "Gros bout",
+    "category": "viande",
+    "description": "Partie ventrale de l'animal, composée de muscles, de gras et de cartilage. Un morceau très populaire pour le barbecue (Brisket).",
+    "buying_guide": "Doit présenter une belle alternance de viande et de gras.",
+    "storage_guide": "Jusqu'à 4 jours au réfrigérateur.",
+    "prep_guide": "Longue cuisson au four ou au fumoir (BBQ). Peut aussi être salée pour faire du pastrami.",
+    "nutrition_info": "Morceau gras, mais très riche en saveur.",
+    "texture": "Tendre et juteuse si cuite lentement.",
+    "image_filename": "poitrine-boeuf.webp",
+    "variant_images": [
+      "brisket.webp"
+    ],
+    "functional_categories": [
+      "bbq",
+      "mijoté"
+    ],
+    "tags": [
+      "gras",
+      "fumage",
+      "fondant"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Bas du thorax",
+      "cuisson_ideale": "Braiser ou Fumer",
+      "caracteristiques": "Morceau de base du Brisket américain"
+    }
+  },
+  {
+    "name": "Merlan",
+    "scientific_name": "Adductor",
+    "glossary_term": "Pièce du boucher",
+    "category": "viande",
+    "description": "Petit muscle situé dans la cuisse. Sa forme rappelle celle du poisson éponyme. C'est une pièce très rare.",
+    "buying_guide": "Souvent réservé par les bouchers pour leurs meilleurs clients. Grain de viande très fin.",
+    "storage_guide": "2 jours maximum.",
+    "prep_guide": "À poêler très rapidement. Ne supporte pas la surcuisson.",
+    "nutrition_info": "Très maigre.",
+    "texture": "D'une tendreté comparable au filet.",
+    "image_filename": "merlan-boeuf.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "grillade",
+      "expert"
+    ],
+    "tags": [
+      "rare",
+      "tendre",
+      "cuisse"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Face interne de la cuisse",
+      "cuisson_ideale": "Saignant",
+      "caracteristiques": "Une des quatre pièces du boucher"
+    }
+  },
+  {
+    "name": "Poire",
+    "scientific_name": "Pectineus",
+    "glossary_term": "Pièce du boucher",
+    "category": "viande",
+    "description": "Petit muscle charnu et bombé en forme de poire. C'est un morceau d'une finesse extrême.",
+    "buying_guide": "La chair doit être d'un rouge éclatant et très lisse.",
+    "storage_guide": "1 à 2 jours au frais.",
+    "prep_guide": "Idéal pour les fondues bourguignonnes, les brochettes ou les biftecks minute.",
+    "nutrition_info": "Riche en protéines, pauvre en graisses saturées.",
+    "texture": "Fondante et délicate.",
+    "image_filename": "poire-boeuf.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "grillade",
+      "fondue"
+    ],
+    "tags": [
+      "tendre",
+      "noble",
+      "petit-morceau"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Cuisse, au-dessus de l'araignée",
+      "cuisson_ideale": "Bleu ou Saignant",
+      "caracteristiques": "Très apprécié en gastronomie"
+    }
+  },
+  {
+    "name": "Basse-côte",
+    "scientific_name": "Serratus dorsalis",
+    "glossary_term": "Côte à griller",
+    "category": "viande",
+    "description": "Située entre le collier et l'entrecôte. C'est une viande persillée et très savoureuse, souvent plus abordable que l'entrecôte.",
+    "buying_guide": "Choisir un morceau bien entrelardé de blanc.",
+    "storage_guide": "3 jours au réfrigérateur.",
+    "prep_guide": "Peut être grillée si elle est de bonne qualité, ou mijotée pour un résultat ultra-moelleux.",
+    "nutrition_info": "Assez calorique, riche en fer.",
+    "texture": "Moelleuse et juteuse.",
+    "image_filename": "basse-cote.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "grillade",
+      "mijoté"
+    ],
+    "tags": [
+      "persillé",
+      "goûteux",
+      "polyvalent"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Haut du dos, avant l'entrecôte",
+      "cuisson_ideale": "À point",
+      "caracteristiques": "Excellent rapport qualité/prix"
+    }
+  },
+  {
+    "name": "Collier",
+    "scientific_name": "Muscles cervicaux",
+    "glossary_term": "Cou de bœuf",
+    "category": "viande",
+    "description": "Morceau du cou, très sollicité et donc très riche en saveurs. C'est une viande économique et rustique.",
+    "buying_guide": "Vendu souvent paré ou en gros cubes pour ragoût. La chair doit être bien rouge.",
+    "storage_guide": "3 à 4 jours au frais.",
+    "prep_guide": "Nécessite une cuisson très longue pour attendrir les fibres musclées.",
+    "nutrition_info": "Riche en minéraux et oligo-éléments.",
+    "texture": "Ferme au grain grossier, devient très savoureuse après mijotage.",
+    "image_filename": "collier-boeuf.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "mijoté",
+      "soupe"
+    ],
+    "tags": [
+      "économique",
+      "puissant",
+      "rustique"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Encolure",
+      "cuisson_ideale": "Braiser",
+      "caracteristiques": "Parfait pour le bourguignon"
+    }
+  },
+  {
+    "name": "Rond de gîte",
+    "scientific_name": "Semitendinosus",
+    "glossary_term": "Pièce de la cuisse",
+    "category": "viande",
+    "description": "Un muscle long et cylindrique situé à l'arrière de la cuisse. C'est une viande très maigre avec un grain régulier.",
+    "buying_guide": "La pièce doit être bien ronde et de couleur rouge uniforme. Très peu de gras visible.",
+    "storage_guide": "3 jours au réfrigérateur.",
+    "prep_guide": "Idéal pour le rosbif s'il est barde de gras, ou coupé en fines tranches pour des carpaccios.",
+    "nutrition_info": "L'un des morceaux les plus maigres du bœuf.",
+    "texture": "Ferme et serrée.",
+    "image_filename": "rond-de-gite.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "rôti",
+      "froid"
+    ],
+    "tags": [
+      "maigre",
+      "classique",
+      "cuisse"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Cuisse (arrière)",
+      "cuisson_ideale": "Rôti saignant",
+      "caracteristiques": "Parfait pour les charcuteries type Bresaola"
+    }
+  },
+  {
+    "name": "Tranche grasse",
+    "scientific_name": "Rectus femoris",
+    "glossary_term": "Grosse pièce à bifteck",
+    "category": "viande",
+    "description": "Malgré son nom, ce n'est pas un morceau gras. C'est un ensemble de muscles de la cuisse très polyvalents.",
+    "buying_guide": "Doit avoir un bel aspect brillant. On y distingue souvent plusieurs muscles (le tende de tranche, l'araignée, etc.).",
+    "storage_guide": "3 jours au frais.",
+    "prep_guide": "Idéal pour les biftecks, les fondues ou les rôtis. Peut aussi être utilisé pour les braisés rapides.",
+    "nutrition_info": "Riche en protéines et fer.",
+    "texture": "Tendre avec un grain de viande moyen.",
+    "image_filename": "tranche-grasse.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "grillade",
+      "rôti"
+    ],
+    "tags": [
+      "polyvalent",
+      "maigre",
+      "cuisse"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Cuisse (partie interne)",
+      "cuisson_ideale": "Saignant",
+      "caracteristiques": "Morceau volumineux et économique"
+    }
+  },
+  {
+    "name": "Côte première",
+    "scientific_name": "Longissimus dorsi (Rib 6-12)",
+    "glossary_term": "Belle côte",
+    "category": "viande",
+    "description": "Située juste après les basses-côtes, elle possède un bel os et une noix de viande très tendre.",
+    "buying_guide": "L'os doit être bien blanc et la viande bien persillée autour de la noix centrale.",
+    "storage_guide": "3 à 4 jours au frais sous papier boucher.",
+    "prep_guide": "Le morceau roi du barbecue ou du rôti au four. Saisir puis laisser reposer.",
+    "nutrition_info": "Riche en graisses mono-insaturées (goût).",
+    "texture": "Fondante et persillée.",
+    "image_filename": "cote-premiere.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "grillade",
+      "prestige"
+    ],
+    "tags": [
+      "os",
+      "noble",
+      "barbecue"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Milieu du dos",
+      "cuisson_ideale": "Saignant",
+      "caracteristiques": "Moins grasse que la côte seconde"
+    }
+  },
+  {
+    "name": "Gîte à la noix",
+    "scientific_name": "Biceps femoris",
+    "glossary_term": "Pièce à braiser",
+    "category": "viande",
+    "description": "Situé dans la partie arrière de la cuisse, c'est un morceau charnu souvent utilisé pour les préparations dominicales.",
+    "buying_guide": "Doit être bien paré. La chair est d'un rouge plus soutenu que le filet.",
+    "storage_guide": "3 jours au réfrigérateur.",
+    "prep_guide": "Excellent en bœuf mode ou en ragoût. Demande une cuisson lente pour ne pas être trop ferme.",
+    "nutrition_info": "Source de zinc et de sélénium.",
+    "texture": "Fibreuse et dense.",
+    "image_filename": "gite-a-la-noix.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "mijoté",
+      "tranches"
+    ],
+    "tags": [
+      "tradition",
+      "cuisse",
+      "fondant"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Cuisse (arrière)",
+      "cuisson_ideale": "Braiser",
+      "caracteristiques": "Souvent confondu avec le jarret"
+    }
+  },
+  {
+    "name": "Gigot d'agneau",
+    "scientific_name": "Membrum pelvinum",
+    "glossary_term": "Pièce de fête",
+    "category": "viande",
+    "description": "Le membre postérieur de l'agneau. C'est la pièce la plus célèbre et la plus noble pour les repas de Pâques.",
+    "buying_guide": "La chair doit être rose pâle, le gras bien blanc et ferme. Éviter la viande trop rouge (animal trop vieux).",
+    "storage_guide": "3 à 4 jours au frais. Se congèle très bien entier.",
+    "prep_guide": "Rôti au four avec de l'ail et du romarin. Laisser reposer après cuisson pour détendre les fibres.",
+    "nutrition_info": "Riche en protéines et vitamines B12.",
+    "texture": "Tendre, serrée et juteuse.",
+    "image_filename": "gigot-agneau.webp",
+    "variant_images": [
+      "gigot-tranches.webp"
+    ],
+    "functional_categories": [
+      "rôti",
+      "fêtes"
+    ],
+    "tags": [
+      "agneau",
+      "noble",
+      "tradition"
+    ],
+    "specific_data": {
+      "animal": "Ovin",
+      "emplacement": "Cuisse arrière",
+      "cuisson_ideale": "Rosé",
+      "caracteristiques": "Peut être vendu 'raccourci' ou entier"
+    }
+  },
+  {
+    "name": "Souris d'agneau",
+    "scientific_name": "Muscle du jarret arrière",
+    "glossary_term": "Morceau gélatineux",
+    "category": "viande",
+    "description": "Petit muscle de forme ovale situé en haut du manche du gigot. C'est l'un des morceaux les plus appréciés des gourmets.",
+    "buying_guide": "Doit être bien charnue autour de l'os central. L'aspect doit être brillant.",
+    "storage_guide": "2 à 3 jours au réfrigérateur.",
+    "prep_guide": "Confite pendant plusieurs heures au four ou en cocotte avec du miel et des épices.",
+    "nutrition_info": "Très riche en collagène.",
+    "texture": "Moelleuse, fondante et légèrement collante.",
+    "image_filename": "souris-agneau.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "mijoté",
+      "prestige"
+    ],
+    "tags": [
+      "confit",
+      "moelleux",
+      "gourmet"
+    ],
+    "specific_data": {
+      "animal": "Ovin",
+      "emplacement": "Extrémité du gigot",
+      "cuisson_ideale": "Mijotage long (3h+)",
+      "caracteristiques": "Se détache tout seul de l'os"
+    }
+  },
+  {
+    "name": "Épaule d'agneau",
+    "scientific_name": "Membrum thoracicum",
+    "glossary_term": "Morceau avant",
+    "category": "viande",
+    "description": "Moins chère que le gigot, l'épaule est plus grasse et donc plus savoureuse et moelleuse après cuisson.",
+    "buying_guide": "Peut être vendue entière, désossée et roulée, ou en cubes.",
+    "storage_guide": "3 jours au frais.",
+    "prep_guide": "Idéale pour le navarin d'agneau, le tajine ou rôtie lentement (épaule de 7 heures).",
+    "nutrition_info": "Plus calorique que le gigot.",
+    "texture": "Moelleuse et légèrement entrelardée.",
+    "image_filename": "epaule-agneau.webp",
+    "variant_images": [
+      "navarin-agneau.webp"
+    ],
+    "functional_categories": [
+      "mijoté",
+      "rôti"
+    ],
+    "tags": [
+      "savoureux",
+      "mijoter",
+      "polyvalent"
+    ],
+    "specific_data": {
+      "animal": "Ovin",
+      "emplacement": "Membre antérieur",
+      "cuisson_ideale": "Confite ou mijotée",
+      "caracteristiques": "Meilleur rapport saveur/prix"
+    }
+  },
+  {
+    "name": "Selle d'agneau",
+    "scientific_name": "Région lombaire",
+    "glossary_term": "Pièce du dos",
+    "category": "viande",
+    "description": "Partie haute de la cuisse, entre les côtes et le gigot. C'est une pièce très charnue et délicate.",
+    "buying_guide": "La graisse de couverture doit être fine et bien blanche.",
+    "storage_guide": "2 à 3 jours au frais.",
+    "prep_guide": "Souvent préparée en rôti désossé ou en noisettes poêlées.",
+    "nutrition_info": "Source de fer et de phosphore.",
+    "texture": "D'une tendreté exceptionnelle.",
+    "image_filename": "selle-agneau.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "rôti",
+      "noble"
+    ],
+    "tags": [
+      "tendre",
+      "dos",
+      "gastronomie"
+    ],
+    "specific_data": {
+      "animal": "Ovin",
+      "emplacement": "Bas du dos",
+      "cuisson_ideale": "Rosé",
+      "caracteristiques": "Équivalent du rumsteck chez le bœuf"
+    }
+  },
+  {
+    "name": "Couronne d'agneau",
+    "scientific_name": "Carré d'agneau courbé",
+    "glossary_term": "Présentation festive",
+    "category": "viande",
+    "description": "Il s'agit de deux carrés d'agneau attachés ensemble et formés en cercle. C'est une pièce spectaculaire sur une table.",
+    "buying_guide": "Les os doivent être bien 'manchonnés' (nettoyés) par le boucher.",
+    "storage_guide": "À consommer rapidement pour éviter que les os ne s'oxydent.",
+    "prep_guide": "Rôtie entière au four. On protège souvent le bout des os avec de l'aluminium.",
+    "nutrition_info": "Similaire aux côtes d'agneau.",
+    "texture": "Fine et fondante.",
+    "image_filename": "couronne-agneau.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "prestige",
+      "rôti"
+    ],
+    "tags": [
+      "esthétique",
+      "fêtes",
+      "carré"
+    ],
+    "specific_data": {
+      "animal": "Ovin",
+      "emplacement": "Dos (côtes)",
+      "cuisson_ideale": "Rosé",
+      "caracteristiques": "Nécessite un savoir-faire en boucherie"
+    }
+  },
+  {
+    "name": "Poitrine d'agneau",
+    "scientific_name": "Partie ventrale",
+    "glossary_term": "Morceau à braiser",
+    "category": "viande",
+    "description": "Morceau plat composé de muscles et de cartilages. C'est une pièce très grasse mais très parfumée.",
+    "buying_guide": "Doit présenter une belle épaisseur de chair malgré la présence des os.",
+    "storage_guide": "3 à 4 jours au frais.",
+    "prep_guide": "Souvent farcie, grillée au barbecue ou utilisée dans le navarin.",
+    "nutrition_info": "Morceau le plus gras de l'agneau.",
+    "texture": "Croquante (cartilages) et fondante.",
+    "image_filename": "poitrine-agneau.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "mijoté",
+      "bbq"
+    ],
+    "tags": [
+      "gras",
+      "économique",
+      "goût"
+    ],
+    "specific_data": {
+      "animal": "Ovin",
+      "emplacement": "Bas du thorax",
+      "cuisson_ideale": "Mijotée ou grillée",
+      "caracteristiques": "Donne beaucoup de liant aux sauces"
+    }
+  },
+  {
+    "name": "Côtelettes d'agneau",
+    "scientific_name": "Costae",
+    "glossary_term": "Côtes premières / secondes",
+    "category": "viande",
+    "description": "Petites tranches de viande attachées à une côte. On distingue les côtes premières (belle noix) et les côtes secondes (plus entrelardées).",
+    "buying_guide": "La chair doit être rosée, jamais rouge foncé. Le gras doit être bien blanc et ne pas coller aux doigts.",
+    "storage_guide": "2 jours maximum au réfrigérateur. Très sensibles à l'oxydation.",
+    "prep_guide": "Grillées rapidement ou sautées à la poêle avec du thym. Éviter la surcuisson pour garder le jus.",
+    "nutrition_info": "Source de zinc et de phosphore.",
+    "texture": "Fine, tendre et légèrement croustillante sur le gras.",
+    "image_filename": "cotelettes-agneau.webp",
+    "variant_images": [
+      "carre-agneau.webp"
+    ],
+    "functional_categories": [
+      "grillade",
+      "classique"
+    ],
+    "tags": [
+      "agneau",
+      "griller",
+      "rapide"
+    ],
+    "specific_data": {
+      "animal": "Ovin",
+      "emplacement": "Dos (carré)",
+      "cuisson_ideale": "Rosé",
+      "caracteristiques": "Morceau iconique du grill"
+    }
+  },
+  {
+    "name": "Filet d'agneau",
+    "scientific_name": "Longissimus dorsi (lombaire)",
+    "glossary_term": "Canon d'agneau",
+    "category": "viande",
+    "description": "Le muscle le plus tendre de l'animal, situé dans la région lombaire. C'est le pendant du filet de bœuf.",
+    "buying_guide": "Souvent vendu paré (sans aucun gras) sous le nom de 'canon'. La chair doit être d'une finesse absolue.",
+    "storage_guide": "2 jours au frais.",
+    "prep_guide": "À rôtir entier ou à couper en noisettes. Cuisson très courte recommandée.",
+    "nutrition_info": "Morceau le plus maigre de l'agneau.",
+    "texture": "Beurrée et fondante.",
+    "image_filename": "filet-agneau.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "noble",
+      "gastronomie"
+    ],
+    "tags": [
+      "tendre",
+      "maigre",
+      "prestige"
+    ],
+    "specific_data": {
+      "animal": "Ovin",
+      "emplacement": "Bas du dos",
+      "cuisson_ideale": "Rosé",
+      "caracteristiques": "Absence totale de tissus conjonctifs"
+    }
+  },
+  {
+    "name": "Ris (de veau ou d'agneau)",
+    "scientific_name": "Thymus",
+    "glossary_term": "Abat noble",
+    "category": "viande",
+    "description": "Glande située à l'entrée de la poitrine des jeunes animaux. C'est le plus raffiné des abats, très prisé en haute gastronomie.",
+    "buying_guide": "Doit être très frais, de couleur blanc crème. On distingue la 'pomme' (ronde) de la 'gorge' (allongée).",
+    "storage_guide": "À cuisiner le jour même de l'achat. Très fragile.",
+    "prep_guide": "Nécessite d'être dégorgé à l'eau froide, blanchi, puis débarrassé de sa membrane avant d'être poêlé au beurre.",
+    "nutrition_info": "Riche en purines et en vitamine C.",
+    "texture": "Moelleuse, délicate et d'une finesse incomparable.",
+    "image_filename": "ris-de-veau.webp",
+    "variant_images": [
+      "ris-agneau.webp"
+    ],
+    "functional_categories": [
+      "abats",
+      "prestige"
+    ],
+    "tags": [
+      "noble",
+      "délicat",
+      "gastronomie"
+    ],
+    "specific_data": {
+      "animal": "Bovin (jeune) / Ovin",
+      "emplacement": "Thorax / Gorge",
+      "cuisson_ideale": "Poêlé croustillant",
+      "caracteristiques": "Goût de noisette"
+    }
+  },
+  {
+    "name": "Foie",
+    "scientific_name": "Hepar",
+    "glossary_term": "Abat rouge",
+    "category": "viande",
+    "description": "Le foie de veau est le plus recherché pour sa finesse, suivi du foie d'agneau et de bœuf.",
+    "buying_guide": "Doit avoir une couleur uniforme, être brillant et ne pas présenter de taches.",
+    "storage_guide": "Consommer dans les 24h.",
+    "prep_guide": "Poêlé 'aller-retour' pour qu'il reste rosé à cœur. Trop cuit, il devient amer et granuleux.",
+    "nutrition_info": "La meilleure source naturelle de vitamine A et de fer.",
+    "texture": "Tendre, lisse et légèrement ferme.",
+    "image_filename": "foie-veau.webp",
+    "variant_images": [
+      "foie-boeuf.webp"
+    ],
+    "functional_categories": [
+      "abats",
+      "santé"
+    ],
+    "tags": [
+      "fer",
+      "vitamines",
+      "rapide"
+    ],
+    "specific_data": {
+      "animal": "Bovin / Ovin",
+      "emplacement": "Abdomen",
+      "cuisson_ideale": "Rosé",
+      "caracteristiques": "Goût métallique caractéristique"
+    }
+  },
+  {
+    "name": "Rognons",
+    "scientific_name": "Renes",
+    "glossary_term": "Abat rouge",
+    "category": "viande",
+    "description": "Les reins de l'animal. Le rognon de veau (lobé) est considéré comme le plus fin.",
+    "buying_guide": "Ils doivent être fermes, brillants, entourés d'une graisse bien blanche (graisse de rognon).",
+    "storage_guide": "24h au réfrigérateur.",
+    "prep_guide": "Sautés à la poêle ou flambés au Cognac. Important de retirer la partie nerveuse centrale.",
+    "nutrition_info": "Très riche en vitamines du groupe B.",
+    "texture": "Croquante au premier abord, puis tendre.",
+    "image_filename": "rognons-veau.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "abats",
+      "classique"
+    ],
+    "tags": [
+      "puissant",
+      "bistrot",
+      "ferme"
+    ],
+    "specific_data": {
+      "animal": "Bovin / Ovin",
+      "emplacement": "Lombes",
+      "cuisson_ideale": "Rosé",
+      "caracteristiques": "Le rognon de bœuf est plus fort en goût"
+    }
+  },
+  {
+    "name": "Langue",
+    "scientific_name": "Lingua",
+    "glossary_term": "Abat blanc (après cuisson)",
+    "category": "viande",
+    "description": "Muscle très dense et savoureux. La langue de bœuf est la plus courante, appréciée pour sa taille et sa texture.",
+    "buying_guide": "La muqueuse doit être saine. On l'achète souvent fraîche, salée ou fumée.",
+    "storage_guide": "3 à 4 jours au frais.",
+    "prep_guide": "Longue cuisson à l'eau bouillante (bouillon) pour pouvoir retirer la peau rugueuse.",
+    "nutrition_info": "Viande assez grasse mais riche en zinc.",
+    "texture": "Extrêmement fondante après une longue cuisson.",
+    "image_filename": "langue-boeuf.webp",
+    "variant_images": [
+      "langue-sauce-piquante.webp"
+    ],
+    "functional_categories": [
+      "abats",
+      "mijote"
+    ],
+    "tags": [
+      "fondant",
+      "tradition",
+      "économique"
+    ],
+    "specific_data": {
+      "animal": "Bovin / Ovin",
+      "emplacement": "Mâchoire",
+      "cuisson_ideale": "Bouillir (3h+)",
+      "caracteristiques": "Se consomme souvent avec une sauce Gribiche"
+    }
+  },
+  {
+    "name": "Cervelle",
+    "scientific_name": "Encephalon",
+    "glossary_term": "Abat noble",
+    "category": "viande",
+    "description": "Généralement de veau ou d'agneau. C'est un morceau d'une grande délicatesse, riche en lipides.",
+    "buying_guide": "Doit être très blanche, sans trop de vaisseaux sanguins visibles.",
+    "storage_guide": "À consommer immédiatement.",
+    "prep_guide": "Pochée dans un court-bouillon puis poêlée au beurre noisette avec des câpres.",
+    "nutrition_info": "Très riche en phosphore et en cholestérol.",
+    "texture": "Crémeuse, fondante et presque mousseuse.",
+    "image_filename": "cervelle-veau.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "abats",
+      "délicat"
+    ],
+    "tags": [
+      "rare",
+      "onctueux",
+      "gastronomie"
+    ],
+    "specific_data": {
+      "animal": "Bovin / Ovin",
+      "emplacement": "Crâne",
+      "cuisson_ideale": "Poché / Poêlé",
+      "caracteristiques": "Goût très beurré"
+    }
+  },
+  {
+    "name": "Cœur",
+    "scientific_name": "Cor",
+    "glossary_term": "Abat rouge",
+    "category": "viande",
+    "description": "Muscle pur, très ferme et très peu gras. Le cœur de bœuf est massif, celui d'agneau plus délicat.",
+    "buying_guide": "Doit être bien rouge sombre et ferme au toucher.",
+    "storage_guide": "2 jours au frais.",
+    "prep_guide": "À griller en tranches fines ou à mijoter longtemps pour l'attendrir.",
+    "nutrition_info": "Excellente source de Coenzyme Q10.",
+    "texture": "Ferme, dense et serrée.",
+    "image_filename": "coeur-boeuf.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "abats",
+      "économique"
+    ],
+    "tags": [
+      "maigre",
+      "muscle",
+      "ferme"
+    ],
+    "specific_data": {
+      "animal": "Bovin / Ovin",
+      "emplacement": "Thorax",
+      "cuisson_ideale": "Saignant ou Mijoté",
+      "caracteristiques": "Morceau le plus riche en protéines"
+    }
+  },
+  {
+    "name": "Pieds (de veau ou d'agneau)",
+    "scientific_name": "Extremitas",
+    "glossary_term": "Abat blanc",
+    "category": "viande",
+    "description": "Constitués principalement d'os, de peau et de tendons. Ils sont essentiels pour leur apport en gélatine.",
+    "buying_guide": "Doivent être bien nettoyés, blancs et sans poils.",
+    "storage_guide": "3 jours au frais.",
+    "prep_guide": "Longue cuisson pour libérer la gélatine. Utilisés pour lier des sauces ou dans les 'Pieds et Paquets'.",
+    "nutrition_info": "Très riche en collagène.",
+    "texture": "Gélatineuse et collante.",
+    "image_filename": "pieds-veau.webp",
+    "variant_images": [
+      "pieds-agneau.webp"
+    ],
+    "functional_categories": [
+      "abats",
+      "bouillon"
+    ],
+    "tags": [
+      "gélatine",
+      "tradition",
+      "liant"
+    ],
+    "specific_data": {
+      "animal": "Bovin / Ovin",
+      "emplacement": "Extrémité des pattes",
+      "cuisson_ideale": "Bouillir (longtemps)",
+      "caracteristiques": "Naturellement sans gras"
+    }
+  },
+  {
+    "name": "Tripes (Gras-double)",
+    "scientific_name": "Rumen / Reticulum",
+    "glossary_term": "Abat blanc",
+    "category": "viande",
+    "description": "Parties de l'estomac des ruminants. Elles sont vendues blanchies et nécessitent une très longue préparation.",
+    "buying_guide": "Doivent être d'un blanc éclatant (si blanchies) ou crème (si naturelles).",
+    "storage_guide": "3 jours au frais. Supportent très bien la congélation.",
+    "prep_guide": "Cuisinées à la mode de Caen (cidre et légumes) ou à la tomate. Cuisson de 12h à 24h.",
+    "nutrition_info": "Pauvre en lipides, riche en gélatine.",
+    "texture": "Moelleuse, élastique et alvéolée.",
+    "image_filename": "tripes.webp",
+    "variant_images": [
+      "gras-double.webp"
+    ],
+    "functional_categories": [
+      "abats",
+      "terroir"
+    ],
+    "tags": [
+      "tradition",
+      "mijoter",
+      "rustique"
+    ],
+    "specific_data": {
+      "animal": "Bovin",
+      "emplacement": "Estomac",
+      "cuisson_ideale": "Mijotage ultra-long",
+      "caracteristiques": "Incontournable des petits-déjeuners tripiers"
+    }
+  }
+]

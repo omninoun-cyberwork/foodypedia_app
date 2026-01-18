@@ -1,0 +1,1151 @@
+[
+  {
+    "name": "Ail",
+    "scientific_name": "Allium sativum",
+    "glossary_term": "Bulbe",
+    "category": "légume",
+    "description": "Condiment indispensable à bulbe composé de gousses, connu pour ses vertus médicinales et son arôme puissant.",
+    "seasonality": "Toute l'année (récolte en été)",
+    "buying_guide": "La tête doit être bien pleine, lourde et les gousses fermes.",
+    "storage_guide": "À l'abri de la lumière, dans un endroit sec et aéré.",
+    "prep_guide": "Éplucher la gousse, retirer le germe central si nécessaire pour la digestion.",
+    "nutrition_info": "149 kcal/100g, riche en sélénium et composés soufrés.",
+    "texture": "Croquante à cru, fondante après cuisson.",
+    "image_filename": "ail.webp",
+    "functional_categories": [
+      "condiment",
+      "santé"
+    ],
+    "tags": [
+      "essentiel",
+      "antibactérien"
+    ],
+    "specific_data": {
+      "famille_botanique": "Amaryllidaceae"
+    }
+  },
+  {
+    "name": "Artichaut",
+    "scientific_name": "Cynara scolymus",
+    "glossary_term": "Inflorescence",
+    "category": "légume",
+    "description": "Bouton floral dont on consomme la base des bractées (feuilles) et le réceptacle (cœur).",
+    "seasonality": "Mai à Septembre",
+    "buying_guide": "Les feuilles doivent être bien serrées, cassantes et d'un vert franc.",
+    "storage_guide": "Quelques jours au frais, la tige trempant dans l'eau.",
+    "prep_guide": "Couper la tige, parer le sommet et cuire à la vapeur ou à l'eau.",
+    "nutrition_info": "47 kcal/100g, riche en inuline (prébiotique) et potassium.",
+    "texture": "Chair fine et fondante (cœur), fibreuse (feuilles).",
+    "image_filename": "artichaut.webp",
+    "functional_categories": [
+      "entrée",
+      "détox"
+    ],
+    "tags": [
+      "printemps",
+      "foie"
+    ],
+    "specific_data": {
+      "famille_botanique": "Asteraceae"
+    }
+  },
+  {
+    "name": "Asperge",
+    "scientific_name": "Asparagus officinalis",
+    "glossary_term": "Turion",
+    "category": "légume",
+    "description": "Jeune pousse printanière déclinée en blanche, violette ou verte selon son exposition à la lumière.",
+    "seasonality": "Avril à Juin",
+    "buying_guide": "Tige droite, ferme et cassante, pointe bien serrée.",
+    "storage_guide": "Envelopper dans un linge humide, au frais (2-3 jours).",
+    "prep_guide": "Éplucher la base (sauf pour les vertes) et couper le pied dur.",
+    "nutrition_info": "20 kcal/100g, très diurétique.",
+    "texture": "Tendre et fondante après cuisson.",
+    "image_filename": "asperge.webp",
+    "functional_categories": [
+      "printemps",
+      "gastronomie"
+    ],
+    "tags": [
+      "délicat",
+      "diurétique"
+    ],
+    "specific_data": {
+      "famille_botanique": "Asparagaceae"
+    }
+  },
+  {
+    "name": "Betterave",
+    "scientific_name": "Beta vulgaris",
+    "glossary_term": "Racine",
+    "category": "légume",
+    "description": "Racine charnue à la couleur pourpre intense et au goût terreux très sucré.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Choisir ferme, avec une peau pas trop ridée.",
+    "storage_guide": "Au frais dans le bac à légumes.",
+    "prep_guide": "Consommer crue râpée ou cuite (vapeur, four).",
+    "nutrition_info": "43 kcal/100g, riche en antioxydants (bétalaïnes).",
+    "texture": "Croquante (crue) ou fondante (cuite).",
+    "image_filename": "betterave.webp",
+    "functional_categories": [
+      "couleur",
+      "santé"
+    ],
+    "tags": [
+      "terreux",
+      "racine"
+    ],
+    "specific_data": {
+      "famille_botanique": "Amaranthaceae"
+    }
+  },
+  {
+    "name": "Brocoli",
+    "scientific_name": "Brassica oleracea var. italica",
+    "glossary_term": "Chou",
+    "category": "légume",
+    "description": "Chou dont on consomme les fleurs immatures, réputé pour ses vertus protectrices.",
+    "seasonality": "Mai à Novembre",
+    "buying_guide": "Grains bien serrés, couleur vert bleuté, tige ferme.",
+    "storage_guide": "Au frais, dans un sac perforé (4-5 jours).",
+    "prep_guide": "Détailler en bouquets, rincer et cuire brièvement à la vapeur.",
+    "nutrition_info": "34 kcal/100g, champion en Vitamine C et K.",
+    "texture": "Tendre (fleurs) et croquante (tige).",
+    "image_filename": "brocoli.webp",
+    "functional_categories": [
+      "super-légume",
+      "vapeur"
+    ],
+    "tags": [
+      "santé",
+      "crucifère"
+    ],
+    "specific_data": {
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Carotte",
+    "scientific_name": "Daucus carota",
+    "glossary_term": "Racine",
+    "category": "légume",
+    "description": "Légume-racine emblématique, riche en carotène, apprécié pour sa polyvalence.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Ferme, de couleur vive, fanes bien vertes si présentes.",
+    "storage_guide": "Au frais. Retirer les fanes pour éviter qu'elles ne pompent l'humidité.",
+    "prep_guide": "Laver, brosser ou éplucher.",
+    "nutrition_info": "41 kcal/100g, record de Bêta-carotène.",
+    "texture": "Croquante et juteuse.",
+    "image_filename": "carotte.webp",
+    "functional_categories": [
+      "fondamental",
+      "enfant"
+    ],
+    "tags": [
+      "vitamine-a",
+      "polyvalent"
+    ],
+    "specific_data": {
+      "famille_botanique": "Apiaceae"
+    }
+  },
+  {
+    "name": "Céleri-rave",
+    "scientific_name": "Apium graveolens var. rapaceum",
+    "glossary_term": "Racine",
+    "category": "légume",
+    "description": "Boule brune et rugueuse cachant une chair blanche très parfumée.",
+    "seasonality": "Septembre à Mars",
+    "buying_guide": "Lourd, ferme, ne sonnant pas creux.",
+    "storage_guide": "Plusieurs semaines au frais.",
+    "prep_guide": "Peler généreusement la peau épaisse.",
+    "nutrition_info": "42 kcal/100g, riche en potassium.",
+    "texture": "Ferme et croquante, devient crémeuse en purée.",
+    "image_filename": "celeri-rave.webp",
+    "functional_categories": [
+      "hiver",
+      "purée"
+    ],
+    "tags": [
+      "parfumé",
+      "racine"
+    ],
+    "specific_data": {
+      "famille_botanique": "Apiaceae"
+    }
+  },
+  {
+    "name": "Chou-fleur",
+    "scientific_name": "Brassica oleracea var. botrytis",
+    "glossary_term": "Inflorescence",
+    "category": "légume",
+    "description": "Variété de chou dont le méristème floral forme une masse compacte blanche.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Tête bien blanche, sans taches brunes, feuilles fraîches.",
+    "storage_guide": "Au frais (2-3 jours).",
+    "prep_guide": "Retirer les feuilles, détailler en fleurettes.",
+    "nutrition_info": "25 kcal/100g, riche en Vitamine C et fibres.",
+    "texture": "Croquante crue, fondante cuite.",
+    "image_filename": "chou-fleur.webp",
+    "functional_categories": [
+      "famille",
+      "vapeur"
+    ],
+    "tags": [
+      "crucifère",
+      "blanc"
+    ],
+    "specific_data": {
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Concombre",
+    "scientific_name": "Cucumis sativus",
+    "glossary_term": "Fruit-légume",
+    "category": "légume",
+    "description": "Légume d'été gorgé d'eau, symbole de fraîcheur.",
+    "seasonality": "Mai à Septembre",
+    "buying_guide": "Ferme sur toute sa longueur, peau lisse et d'un vert uniforme.",
+    "storage_guide": "Bac à légumes du frigo (environ 1 semaine).",
+    "prep_guide": "Laver, peler (optionnel), retirer les graines si nécessaire.",
+    "nutrition_info": "15 kcal/100g, ultra hydratant.",
+    "texture": "Croquante et aqueuse.",
+    "image_filename": "concombre.webp",
+    "functional_categories": [
+      "été",
+      "hydratation"
+    ],
+    "tags": [
+      "frais",
+      "salade"
+    ],
+    "specific_data": {
+      "famille_botanique": "Cucurbitaceae"
+    }
+  },
+  {
+    "name": "Daikon",
+    "scientific_name": "Raphanus sativus var. longipinnatus",
+    "glossary_term": "Radis blanc",
+    "category": "légume",
+    "description": "Grand radis blanc asiatique au goût plus doux et moins piquant que le radis rouge.",
+    "seasonality": "Octobre à Mars",
+    "buying_guide": "Peau lisse, bien ferme et lourd pour sa taille.",
+    "storage_guide": "Au frais dans un sac perforé.",
+    "prep_guide": "Peler comme une carotte, se consomme cru, râpé ou cuit en ragoût.",
+    "nutrition_info": "18 kcal/100g, riche en enzymes digestives.",
+    "texture": "Croquante et juteuse.",
+    "image_filename": "daikon.webp",
+    "functional_categories": [
+      "exotique",
+      "digestion"
+    ],
+    "tags": [
+      "asie",
+      "racine"
+    ],
+    "specific_data": {
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Échalote",
+    "scientific_name": "Allium cepa aggregatum",
+    "glossary_term": "Bulbe",
+    "category": "légume",
+    "description": "Condiment plus fin et sucré que l'oignon, base de la gastronomie française.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Bulbe ferme, sans germe apparent et peau brillante.",
+    "storage_guide": "Lieu sec, frais et sombre.",
+    "prep_guide": "Ciseler finement pour les sauces ou rôtir entière.",
+    "nutrition_info": "72 kcal/100g, riche en antioxydants.",
+    "texture": "Ferme, devient fondante et caramélisée à la cuisson.",
+    "image_filename": "echalote.webp",
+    "functional_categories": [
+      "condiment",
+      "gastronomie"
+    ],
+    "tags": [
+      "essentiel",
+      "saveur"
+    ],
+    "specific_data": {
+      "famille_botanique": "Amaryllidaceae"
+    }
+  },
+  {
+    "name": "Endive",
+    "scientific_name": "Cichorium intybus",
+    "glossary_term": "Chicon",
+    "category": "légume",
+    "description": "Pousse blanche et jaune issue de la racine de chicorée, cultivée à l'obscurité.",
+    "seasonality": "Octobre à Mai",
+    "buying_guide": "Feuilles bien serrées, bordure jaune clair (si vert, elle est trop amère).",
+    "storage_guide": "Dans le bac à légumes, à l'abri de la lumière pour éviter le verdissement.",
+    "prep_guide": "Retirer le petit cône à la base (source d'amertume).",
+    "nutrition_info": "17 kcal/100g, très légère et riche en sélénium.",
+    "texture": "Croquante à cru, fondante après cuisson.",
+    "image_filename": "endive.webp",
+    "functional_categories": [
+      "hiver",
+      "salade"
+    ],
+    "tags": [
+      "nord",
+      "léger"
+    ],
+    "specific_data": {
+      "famille_botanique": "Asteraceae"
+    }
+  },
+  {
+    "name": "Épinard",
+    "scientific_name": "Spinacia oleracea",
+    "glossary_term": "Légume-feuille",
+    "category": "légume",
+    "description": "Feuilles vertes tendres, célèbres pour leur apport en fer (bien que modéré) et vitamines.",
+    "seasonality": "Mars à Juin / Septembre à Novembre",
+    "buying_guide": "Feuilles d'un vert profond, charnues et non flétries.",
+    "storage_guide": "Très fragile, consommer sous 48h.",
+    "prep_guide": "Équeuter les grandes feuilles, rincer abondamment pour retirer le sable.",
+    "nutrition_info": "23 kcal/100g, riche en Vitamine B9 et Fer.",
+    "texture": "Souple, réduit énormément à la cuisson.",
+    "image_filename": "epinard.webp",
+    "functional_categories": [
+      "santé",
+      "vapeur"
+    ],
+    "tags": [
+      "fer",
+      "vitalité"
+    ],
+    "specific_data": {
+      "famille_botanique": "Amaranthaceae"
+    }
+  },
+  {
+    "name": "Fenouil",
+    "scientific_name": "Foeniculum vulgare",
+    "glossary_term": "Bulbe",
+    "category": "légume",
+    "description": "Légume méditerranéen au goût anisé caractéristique, dont on consomme le bulbe blanc.",
+    "seasonality": "Mai à Novembre",
+    "buying_guide": "Bulbe bien blanc, ferme, sans taches, avec des plumets verts frais.",
+    "storage_guide": "Bac à légumes (environ 1 semaine).",
+    "prep_guide": "Retirer les tiges dures et la base, trancher finement.",
+    "nutrition_info": "31 kcal/100g, excellentes vertus digestives.",
+    "texture": "Croquante à cru, fondante après cuisson.",
+    "image_filename": "fenouil.webp",
+    "functional_categories": [
+      "digestion",
+      "méditerranéen"
+    ],
+    "tags": [
+      "anisé",
+      "frais"
+    ],
+    "specific_data": {
+      "famille_botanique": "Apiaceae"
+    }
+  },
+  {
+    "name": "Fève",
+    "scientific_name": "Vicia faba",
+    "glossary_term": "Légumineuse",
+    "category": "légume",
+    "description": "Grosse graine plate contenue dans une cosse, emblématique du printemps.",
+    "seasonality": "Avril à Juillet",
+    "buying_guide": "Cosse bien verte, ferme, avec des graines pas trop grosses.",
+    "storage_guide": "Dans sa cosse au frais (2-3 jours).",
+    "prep_guide": "Écosser, puis retirer la peau épaisse de chaque fève après blanchiment.",
+    "nutrition_info": "88 kcal/100g, riche en protéines végétales.",
+    "texture": "Farineuse et douce.",
+    "image_filename": "feve.webp",
+    "functional_categories": [
+      "printemps",
+      "protéines"
+    ],
+    "tags": [
+      "terroir",
+      "frais"
+    ],
+    "specific_data": {
+      "famille_botanique": "Fabaceae"
+    }
+  },
+  {
+    "name": "Gombo",
+    "scientific_name": "Abelmoschus esculentus",
+    "glossary_term": "Okra",
+    "category": "légume",
+    "description": "Petit légume vert pyramidal utilisé pour sa capacité à épaissir les sauces (mucilage).",
+    "seasonality": "Juillet à Septembre",
+    "buying_guide": "Petit (plus tendre), ferme et sans taches noires.",
+    "storage_guide": "Dans un sac papier au frais (2-3 jours).",
+    "prep_guide": "Laver et couper les extrémités. Se consomme sauté ou en ragoût.",
+    "nutrition_info": "33 kcal/100g, riche en fibres solubles.",
+    "texture": "Tendre et mucilagineuse (gluante) à la cuisson.",
+    "image_filename": "gombo.webp",
+    "functional_categories": [
+      "exotique",
+      "cuisine"
+    ],
+    "tags": [
+      "tropical",
+      "épaississant"
+    ],
+    "specific_data": {
+      "famille_botanique": "Malvaceae"
+    }
+  },
+  {
+    "name": "Gingembre",
+    "scientific_name": "Zingiber officinale",
+    "glossary_term": "Rhizome",
+    "category": "légume",
+    "description": "Racine noueuse au goût piquant et citronné, utilisée comme condiment ou remède.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Peau lisse, ferme, ne doit pas être flétri.",
+    "storage_guide": "Au frais ou congelé pour une longue conservation.",
+    "prep_guide": "Peler à l'aide d'une petite cuillère, râper ou trancher.",
+    "nutrition_info": "80 kcal/100g, anti-inflammatoire puissant.",
+    "texture": "Fibreuse et croquante.",
+    "image_filename": "Gingembre.webp",
+    "functional_categories": [
+      "condiment",
+      "santé"
+    ],
+    "tags": [
+      "piquant",
+      "exotique"
+    ],
+    "specific_data": {
+      "famille_botanique": "Zingiberaceae"
+    }
+  },
+  {
+    "name": "Haricot vert",
+    "scientific_name": "Phaseolus vulgaris",
+    "glossary_term": "Gousse",
+    "category": "légume",
+    "description": "Jeune gousse récoltée avant maturité, consommée entière pour sa finesse.",
+    "seasonality": "Juin à Septembre",
+    "buying_guide": "Doit être ferme et se casser net avec un bruit sec. La couleur doit être vive.",
+    "storage_guide": "Dans le bac à légumes, enveloppé dans un linge (2-3 jours).",
+    "prep_guide": "Équeuter les deux extrémités et retirer le fil si nécessaire.",
+    "nutrition_info": "31 kcal/100g, riche en fibres et potassium.",
+    "texture": "Croquante ou fondante selon la cuisson.",
+    "image_filename": "haricot-vert.webp",
+    "functional_categories": [
+      "fondamental",
+      "vapeur"
+    ],
+    "tags": [
+      "été",
+      "léger"
+    ],
+    "specific_data": {
+      "famille_botanique": "Fabaceae"
+    }
+  },
+  {
+    "name": "Haricot beurre",
+    "scientific_name": "Phaseolus vulgaris",
+    "glossary_term": "Gousse",
+    "category": "légume",
+    "description": "Variété de haricot à gousse jaune, réputée pour sa texture plus tendre et fondante.",
+    "seasonality": "Juillet à Septembre",
+    "buying_guide": "Gousse d'un jaune uniforme, sans taches, bien charnue.",
+    "storage_guide": "Similaire au haricot vert, très sensible au flétrissement.",
+    "prep_guide": "Équeuter avant cuisson.",
+    "nutrition_info": "31 kcal/100g.",
+    "texture": "Plus tendre et moins fibreuse que le haricot vert.",
+    "image_filename": "haricot-beurre.webp",
+    "functional_categories": [
+      "été"
+    ],
+    "tags": [
+      "tendre",
+      "jaune"
+    ],
+    "specific_data": {
+      "famille_botanique": "Fabaceae"
+    }
+  },
+  {
+    "name": "Igname",
+    "scientific_name": "Dioscorea",
+    "glossary_term": "Tubercule",
+    "category": "légume",
+    "description": "Gros tubercule tropical à peau brune et rugueuse, riche en amidon.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Doit être bien lourd, ferme et sans zones de moisissure.",
+    "storage_guide": "Endroit sec, sombre et aéré (ne pas mettre au frigo).",
+    "prep_guide": "Peler la peau épaisse et toujours cuire à cœur (toxique cru).",
+    "nutrition_info": "118 kcal/100g, excellente source d'énergie.",
+    "texture": "Farineuse, proche de la pomme de terre.",
+    "image_filename": "igname.webp",
+    "functional_categories": [
+      "exotique",
+      "énergie"
+    ],
+    "tags": [
+      "tropical",
+      "tubercule"
+    ],
+    "specific_data": {
+      "famille_botanique": "Dioscoreaceae"
+    }
+  },
+  {
+    "name": "Kale (Chou frisé)",
+    "scientific_name": "Brassica oleracea var. sabellica",
+    "glossary_term": "Légume-feuille",
+    "category": "légume",
+    "description": "Chou ancien aux feuilles très frisées, considéré comme un super-aliment pour sa densité nutritionnelle.",
+    "seasonality": "Octobre à Mars",
+    "buying_guide": "Feuilles bien dures, frisées et d'un vert très foncé.",
+    "storage_guide": "Au frais dans un sac plastique perforé.",
+    "prep_guide": "Retirer la nervure centrale rigide, masser les feuilles pour les assouplir si mangé cru.",
+    "nutrition_info": "49 kcal/100g, extrêmement riche en Vitamine C, A et K.",
+    "texture": "Ferme et fibreuse.",
+    "image_filename": "kale.webp",
+    "functional_categories": [
+      "santé",
+      "hiver"
+    ],
+    "tags": [
+      "super-légume",
+      "antioxydant"
+    ],
+    "specific_data": {
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Laitue",
+    "scientific_name": "Lactuca sativa",
+    "glossary_term": "Légume-feuille",
+    "category": "légume",
+    "description": "La salade par excellence, déclinée en de nombreuses variétés (Boston, Romaine, Batavia).",
+    "seasonality": "Mai à Septembre (mais disponible toute l'année)",
+    "buying_guide": "Base bien blanche, feuilles fraîches et croquantes, non flétries.",
+    "storage_guide": "Dans le bac à légumes, dans un sachet légèrement humide.",
+    "prep_guide": "Laver soigneusement feuille par feuille.",
+    "nutrition_info": "15 kcal/100g, riche en eau et en fibres.",
+    "texture": "Tendre ou croquante selon la variété.",
+    "image_filename": "laitue.webp",
+    "functional_categories": [
+      "salade",
+      "léger"
+    ],
+    "tags": [
+      "frais",
+      "basique"
+    ],
+    "specific_data": {
+      "famille_botanique": "Asteraceae"
+    }
+  },
+  {
+    "name": "Lentille",
+    "scientific_name": "Lens culinaris",
+    "glossary_term": "Légumineuse",
+    "category": "légume",
+    "description": "Petite graine sèche (verte, blonde ou corail) très riche en fer et protéines.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Grains entiers, couleur uniforme, sans poussière dans le sachet.",
+    "storage_guide": "Dans un bocal hermétique, au sec.",
+    "prep_guide": "Rincer, cuire dans 3 fois leur volume d'eau (ne saler qu'à la fin).",
+    "nutrition_info": "116 kcal/100g (cuites), riche en protéines et fer.",
+    "texture": "Tendre avec une légère résistance.",
+    "image_filename": "lentille.webp",
+    "functional_categories": [
+      "protéines",
+      "sec"
+    ],
+    "tags": [
+      "santé",
+      "énergie"
+    ],
+    "specific_data": {
+      "famille_botanique": "Fabaceae"
+    }
+  },
+  {
+    "name": "Mâche",
+    "scientific_name": "Valerianella locusta",
+    "glossary_term": "Salade",
+    "category": "légume",
+    "description": "Petite salade d'hiver aux feuilles en rosettes, très douce et riche en Oméga-3.",
+    "seasonality": "Octobre à Mars",
+    "buying_guide": "Feuilles bien vertes, charnues et non flétries. Racines encore présentes idéalement.",
+    "storage_guide": "Très fragile, à conserver dans un sachet perforé au frais.",
+    "prep_guide": "Laver soigneusement pour retirer le sable, ne pas couper les feuilles.",
+    "nutrition_info": "19 kcal/100g, riche en bêta-carotènes et Oméga-3.",
+    "texture": "Souple et veloutée.",
+    "image_filename": "mache.webp",
+    "functional_categories": [
+      "hiver",
+      "salade"
+    ],
+    "tags": [
+      "doux",
+      "oméga-3"
+    ],
+    "specific_data": {
+      "famille_botanique": "Caprifoliaceae"
+    }
+  },
+  {
+    "name": "Maïs doux",
+    "scientific_name": "Zea mays",
+    "glossary_term": "Céréale-légume",
+    "category": "légume",
+    "description": "Grains jaunes sucrés fixés sur un épi, consommés comme légume en Europe.",
+    "seasonality": "Juillet à Octobre",
+    "buying_guide": "Épis bien pleins, grains bombés et brillants, barbe fraîche.",
+    "storage_guide": "Consommer rapidement après achat pour garder le sucre.",
+    "prep_guide": "Cuire à l'eau, à la vapeur ou griller au barbecue.",
+    "nutrition_info": "96 kcal/100g, riche en glucides et fibres.",
+    "texture": "Croquante et juteuse sous la dent.",
+    "image_filename": "mais.webp",
+    "functional_categories": [
+      "été",
+      "énergie"
+    ],
+    "tags": [
+      "sucré",
+      "épi"
+    ],
+    "specific_data": {
+      "famille_botanique": "Poaceae"
+    }
+  },
+  {
+    "name": "Navet",
+    "scientific_name": "Brassica rapa",
+    "glossary_term": "Racine",
+    "category": "légume",
+    "description": "Légume-racine à chair blanche, parfois teinté de violet, au goût légèrement piquant.",
+    "seasonality": "Octobre à Mai",
+    "buying_guide": "Petit ou moyen (plus tendre), lourd et peau lisse.",
+    "storage_guide": "Bac à légumes du frigo (environ 1 semaine).",
+    "prep_guide": "Éplucher, idéal dans les soupes ou les plats mijotés.",
+    "nutrition_info": "28 kcal/100g, riche en potassium.",
+    "texture": "Ferme, devient fondante à la cuisson.",
+    "image_filename": "navet.webp",
+    "functional_categories": [
+      "hiver",
+      "pot-au-feu"
+    ],
+    "tags": [
+      "racine",
+      "tradition"
+    ],
+    "specific_data": {
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Oignon",
+    "scientific_name": "Allium cepa",
+    "glossary_term": "Bulbe",
+    "category": "légume",
+    "description": "Condiment universel à la saveur piquante à cru et sucrée une fois cuit.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Bien dur, sec, sans germe apparent ni taches d'humidité.",
+    "storage_guide": "Lieu sec, sombre et aéré.",
+    "prep_guide": "Peler et émincer. Pour moins pleurer, utiliser un couteau très aiguisé.",
+    "nutrition_info": "40 kcal/100g, antioxydant et protecteur cardiovasculaire.",
+    "texture": "Croquante à cru, fondante ou croustillante cuite.",
+    "image_filename": "oignon.webp",
+    "functional_categories": [
+      "fondamental",
+      "condiment"
+    ],
+    "tags": [
+      "indispensable",
+      "saveur"
+    ],
+    "specific_data": {
+      "famille_botanique": "Amaryllidaceae"
+    }
+  },
+  {
+    "name": "Panais",
+    "scientific_name": "Pastinaca sativa",
+    "glossary_term": "Racine",
+    "category": "légume",
+    "description": "Ancienne racine blanche ressemblant à une grosse carotte, au goût doux et sucré.",
+    "seasonality": "Octobre à Mars",
+    "buying_guide": "Ferme, peau sans taches brunes, de taille moyenne.",
+    "storage_guide": "Bac à légumes du réfrigérateur.",
+    "prep_guide": "Éplucher, excellent en purée, rôti ou en frites.",
+    "nutrition_info": "75 kcal/100g, riche en fibres.",
+    "texture": "Ferme et fibreuse, devient très crémeuse.",
+    "image_filename": "panais.webp",
+    "functional_categories": [
+      "hiver",
+      "légume-oublié"
+    ],
+    "tags": [
+      "sucré",
+      "racine"
+    ],
+    "specific_data": {
+      "famille_botanique": "Apiaceae"
+    }
+  },
+  {
+    "name": "Petit pois",
+    "scientific_name": "Pisum sativum",
+    "glossary_term": "Légumineuse",
+    "category": "légume",
+    "description": "Petites billes vertes sucrées nichées dans une cosse, trésor du printemps.",
+    "seasonality": "Mai à Juillet",
+    "buying_guide": "Cosse bien verte, bombée, ferme et cassante.",
+    "storage_guide": "Consommer le jour même de l'écossage pour garder la saveur.",
+    "prep_guide": "Écosser à la main et cuire brièvement à l'anglaise.",
+    "nutrition_info": "81 kcal/100g, riche en protéines et fibres.",
+    "texture": "Tendre et légèrement croquante.",
+    "image_filename": "petit-pois.webp",
+    "functional_categories": [
+      "printemps",
+      "famille"
+    ],
+    "tags": [
+      "frais",
+      "protéines"
+    ],
+    "specific_data": {
+      "famille_botanique": "Fabaceae"
+    }
+  },
+  {
+    "name": "Poivron",
+    "scientific_name": "Capsicum annuum",
+    "glossary_term": "Fruit-légume",
+    "category": "légume",
+    "description": "Piment doux décliné en vert, jaune ou rouge selon son stade de maturité.",
+    "seasonality": "Juin à Septembre",
+    "buying_guide": "Peau tendue, brillante, fruit lourd et ferme.",
+    "storage_guide": "Bac à légumes (environ 1 semaine).",
+    "prep_guide": "Retirer le pédoncule et les graines blanches intérieures.",
+    "nutrition_info": "26 kcal/100g, champion de la Vitamine C (surtout le rouge).",
+    "texture": "Croquante, devient fondante à la cuisson.",
+    "image_filename": "poivron.webp",
+    "functional_categories": [
+      "été",
+      "couleur"
+    ],
+    "tags": [
+      "vitamine-c",
+      "méditerranéen"
+    ],
+    "specific_data": {
+      "famille_botanique": "Solanaceae"
+    }
+  },
+  {
+    "name": "Pomme de terre",
+    "scientific_name": "Solanum tuberosum",
+    "glossary_term": "Tubercule",
+    "category": "légume",
+    "description": "Tubercule nourricier, base de l'alimentation, décliné en variétés à chair ferme ou farineuse.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Ferme, sans germes, sans taches vertes (toxiques).",
+    "storage_guide": "Lieu frais, sec et surtout à l'obscurité.",
+    "prep_guide": "Laver, éplucher (ou non pour les nouvelles). Toujours cuire.",
+    "nutrition_info": "77 kcal/100g, riche en glucides complexes et potassium.",
+    "texture": "Varie de ferme à fondante ou farineuse.",
+    "image_filename": "pomme-de-terre.webp",
+    "functional_categories": [
+      "fondamental",
+      "énergie"
+    ],
+    "tags": [
+      "incontournable",
+      "tubercule"
+    ],
+    "specific_data": {
+      "famille_botanique": "Solanaceae"
+    }
+  },
+  {
+    "name": "Quinoa",
+    "scientific_name": "Chenopodium quinoa",
+    "glossary_term": "Pseudo-céréale",
+    "category": "légume",
+    "description": "Graine sacrée des Incas, consommée comme un légume sec, naturellement sans gluten.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Grains uniformes, sans débris.",
+    "storage_guide": "Dans un bocal hermétique au sec.",
+    "prep_guide": "Bien rincer avant cuisson pour éliminer la saponine amère.",
+    "nutrition_info": "120 kcal/100g (cuit), contient tous les acides aminés essentiels.",
+    "texture": "Légèrement croquante avec un germe qui se détache à la cuisson.",
+    "image_filename": "quinoa.webp",
+    "functional_categories": [
+      "santé",
+      "protéines"
+    ],
+    "tags": [
+      "sans-gluten",
+      "super-aliment"
+    ],
+    "specific_data": {
+      "famille_botanique": "Amaranthaceae"
+    }
+  },
+  {
+    "name": "Radis",
+    "scientific_name": "Raphanus sativus",
+    "glossary_term": "Racine",
+    "category": "légume",
+    "description": "Petite racine croquante et piquante, star des apéritifs printaniers.",
+    "seasonality": "Mars à Juin / Septembre",
+    "buying_guide": "Ferme, sans craquelures, avec des fanes bien vertes et fraîches.",
+    "storage_guide": "Consommer rapidement. Retirer les fanes pour garder le croquant.",
+    "prep_guide": "Laver soigneusement, garder un peu de queue pour le croquant.",
+    "nutrition_info": "16 kcal/100g, riche en soufre et vitamine C.",
+    "texture": "Très croquante et juteuse.",
+    "image_filename": "radis.webp",
+    "functional_categories": [
+      "printemps",
+      "apéritif"
+    ],
+    "tags": [
+      "frais",
+      "piquant"
+    ],
+    "specific_data": {
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Raifort",
+    "scientific_name": "Armoracia rusticana",
+    "glossary_term": "Racine",
+    "category": "légume",
+    "description": "Racine à la saveur extrêmement forte et piquante, surnommée le 'wasabi occidental'.",
+    "seasonality": "Septembre à Mars",
+    "buying_guide": "Racine très dure, lourde, sans zones molles.",
+    "storage_guide": "Dans un linge humide au réfrigérateur.",
+    "prep_guide": "Peler et râper finement au dernier moment (s'oxyde vite).",
+    "nutrition_info": "Riche en vitamine C et propriétés antibactériennes.",
+    "texture": "Râpeuse et fibreuse.",
+    "image_filename": "raifort.webp",
+    "functional_categories": [
+      "condiment",
+      "santé"
+    ],
+    "tags": [
+      "puissant",
+      "alsace"
+    ],
+    "specific_data": {
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Rutabaga",
+    "scientific_name": "Brassica napus var. napobrassica",
+    "glossary_term": "Racine",
+    "category": "légume",
+    "description": "Hybride entre le navet et le chou frisé, à chair jaune et goût de noisette.",
+    "seasonality": "Novembre à Mars",
+    "buying_guide": "Peau lisse, fruit lourd, de taille moyenne pour éviter les fibres.",
+    "storage_guide": "Bac à légumes du frigo (plusieurs semaines).",
+    "prep_guide": "Peler et cuire longuement en ragoût ou purée.",
+    "nutrition_info": "37 kcal/100g.",
+    "texture": "Ferme, devient fondante à la cuisson.",
+    "image_filename": "rutabaga.webp",
+    "functional_categories": [
+      "hiver",
+      "légume-oublié"
+    ],
+    "tags": [
+      "racine",
+      "tradition"
+    ],
+    "specific_data": {
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Salsifis",
+    "scientific_name": "Tragopogon porrifolius",
+    "glossary_term": "Racine",
+    "category": "légume",
+    "description": "Racine allongée à la peau claire (salsifis) ou noire (scorsonère) au goût subtil d'huître.",
+    "seasonality": "Novembre à Mars",
+    "buying_guide": "Bien droit, ferme, non terreux si possible.",
+    "storage_guide": "Bac à légumes.",
+    "prep_guide": "Peler (porte des gants car il colle) et mettre dans l'eau citronnée.",
+    "nutrition_info": "82 kcal/100g, riche en inuline.",
+    "texture": "Tendre et légèrement fibreuse.",
+    "image_filename": "salsifis.webp",
+    "functional_categories": [
+      "hiver",
+      "gastronomie"
+    ],
+    "tags": [
+      "racine",
+      "raffiné"
+    ],
+    "specific_data": {
+      "famille_botanique": "Asteraceae"
+    }
+  },
+  {
+    "name": "Tomate",
+    "scientific_name": "Solanum lycopersicum",
+    "glossary_term": "Fruit-légume",
+    "category": "légume",
+    "description": "Incontournable de l'été, la tomate est botaniquement un fruit mais culinairement un légume.",
+    "seasonality": "Juin à Septembre",
+    "buying_guide": "Peau brillante, ferme, parfum intense au pédoncule.",
+    "storage_guide": "Hors du réfrigérateur pour préserver le goût.",
+    "prep_guide": "Laver et consommer crue ou cuite sous diverses formes.",
+    "nutrition_info": "18 kcal/100g, riche en lycopène.",
+    "texture": "Juteuse et charnue.",
+    "image_filename": "tomate.webp",
+    "functional_categories": [
+      "été",
+      "fondamental"
+    ],
+    "tags": [
+      "lycopène",
+      "indispensable"
+    ],
+    "specific_data": {
+      "famille_botanique": "Solanaceae"
+    }
+  },
+  {
+    "name": "Topinambour",
+    "scientific_name": "Helianthus tuberosus",
+    "glossary_term": "Artichaut de Jérusalem",
+    "category": "légume",
+    "description": "Tubercule à l'aspect noueux dont la saveur rappelle celle du fond d'artichaut.",
+    "seasonality": "Novembre à Mars",
+    "buying_guide": "Peau ferme, peu de nœuds pour faciliter l'épluchage.",
+    "storage_guide": "Se dessèche vite, à garder au frais dans un sac papier.",
+    "prep_guide": "Brosser énergiquement ou éplucher après cuisson.",
+    "nutrition_info": "73 kcal/100g, riche en inuline (excellent prébiotique).",
+    "texture": "Croquante à cru, très fondante après cuisson.",
+    "image_filename": "topinambour.webp",
+    "functional_categories": [
+      "hiver",
+      "légume-oublié"
+    ],
+    "tags": [
+      "prébiotique",
+      "artichaut"
+    ],
+    "specific_data": {
+      "famille_botanique": "Asteraceae"
+    }
+  },
+  {
+    "name": "Ulluco",
+    "scientific_name": "Ullucus tuberosus",
+    "glossary_term": "Tubercule",
+    "category": "légume",
+    "description": "Petit tubercule andin aux couleurs vives (jaune, rose), base de l'alimentation en Amérique du Sud.",
+    "seasonality": "Automne / Hiver",
+    "buying_guide": "Peau brillante et ferme, sans taches de moisissure.",
+    "storage_guide": "Lieu frais, sec et sombre comme les pommes de terre.",
+    "prep_guide": "Laver soigneusement, se consomme avec la peau en ragoût ou bouilli.",
+    "nutrition_info": "62 kcal/100g, riche en protéines et glucides complexes.",
+    "texture": "Ferme, un peu croquante même après cuisson.",
+    "image_filename": "ulluco.webp",
+    "functional_categories": [
+      "exotique",
+      "énergie"
+    ],
+    "tags": [
+      "andes",
+      "rare"
+    ],
+    "specific_data": {
+      "famille_botanique": "Basellaceae"
+    }
+  },
+  {
+    "name": "Vitelotte",
+    "scientific_name": "Solanum tuberosum 'Vitelotte'",
+    "glossary_term": "Pomme de terre bleue",
+    "category": "légume",
+    "description": "Variété ancienne de pomme de terre à la peau noire et à la chair violette foncée.",
+    "seasonality": "Septembre à Mars",
+    "buying_guide": "Petits tubercules fermes, peau sans blessures.",
+    "storage_guide": "À l'obscurité pour éviter le verdissement.",
+    "prep_guide": "Garde sa couleur à la cuisson. Excellente en chips ou purée spectaculaire.",
+    "nutrition_info": "80 kcal/100g, riche en anthocyanines (antioxydants).",
+    "texture": "Chair ferme et un peu farineuse, goût de châtaigne.",
+    "image_filename": "vitelotte.webp",
+    "functional_categories": [
+      "couleur",
+      "terroir"
+    ],
+    "tags": [
+      "antioxydant",
+      "insolite"
+    ],
+    "specific_data": {
+      "famille_botanique": "Solanaceae"
+    }
+  },
+  {
+    "name": "Wasabi",
+    "scientific_name": "Eutrema japonicum",
+    "glossary_term": "Rhizome",
+    "category": "légume",
+    "description": "Racine japonaise célèbre pour son piquant intense qui monte au nez.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Racine ferme, d'un vert franc. Très rare frais en Europe.",
+    "storage_guide": "Enveloppé dans un papier humide au réfrigérateur.",
+    "prep_guide": "Râper finement à l'aide d'une râpe en peau de requin (tradition) juste avant dégustation.",
+    "nutrition_info": "109 kcal/100g, propriétés antimicrobiennes.",
+    "texture": "Pâteuse une fois râpée.",
+    "image_filename": "wasabi.webp",
+    "functional_categories": [
+      "condiment",
+      "gastronomie"
+    ],
+    "tags": [
+      "japon",
+      "piquant"
+    ],
+    "specific_data": {
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Watercress (Cresson)",
+    "scientific_name": "Nasturtium officinale",
+    "glossary_term": "Légume-feuille",
+    "category": "légume",
+    "description": "Plante de zone humide au goût poivré et piquant, très riche en minéraux.",
+    "seasonality": "Septembre à Mai",
+    "buying_guide": "Bouquet bien vert, feuilles charnues, tiges fermes.",
+    "storage_guide": "Placer les tiges dans un verre d'eau au réfrigérateur.",
+    "prep_guide": "Laver abondamment à l'eau vinaigrée.",
+    "nutrition_info": "11 kcal/100g, exceptionnellement riche en fer et calcium.",
+    "texture": "Tendre et croquante.",
+    "image_filename": "cresson.webp",
+    "functional_categories": [
+      "santé",
+      "salade"
+    ],
+    "tags": [
+      "poivré",
+      "super-légume"
+    ],
+    "specific_data": {
+      "famille_botanique": "Brassicaceae"
+    }
+  },
+  {
+    "name": "Xanthosoma (Chou caraïbe)",
+    "scientific_name": "Xanthosoma sagittifolium",
+    "glossary_term": "Malanga",
+    "category": "légume",
+    "description": "Tubercule tropical proche du taro, à la chair crémeuse une fois cuite.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Lourd, ferme, peau brune et velue intacte.",
+    "storage_guide": "Lieu sec et frais.",
+    "prep_guide": "Peler et cuire impérativement (bouilli, frit).",
+    "nutrition_info": "98 kcal/100g, riche en amidon digeste.",
+    "texture": "Onctueuse et dense.",
+    "image_filename": "malanga.webp",
+    "functional_categories": [
+      "exotique",
+      "énergie"
+    ],
+    "tags": [
+      "tropical",
+      "tubercule"
+    ],
+    "specific_data": {
+      "famille_botanique": "Araceae"
+    }
+  },
+  {
+    "name": "Yam (Igname de Chine)",
+    "scientific_name": "Dioscorea polystachya",
+    "glossary_term": "Nagaimo",
+    "category": "légume",
+    "description": "Variété d'igname qui peut être consommée crue, très prisée en Asie.",
+    "seasonality": "Automne / Hiver",
+    "buying_guide": "Peau beige clair, fruit bien droit et ferme.",
+    "storage_guide": "Au frais dans du papier journal.",
+    "prep_guide": "Peler (attention, la chair est glissante). Râper ou couper en tranches.",
+    "nutrition_info": "118 kcal/100g, riche en amylase.",
+    "texture": "Mucilagineuse (gluante) et croquante.",
+    "image_filename": "yam.webp",
+    "functional_categories": [
+      "exotique",
+      "santé"
+    ],
+    "tags": [
+      "asie",
+      "tubercule"
+    ],
+    "specific_data": {
+      "famille_botanique": "Dioscoreaceae"
+    }
+  },
+  {
+    "name": "Yacon (Poire de terre)",
+    "scientific_name": "Smallanthus sonchifolius",
+    "glossary_term": "Tubercule sucré",
+    "category": "légume",
+    "description": "Tubercule andin au goût sucré rappelant la poire et la pastèque.",
+    "seasonality": "Hiver",
+    "buying_guide": "Ferme, sans zones molles.",
+    "storage_guide": "Se conserve plusieurs semaines au frais.",
+    "prep_guide": "Peler la peau brune. Se mange cru en salade ou cuit.",
+    "nutrition_info": "15 kcal/100g, riche en FOS (prébiotiques).",
+    "texture": "Extrêmement croquante et juteuse.",
+    "image_filename": "yacon.webp",
+    "functional_categories": [
+      "insolite",
+      "santé"
+    ],
+    "tags": [
+      "andes",
+      "diabète-friendly"
+    ],
+    "specific_data": {
+      "famille_botanique": "Asteraceae"
+    }
+  },
+  {
+    "name": "Zucchini (Courgette)",
+    "scientific_name": "Cucurbita pepo",
+    "glossary_term": "Courgette",
+    "category": "légume",
+    "description": "Légume d'été incontournable, cueilli avant maturité complète.",
+    "seasonality": "Mai à Septembre",
+    "buying_guide": "Peau lisse, brillante, fruit ferme et lourd.",
+    "storage_guide": "Bac à légumes (4-5 jours).",
+    "prep_guide": "Laver, ne pas peler si elle est bio. Se consomme crue ou cuite.",
+    "nutrition_info": "17 kcal/100g, très digeste.",
+    "texture": "Tendre et aqueuse.",
+    "image_filename": "courgette.webp",
+    "functional_categories": [
+      "été",
+      "fondamental"
+    ],
+    "tags": [
+      "léger",
+      "méditerranéen"
+    ],
+    "specific_data": {
+      "famille_botanique": "Cucurbitaceae"
+    }
+  }
+]

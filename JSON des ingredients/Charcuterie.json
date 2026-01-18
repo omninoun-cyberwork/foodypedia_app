@@ -1,0 +1,609 @@
+[
+  {
+    "name": "Jambon Cru (type Parme ou Serrano)",
+    "scientific_name": "Pernio (Suis scrofa)",
+    "glossary_term": "Prosciutto / Salaison",
+    "category": "charcuterie",
+    "description": "Cuisse de porc entière, salée au sel sec puis affinée pendant plusieurs mois. Le goût varie selon le temps de séchage et l'alimentation du porc.",
+    "buying_guide": "La tranche doit présenter un gras bien blanc et une chair rouge à pourpre. Éviter le gras jauni qui indique un rancissement.",
+    "storage_guide": "Entier : dans un endroit frais et sec. En tranches : 2 à 3 jours au frais sous film.",
+    "prep_guide": "À déguster à température ambiante, coupé très finement pour libérer les arômes.",
+    "nutrition_info": "Riche en protéines et en sel, contient de bons acides gras si le porc est de qualité.",
+    "texture": "Souple, fondante et légèrement huileuse.",
+    "image_filename": "jambon-cru.webp",
+    "variant_images": [
+      "jambon-parme.webp",
+      "jambon-serrano.webp"
+    ],
+    "functional_categories": [
+      "apéritif",
+      "noble"
+    ],
+    "tags": [
+      "salaison",
+      "porc",
+      "prestige"
+    ],
+    "specific_data": {
+      "pays_origine": "Italie / Espagne / France",
+      "type_viande": "Porc",
+      "conservation": "Salage et séchage",
+      "affinage": "9 à 36 mois"
+    }
+  },
+  {
+    "name": "Jambon Blanc (Jambon cuit)",
+    "scientific_name": "Pernio (Suis scrofa)",
+    "glossary_term": "Jambon de Paris",
+    "category": "charcuterie",
+    "description": "Cuisse de porc désossée, saumurée puis cuite à la vapeur ou au bouillon. C'est la charcuterie la plus consommée.",
+    "buying_guide": "Privilégier le 'supérieur' ou 'au torchon'. La couleur doit être rose pâle naturelle, pas rose fluo.",
+    "storage_guide": "Très périssable. 3 jours maximum au réfrigérateur après ouverture.",
+    "prep_guide": "Prêt à consommer. Idéal pour les sandwichs, les croque-monsieur ou les roulés au fromage.",
+    "nutrition_info": "L'une des charcuteries les moins caloriques (environ 120 kcal/100g).",
+    "texture": "Tendre, humide et souple.",
+    "image_filename": "jambon-blanc.webp",
+    "variant_images": [
+      "jambon-torchon.webp"
+    ],
+    "functional_categories": [
+      "quotidien",
+      "enfant"
+    ],
+    "tags": [
+      "cuit",
+      "maigre",
+      "classique"
+    ],
+    "specific_data": {
+      "pays_origine": "France",
+      "type_viande": "Porc",
+      "conservation": "Saumure et cuisson",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Saucisson Sec",
+    "scientific_name": "Farcimen",
+    "glossary_term": "Salaison hachée",
+    "category": "charcuterie",
+    "description": "Mélange de viande et de gras de porc hachés, salés, poivrés et embossés dans un boyau naturel, puis séchés.",
+    "buying_guide": "La 'fleur' (poudre blanche sur la peau) doit être naturelle. Le saucisson doit être ferme mais pas dur comme du bois.",
+    "storage_guide": "Dans un linge sec ou un sac à jambon, idéalement entre 12 et 15°C.",
+    "prep_guide": "Couper en rondelles plus ou moins fines selon la dureté du produit.",
+    "nutrition_info": "Riche en calories et en sodium. Apport en fer significatif.",
+    "texture": "Ferme, granuleuse et sèche.",
+    "image_filename": "saucisson-sec.webp",
+    "variant_images": [
+      "rosette-lyon.webp"
+    ],
+    "functional_categories": [
+      "apéritif",
+      "snacking"
+    ],
+    "tags": [
+      "séchage",
+      "tradition",
+      "partage"
+    ],
+    "specific_data": {
+      "pays_origine": "France",
+      "type_viande": "Porc",
+      "conservation": "Fermentation et séchage",
+      "affinage": "4 à 8 semaines"
+    }
+  },
+  {
+    "name": "Chorizo",
+    "scientific_name": "Farcimen (Capsicum)",
+    "glossary_term": "Saucisson pimenté",
+    "category": "charcuterie",
+    "description": "Saucisson d'origine espagnole, assaisonné au piment doux ou fort (pimenton), ce qui lui donne sa couleur orangée.",
+    "buying_guide": "Vérifier l'origine (Espagne) et le niveau de piquant indiqué. Éviter les versions trop grasses.",
+    "storage_guide": "Au frais ou en pièce sèche.",
+    "prep_guide": "À déguster cru en tapas ou cuit pour parfumer des plats (paella, ragoûts).",
+    "nutrition_info": "Riche en antioxydants (grâce au piment) mais gras.",
+    "texture": "Ferme et fondante à la fois.",
+    "image_filename": "chorizo.webp",
+    "variant_images": [
+      "chorizo-iberico.webp"
+    ],
+    "functional_categories": [
+      "apéritif",
+      "cuisine"
+    ],
+    "tags": [
+      "espagne",
+      "épicé",
+      "couleur"
+    ],
+    "specific_data": {
+      "pays_origine": "Espagne",
+      "type_viande": "Porc",
+      "conservation": "Séchage",
+      "affinage": "1 à 4 mois"
+    }
+  },
+  {
+    "name": "Pancetta",
+    "scientific_name": "Venter (Suis scrofa)",
+    "glossary_term": "Poitrine roulée",
+    "category": "charcuterie",
+    "description": "Poitrine de porc salée, poivrée et parfois épicée, puis roulée et séchée. C'est le lard à l'italienne.",
+    "buying_guide": "La spirale de gras et de viande doit être bien régulière et nette.",
+    "storage_guide": "Au frais. Bien protéger la tranche entamée.",
+    "prep_guide": "Tranchée très fin pour l'apéritif ou coupée en dés pour les pâtes à la Carbonara (la vraie !).",
+    "nutrition_info": "Très riche en lipides.",
+    "texture": "Très fondante et onctueuse.",
+    "image_filename": "pancetta.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "cuisine",
+      "italie"
+    ],
+    "tags": [
+      "gras-noble",
+      "parfum",
+      "poitrine"
+    ],
+    "specific_data": {
+      "pays_origine": "Italie",
+      "type_viande": "Porc",
+      "conservation": "Salage et séchage",
+      "affinage": "2 à 4 mois"
+    }
+  },
+  {
+    "name": "Bresaola",
+    "scientific_name": "Bresaola (Bos taurus)",
+    "glossary_term": "Charcuterie de bœuf",
+    "category": "charcuterie",
+    "description": "Viande de bœuf (souvent la noix de jambe) salée et séchée. Une alternative maigre et raffinée au porc.",
+    "buying_guide": "Doit être d'un rouge sombre uniforme, sans bordure sèche trop dure.",
+    "storage_guide": "Au frais, enveloppée dans un linge ou papier sulfurisé.",
+    "prep_guide": "Servir en tranches extra-fines avec un filet de citron, de l'huile d'olive et de la roquette.",
+    "nutrition_info": "Très maigre, très riche en protéines. Idéale pour les sportifs.",
+    "texture": "Sèche, fine et soyeuse.",
+    "image_filename": "bresaola.webp",
+    "variant_images": [
+      "viande-grisons.webp"
+    ],
+    "functional_categories": [
+      "maigre",
+      "noble"
+    ],
+    "tags": [
+      "bœuf",
+      "italie",
+      "santé"
+    ],
+    "specific_data": {
+      "pays_origine": "Italie (Lombardie)",
+      "type_viande": "Bœuf",
+      "conservation": "Salage et séchage",
+      "affinage": "2 à 3 mois"
+    }
+  },
+  {
+    "name": "Mortadelle",
+    "scientific_name": "Farcimen bononiensis",
+    "glossary_term": "Mortadella di Bologna",
+    "category": "charcuterie",
+    "description": "Grosse saucisse italienne cuite, faite de viande très finement hachée, mélangée à des cubes de gras, du poivre et parfois des pistaches.",
+    "buying_guide": "Rechercher le label IGP. Les cubes de gras doivent être bien blancs et fermes.",
+    "storage_guide": "À consommer rapidement après tranchage (2 jours).",
+    "prep_guide": "Se déguste en tranches ultra-fines (chiffonnade) ou en cubes pour l'apéritif.",
+    "nutrition_info": "Assez calorique, mais texture très aérienne.",
+    "texture": "Douce, lisse et fondante.",
+    "image_filename": "mortadelle.webp",
+    "variant_images": [
+      "mortadelle-pistaches.webp"
+    ],
+    "functional_categories": [
+      "italie",
+      "apéritif"
+    ],
+    "tags": [
+      "cuit",
+      "doux",
+      "pistache"
+    ],
+    "specific_data": {
+      "pays_origine": "Italie (Bologne)",
+      "type_viande": "Porc",
+      "conservation": "Cuisson lente à la vapeur",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Pâté en Croûte",
+    "scientific_name": "Pastillus in crusta",
+    "glossary_term": "Charcuterie pâtissière",
+    "category": "charcuterie",
+    "description": "Préparation composée d'une farce de viandes entourée d'une pâte brisée ou feuilletée et d'une gelée de viande.",
+    "buying_guide": "La croûte doit être bien dorée et ne pas être détrempée par la farce.",
+    "storage_guide": "Au frais, 4 à 5 jours.",
+    "prep_guide": "Se sert en tranches en entrée. Accompagner de cornichons ou d'un chutney.",
+    "nutrition_info": "Riche en glucides (pâte) et en lipides.",
+    "texture": "Contraste entre le croquant de la pâte et le fondant de la farce.",
+    "image_filename": "pate-en-croute.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "entrée",
+      "prestige"
+    ],
+    "tags": [
+      "tradition",
+      "traiteur",
+      "viande-mixte"
+    ],
+    "specific_data": {
+      "pays_origine": "France",
+      "type_viande": "Porc, Volaille, Gibier",
+      "conservation": "Cuisson au four",
+      "affinage": "24h de repos minimum"
+    }
+  },
+  {
+    "name": "Rillettes",
+    "scientific_name": "Suis in adeps",
+    "glossary_term": "Rillettes du Mans / Tours",
+    "category": "charcuterie",
+    "description": "Viande de porc (ou oie, canard) cuite très lentement dans sa propre graisse jusqu'à ce qu'elle s'effiloche.",
+    "buying_guide": "La couche de graisse protectrice sur le dessus doit être bien blanche. Éviter les versions trop mixées (purée).",
+    "storage_guide": "Une semaine au frais après ouverture si la graisse recouvre bien la viande.",
+    "prep_guide": "À tartiner sur du pain de campagne croustillant.",
+    "nutrition_info": "Très calorique, riche en graisses saturées.",
+    "texture": "Fibreuse, onctueuse et tartinable.",
+    "image_filename": "rillettes-porc.webp",
+    "variant_images": [
+      "rillettes-oie.webp"
+    ],
+    "functional_categories": [
+      "apéritif",
+      "terroir"
+    ],
+    "tags": [
+      "tartinable",
+      "gras",
+      "tradition"
+    ],
+    "specific_data": {
+      "pays_origine": "France",
+      "type_viande": "Porc / Volaille",
+      "conservation": "Cuisson longue et graisse",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Boudin Noir",
+    "scientific_name": "Sanguiculus",
+    "glossary_term": "Abat cuit",
+    "category": "charcuterie",
+    "description": "L'une des plus anciennes charcuteries, faite de sang de porc, de gras et d'oignons, le tout embossé dans un boyau et cuit à l'eau.",
+    "buying_guide": "Doit être bien ferme et brillant. La peau ne doit pas se détacher toute seule.",
+    "storage_guide": "3 jours au frais. Supporte bien la congélation.",
+    "prep_guide": "Grillé à la poêle ou au four. Traditionnellement servi avec des pommes cuites.",
+    "nutrition_info": "Exceptionnelle source de fer héminique.",
+    "texture": "Moelleuse, granuleuse et onctueuse.",
+    "image_filename": "boudin-noir.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "tradition",
+      "santé"
+    ],
+    "tags": [
+      "fer",
+      "sang",
+      "terroir"
+    ],
+    "specific_data": {
+      "pays_origine": "International",
+      "type_viande": "Porc (Sang)",
+      "conservation": "Cuisson à l'eau",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Coppa",
+    "scientific_name": "Echine (Suis scrofa)",
+    "glossary_term": "Échine séchée",
+    "category": "charcuterie",
+    "description": "Salaison d'origine italienne et corse élaborée à partir de l'échine de porc (cou). Elle est salée, massée, puis séchée dans un boyau naturel.",
+    "buying_guide": "La tranche doit être persillée (marbrée de gras blanc) avec une viande rouge soutenue.",
+    "storage_guide": "Au frais, enveloppée dans un papier sulfurisé. Se conserve plusieurs semaines entière.",
+    "prep_guide": "Se déguste crue, tranchée très fin pour apprécier le fondant du gras intramusculaire.",
+    "nutrition_info": "Assez riche en lipides, mais très savoureuse.",
+    "texture": "Souple, onctueuse et fondante.",
+    "image_filename": "coppa.webp",
+    "variant_images": [
+      "coppa-corse.webp"
+    ],
+    "functional_categories": [
+      "apéritif",
+      "italie"
+    ],
+    "tags": [
+      "persillé",
+      "échine",
+      "corse"
+    ],
+    "specific_data": {
+      "pays_origine": "Italie / France (Corse)",
+      "type_viande": "Porc",
+      "conservation": "Salage et séchage",
+      "affinage": "3 à 5 mois"
+    }
+  },
+  {
+    "name": "Pastrami",
+    "scientific_name": "Pectoralis (Bos taurus)",
+    "glossary_term": "Bœuf fumé",
+    "category": "charcuterie",
+    "description": "Morceau de poitrine de bœuf saumuré, assaisonné d'un mélange d'épices (poivre, coriandre, ail), puis fumé et enfin cuit à la vapeur.",
+    "buying_guide": "La viande doit être tendre et bien imprégnée d'épices sur la bordure extérieure.",
+    "storage_guide": "4 à 5 jours au réfrigérateur une fois tranché.",
+    "prep_guide": "L'élément central du sandwich 'Reuben'. Se sert chaud ou froid en tranches fines.",
+    "nutrition_info": "Alternative au porc, riche en fer et en épices digestes.",
+    "texture": "Tendre, légèrement granuleuse et juteuse.",
+    "image_filename": "pastrami.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "sandwich",
+      "usa"
+    ],
+    "tags": [
+      "bœuf",
+      "fumé",
+      "épicé"
+    ],
+    "specific_data": {
+      "pays_origine": "Europe de l'Est / USA",
+      "type_viande": "Bœuf",
+      "conservation": "Fumage et vapeur",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Bacon (Lard fumé)",
+    "scientific_name": "Venter (Suis scrofa)",
+    "glossary_term": "Poitrine fumée / Lard",
+    "category": "charcuterie",
+    "description": "Poitrine de porc qui a été salée puis fumée au bois de hêtre ou de chêne. Peut être vendu en tranches ou en lardons.",
+    "buying_guide": "Le gras doit être ferme et blanc, la chair bien rouge. L'odeur de fumée doit être naturelle.",
+    "storage_guide": "Une semaine au frais sous vide ou en boîte hermétique.",
+    "prep_guide": "À griller jusqu'à ce qu'il soit croustillant pour le petit-déjeuner ou pour garnir des burgers.",
+    "nutrition_info": "Très riche en énergie et en goût fumé.",
+    "texture": "Grasse et croquante après cuisson.",
+    "image_filename": "bacon.webp",
+    "variant_images": [
+      "lardons.webp"
+    ],
+    "functional_categories": [
+      "cuisine",
+      "petit-déjeuner"
+    ],
+    "tags": [
+      "fumé",
+      "croustillant",
+      "polyvalent"
+    ],
+    "specific_data": {
+      "pays_origine": "International",
+      "type_viande": "Porc",
+      "conservation": "Salage et fumage",
+      "affinage": "Quelques jours"
+    }
+  },
+  {
+    "name": "Fromage de tête",
+    "scientific_name": "Caput (Suis scrofa)",
+    "glossary_term": "Pâté de tête / Terrine de museau",
+    "category": "charcuterie",
+    "description": "Préparation charcutière composée de morceaux de tête de porc (joues, groin, oreilles) cuits dans un bouillon aromatisé et pris en gelée naturelle.",
+    "buying_guide": "La gelée doit être translucide, pas trouble. Les morceaux de viande doivent être bien visibles.",
+    "storage_guide": "3 à 4 jours maximum au frais.",
+    "prep_guide": "Se sert froid avec une vinaigrette moutardée et des oignons rouges.",
+    "nutrition_info": "Riche en collagène, teneur en graisses modérée selon la recette.",
+    "texture": "Contrastée entre le fondant de la viande et le croquant du cartilage.",
+    "image_filename": "fromage-de-tete.webp",
+    "variant_images": [
+      "terrine-museau.webp"
+    ],
+    "functional_categories": [
+      "bistrot",
+      "entrée"
+    ],
+    "tags": [
+      "tradition",
+      "gélatine",
+      "porc"
+    ],
+    "specific_data": {
+      "pays_origine": "France",
+      "type_viande": "Porc",
+      "conservation": "Cuisson au bouillon",
+      "affinage": "Repos en froid"
+    }
+  },
+  {
+    "name": "Boudin Blanc",
+    "scientific_name": "Farcimen album",
+    "glossary_term": "Saucisse fine",
+    "category": "charcuterie",
+    "description": "Préparation de viande blanche (porc, volaille ou veau), de gras de porc, de lait et d'œufs, parfois truffée.",
+    "buying_guide": "La peau doit être lisse et sans bulles d'air. La couleur doit être crème.",
+    "storage_guide": "3 jours au frais. Très fragile car contient du lait.",
+    "prep_guide": "Retirer la peau (facultatif) et poêler doucement au beurre. Ne pas faire bouillir.",
+    "nutrition_info": "Plus doux et moins riche en fer que le boudin noir.",
+    "texture": "Mousseuse, très souple et fine.",
+    "image_filename": "boudin-blanc.webp",
+    "variant_images": [
+      "boudin-blanc-truffe.webp"
+    ],
+    "functional_categories": [
+      "fêtes",
+      "doux"
+    ],
+    "tags": [
+      "lait",
+      "finesse",
+      "noël"
+    ],
+    "specific_data": {
+      "pays_origine": "France (Rethel)",
+      "type_viande": "Porc / Volaille",
+      "conservation": "Pochage",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Merguez",
+    "scientific_name": "Farcimen africanum",
+    "glossary_term": "Saucisse épicée",
+    "category": "charcuterie",
+    "description": "Petite saucisse rouge originaire du Maghreb, faite de bœuf et d'agneau, assaisonnée de piment, de cumin et de harissa.",
+    "buying_guide": "La couleur doit être rouge naturel (piment). Éviter les merguez trop grasses qui réduisent énormément à la cuisson.",
+    "storage_guide": "2 jours maximum au frais (viande hachée épicée).",
+    "prep_guide": "Grillée au barbecue ou à la plancha. Incontournable du couscous.",
+    "nutrition_info": "Riche en saveurs et en fer.",
+    "texture": "Granuleuse et juteuse.",
+    "image_filename": "merguez.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "bbq",
+      "oriental"
+    ],
+    "tags": [
+      "épicé",
+      "bœuf",
+      "agneau"
+    ],
+    "specific_data": {
+      "pays_origine": "Maghreb",
+      "type_viande": "Bœuf et Agneau",
+      "conservation": "Frais",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Salami",
+    "scientific_name": "Farcimen salamen",
+    "glossary_term": "Gros saucisson",
+    "category": "charcuterie",
+    "description": "Saucisson de gros diamètre originaire d'Italie, à base de porc haché finement, de sel et d'épices diverses.",
+    "buying_guide": "La chair doit être compacte. Le 'Milano' est le plus classique avec son hachage fin 'grain de riz'.",
+    "storage_guide": "Au frais. Protéger l'entame pour éviter qu'il ne s'assèche.",
+    "prep_guide": "Tranché très fin pour les plateaux de charcuterie ou les pizzas.",
+    "nutrition_info": "Riche en sodium et lipides.",
+    "texture": "Ferme mais élastique.",
+    "image_filename": "salami.webp",
+    "variant_images": [
+      "salami-milano.webp"
+    ],
+    "functional_categories": [
+      "apéritif",
+      "sandwich"
+    ],
+    "tags": [
+      "italie",
+      "hachage-fin",
+      "classique"
+    ],
+    "specific_data": {
+      "pays_origine": "Italie",
+      "type_viande": "Porc",
+      "conservation": "Séchage",
+      "affinage": "1 à 3 mois"
+    }
+  },
+  {
+    "name": "Saucisse de Francfort (Knack)",
+    "scientific_name": "Farcimen francofurtanum",
+    "glossary_term": "Saucisse de Strasbourg",
+    "category": "charcuterie",
+    "description": "Saucisse de couleur ocre, fumée au bois de hêtre. Elle doit son nom au bruit ('knack') qu'elle fait sous la dent.",
+    "buying_guide": "La peau doit être tendue et brillante. Privilégier le boyau naturel pour le craquant.",
+    "storage_guide": "4 à 5 jours au frais dans son liquide.",
+    "prep_guide": "Simplement réchauffée dans l'eau frémissante (ne pas faire bouillir pour éviter qu'elle n'éclate).",
+    "nutrition_info": "Consommation modérée (contient souvent des nitrites pour la couleur).",
+    "texture": "Très lisse et craquante.",
+    "image_filename": "knack.webp",
+    "variant_images": [
+      "saucisse-francfort.webp"
+    ],
+    "functional_categories": [
+      "enfant",
+      "choucroute"
+    ],
+    "tags": [
+      "fumé",
+      "alsace",
+      "rapide"
+    ],
+    "specific_data": {
+      "pays_origine": "Allemagne / France (Alsace)",
+      "type_viande": "Porc / Bœuf",
+      "conservation": "Fumage et pré-cuisson",
+      "affinage": "Aucun"
+    }
+  },
+  {
+    "name": "Andouille de Guémené",
+    "scientific_name": "Chorda (Suis scrofa)",
+    "glossary_term": "Andouille fumée",
+    "category": "charcuterie",
+    "description": "Charcuterie bretonne faite de chaudins (boyaux) de porc enfilés les uns sur les autres, fumés puis cuits à l'eau.",
+    "buying_guide": "Reconnaissable à ses cercles concentriques à la coupe. Doit avoir une forte odeur de fumée.",
+    "storage_guide": "Se conserve longtemps au frais (2 à 3 semaines).",
+    "prep_guide": "Froide en tranches ou tiédie sur une galette de sarrasin.",
+    "nutrition_info": "Riche en goût, teneur en graisse modérée par la cuisson longue.",
+    "texture": "Ferme, élastique et croquante.",
+    "image_filename": "andouille-guemene.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "terroir",
+      "bretagne"
+    ],
+    "tags": [
+      "fumé",
+      "boyaux",
+      "authentique"
+    ],
+    "specific_data": {
+      "pays_origine": "France (Bretagne)",
+      "type_viande": "Porc",
+      "conservation": "Fumage intensif et cuisson",
+      "affinage": "Plusieurs semaines"
+    }
+  },
+  {
+    "name": "Lardo di Colonnata",
+    "scientific_name": "Adeps (Suis scrofa)",
+    "glossary_term": "Lard de marbre",
+    "category": "charcuterie",
+    "description": "Gras de dos de porc affiné dans des vasques de marbre avec du sel, du poivre et des herbes aromatiques.",
+    "buying_guide": "Doit être d'un blanc pur ou légèrement rosé, très parfumé.",
+    "storage_guide": "Au frais, bien emballé.",
+    "prep_guide": "Tranché de façon presque transparente sur du pain chaud ou autour d'une noix de Saint-Jacques.",
+    "nutrition_info": "Lipides purs, mais d'une qualité gastronomique exceptionnelle.",
+    "texture": "Fondante comme du beurre.",
+    "image_filename": "lardo-colonnata.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "prestige",
+      "italie"
+    ],
+    "tags": [
+      "gras-noble",
+      "marbre",
+      "exception"
+    ],
+    "specific_data": {
+      "pays_origine": "Italie (Toscane)",
+      "type_viande": "Porc (Gras)",
+      "conservation": "Salage en cuve de marbre",
+      "affinage": "6 mois minimum"
+    }
+  }
+]

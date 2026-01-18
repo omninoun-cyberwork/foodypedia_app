@@ -1,0 +1,756 @@
+[
+  {
+    "name": "Anguille",
+    "scientific_name": "Anguilla anguilla",
+    "glossary_term": "Poisson serpentiforme",
+    "category": "poisson",
+    "description": "Poisson gras à corps allongé, vivant en eau douce et en mer. Sa chair est très fine et riche.",
+    "seasonality": "Mai à Septembre",
+    "buying_guide": "La peau doit être très visqueuse et brillante, le corps ferme. En découpe, la chair doit être rosée.",
+    "storage_guide": "Très périssable, à consommer rapidement.",
+    "prep_guide": "Nécessite souvent d'être dépouillée (retirer la peau) avant cuisson.",
+    "nutrition_info": "230 kcal/100g, riche en Vitamine A et D.",
+    "texture": "Grasse, tendre et fondante.",
+    "image_filename": "anguille.webp",
+    "variant_images": [
+      "Anguille_decoupe.webp"
+    ],
+    "functional_categories": [
+      "gras",
+      "rivière"
+    ],
+    "tags": [
+      "tradition",
+      "riche"
+    ],
+    "specific_data": {
+      "type_eau": "Amphihalin",
+      "famille_biologique": "Anguillidae"
+    }
+  },
+  {
+    "name": "Bar (Loup de Mer)",
+    "scientific_name": "Dicentrarchus labrax",
+    "glossary_term": "Bar commun",
+    "category": "poisson",
+    "description": "Poisson noble par excellence, le Bar (appelé Loup en Méditerranée) offre une chair blanche et délicate.",
+    "seasonality": "Printemps / Été",
+    "buying_guide": "Œil vif et bombé, ouïes rouges, corps rigide. Le filet doit être nacré.",
+    "storage_guide": "48h au frais sous film.",
+    "prep_guide": "Délicieux grillé entier ou poêlé côté peau pour les filets.",
+    "nutrition_info": "100 kcal/100g.",
+    "texture": "Ferme et fine.",
+    "image_filename": "Bar.webp",
+    "variant_images": [
+      "Bar_filet.webp",
+      "LoupDeMer_filet.webp"
+    ],
+    "functional_categories": [
+      "noble",
+      "maigre"
+    ],
+    "tags": [
+      "gastronomie",
+      "méditerranéen"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Moronidae"
+    }
+  },
+  {
+    "name": "Brochet",
+    "scientific_name": "Esox lucius",
+    "glossary_term": "Carnassier",
+    "category": "poisson",
+    "description": "Grand prédateur d'eau douce à la chair maigre et très estimée, malgré ses nombreuses arêtes.",
+    "seasonality": "Mai à Janvier",
+    "buying_guide": "Le mucus sur la peau doit être clair et translucide. Chair très ferme en filet.",
+    "storage_guide": "Au frais, à consommer rapidement.",
+    "prep_guide": "Souvent préparé en quenelles pour contourner le problème des arêtes en 'Y'.",
+    "nutrition_info": "90 kcal/100g, très peu gras.",
+    "texture": "Sèche et serrée.",
+    "image_filename": "Brochet.webp",
+    "variant_images": [
+      "Brochet_filet.webp"
+    ],
+    "functional_categories": [
+      "rivière",
+      "maigre"
+    ],
+    "tags": [
+      "carnassier",
+      "sportif"
+    ],
+    "specific_data": {
+      "type_eau": "Douce",
+      "famille_biologique": "Esocidae"
+    }
+  },
+  {
+    "name": "Cabillaud",
+    "scientific_name": "Gadus morhua",
+    "glossary_term": "Morue fraîche",
+    "category": "poisson",
+    "description": "Poisson des eaux froides, c'est le roi des étals pour sa polyvalence en cuisine.",
+    "seasonality": "Hiver / Printemps",
+    "buying_guide": "Chair d'un blanc pur, sans reflet jaune, texture élastique sous le doigt.",
+    "storage_guide": "24h au frais.",
+    "prep_guide": "Cuisiner à la vapeur ou en fish & chips.",
+    "nutrition_info": "80 kcal/100g.",
+    "texture": "S'effeuille facilement à la cuisson.",
+    "image_filename": "Cabillaud.webp",
+    "variant_images": [
+      "Cabillaud_filet.webp",
+      "Morue_filet.webp"
+    ],
+    "functional_categories": [
+      "maigre",
+      "atlantique"
+    ],
+    "tags": [
+      "polyvalent",
+      "blanc"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Gadidae"
+    }
+  },
+  {
+    "name": "Carpe",
+    "scientific_name": "Cyprinus carpio",
+    "glossary_term": "Poisson de fond",
+    "category": "poisson",
+    "description": "Poisson d'eau douce robuste, central dans de nombreuses traditions culinaires d'Europe de l'Est.",
+    "seasonality": "Automne / Hiver",
+    "buying_guide": "Écailles brillantes, odeur de vase absente. Filet bien rosé.",
+    "storage_guide": "Peut être conservée 2 jours au frais.",
+    "prep_guide": "Peut être mise à dégorger dans l'eau claire pour atténuer le goût de terre.",
+    "nutrition_info": "120 kcal/100g.",
+    "texture": "Moelleuse et assez grasse.",
+    "image_filename": "Carpe.webp",
+    "variant_images": [
+      "Carpe_filet.webp"
+    ],
+    "functional_categories": [
+      "rivière",
+      "tradition"
+    ],
+    "tags": [
+      "étang",
+      "robuste"
+    ],
+    "specific_data": {
+      "type_eau": "Douce",
+      "famille_biologique": "Cyprinidae"
+    }
+  },
+  {
+    "name": "Carrelet (Plaice)",
+    "scientific_name": "Pleuronectes platessa",
+    "glossary_term": "Poisson plat",
+    "category": "poisson",
+    "description": "Poisson plat reconnaissable à ses taches orange vif sur une peau sombre.",
+    "seasonality": "Mai à Octobre",
+    "buying_guide": "Les taches orange doivent être bien nettes et brillantes.",
+    "storage_guide": "Très fragile, à cuisiner vite.",
+    "prep_guide": "Souvent cuisiné entier à la meunière ou en filet vapeur.",
+    "nutrition_info": "85 kcal/100g.",
+    "texture": "Tendre et fine.",
+    "image_filename": "carrelet.webp",
+    "variant_images": [
+      "Carrelet_filet.webp"
+    ],
+    "functional_categories": [
+      "plat",
+      "maigre"
+    ],
+    "tags": [
+      "atlantique",
+      "taches-orange"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Pleuronectidae"
+    }
+  },
+  {
+    "name": "Espadon",
+    "scientific_name": "Xiphias gladius",
+    "glossary_term": "Poisson pélagique",
+    "category": "poisson",
+    "description": "Grand poisson de haute mer, sa chair ressemble à un steak de viande par sa densité.",
+    "seasonality": "Juillet à Octobre",
+    "buying_guide": "La tranche doit être bien humide, sans zones brunâtres autour de l'arête centrale.",
+    "storage_guide": "Supporte bien 2-3 jours au frais.",
+    "prep_guide": "Idéal pour les grillades au barbecue ou en brochettes.",
+    "nutrition_info": "120 kcal/100g, riche en sélénium.",
+    "texture": "Ferme, dense et non friable.",
+    "image_filename": "espadon.webp",
+    "variant_images": [
+      "Espadon_filet.webp"
+    ],
+    "functional_categories": [
+      "charnu",
+      "pélagique"
+    ],
+    "tags": [
+      "steak-de-mer",
+      "grillade"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Xiphiidae"
+    }
+  },
+  {
+    "name": "Esturgeon",
+    "scientific_name": "Acipenser sturio",
+    "glossary_term": "Poisson à caviar",
+    "category": "poisson",
+    "description": "Poisson préhistorique sans écailles, célèbre pour ses œufs mais délicieux pour sa chair ferme.",
+    "seasonality": "Toute l'année (élevage)",
+    "buying_guide": "Chair très blanche et compacte. La peau doit être rugueuse mais saine.",
+    "storage_guide": "Se garde bien au frais.",
+    "prep_guide": "Sa chair ne se défait pas à la cuisson, idéale en sauce ou braisée.",
+    "nutrition_info": "135 kcal/100g.",
+    "texture": "Croquante et très ferme.",
+    "image_filename": "Esturgeon.webp",
+    "variant_images": [
+      "Esturgeon_filet.webp"
+    ],
+    "functional_categories": [
+      "noble",
+      "insolite"
+    ],
+    "tags": [
+      "caviar",
+      "ferme"
+    ],
+    "specific_data": {
+      "type_eau": "Amphihalin",
+      "famille_biologique": "Acipenseridae"
+    }
+  },
+  {
+    "name": "Julienne (Lingue)",
+    "scientific_name": "Molva molva",
+    "glossary_term": "Poisson blanc",
+    "category": "poisson",
+    "description": "Poisson de grand fond au corps très allongé. Sa chair est fine, pauvre en graisses et très appréciée en filets.",
+    "seasonality": "Février à Juillet",
+    "buying_guide": "Le filet doit être bien blanc, brillant et sans aucune odeur forte.",
+    "storage_guide": "Consommer sous 24h à 48h.",
+    "prep_guide": "Idéal pour les cuissons à la vapeur ou en papillote car sa chair est fragile.",
+    "nutrition_info": "85 kcal/100g, riche en protéines.",
+    "texture": "Souple et légère.",
+    "image_filename": "Julienne.webp",
+    "variant_images": [
+      "Julienne_filet.webp"
+    ],
+    "functional_categories": [
+      "maigre",
+      "atlantique"
+    ],
+    "tags": [
+      "blanc",
+      "léger"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Lotidae"
+    }
+  },
+  {
+    "name": "Limande",
+    "scientific_name": "Limanda limanda",
+    "glossary_term": "Poisson plat",
+    "category": "poisson",
+    "description": "Petit poisson plat proche de la sole mais beaucoup plus accessible. Sa chair est très délicate.",
+    "seasonality": "Octobre à Avril",
+    "buying_guide": "La peau doit être bien humide et les yeux ne doivent pas être ternes.",
+    "storage_guide": "Très fragile, à cuire le jour de l'achat.",
+    "prep_guide": "Cuisiner meunière (farinée et poêlée) ou à la vapeur.",
+    "nutrition_info": "80 kcal/100g.",
+    "texture": "Fine et fondante.",
+    "image_filename": "Limande.webp",
+    "variant_images": [
+      "Limande_filet.webp"
+    ],
+    "functional_categories": [
+      "plat",
+      "maigre"
+    ],
+    "tags": [
+      "accessible",
+      "finesse"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Pleuronectidae"
+    }
+  },
+  {
+    "name": "Maigre",
+    "scientific_name": "Argyrosomus regius",
+    "glossary_term": "Grogneur",
+    "category": "poisson",
+    "description": "Poisson noble cousin du bar, appelé ainsi car sa chair est particulièrement blanche et peu grasse.",
+    "seasonality": "Mai à Octobre",
+    "buying_guide": "Écailles larges et brillantes, corps rigide. Le filet doit être nacré.",
+    "storage_guide": "48h au frais.",
+    "prep_guide": "Excellent en tartare ou rôti au four avec des herbes.",
+    "nutrition_info": "90 kcal/100g.",
+    "texture": "Ferme et savoureuse.",
+    "image_filename": "Maigre.webp",
+    "variant_images": [
+      "Maigre_filet.webp"
+    ],
+    "functional_categories": [
+      "noble",
+      "maigre"
+    ],
+    "tags": [
+      "atlantique",
+      "gastronomie"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Sciaenidae"
+    }
+  },
+  {
+    "name": "Maquereau",
+    "scientific_name": "Scomber scombrus",
+    "glossary_term": "Poisson bleu",
+    "category": "poisson",
+    "description": "Poisson zébré emblématique, riche en bons lipides et au goût de caractère.",
+    "seasonality": "Février à Juillet",
+    "buying_guide": "Corps raide comme une barre de fer, couleurs irisées très vives.",
+    "storage_guide": "À consommer très frais ou mariné dans le vinaigre.",
+    "prep_guide": "Griller au barbecue ou au four pour faire fondre sa graisse.",
+    "nutrition_info": "190 kcal/100g, record d'Oméga-3.",
+    "texture": "Grasse et charnue.",
+    "image_filename": "Maquereau.webp",
+    "variant_images": [
+      "Maquereau_filet.webp"
+    ],
+    "functional_categories": [
+      "gras",
+      "oméga-3"
+    ],
+    "tags": [
+      "bleu",
+      "santé"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Scombridae"
+    }
+  },
+  {
+    "name": "Merlan",
+    "scientific_name": "Merlangius merlangus",
+    "glossary_term": "Poisson blanc",
+    "category": "poisson",
+    "description": "Poisson à chair très digeste, souvent recommandé pour les enfants et les régimes légers.",
+    "seasonality": "Janvier à Mars",
+    "buying_guide": "L'oeil doit occuper toute l'orbite, la peau doit être intacte.",
+    "storage_guide": "Consommer sous 24h.",
+    "prep_guide": "Très fragile à la cuisson, souvent préparé en friture ou pané.",
+    "nutrition_info": "70 kcal/100g, très léger.",
+    "texture": "Tendre et friable.",
+    "image_filename": "Merlan.webp",
+    "variant_images": [
+      "Merlan_filet.webp"
+    ],
+    "functional_categories": [
+      "maigre",
+      "digeste"
+    ],
+    "tags": [
+      "blanc",
+      "enfant"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Gadidae"
+    }
+  },
+  {
+    "name": "Mulet",
+    "scientific_name": "Mugil cephalus",
+    "glossary_term": "Muge",
+    "category": "poisson",
+    "description": "Poisson rustique vivant près des côtes. Ses œufs servent à fabriquer la célèbre Poutargue.",
+    "seasonality": "Automne / Hiver",
+    "buying_guide": "Corps bien ferme, écailles adhérentes. Éviter si l'odeur est trop terreuse.",
+    "storage_guide": "2 jours au réfrigérateur.",
+    "prep_guide": "Peut être cuisiné comme le bar, excellent grillé.",
+    "nutrition_info": "120 kcal/100g.",
+    "texture": "Ferme avec un goût prononcé.",
+    "image_filename": "Mulet.webp",
+    "variant_images": [
+      "Mulet_filet.webp"
+    ],
+    "functional_categories": [
+      "intermédiaire",
+      "poutargue"
+    ],
+    "tags": [
+      "iode",
+      "méditerranéen"
+    ],
+    "specific_data": {
+      "type_eau": "Saumâtre/Salée",
+      "famille_biologique": "Mugilidae"
+    }
+  },
+  {
+    "name": "Perche",
+    "scientific_name": "Perca fluviatilis",
+    "glossary_term": "Poisson d'eau douce",
+    "category": "poisson",
+    "description": "Petit carnassier de rivière dont les filets sont considérés comme un mets de choix.",
+    "seasonality": "Mai à Janvier",
+    "buying_guide": "Nageoires bien droites, corps musclé, opercule brillant.",
+    "storage_guide": "Au frais, à consommer rapidement.",
+    "prep_guide": "Généralement consommée en filets meunière ou frits.",
+    "nutrition_info": "90 kcal/100g.",
+    "texture": "Fine et serrée.",
+    "image_filename": "Perche.webp",
+    "variant_images": [
+      "Perche_filet.webp"
+    ],
+    "functional_categories": [
+      "rivière",
+      "maigre"
+    ],
+    "tags": [
+      "lac",
+      "finesse"
+    ],
+    "specific_data": {
+      "type_eau": "Douce",
+      "famille_biologique": "Percidae"
+    }
+  },
+  {
+    "name": "Raie",
+    "scientific_name": "Rajidae",
+    "glossary_term": "Poisson cartilagineux",
+    "category": "poisson",
+    "description": "Poisson plat sans arêtes (cartilage), dont on consomme principalement les ailes.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "L'aile ne doit pas dégager d'odeur d'ammoniaque (signe de manque de fraîcheur).",
+    "storage_guide": "Gagne à attendre 24h au frais pour que le cartilage s'assouplisse.",
+    "prep_guide": "Cuire au court-bouillon et servir avec du beurre noisette et des câpres.",
+    "nutrition_info": "90 kcal/100g.",
+    "texture": "Fibreuse et gélatineuse.",
+    "image_filename": "Raie.webp",
+    "variant_images": [
+      "Raie_filet.webp"
+    ],
+    "functional_categories": [
+      "sans-arête",
+      "cartilagineux"
+    ],
+    "tags": [
+      "typique",
+      "aile"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Rajidae"
+    }
+  },
+  {
+    "name": "Rouget-Barbet",
+    "scientific_name": "Mullus surmuletus",
+    "glossary_term": "Bécasse de mer",
+    "category": "poisson",
+    "description": "Petit poisson à la robe rouge éclatante, au goût très fin rappelant parfois le foie de volaille.",
+    "seasonality": "Août à Décembre",
+    "buying_guide": "Couleur rouge vif uniforme, oeil clair, corps très ferme.",
+    "storage_guide": "Très fragile, à consommer le jour même.",
+    "prep_guide": "On ne vide pas toujours les plus petits (consommés 'en robe de chambre').",
+    "nutrition_info": "115 kcal/100g.",
+    "texture": "Très tendre et parfumée.",
+    "image_filename": "Rouget.webp",
+    "variant_images": [
+      "Rouget_filet.webp"
+    ],
+    "functional_categories": [
+      "noble",
+      "méditerranéen"
+    ],
+    "tags": [
+      "rouge",
+      "gastronomie"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Mullidae"
+    }
+  },
+  {
+    "name": "Saint-Pierre",
+    "scientific_name": "Zeus faber",
+    "glossary_term": "Poisson noble",
+    "category": "poisson",
+    "description": "Poisson remarquable à sa tache noire sur le flanc (la 'marque du pouce'). Sa chair est l'une des plus estimées au monde.",
+    "seasonality": "Avril à Juillet / Octobre à Décembre",
+    "buying_guide": "La peau doit être visqueuse et brillante, la tache noire bien nette. Le filet doit être d'un blanc pur.",
+    "storage_guide": "Au frais, consommer sous 24h à 48h.",
+    "prep_guide": "Attention aux épines dorsales très pointues. Idéal poché ou poêlé doucement.",
+    "nutrition_info": "92 kcal/100g, très riche en protéines de haute qualité.",
+    "texture": "Ferme, dense et d'une finesse incomparable.",
+    "image_filename": "SaintPierre.webp",
+    "variant_images": [
+      "SaintPierre_filet.webp"
+    ],
+    "functional_categories": [
+      "noble",
+      "gastronomie"
+    ],
+    "tags": [
+      "premium",
+      "blanc"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Zeidae"
+    }
+  },
+  {
+    "name": "Sandre",
+    "scientific_name": "Sander lucioperca",
+    "glossary_term": "Carnassier de rivière",
+    "category": "poisson",
+    "description": "Le plus noble des poissons d'eau douce. Sa chair blanche et fine est dépourvue de goût de vase.",
+    "seasonality": "Mai à Janvier",
+    "buying_guide": "Corps rigide, écailles bien fixées. En filet, la chair ne doit pas présenter de zones jaunâtres.",
+    "storage_guide": "Se conserve bien 2 jours au réfrigérateur.",
+    "prep_guide": "Excellent cuit sur la peau pour garder le moelleux de la chair.",
+    "nutrition_info": "84 kcal/100g, très maigre.",
+    "texture": "Feuilletée, tendre et très peu fibreuse.",
+    "image_filename": "Sandre.webp",
+    "variant_images": [
+      "Sandre_filet.webp"
+    ],
+    "functional_categories": [
+      "rivière",
+      "noble"
+    ],
+    "tags": [
+      "finesse",
+      "lac"
+    ],
+    "specific_data": {
+      "type_eau": "Douce",
+      "famille_biologique": "Percidae"
+    }
+  },
+  {
+    "name": "Sardine",
+    "scientific_name": "Sardina pilchardus",
+    "glossary_term": "Poisson bleu",
+    "category": "poisson",
+    "description": "Petit poisson argenté, symbole de la cuisine estivale et champion de la nutrition.",
+    "seasonality": "Mai à Octobre",
+    "buying_guide": "L'œil doit être clair (non rouge), le corps très ferme et les écailles brillantes.",
+    "storage_guide": "Très fragile. À consommer idéalement le jour même de la pêche.",
+    "prep_guide": "Peuvent être grillées entières sans être vidées si elles sont très petites.",
+    "nutrition_info": "163 kcal/100g, riche en Oméga-3, Calcium et Vitamine D.",
+    "texture": "Grasse et fondante.",
+    "image_filename": "Sardine.webp",
+    "variant_images": [
+      "Sardine_filet.webp"
+    ],
+    "functional_categories": [
+      "gras",
+      "oméga-3"
+    ],
+    "tags": [
+      "bleu",
+      "barbecue"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Clupeidae"
+    }
+  },
+  {
+    "name": "Saumon",
+    "scientific_name": "Salmo salar",
+    "glossary_term": "Anadrome",
+    "category": "poisson",
+    "description": "Poisson gras très populaire, apprécié pour sa chair orangée et sa richesse nutritionnelle.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La chair doit être brillante, bien élastique, sans séparation des muscles.",
+    "storage_guide": "Au frais. Supporte très bien la congélation.",
+    "prep_guide": "Polyvalent : cru (sushi), cuit à l'unilatérale ou fumé.",
+    "nutrition_info": "200 kcal/100g, riche en acides gras essentiels.",
+    "texture": "Onctueuse, grasse et fondante.",
+    "image_filename": "Saumon_filet.webp",
+    "variant_images": [],
+    "functional_categories": [
+      "gras",
+      "populaire"
+    ],
+    "tags": [
+      "rose",
+      "oméga-3"
+    ],
+    "specific_data": {
+      "type_eau": "Amphihalin",
+      "famille_biologique": "Salmonidae"
+    }
+  },
+  {
+    "name": "Sole",
+    "scientific_name": "Solea solea",
+    "glossary_term": "Poisson plat",
+    "category": "poisson",
+    "description": "La reine des poissons plats. Une chair d'une grande distinction qui tient très bien à la cuisson.",
+    "seasonality": "Avril à Octobre",
+    "buying_guide": "Face ventrale bien blanche (non tachée), corps rigide et peau humide.",
+    "storage_guide": "Gagne en saveur après 24h de repos au frais.",
+    "prep_guide": "Classiquement préparée 'Meunière' (entière, farinée et poêlée au beurre).",
+    "nutrition_info": "80 kcal/100g.",
+    "texture": "Ferme, fine et courte.",
+    "image_filename": "Sole.webp",
+    "variant_images": [
+      "Sole_filet.webp"
+    ],
+    "functional_categories": [
+      "noble",
+      "maigre"
+    ],
+    "tags": [
+      "gastronomie",
+      "plat"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Soleidae"
+    }
+  },
+  {
+    "name": "Thon (Rouge/Albacore)",
+    "scientific_name": "Thunnus",
+    "glossary_term": "Poisson pélagique",
+    "category": "poisson",
+    "description": "Grand migrateur à sang chaud, offrant une chair rouge sombre proche de la viande bovine.",
+    "seasonality": "Juin à Octobre",
+    "buying_guide": "La chair doit être d'un rouge vif et uniforme, sans odeur acide.",
+    "storage_guide": "Se conserve 24h au frais, s'oxyde vite à l'air.",
+    "prep_guide": "À consommer cru ou juste saisi (snacké) pour ne pas assécher la chair.",
+    "nutrition_info": "140 kcal/100g, très riche en protéines.",
+    "texture": "Dense, charnue et musclée.",
+    "image_filename": "Thon.webp",
+    "variant_images": [
+      "Thon_filet.webp"
+    ],
+    "functional_categories": [
+      "charnu",
+      "noble"
+    ],
+    "tags": [
+      "steak",
+      "sportif"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Scombridae"
+    }
+  },
+  {
+    "name": "Truite",
+    "scientific_name": "Oncorhynchus mykiss",
+    "glossary_term": "Salmonidé",
+    "category": "poisson",
+    "description": "Cousine du saumon vivant en eau vive. Sa chair peut être blanche ou 'saumonée' selon son alimentation.",
+    "seasonality": "Mars à Septembre",
+    "buying_guide": "Peau très visqueuse, ouïes rose vif, corps arqués par la fraîcheur.",
+    "storage_guide": "24h au frais.",
+    "prep_guide": "Délicieuse cuite 'au bleu' ou simplement aux amandes.",
+    "nutrition_info": "110 kcal/100g.",
+    "texture": "Tendre et délicate.",
+    "image_filename": "Truite.webp",
+    "variant_images": [
+      "Truite_filet.webp"
+    ],
+    "functional_categories": [
+      "rivière",
+      "intermédiaire"
+    ],
+    "tags": [
+      "montagne",
+      "frais"
+    ],
+    "specific_data": {
+      "type_eau": "Douce/Saumâtre",
+      "famille_biologique": "Salmonidae"
+    }
+  },
+  {
+    "name": "Turbot",
+    "scientific_name": "Scophthalmus maximus",
+    "glossary_term": "Grand poisson plat",
+    "category": "poisson",
+    "description": "Le plus prestigieux des poissons plats, reconnaissable à sa forme de losange et ses tubercules osseux.",
+    "seasonality": "Printemps / Été",
+    "buying_guide": "Peau bien brillante et gluante. La chair doit être épaisse et ferme.",
+    "storage_guide": "2 à 3 jours au frais sans problème.",
+    "prep_guide": "Idéalement cuit entier dans une turbotière pour préserver son moelleux.",
+    "nutrition_info": "95 kcal/100g, riche en magnésium.",
+    "texture": "Ferme, serrée et très onctueuse.",
+    "image_filename": "Turbot.webp",
+    "variant_images": [
+      "Turbot_filet.webp"
+    ],
+    "functional_categories": [
+      "noble",
+      "fêtes"
+    ],
+    "tags": [
+      "prestigieux",
+      "plat"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Scophthalmidae"
+    }
+  },
+  {
+    "name": "Vivaneau",
+    "scientific_name": "Lutjanus campechanus",
+    "glossary_term": "Red Snapper",
+    "category": "poisson",
+    "description": "Poisson tropical à la robe rose-rouge vif, très populaire dans les cuisines exotiques.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "L'oeil doit être clair et rougeoyant, les écailles bien dures et brillantes.",
+    "storage_guide": "48h au frais.",
+    "prep_guide": "Excellent grillé entier au barbecue ou en papillote façon créole.",
+    "nutrition_info": "100 kcal/100g.",
+    "texture": "Ferme et moyennement feuilletée.",
+    "image_filename": "vivaneau.webp",
+    "variant_images": [
+      "Vivaneaux_filet.webp"
+    ],
+    "functional_categories": [
+      "exotique",
+      "noble"
+    ],
+    "tags": [
+      "tropical",
+      "couleur"
+    ],
+    "specific_data": {
+      "type_eau": "Salée",
+      "famille_biologique": "Lutjanidae"
+    }
+  }
+]

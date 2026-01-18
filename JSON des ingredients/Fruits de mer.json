@@ -1,0 +1,566 @@
+[
+  {
+    "name": "Araignée de mer",
+    "scientific_name": "Maja squinado",
+    "glossary_term": "Crustacé décapode",
+    "category": "fruit-de-mer",
+    "description": "Crustacé à carapace épineuse, réputé pour avoir une chair plus fine et plus parfumée que celle du tourteau.",
+    "seasonality": "Avril à Août",
+    "buying_guide": "Privilégier un spécimen lourd (les femelles sont souvent plus charnues). Vivante, elle doit agiter ses pattes.",
+    "storage_guide": "À cuire le jour même. Se conserve 24h cuite au frais.",
+    "prep_guide": "Cuire au court-bouillon (15-20 min). Demande de la patience pour le décorticage des pattes fines.",
+    "nutrition_info": "82 kcal/100g, très riche en zinc et en iode.",
+    "texture": "Chair très fine, délicate et légèrement fibreuse.",
+    "image_filename": "araignee-de-mer.webp",
+    "functional_categories": [
+      "crustacé",
+      "plateau"
+    ],
+    "tags": [
+      "finesse",
+      "atlantique"
+    ],
+    "specific_data": {
+      "type": "Crustacé",
+      "famille_biologique": "Majidae"
+    }
+  },
+  {
+    "name": "Bigorneau",
+    "scientific_name": "Littorina littorea",
+    "glossary_term": "Gastéropode",
+    "category": "fruit-de-mer",
+    "description": "Petit escargot de mer à coquille noire spiralée, grand classique des plateaux de fruits de mer.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Doit être lourd et bien fermé par son opercule. S'il est vendu cuit, il ne doit pas avoir d'odeur forte.",
+    "storage_guide": "48h au frais, sous un linge humide.",
+    "prep_guide": "Laver plusieurs fois à l'eau claire. Cuire dans un court-bouillon très poivré.",
+    "nutrition_info": "105 kcal/100g, très riche en magnésium et fer.",
+    "texture": "Ferme et un peu caoutchouteuse.",
+    "image_filename": "bigorneau.webp",
+    "functional_categories": [
+      "coquillage",
+      "apéritif"
+    ],
+    "tags": [
+      "iode",
+      "classique"
+    ],
+    "specific_data": {
+      "type": "Gastéropode",
+      "famille_biologique": "Littorinidae"
+    }
+  },
+  {
+    "name": "Bulot (Buccin)",
+    "scientific_name": "Buccinum undatum",
+    "glossary_term": "Escargot de mer",
+    "category": "fruit-de-mer",
+    "description": "Gros gastéropode à coquille blonde, très apprécié pour sa chair charnue.",
+    "seasonality": "Février à Août",
+    "buying_guide": "Vivant, il doit se rétracter au toucher. La coquille doit être intacte.",
+    "storage_guide": "2 jours maximum au réfrigérateur.",
+    "prep_guide": "Faire dégorger dans de l'eau salée pour éliminer le sable, puis cuire à l'eau bouillante aromatisée.",
+    "nutrition_info": "90 kcal/100g, riche en protéines et pauvre en lipides.",
+    "texture": "Très ferme et dense.",
+    "image_filename": "bulot.webp",
+    "functional_categories": [
+      "coquillage",
+      "plateau"
+    ],
+    "tags": [
+      "normandie",
+      "incontournable"
+    ],
+    "specific_data": {
+      "type": "Gastéropode",
+      "famille_biologique": "Buccinidae"
+    }
+  },
+  {
+    "name": "Calamar (Encornet)",
+    "scientific_name": "Teuthida",
+    "glossary_term": "Céphalopode",
+    "category": "fruit-de-mer",
+    "description": "Mollusque à corps allongé possédant une plume interne. Très polyvalent en cuisine.",
+    "seasonality": "Septembre à Décembre",
+    "buying_guide": "La peau doit être brillante, la chair bien blanche sous la membrane. L'odeur doit être celle de la marée fraîche.",
+    "storage_guide": "1 à 2 jours au frais. Supporte extrêmement bien la congélation.",
+    "prep_guide": "Retirer la plume, les viscères, le bec et la peau. Couper en anneaux ou garder entier pour farcir.",
+    "nutrition_info": "85 kcal/100g, riche en sélénium.",
+    "texture": "Souple, devient caoutchouteuse si trop cuite.",
+    "image_filename": "calamar.webp",
+    "variant_images": [
+      "encornet.webp"
+    ],
+    "functional_categories": [
+      "céphalopode",
+      "méditerranéen"
+    ],
+    "tags": [
+      "encre",
+      "friture"
+    ],
+    "specific_data": {
+      "type": "Mollusque",
+      "famille_biologique": "Loliginidae"
+    }
+  },
+  {
+    "name": "Cigale de mer",
+    "scientific_name": "Scyllaridae",
+    "glossary_term": "Crustacé plat",
+    "category": "fruit-de-mer",
+    "description": "Crustacé rare sans pinces, à la forme plate, vivant dans les fonds rocheux. Sa chair est proche de celle de la langouste.",
+    "seasonality": "Mai à Septembre",
+    "buying_guide": "Très rare sur les étals. Doit être bien lourde et la queue doit se replier vivement.",
+    "storage_guide": "Consommer immédiatement après achat.",
+    "prep_guide": "Cuisiner principalement la queue, grillée à la planche ou pochée.",
+    "nutrition_info": "95 kcal/100g.",
+    "texture": "Ferme, charnue et très raffinée.",
+    "image_filename": "cigale-de-mer.webp",
+    "functional_categories": [
+      "crustacé",
+      "noble"
+    ],
+    "tags": [
+      "rare",
+      "méditerranéen"
+    ],
+    "specific_data": {
+      "type": "Crustacé",
+      "famille_biologique": "Scyllaridae"
+    }
+  },
+  {
+    "name": "Coquille Saint-Jacques",
+    "scientific_name": "Pecten maximus",
+    "glossary_term": "Bivalve",
+    "category": "fruit-de-mer",
+    "description": "Reine des coquillages, elle est prisée pour sa noix charnue et son corail savoureux.",
+    "seasonality": "Octobre à Mai (Pêche réglementée)",
+    "buying_guide": "La coquille doit être lourde et bien fermée. Si elle est entrouverte, elle doit se fermer brusquement au toucher.",
+    "storage_guide": "Jusqu'à 3 jours au frais, à plat (coquille bombée vers le bas).",
+    "prep_guide": "Ouvrir avec un couteau, nettoyer la noix sous un filet d'eau pour enlever le sable.",
+    "nutrition_info": "85 kcal/100g, riche en vitamine B12.",
+    "texture": "Beurrée, fondante et très délicate.",
+    "image_filename": "saint-jacques.webp",
+    "functional_categories": [
+      "coquillage",
+      "noble"
+    ],
+    "tags": [
+      "gastronomie",
+      "fêtes"
+    ],
+    "specific_data": {
+      "type": "Bivalve",
+      "famille_biologique": "Pectinidae"
+    }
+  },
+  {
+    "name": "Couteau",
+    "scientific_name": "Ensis magnus",
+    "glossary_term": "Bivalve allongé",
+    "category": "fruit-de-mer",
+    "description": "Coquillage à la forme de manche de couteau vivant enfoui dans le sable des plages.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Le pied du coquillage doit être visible et se rétracter quand on le touche.",
+    "storage_guide": "48h au frais, serrés dans un linge pour qu'ils ne s'ouvrent pas.",
+    "prep_guide": "Indispensable de bien les faire dégorger dans l'eau salée pour retirer le sable. Cuisson rapide à la poêle.",
+    "nutrition_info": "78 kcal/100g.",
+    "texture": "Ferme, presque croquante.",
+    "image_filename": "couteau.webp",
+    "functional_categories": [
+      "coquillage",
+      "plancha"
+    ],
+    "tags": [
+      "sable",
+      "atlantique"
+    ],
+    "specific_data": {
+      "type": "Bivalve",
+      "famille_biologique": "Pharidae"
+    }
+  },
+  {
+    "name": "Crabe (Tourteau)",
+    "scientific_name": "Cancer pagurus",
+    "glossary_term": "Dormeur",
+    "category": "fruit-de-mer",
+    "description": "Gros crustacé à carapace brune, célèbre pour ses pinces puissantes et sa chair abondante.",
+    "seasonality": "Mai à Novembre",
+    "buying_guide": "Doit être lourd pour sa taille (signe qu'il est plein). Vivant, il doit être vigoureux.",
+    "storage_guide": "À cuire le jour de l'achat. Se conserve 24h cuit au frais.",
+    "prep_guide": "Cuire dans un grand volume d'eau salée (20 min par kilo).",
+    "nutrition_info": "100 kcal/100g, riche en zinc.",
+    "texture": "Filetée dans les pinces, crémeuse dans le coffre.",
+    "image_filename": "Crabe.webp",
+    "variant_images": [
+      "tourteau.webp"
+    ],
+    "functional_categories": [
+      "crustacé",
+      "plateau"
+    ],
+    "tags": [
+      "mer-du-nord",
+      "pinces"
+    ],
+    "specific_data": {
+      "type": "Crustacé",
+      "famille_biologique": "Cancridae"
+    }
+  },
+  {
+    "name": "Crevette Rose",
+    "scientific_name": "Palaemon serratus",
+    "glossary_term": "Bouquet",
+    "category": "fruit-de-mer",
+    "description": "Petit crustacé très populaire, consommé à toutes les sauces dans le monde entier.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Corps ferme, tête bien attachée, odeur fraîche. Éviter les taches noires sur la tête.",
+    "storage_guide": "Très fragile, consommer sous 24h.",
+    "prep_guide": "Décortiquer. Retirer le boyau noir pour les plus grosses spécimens.",
+    "nutrition_info": "95 kcal/100g, riche en protéines.",
+    "texture": "Croquante et ferme.",
+    "image_filename": "crevette-rose.webp",
+    "variant_images": [
+      "crevette-cuite.webp"
+    ],
+    "functional_categories": [
+      "crustacé",
+      "apéritif"
+    ],
+    "tags": [
+      "mondial",
+      "iode"
+    ],
+    "specific_data": {
+      "type": "Crustacé",
+      "famille_biologique": "Palaemonidae"
+    }
+  },
+  {
+    "name": "Gambas",
+    "scientific_name": "Penaeus",
+    "glossary_term": "Grande crevette",
+    "category": "fruit-de-mer",
+    "description": "Crevette de grande taille, souvent issue des mers chaudes, idéale pour les grillades.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Carapace bien brillante et dure, sans trace d'ammoniaque.",
+    "storage_guide": "Au frais ou congelé.",
+    "prep_guide": "Peut être grillée entière avec la carapace pour garder le jus.",
+    "nutrition_info": "100 kcal/100g.",
+    "texture": "Charnue et ferme.",
+    "image_filename": "gambas.webp",
+    "functional_categories": [
+      "crustacé",
+      "barbecue"
+    ],
+    "tags": [
+      "grillade",
+      "exotique"
+    ],
+    "specific_data": {
+      "type": "Crustacé",
+      "famille_biologique": "Penaeidae"
+    }
+  },
+  {
+    "name": "Homard Bleu",
+    "scientific_name": "Homarus gammarus",
+    "glossary_term": "Prince des mers",
+    "category": "fruit-de-mer",
+    "description": "Le plus prestigieux des crustacés européens, reconnaissable à sa couleur sombre aux reflets bleus (qui devient rouge à la cuisson).",
+    "seasonality": "Mai à Août",
+    "buying_guide": "Doit être vivant et très combatif. Replie violemment sa queue sous son corps.",
+    "storage_guide": "24h au frais entouré d'algues ou d'un linge humide.",
+    "prep_guide": "Cuisson au court-bouillon ou grillé coupé en deux.",
+    "nutrition_info": "90 kcal/100g, riche en iode et vitamine E.",
+    "texture": "Ferme, serrée et très fine.",
+    "image_filename": "homard.webp",
+    "functional_categories": [
+      "crustacé",
+      "noble"
+    ],
+    "tags": [
+      "prestige",
+      "bretagne"
+    ],
+    "specific_data": {
+      "type": "Crustacé",
+      "famille_biologique": "Nephropidae"
+    }
+  },
+  {
+    "name": "Huître",
+    "scientific_name": "Crassostrea gigas",
+    "glossary_term": "Bivalve",
+    "category": "fruit-de-mer",
+    "description": "Mollusque d'élevage (ostréiculture) consommé majoritairement cru pour son goût iodé unique.",
+    "seasonality": "Septembre à Avril (les mois en 'R')",
+    "buying_guide": "La coquille doit être fermée et contenir de l'eau. Lourde pour sa taille.",
+    "storage_guide": "Au frais (5-10°C), à plat, jusqu'à 5-7 jours après la récolte.",
+    "prep_guide": "Ouvrir avec un couteau lancé au dernier moment. Jeter l'eau de la première ouverture.",
+    "nutrition_info": "60 kcal/100g, championne du zinc et du sélénium.",
+    "texture": "Aqueuse, charnue et parfois lactée selon la saison.",
+    "image_filename": "huitre.webp",
+    "functional_categories": [
+      "coquillage",
+      "noble"
+    ],
+    "tags": [
+      "cru",
+      "iode"
+    ],
+    "specific_data": {
+      "type": "Bivalve",
+      "famille_biologique": "Ostreidae"
+    }
+  },
+  {
+    "name": "Langouste",
+    "scientific_name": "Palinurus elephas",
+    "glossary_term": "Crustacé sans pinces",
+    "category": "fruit-de-mer",
+    "description": "Grand crustacé marcheur sans pinces, mais doté de longues antennes. Sa chair est très recherchée.",
+    "seasonality": "Juin à Septembre",
+    "buying_guide": "Vérifier la vivacité (mouvement des antennes et de la queue).",
+    "storage_guide": "Cuisiner le jour même de l'achat.",
+    "prep_guide": "Principalement la queue qui contient l'essentiel de la chair.",
+    "nutrition_info": "100 kcal/100g.",
+    "texture": "Plus ferme et moins fibreuse que le homard.",
+    "image_filename": "langouste.webp",
+    "functional_categories": [
+      "crustacé",
+      "noble"
+    ],
+    "tags": [
+      "premium",
+      "fêtes"
+    ],
+    "specific_data": {
+      "type": "Crustacé",
+      "famille_biologique": "Palinuridae"
+    }
+  },
+  {
+    "name": "Langoustine",
+    "scientific_name": "Nephrops norvegicus",
+    "glossary_term": "Scampi",
+    "category": "fruit-de-mer",
+    "description": "Petit crustacé rose-orangé très délicat, dont la chair fine est particulièrement appréciée rôtie ou pochée.",
+    "seasonality": "Avril à Août",
+    "buying_guide": "L'œil doit être bien noir et brillant, la carapace rigide. Éviter les spécimens qui sentent l'ammoniaque.",
+    "storage_guide": "Extrêmement fragile. À consommer ou cuire dans les quelques heures après l'achat.",
+    "prep_guide": "Cuisson très rapide (2-3 min) à l'eau bouillante ou à la poêle.",
+    "nutrition_info": "90 kcal/100g, riche en iode et cuivre.",
+    "texture": "Fine, fondante et légèrement sucrée.",
+    "image_filename": "langoustine.webp",
+    "variant_images": [
+      "scampi.webp"
+    ],
+    "functional_categories": [
+      "crustacé",
+      "noble"
+    ],
+    "tags": [
+      "finesse",
+      "atlantique"
+    ],
+    "specific_data": {
+      "type": "Crustacé",
+      "famille_biologique": "Nephropidae"
+    }
+  },
+  {
+    "name": "Moule",
+    "scientific_name": "Mytilus edulis",
+    "glossary_term": "Bivalve",
+    "category": "fruit-de-mer",
+    "description": "Coquillage bivalve de couleur bleu-noir, élevé sur bouchots ou en pleine mer, pilier des brasseries.",
+    "seasonality": "Juillet à Janvier",
+    "buying_guide": "La coquille doit être fermée (ou se fermer au toucher). Elle doit être humide et brillante.",
+    "storage_guide": "Au frais (bas du frigo) sous un linge humide, jusqu'à 48h.",
+    "prep_guide": "Gratter et ébarber (retirer le byssus). Jeter les moules qui restent fermées après cuisson.",
+    "nutrition_info": "120 kcal/100g, très riche en fer et vitamine B12.",
+    "texture": "Moelleuse et légèrement élastique.",
+    "image_filename": "moule.webp",
+    "variant_images": [
+      "moule-de-bouchot.webp"
+    ],
+    "functional_categories": [
+      "coquillage",
+      "populaire"
+    ],
+    "tags": [
+      "frites",
+      "iode"
+    ],
+    "specific_data": {
+      "type": "Bivalve",
+      "famille_biologique": "Mytilidae"
+    }
+  },
+  {
+    "name": "Palourde",
+    "scientific_name": "Ruditapes decussatus",
+    "glossary_term": "Vongole",
+    "category": "fruit-de-mer",
+    "description": "Coquillage fouisseur à la coquille quadrillée, très prisé pour les pâtes ou les plateaux de fruits de mer.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Doit être bien fermée et lourde de son eau. La coquille ne doit pas être cassée.",
+    "storage_guide": "Dans le bac à légumes, enveloppée dans un torchon humide (2 jours).",
+    "prep_guide": "Laisser dégorger 2h dans de l'eau salée pour évacuer le sable.",
+    "nutrition_info": "75 kcal/100g, riche en fer.",
+    "texture": "Ferme et juteuse.",
+    "image_filename": "Palourde.webp",
+    "functional_categories": [
+      "coquillage",
+      "méditerranéen"
+    ],
+    "tags": [
+      "pâtes",
+      "gastronomie"
+    ],
+    "specific_data": {
+      "type": "Bivalve",
+      "famille_biologique": "Veneridae"
+    }
+  },
+  {
+    "name": "Pétoncle",
+    "scientific_name": "Chlamys varia",
+    "glossary_term": "Petite Saint-Jacques",
+    "category": "fruit-de-mer",
+    "description": "Petit frère de la coquille Saint-Jacques, au goût plus discret mais très apprécié en gratin ou poêlé.",
+    "seasonality": "Octobre à Mars",
+    "buying_guide": "Vendu souvent décoquillé. La noix doit être ferme et d'un blanc nacré.",
+    "storage_guide": "24h au frais.",
+    "prep_guide": "Cuisson très brève pour éviter que la noix ne devienne caoutchouteuse.",
+    "nutrition_info": "80 kcal/100g.",
+    "texture": "Tendre et délicate.",
+    "image_filename": "petoncle.webp",
+    "functional_categories": [
+      "coquillage",
+      "entrée"
+    ],
+    "tags": [
+      "petit",
+      "beurré"
+    ],
+    "specific_data": {
+      "type": "Bivalve",
+      "famille_biologique": "Pectinidae"
+    }
+  },
+  {
+    "name": "Poulpe",
+    "scientific_name": "Octopus vulgaris",
+    "glossary_term": "Pieuvre",
+    "category": "fruit-de-mer",
+    "description": "Céphalopode à huit bras, autrefois boudé, aujourd'hui star de la cuisine méditerranéenne et japonaise.",
+    "seasonality": "Septembre à Décembre",
+    "buying_guide": "La peau doit être brillante et glissante, les ventouses bien fermes.",
+    "storage_guide": "Supporte très bien la congélation (cela aide d'ailleurs à attendrir la chair).",
+    "prep_guide": "Nécessite une cuisson longue (bouilli) ou d'être battu pour attendrir les fibres.",
+    "nutrition_info": "82 kcal/100g, riche en vitamine B12.",
+    "texture": "Très ferme à la mâche, devient fondante après longue cuisson.",
+    "image_filename": "Poulpe.webp",
+    "functional_categories": [
+      "céphalopode",
+      "méditerranéen"
+    ],
+    "tags": [
+      "grillé",
+      "tapas"
+    ],
+    "specific_data": {
+      "type": "Mollusque",
+      "famille_biologique": "Octopodidae"
+    }
+  },
+  {
+    "name": "Praire",
+    "scientific_name": "Venus verrucosa",
+    "glossary_term": "Bivalve à côtes",
+    "category": "fruit-de-mer",
+    "description": "Coquillage à coquille épaisse et rugueuse, doté d'une chair très iodée et ferme.",
+    "seasonality": "Octobre à Avril",
+    "buying_guide": "Difficile à ouvrir, elle doit être parfaitement fermée à l'achat.",
+    "storage_guide": "Se conserve mieux que la moule grâce à sa coquille épaisse (3 jours au frais).",
+    "prep_guide": "Se consomme souvent crue avec un filet de citron.",
+    "nutrition_info": "70 kcal/100g.",
+    "texture": "Très ferme et charnue.",
+    "image_filename": "praire.webp",
+    "functional_categories": [
+      "coquillage",
+      "plateau"
+    ],
+    "tags": [
+      "iode",
+      "robuste"
+    ],
+    "specific_data": {
+      "type": "Bivalve",
+      "famille_biologique": "Veneridae"
+    }
+  },
+  {
+    "name": "Seiche",
+    "scientific_name": "Sepia officinalis",
+    "glossary_term": "Blanc de seiche",
+    "category": "fruit-de-mer",
+    "description": "Céphalopode cousin du calamar, dont on utilise le 'blanc' (le corps) et l'encre noire.",
+    "seasonality": "Mars à Mai / Septembre à Novembre",
+    "buying_guide": "Chair bien blanche et épaisse. Si entière, elle doit être brillante.",
+    "storage_guide": "24h au frais, ou congelée.",
+    "prep_guide": "Nettoyer en retirant l'os central et la poche d'encre (à garder pour les sauces).",
+    "nutrition_info": "75 kcal/100g.",
+    "texture": "Plus épaisse et plus ferme que le calamar.",
+    "image_filename": "seiche.webp",
+    "variant_images": [
+      "blanc-de-seiche.webp"
+    ],
+    "functional_categories": [
+      "céphalopode",
+      "méditerranéen"
+    ],
+    "tags": [
+      "plancha",
+      "encre"
+    ],
+    "specific_data": {
+      "type": "Mollusque",
+      "famille_biologique": "Sepiidae"
+    }
+  },
+  {
+    "name": "Telline",
+    "scientific_name": "Donax trunculus",
+    "glossary_term": "Petit coquillage",
+    "category": "fruit-de-mer",
+    "description": "Minuscule coquillage plat et coloré, très populaire en Provence pour l'apéritif.",
+    "seasonality": "Avril à Septembre",
+    "buying_guide": "Doivent être bien vivantes, se refermant dès qu'on les manipule.",
+    "storage_guide": "Au frais, à consommer rapidement.",
+    "prep_guide": "Dégorgeage long pour éliminer le sable. Saisir rapidement à l'ail et au persil.",
+    "nutrition_info": "65 kcal/100g.",
+    "texture": "Tendre et délicate.",
+    "image_filename": "telline.webp",
+    "functional_categories": [
+      "coquillage",
+      "apéritif"
+    ],
+    "tags": [
+      "provence",
+      "petit"
+    ],
+    "specific_data": {
+      "type": "Bivalve",
+      "famille_biologique": "Donacidae"
+    }
+  }
+]

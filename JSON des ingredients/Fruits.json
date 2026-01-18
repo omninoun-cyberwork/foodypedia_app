@@ -1,0 +1,1968 @@
+[
+  {
+    "name": "Abricot",
+    "scientific_name": "Prunus armeniaca",
+    "glossary_term": "Abricot",
+    "category": "fruit",
+    "description": "Petit fruit à noyau, à la peau veloutée jaune-orangé, apprécié pour sa saveur douce et sa richesse en bêta-carotène.",
+    "seasonality": "Juin à Août",
+    "buying_guide": "Choisir un fruit souple au toucher, parfumé et sans taches brunes.",
+    "storage_guide": "À température ambiante si ferme, au frais si très mûr. Consommer rapidement.",
+    "prep_guide": "Laver, ouvrir en deux et retirer le noyau.",
+    "nutrition_info": "48 kcal/100g, riche en Vitamine A et Potassium.",
+    "texture": "Chair tendre et légèrement farineuse à maturité.",
+    "image_filename": "abricot.webp",
+    "functional_categories": [
+      "cru",
+      "pâtisserie"
+    ],
+    "tags": [
+      "été",
+      "terroir"
+    ],
+    "specific_data": {
+      "composition": "Eau 86%, Glucides 9%",
+      "famille_botanique": "Rosaceae"
+    }
+  },
+  {
+    "name": "Abricot sec",
+    "scientific_name": "Prunus armeniaca L.",
+    "glossary_term": "Abricot sec",
+    "category": "fruit",
+    "description": "Version déshydratée de l'abricot, concentrant sucres et minéraux.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Préférer les abricots bruns (séchés naturellement sans sulfites).",
+    "storage_guide": "Dans un contenant hermétique, au sec et à l'abri de la lumière.",
+    "prep_guide": "Se consomme tel quel ou réhydraté dans l'eau.",
+    "nutrition_info": "241 kcal/100g, très riche en fer et fibres.",
+    "texture": "Moelleuse et collante.",
+    "image_filename": "abricot_sec.webp",
+    "functional_categories": [
+      "énergie",
+      "snack"
+    ],
+    "tags": [
+      "sec"
+    ],
+    "specific_data": {
+      "composition": "Fibres 7g, Glucides 53%",
+      "famille_botanique": "Rosaceae"
+    }
+  },
+  {
+    "name": "Açaï",
+    "scientific_name": "Euterpe oleracea",
+    "glossary_term": "Açaï",
+    "category": "fruit",
+    "description": "Petite baie pourpre issue d'un palmier amazonien, reconnue comme super-aliment.",
+    "seasonality": "Toute l'année (souvent en poudre ou pulpe)",
+    "buying_guide": "Souvent disponible sous forme de pulpe surgelée ou poudre.",
+    "storage_guide": "Congélateur pour la pulpe.",
+    "prep_guide": "Mixer en 'Açaï bowl' avec d'autres fruits.",
+    "nutrition_info": "60 kcal/100g, riche en antioxydants.",
+    "texture": "Chair fine, noyau volumineux.",
+    "image_filename": "acai.webp",
+    "functional_categories": [
+      "super-aliment",
+      "exotique"
+    ],
+    "tags": [
+      "amazonie",
+      "santé"
+    ],
+    "specific_data": {
+      "composition": "Antioxydants records",
+      "famille_botanique": "Arecaceae"
+    }
+  },
+  {
+    "name": "Ackee",
+    "scientific_name": "Blighia sapida",
+    "glossary_term": "Akee",
+    "category": "fruit",
+    "description": "Fruit national de la Jamaïque, doit être consommé mûr sous peine de toxicité.",
+    "seasonality": "Janvier à Mars",
+    "buying_guide": "Le fruit doit être ouvert naturellement sur l'arbre.",
+    "storage_guide": "Consommer frais immédiatement après ouverture.",
+    "prep_guide": "Retirer les graines noires et la membrane rouge.",
+    "nutrition_info": "Riche en acides gras essentiels.",
+    "texture": "Chair crémeuse évoquant l'œuf brouillé après cuisson.",
+    "image_filename": "ackee.webp",
+    "functional_categories": [
+      "cuisine tropicale"
+    ],
+    "tags": [
+      "exotique"
+    ],
+    "specific_data": {
+      "composition": "Lipides élevés",
+      "famille_botanique": "Sapindaceae"
+    }
+  },
+  {
+    "name": "Airelle",
+    "scientific_name": "Vaccinium vitis-idaea",
+    "glossary_term": "Airelle",
+    "category": "fruit",
+    "description": "Petite baie rouge acide des régions froides, souvent servie avec le gibier.",
+    "seasonality": "Août à Octobre",
+    "buying_guide": "Baies fermes, bien rouges et brillantes.",
+    "storage_guide": "Réfrigérateur pendant 1 semaine.",
+    "prep_guide": "Laver et cuire en sauce ou compote (trop acide crue).",
+    "nutrition_info": "46 kcal/100g, Vitamine C.",
+    "texture": "Ferme et croquante.",
+    "image_filename": "airelle.webp",
+    "functional_categories": [
+      "accompagnement",
+      "sauce"
+    ],
+    "tags": [
+      "baie",
+      "nordique"
+    ],
+    "specific_data": {
+      "composition": "Acides organiques élevés",
+      "famille_botanique": "Ericaceae"
+    }
+  },
+  {
+    "name": "Amande",
+    "scientific_name": "Prunus dulcis",
+    "glossary_term": "Amande",
+    "category": "fruit",
+    "description": "Fruit à coque oléagineux, pilier de la pâtisserie méditerranéenne.",
+    "seasonality": "Septembre à Octobre",
+    "buying_guide": "Coque lourde et non sonnante. Si émondée, doit être blanche.",
+    "storage_guide": "Lieu sec et frais pour éviter le rancissement.",
+    "prep_guide": "Casser la coque ou monder (retirer la peau brune) après trempage.",
+    "nutrition_info": "579 kcal/100g, riche en Magnésium.",
+    "texture": "Croquante et huileuse.",
+    "image_filename": "amande.webp",
+    "functional_categories": [
+      "sec",
+      "oléagineux"
+    ],
+    "tags": [
+      "énergie",
+      "pâtisserie"
+    ],
+    "specific_data": {
+      "composition": "Lipides 50%, Protéines 21%",
+      "famille_botanique": "Rosaceae"
+    }
+  },
+  {
+    "name": "Ananas",
+    "scientific_name": "Ananas comosus",
+    "glossary_term": "Ananas",
+    "category": "fruit",
+    "description": "Fruit tropical composé à l'écorce écailleuse et chair jaune juteuse.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Doit être lourd et parfumé à sa base.",
+    "storage_guide": "À température ambiante.",
+    "prep_guide": "Éplucher à vif, retirer les yeux et le cœur fibreux.",
+    "nutrition_info": "50 kcal/100g, contient de la bromélaïne.",
+    "texture": "Fibreuse, juteuse et sucrée.",
+    "image_filename": "ananas.webp",
+    "functional_categories": [
+      "exotique",
+      "dessert"
+    ],
+    "tags": [
+      "tropical",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 85%, Vitamine C 47mg",
+      "famille_botanique": "Bromeliaceae"
+    }
+  },
+  {
+    "name": "Aubergine",
+    "scientific_name": "Solanum melongena",
+    "glossary_term": "Aubergine",
+    "category": "fruit",
+    "description": "Botaniquement un fruit, cultivé comme légume, star de la ratatouille.",
+    "seasonality": "Juin à Septembre",
+    "buying_guide": "Peau lisse, brillante et ferme, calice bien vert.",
+    "storage_guide": "Bac à légumes du réfrigérateur (environ 5 jours).",
+    "prep_guide": "Cuire impérativement (ne se mange pas cru).",
+    "nutrition_info": "25 kcal/100g, riche en fibres.",
+    "texture": "Spongieuse à cru, fondante après cuisson.",
+    "image_filename": "aubergine.webp",
+    "functional_categories": [
+      "cuisine",
+      "botanique"
+    ],
+    "tags": [
+      "soleil",
+      "méditerranéen"
+    ],
+    "specific_data": {
+      "composition": "Eau 92%",
+      "famille_botanique": "Solanaceae"
+    }
+  },
+  {
+    "name": "Avocat",
+    "scientific_name": "Persea americana",
+    "glossary_term": "Avocat",
+    "category": "fruit",
+    "description": "Fruit charnu à noyau central, riche en graisses insaturées.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La peau doit céder légèrement sous une pression douce.",
+    "storage_guide": "À température ambiante pour mûrir, puis au frais.",
+    "prep_guide": "Couper en deux, retirer le noyau et la peau.",
+    "nutrition_info": "160 kcal/100g, Lipides mono-insaturés.",
+    "texture": "Beurrée et onctueuse.",
+    "image_filename": "avocat.webp",
+    "functional_categories": [
+      "salé",
+      "cru"
+    ],
+    "tags": [
+      "tropical",
+      "gras sain"
+    ],
+    "specific_data": {
+      "composition": "Eau 73%, Lipides 15%",
+      "famille_botanique": "Lauraceae"
+    }
+  },
+  {
+    "name": "Banane",
+    "scientific_name": "Musa spp.",
+    "glossary_term": "Banane",
+    "category": "fruit",
+    "description": "Baie allongée, c'est l'un des fruits les plus cultivés au monde.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Peau jaune sans taches noires (sauf pour consommation immédiate).",
+    "storage_guide": "À l'air libre (ne pas mettre au frais, elle noircit).",
+    "prep_guide": "Éplucher simplement.",
+    "nutrition_info": "89 kcal/100g, très riche en Potassium.",
+    "texture": "Tendre et fondante.",
+    "image_filename": "banane.webp",
+    "functional_categories": [
+      "énergie",
+      "enfant"
+    ],
+    "tags": [
+      "tropical",
+      "incontournable"
+    ],
+    "specific_data": {
+      "composition": "Amidon/Sucre selon maturité",
+      "famille_botanique": "Musaceae"
+    }
+  },
+  {
+    "name": "Baobab (Fruit)",
+    "scientific_name": "Adansonia digitata",
+    "glossary_term": "Pain de singe",
+    "category": "fruit",
+    "description": "Fruit à coque dure contenant une pulpe sèche farineuse très nutritive.",
+    "seasonality": "Saison sèche en Afrique",
+    "buying_guide": "Généralement trouvé sous forme de poudre blanche.",
+    "storage_guide": "Lieu sec.",
+    "prep_guide": "Mélanger la poudre dans des boissons ou yaourts.",
+    "nutrition_info": "Riche en calcium et Vitamine C.",
+    "texture": "Poudreuse et acidulée.",
+    "image_filename": "baobab.webp",
+    "functional_categories": [
+      "super-aliment"
+    ],
+    "tags": [
+      "afrique",
+      "exotique"
+    ],
+    "specific_data": {
+      "composition": "Calcium record",
+      "famille_botanique": "Malvaceae"
+    }
+  },
+  {
+    "name": "Baobab",
+    "scientific_name": "Adansonia digitata",
+    "glossary_term": "Pain de singe",
+    "category": "fruit",
+    "description": "Fruit à coque dure dont la pulpe sèche naturellement sur l'arbre.",
+    "seasonality": "Toute l'année (souvent en poudre)",
+    "buying_guide": "Sous forme de poudre, elle doit être d'un blanc cassé pur.",
+    "storage_guide": "Conserver au sec, à l'abri de l'humidité.",
+    "prep_guide": "Mélanger la poudre à de l'eau, du lait ou des smoothies.",
+    "nutrition_info": "Exceptionnellement riche en Vitamine C et fibres.",
+    "texture": "Farineuse et acidulée.",
+    "image_filename": "baobab.webp",
+    "functional_categories": [
+      "super-aliment"
+    ],
+    "tags": [
+      "afrique",
+      "exotique"
+    ],
+    "specific_data": {
+      "composition": "Calcium 300mg/100g",
+      "famille_botanique": "Malvaceae"
+    }
+  },
+  {
+    "name": "Bergamote",
+    "scientific_name": "Citrus bergamia",
+    "glossary_term": "Citron bergamote",
+    "category": "fruit",
+    "description": "Agrume principalement utilisé pour son huile essentielle et son zeste parfumé.",
+    "seasonality": "Décembre à Février",
+    "buying_guide": "Peau lisse, fruit lourd et très odorant.",
+    "storage_guide": "Au frais pour préserver les arômes.",
+    "prep_guide": "Utiliser le zeste ou le jus en pâtisserie et thés.",
+    "nutrition_info": "Riche en flavonoïdes.",
+    "texture": "Chair acide et amère.",
+    "image_filename": "bergamote.webp",
+    "functional_categories": [
+      "aromatisation"
+    ],
+    "tags": [
+      "agrume",
+      "parfumerie"
+    ],
+    "specific_data": {
+      "composition": "Huiles essentielles précieuses",
+      "famille_botanique": "Rutaceae"
+    }
+  },
+  {
+    "name": "Bigarade",
+    "scientific_name": "Citrus aurantium",
+    "glossary_term": "Orange amère",
+    "category": "fruit",
+    "description": "Ancêtre de l'orange douce, trop amère pour être mangée crue.",
+    "seasonality": "Janvier à Mars",
+    "buying_guide": "Peau épaisse et rugueuse, couleur orange vif.",
+    "storage_guide": "Se conserve bien au frais.",
+    "prep_guide": "Idéal pour les marmelades ou le canard à l'orange.",
+    "nutrition_info": "Riche en vitamine C et synéphrine.",
+    "texture": "Peau épaisse, chair peu juteuse.",
+    "image_filename": "bigarade.webp",
+    "functional_categories": [
+      "confiture",
+      "cuisine"
+    ],
+    "tags": [
+      "agrume",
+      "amer"
+    ],
+    "specific_data": {
+      "composition": "Pectine élevée",
+      "famille_botanique": "Rutaceae"
+    }
+  },
+  {
+    "name": "Bleuet",
+    "scientific_name": "Vaccinium corymbosum",
+    "glossary_term": "Myrtille d'Amérique",
+    "category": "fruit",
+    "description": "Cousin de la myrtille, plus gros et à chair blanche.",
+    "seasonality": "Juin à Septembre",
+    "buying_guide": "Baies fermes avec une pruine (voile blanc) intacte.",
+    "storage_guide": "Au réfrigérateur, ne laver qu'au dernier moment.",
+    "prep_guide": "Rincer délicatement.",
+    "nutrition_info": "57 kcal/100g, riche en antioxydants.",
+    "texture": "Chair ferme et croquante.",
+    "image_filename": "bleuet.webp",
+    "functional_categories": [
+      "baie"
+    ],
+    "tags": [
+      "antioxydant",
+      "été"
+    ],
+    "specific_data": {
+      "composition": "Anthocyanes",
+      "famille_botanique": "Ericaceae"
+    }
+  },
+  {
+    "name": "Brugnon",
+    "scientific_name": "Prunus persica nucipersica",
+    "glossary_term": "Brugnon",
+    "category": "fruit",
+    "description": "Variété de pêche à peau lisse dont le noyau adhère à la chair.",
+    "seasonality": "Juillet à Septembre",
+    "buying_guide": "Peau brillante, fruit lourd et parfumé.",
+    "storage_guide": "À température ambiante jusqu'à maturité.",
+    "prep_guide": "Rincer et trancher (attention au noyau collé).",
+    "nutrition_info": "44 kcal/100g.",
+    "texture": "Ferme et très juteuse.",
+    "image_filename": "brugnon.webp",
+    "functional_categories": [
+      "été"
+    ],
+    "tags": [
+      "noyau",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Eau 87%",
+      "famille_botanique": "Rosaceae"
+    }
+  },
+  {
+    "name": "Canneberge",
+    "scientific_name": "Vaccinium macrocarpon",
+    "glossary_term": "Cranberry",
+    "category": "fruit",
+    "description": "Baie rouge acide originaire d'Amérique du Nord.",
+    "seasonality": "Septembre à Décembre",
+    "buying_guide": "Fruit très ferme, rebondissant.",
+    "storage_guide": "Se garde plusieurs semaines au frais.",
+    "prep_guide": "Souvent cuite avec du sucre ou consommée séchée.",
+    "nutrition_info": "46 kcal/100g, propriétés antibactériennes.",
+    "texture": "Dure et croquante crue.",
+    "image_filename": "canneberge.webp",
+    "functional_categories": [
+      "jus",
+      "sauce"
+    ],
+    "tags": [
+      "santé",
+      "hiver"
+    ],
+    "specific_data": {
+      "composition": "Proanthocyanidines",
+      "famille_botanique": "Ericaceae"
+    }
+  },
+  {
+    "name": "Carambole",
+    "scientific_name": "Averrhoa carambola",
+    "glossary_term": "Carambole",
+    "category": "fruit",
+    "description": "Fruit tropical à cinq côtes formant une étoile à la découpe.",
+    "seasonality": "Novembre à Février",
+    "buying_guide": "Couleur jaune doré, arêtes légèrement brunes.",
+    "storage_guide": "Température ambiante.",
+    "prep_guide": "Rincer et couper en tranches horizontales.",
+    "nutrition_info": "31 kcal/100g. Attention : déconseillé aux insuffisants rénaux.",
+    "texture": "Croquante et juteuse.",
+    "image_filename": "carambole.webp",
+    "functional_categories": [
+      "décoration"
+    ],
+    "tags": [
+      "exotique",
+      "étoile"
+    ],
+    "specific_data": {
+      "composition": "Acide oxalique élevé",
+      "famille_botanique": "Oxalidaceae"
+    }
+  },
+  {
+    "name": "Cassis",
+    "scientific_name": "Ribes nigrum",
+    "glossary_term": "Cassis",
+    "category": "fruit",
+    "description": "Petite baie noire au parfum très puissant et acidulé.",
+    "seasonality": "Juillet à Août",
+    "buying_guide": "Grains bien noirs, brillants et non flétris.",
+    "storage_guide": "Très fragile, au frais (24-48h max).",
+    "prep_guide": "Égrener à la fourchette.",
+    "nutrition_info": "63 kcal/100g, Champion de la Vitamine C.",
+    "texture": "Peau fine et pulpe éclatante.",
+    "image_filename": "cassis.webp",
+    "functional_categories": [
+      "sirop",
+      "pâtisserie"
+    ],
+    "tags": [
+      "baie",
+      "puissant"
+    ],
+    "specific_data": {
+      "composition": "Vitamine C 181mg",
+      "famille_botanique": "Grossulariaceae"
+    }
+  },
+  {
+    "name": "Cédrat",
+    "scientific_name": "Citrus medica",
+    "glossary_term": "Cédrat",
+    "category": "fruit",
+    "description": "Ancêtre du citron, très gros avec une écorce extrêmement épaisse.",
+    "seasonality": "Septembre à Décembre",
+    "buying_guide": "Fruit lourd, écorce bosselée et saine.",
+    "storage_guide": "Lieu frais et sec.",
+    "prep_guide": "Utilisé principalement pour les fruits confits.",
+    "nutrition_info": "Riche en huiles essentielles.",
+    "texture": "Chair très réduite, écorce ferme.",
+    "image_filename": "cedrat.webp",
+    "functional_categories": [
+      "confit"
+    ],
+    "tags": [
+      "agrume",
+      "rare"
+    ],
+    "specific_data": {
+      "composition": "Zeste épais",
+      "famille_botanique": "Rutaceae"
+    }
+  },
+  {
+    "name": "Cerise",
+    "scientific_name": "Prunus avium",
+    "glossary_term": "Cerise douce",
+    "category": "fruit",
+    "description": "Petit fruit rouge sucré, symbole de l'arrivée de l'été.",
+    "seasonality": "Mai à Juillet",
+    "buying_guide": "Pédoncule vert et bien attaché, fruit ferme.",
+    "storage_guide": "Au frais, à consommer rapidement.",
+    "prep_guide": "Laver au moment de servir, dénoyauter si besoin.",
+    "nutrition_info": "50 kcal/100g.",
+    "texture": "Charnue et juteuse.",
+    "image_filename": "cerise.webp",
+    "functional_categories": [
+      "été"
+    ],
+    "tags": [
+      "rouge",
+      "terroir"
+    ],
+    "specific_data": {
+      "composition": "Glucides 12%",
+      "famille_botanique": "Rosaceae"
+    }
+  },
+  {
+    "name": "Châtaigne",
+    "scientific_name": "Castanea sativa",
+    "glossary_term": "Marron",
+    "category": "fruit",
+    "description": "Fruit d'automne énergétique protégé par une bogue épineuse.",
+    "seasonality": "Octobre à Décembre",
+    "buying_guide": "Lourde, brillante, sans petits trous (insectes).",
+    "storage_guide": "Bac à légumes du frigo ou congélation.",
+    "prep_guide": "Inciser la peau et rôtir ou bouillir.",
+    "nutrition_info": "196 kcal/100g, riche en glucides complexes.",
+    "texture": "Farineuse et douce.",
+    "image_filename": "chataigne.webp",
+    "functional_categories": [
+      "hiver",
+      "énergie"
+    ],
+    "tags": [
+      "automne",
+      "terroir"
+    ],
+    "specific_data": {
+      "composition": "Amidon 30%",
+      "famille_botanique": "Fagaceae"
+    }
+  },
+  {
+    "name": "Citron",
+    "scientific_name": "Citrus limon",
+    "glossary_term": "Citron jaune",
+    "category": "fruit",
+    "description": "Agrume acide essentiel pour l'assaisonnement et la conservation.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Lourd, peau fine et brillante.",
+    "storage_guide": "Température ambiante ou au frais pour plus de 2 semaines.",
+    "prep_guide": "Presser le jus ou prélever le zeste (bio de préférence).",
+    "nutrition_info": "29 kcal/100g, Vitamine C.",
+    "texture": "Pépins présents, chair juteuse.",
+    "image_filename": "citron.webp",
+    "functional_categories": [
+      "assaisonnement"
+    ],
+    "tags": [
+      "agrume",
+      "indispensable"
+    ],
+    "specific_data": {
+      "composition": "pH acide (~2.5)",
+      "famille_botanique": "Rutaceae"
+    }
+  },
+  {
+    "name": "Citron vert",
+    "scientific_name": "Citrus aurantiifolia",
+    "glossary_term": "Lime",
+    "category": "fruit",
+    "description": "Petit agrume tropical très acide et aromatique.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Peau fine, lisse et d'un vert profond.",
+    "storage_guide": "Réfrigérateur pour éviter qu'il ne jaunisse.",
+    "prep_guide": "Indispensable pour les marinades et cocktails.",
+    "nutrition_info": "30 kcal/100g.",
+    "texture": "Très juteuse et sans pépins (souvent).",
+    "image_filename": "citron vert.webp",
+    "functional_categories": [
+      "cocktail",
+      "exotique"
+    ],
+    "tags": [
+      "exotique",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Acide citrique 7%",
+      "famille_botanique": "Rutaceae"
+    }
+  },
+  {
+    "name": "Clémentine",
+    "scientific_name": "Citrus clementina",
+    "glossary_term": "Clémentine",
+    "category": "fruit",
+    "description": "Hybride de mandarine et d'orange douce, sans pépins.",
+    "seasonality": "Novembre à Janvier",
+    "buying_guide": "Peau adhérant bien à la chair, sans zones molles.",
+    "storage_guide": "Lieu frais et aéré.",
+    "prep_guide": "Éplucher à la main.",
+    "nutrition_info": "47 kcal/100g.",
+    "texture": "Fondante et juteuse.",
+    "image_filename": "Clementine.webp",
+    "functional_categories": [
+      "hiver"
+    ],
+    "tags": [
+      "agrume",
+      "snack"
+    ],
+    "specific_data": {
+      "composition": "Eau 87%",
+      "famille_botanique": "Rutaceae"
+    }
+  },
+  {
+    "name": "Coing",
+    "scientific_name": "Cydonia oblonga",
+    "glossary_term": "Coing",
+    "category": "fruit",
+    "description": "Fruit d'automne jaune et duveteux, consommé uniquement cuit.",
+    "seasonality": "Septembre à Novembre",
+    "buying_guide": "Jaune uniforme, duvet qui s'en va facilement au doigt.",
+    "storage_guide": "Plusieurs semaines dans un endroit frais.",
+    "prep_guide": "Peler, épépiner et cuire en gelée ou pâte de fruit.",
+    "nutrition_info": "57 kcal/100g, très riche en pectine.",
+    "texture": "Dure et astringente crue, fondante cuite.",
+    "image_filename": "Coing.webp",
+    "functional_categories": [
+      "gelée",
+      "cuit"
+    ],
+    "tags": [
+      "automne",
+      "terroir"
+    ],
+    "specific_data": {
+      "composition": "Pectine élevée",
+      "famille_botanique": "Rosaceae"
+    }
+  },
+  {
+    "name": "Dattes",
+    "scientific_name": "Phoenix dactylifera",
+    "glossary_term": "Dattes",
+    "category": "fruit",
+    "description": "Fruit du palmier-dattier, très sucré et énergétique.",
+    "seasonality": "Octobre à Décembre (fraîches)",
+    "buying_guide": "Peau souple, pas de cristaux de sucre à l'extérieur.",
+    "storage_guide": "Lieu sec ou réfrigérateur pour les dattes fraîches.",
+    "prep_guide": "Ouvrir pour retirer le noyau.",
+    "nutrition_info": "282 kcal/100g, riche en fibres et minéraux.",
+    "texture": "Charnue et moelleuse.",
+    "image_filename": "dattes.webp",
+    "functional_categories": [
+      "énergie"
+    ],
+    "tags": [
+      "sec",
+      "oriental"
+    ],
+    "specific_data": {
+      "composition": "Glucides 75%",
+      "famille_botanique": "Arecaceae"
+    }
+  },
+  {
+    "name": "Durian",
+    "scientific_name": "Durio zibethinus",
+    "glossary_term": "Roi des fruits",
+    "category": "fruit",
+    "description": "Fruit asiatique célèbre pour son odeur forte et sa saveur unique.",
+    "seasonality": "Mai à Août",
+    "buying_guide": "Lourd, les épines doivent être fermes et intactes.",
+    "storage_guide": "Conserver dans un récipient hermétique (odeur persistante).",
+    "prep_guide": "Ouvrir la coque avec un grand couteau.",
+    "nutrition_info": "147 kcal/100g, riche en graisses et soufre.",
+    "texture": "Crèmeuse, comme un flan.",
+    "image_filename": "durian.webp",
+    "functional_categories": [
+      "exotique"
+    ],
+    "tags": [
+      "tropical",
+      "insolite"
+    ],
+    "specific_data": {
+      "composition": "Composés soufrés",
+      "famille_botanique": "Malvaceae"
+    }
+  },
+  {
+    "name": "Figue",
+    "scientific_name": "Ficus carica",
+    "glossary_term": "Figue commune",
+    "category": "fruit",
+    "description": "Fruit méditerranéen par excellence, doux et riche en petits grains croquants.",
+    "seasonality": "Août à Octobre",
+    "buying_guide": "La peau doit être souple et une petite goutte de sucre peut perler à la base.",
+    "storage_guide": "Très fragile, à consommer rapidement ou garder au frais 48h.",
+    "prep_guide": "Rincer délicatement, se mange entière avec la peau.",
+    "nutrition_info": "74 kcal/100g, excellente source de fibres.",
+    "texture": "Chair fondante et onctueuse, grains croquants.",
+    "image_filename": "figue.webp",
+    "functional_categories": [
+      "sud",
+      "pâtisserie"
+    ],
+    "tags": [
+      "méditerranéen",
+      "été"
+    ],
+    "specific_data": {
+      "composition": "Fibres 3g",
+      "famille_botanique": "Moraceae"
+    }
+  },
+  {
+    "name": "Figue de barbarie",
+    "scientific_name": "Opuntia ficus-indica",
+    "glossary_term": "Poire de cactus",
+    "category": "fruit",
+    "description": "Fruit épineux du cactus, rafraîchissant et parsemé de graines dures.",
+    "seasonality": "Août à Octobre",
+    "buying_guide": "Choisir des fruits aux couleurs vives (orange, rouge ou vert clair).",
+    "storage_guide": "Se conserve 1 semaine au réfrigérateur.",
+    "prep_guide": "Manipuler avec précaution (épines invisibles). Peler avec couteau et fourchette.",
+    "nutrition_info": "41 kcal/100g, riche en magnésium.",
+    "texture": "Juteuse et granuleuse.",
+    "image_filename": "figue-barbarie.webp",
+    "functional_categories": [
+      "insolite"
+    ],
+    "tags": [
+      "exotique",
+      "cactus"
+    ],
+    "specific_data": {
+      "composition": "Eau 88%",
+      "famille_botanique": "Cactaceae"
+    }
+  },
+  {
+    "name": "Fraise",
+    "scientific_name": "Fragaria x ananassa",
+    "glossary_term": "Fraise de jardin",
+    "category": "fruit",
+    "description": "Le fruit rouge star du printemps, apprécié pour son parfum et sa fraîcheur.",
+    "seasonality": "Avril à Juin",
+    "buying_guide": "Brillante, rouge uniforme jusqu'au pédoncule qui doit être bien vert.",
+    "storage_guide": "Au frais, ne pas équeuter avant le lavage pour éviter qu'elle se gorge d'eau.",
+    "prep_guide": "Laver rapidement sous l'eau froide.",
+    "nutrition_info": "33 kcal/100g, très riche en Vitamine C.",
+    "texture": "Tendre et juteuse.",
+    "image_filename": "fraise.webp",
+    "functional_categories": [
+      "printemps",
+      "rouge"
+    ],
+    "tags": [
+      "populaire",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Vitamine C 58mg",
+      "famille_botanique": "Rosaceae"
+    }
+  },
+  {
+    "name": "Fraise des bois",
+    "scientific_name": "Fragaria vesca",
+    "glossary_term": "Fraise sauvage",
+    "category": "fruit",
+    "description": "Petite fraise sauvage au parfum extrêmement puissant et délicat.",
+    "seasonality": "Mai à Juillet",
+    "buying_guide": "Petite taille, parfum intense détectable sans s'approcher.",
+    "storage_guide": "Consommer le jour même de la cueillette.",
+    "prep_guide": "Ne pas laver si possible, ou très brièvement.",
+    "nutrition_info": "35 kcal/100g.",
+    "texture": "Très fragile et fondante.",
+    "image_filename": "fraise des bois.webp",
+    "functional_categories": [
+      "gastronomie"
+    ],
+    "tags": [
+      "sauvage",
+      "rare"
+    ],
+    "specific_data": {
+      "composition": "Arômes volatils élevés",
+      "famille_botanique": "Rosaceae"
+    }
+  },
+  {
+    "name": "Framboise",
+    "scientific_name": "Rubus idaeus",
+    "glossary_term": "Framboise",
+    "category": "fruit",
+    "description": "Baie composée de petites drupéoles veloutées, au goût acidulé.",
+    "seasonality": "Juin à Septembre",
+    "buying_guide": "Ferme, sans trace de moisissure ou de jus au fond de la barquette.",
+    "storage_guide": "À plat au réfrigérateur, très périssable.",
+    "prep_guide": "Trier à la main, éviter de laver à grande eau.",
+    "nutrition_info": "52 kcal/100g, riche en antioxydants.",
+    "texture": "Veloutée et fragile.",
+    "image_filename": "framboise.webp",
+    "functional_categories": [
+      "pâtisserie",
+      "rouge"
+    ],
+    "tags": [
+      "baie",
+      "été"
+    ],
+    "specific_data": {
+      "composition": "Anthocyanes",
+      "famille_botanique": "Rosaceae"
+    }
+  },
+  {
+    "name": "Fruit de la passion",
+    "scientific_name": "Passiflora edulis",
+    "glossary_term": "Maracudja",
+    "category": "fruit",
+    "description": "Fruit tropical à la pulpe gélatineuse et au parfum intense.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "La peau doit être fripée (signe que le fruit est bien sucré).",
+    "storage_guide": "Température ambiante.",
+    "prep_guide": "Couper en deux et manger à la cuillère.",
+    "nutrition_info": "97 kcal/100g, riche en Vitamine A et C.",
+    "texture": "Liquide/Gélatineuse avec graines croquantes.",
+    "image_filename": "fruit-de-la-passion.webp",
+    "functional_categories": [
+      "exotique",
+      "jus"
+    ],
+    "tags": [
+      "tropical",
+      "parfumé"
+    ],
+    "specific_data": {
+      "composition": "Forte acidité",
+      "famille_botanique": "Passifloraceae"
+    }
+  },
+  {
+    "name": "Fruit du dragon (Pitaya)",
+    "scientific_name": "Hylocereus undatus",
+    "glossary_term": "Pitaya",
+    "category": "fruit",
+    "description": "Fruit de cactus spectaculaire à peau rose et chair parsemée de petites graines noires.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Peau rose vif, sans taches brunes, écailles fermes.",
+    "storage_guide": "Se conserve bien au frais.",
+    "prep_guide": "Couper en deux, retirer la peau ou manger à la cuillère.",
+    "nutrition_info": "50 kcal/100g, riche en fibres.",
+    "texture": "Semblable au kiwi, douce et croquante.",
+    "image_filename": "fruit du dragon pitaya.webp",
+    "functional_categories": [
+      "exotique"
+    ],
+    "tags": [
+      "tropical",
+      "visuel"
+    ],
+    "specific_data": {
+      "composition": "Eau 85%, Fibres 3g",
+      "famille_botanique": "Cactaceae"
+    }
+  },
+  {
+    "name": "Goyave",
+    "scientific_name": "Psidium guajava",
+    "glossary_term": "Goyave",
+    "category": "fruit",
+    "description": "Fruit tropical à la chair rose ou blanche, extrêmement parfumé.",
+    "seasonality": "Octobre à Mars",
+    "buying_guide": "Peau lisse devenant souple et dégageant un fort parfum.",
+    "storage_guide": "Température ambiante.",
+    "prep_guide": "Se consomme entière, en jus ou en gelée.",
+    "nutrition_info": "68 kcal/100g, l'un des fruits les plus riches en Vitamine C.",
+    "texture": "Charnue et légèrement granuleuse.",
+    "image_filename": "goyave.webp",
+    "functional_categories": [
+      "exotique",
+      "jus"
+    ],
+    "tags": [
+      "tropical",
+      "vitamine-c"
+    ],
+    "specific_data": {
+      "composition": "Vitamine C 228mg",
+      "famille_botanique": "Myrtaceae"
+    }
+  },
+  {
+    "name": "Grenade",
+    "scientific_name": "Punica granatum",
+    "glossary_term": "Grenade",
+    "category": "fruit",
+    "description": "Fruit à écorce coriace renfermant des centaines de graines juteuses.",
+    "seasonality": "Septembre à Janvier",
+    "buying_guide": "Le fruit doit être lourd et la peau bien rouge et lisse.",
+    "storage_guide": "Plusieurs semaines au réfrigérateur.",
+    "prep_guide": "Ouvrir et taper sur l'écorce pour libérer les arilles rouges.",
+    "nutrition_info": "83 kcal/100g, champion des antioxydants.",
+    "texture": "Croquante et éclate en bouche.",
+    "image_filename": "grenade.webp",
+    "functional_categories": [
+      "santé",
+      "salade"
+    ],
+    "tags": [
+      "automne",
+      "super-fruit"
+    ],
+    "specific_data": {
+      "composition": "Polyphénols",
+      "famille_botanique": "Lythraceae"
+    }
+  },
+  {
+    "name": "Groseille",
+    "scientific_name": "Ribes rubrum",
+    "glossary_term": "Groseille rouge",
+    "category": "fruit",
+    "description": "Petites baies en grappes, très décoratives et acidulées.",
+    "seasonality": "Juin à Août",
+    "buying_guide": "Grains translucides, brillants et bien attachés à la rafle.",
+    "storage_guide": "Au frais, 2 à 3 jours maximum.",
+    "prep_guide": "Égrener délicatement à l'aide d'une fourchette.",
+    "nutrition_info": "56 kcal/100g.",
+    "texture": "Peau fine et jus acide.",
+    "image_filename": "Groseille.webp",
+    "functional_categories": [
+      "décoration",
+      "gelée"
+    ],
+    "tags": [
+      "baie",
+      "rouge"
+    ],
+    "specific_data": {
+      "composition": "Pectine naturelle",
+      "famille_botanique": "Grossulariaceae"
+    }
+  },
+  {
+    "name": "Jackfruit",
+    "scientific_name": "Artocarpus heterophyllus",
+    "glossary_term": "Jacquier",
+    "category": "fruit",
+    "description": "Le plus gros fruit poussant sur un arbre, dont la chair mûre rappelle un mélange d'ananas et de mangue.",
+    "seasonality": "Toute l'année (selon l'origine)",
+    "buying_guide": "L'odeur doit être forte mais pas fermentée. La peau doit céder un peu.",
+    "storage_guide": "Une fois ouvert, conserver au frais dans un récipient hermétique.",
+    "prep_guide": "Attention à la sève collante (enduire le couteau d'huile). Extraire les bulbes jaunes.",
+    "nutrition_info": "95 kcal/100g, riche en fibres et potassium.",
+    "texture": "Chair ferme, presque caoutchouteuse et fibreuse.",
+    "image_filename": "jackfruit.webp",
+    "functional_categories": [
+      "exotique",
+      "vegan"
+    ],
+    "tags": [
+      "tropical",
+      "imposant"
+    ],
+    "specific_data": {
+      "composition": "Glucides 23g",
+      "famille_botanique": "Moraceae"
+    }
+  },
+  {
+    "name": "Kaki",
+    "scientific_name": "Diospyros kaki",
+    "glossary_term": "Plaquemine",
+    "category": "fruit",
+    "description": "Fruit d'automne à la peau fine, dont la chair devient très sucrée et onctueuse à maturité.",
+    "seasonality": "Octobre à Janvier",
+    "buying_guide": "Pour le kaki d'Europe, il doit être très mou (presque blet). Le kaki Persimon se choisit ferme.",
+    "storage_guide": "Laisser mûrir à température ambiante jusqu'à ce qu'il soit translucide.",
+    "prep_guide": "Retirer le calice, se mange à la cuillère ou comme une pomme (selon variété).",
+    "nutrition_info": "70 kcal/100g, riche en caroténoïdes.",
+    "texture": "Gélatineuse (Kaki classique) ou croquante (Kaki-pomme).",
+    "image_filename": "kaki.webp",
+    "functional_categories": [
+      "hiver"
+    ],
+    "tags": [
+      "automne",
+      "sucré"
+    ],
+    "specific_data": {
+      "composition": "Vitamine A élevée",
+      "famille_botanique": "Ebenaceae"
+    }
+  },
+  {
+    "name": "Kiwi",
+    "scientific_name": "Actinidia deliciosa",
+    "glossary_term": "Groseille de Chine",
+    "category": "fruit",
+    "description": "Fruit à la peau brune et velue, cachant une chair verte (ou jaune) parsemée de petites graines noires.",
+    "seasonality": "Novembre à Mai",
+    "buying_guide": "Le fruit doit être souple sous une légère pression du pouce.",
+    "storage_guide": "Se garde longtemps au réfrigérateur. Pour mûrir : placer près de pommes.",
+    "prep_guide": "Éplucher ou couper en deux et manger à la cuillère.",
+    "nutrition_info": "61 kcal/100g, plus riche en Vitamine C que l'orange.",
+    "texture": "Fondante et légèrement croquante grâce aux graines.",
+    "image_filename": "Kiwi.webp",
+    "functional_categories": [
+      "énergie",
+      "vitamine-c"
+    ],
+    "tags": [
+      "hiver",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Vitamine C 92mg",
+      "famille_botanique": "Actinidiaceae"
+    }
+  },
+  {
+    "name": "Kumquat",
+    "scientific_name": "Citrus japonica",
+    "glossary_term": "Kumquat",
+    "category": "fruit",
+    "description": "Le plus petit des agrumes, que l'on consomme entier avec la peau.",
+    "seasonality": "Janvier à Mars",
+    "buying_guide": "Peau brillante, sans taches, fruit bien ferme.",
+    "storage_guide": "Une semaine à température ambiante.",
+    "prep_guide": "Laver et consommer entier (la peau est sucrée, la chair acide).",
+    "nutrition_info": "71 kcal/100g, riche en fibres (consommation de la peau).",
+    "texture": "Croquante à l'extérieur, juteuse à l'intérieur.",
+    "image_filename": "kumquat.webp",
+    "functional_categories": [
+      "agrume",
+      "snack"
+    ],
+    "tags": [
+      "exotique",
+      "amer-sucré"
+    ],
+    "specific_data": {
+      "composition": "Flavonoïdes",
+      "famille_botanique": "Rutaceae"
+    }
+  },
+  {
+    "name": "Litchi",
+    "scientific_name": "Litchi chinensis",
+    "glossary_term": "Cerise de Chine",
+    "category": "fruit",
+    "description": "Petit fruit tropical à l'écorce rose et rugueuse, révélant une chair blanche translucide.",
+    "seasonality": "Novembre à Janvier",
+    "buying_guide": "Écorce rosée ou rouge, non craquelée et bien pleine.",
+    "storage_guide": "Se conserve mieux au frais dans un sachet papier.",
+    "prep_guide": "Retirer l'écorce à la main et le noyau central (non comestible).",
+    "nutrition_info": "66 kcal/100g, riche en Vitamine C et B9.",
+    "texture": "Juteuse et nacrée.",
+    "image_filename": "litchi.webp",
+    "functional_categories": [
+      "exotique",
+      "fêtes"
+    ],
+    "tags": [
+      "tropical",
+      "parfumé"
+    ],
+    "specific_data": {
+      "composition": "Vitamine C 71mg",
+      "famille_botanique": "Sapindaceae"
+    }
+  },
+  {
+    "name": "Lime",
+    "scientific_name": "Citrus latifolia",
+    "glossary_term": "Citron vert",
+    "category": "fruit",
+    "description": "Agrume tropical sans pépins, plus petit et plus acide que le citron jaune.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Lourd pour sa taille, peau bien verte et lisse.",
+    "storage_guide": "Au frais pour conserver sa couleur et son jus.",
+    "prep_guide": "Presser pour le jus ou utiliser le zeste pour aromatiser.",
+    "nutrition_info": "30 kcal/100g.",
+    "texture": "Très juteuse.",
+    "image_filename": "lime.webp",
+    "functional_categories": [
+      "cocktail",
+      "cuisine"
+    ],
+    "tags": [
+      "agrume",
+      "frais"
+    ],
+    "specific_data": {
+      "composition": "Acidité élevée",
+      "famille_botanique": "Rutaceae"
+    }
+  },
+  {
+    "name": "Longane",
+    "scientific_name": "Dimocarpus longan",
+    "glossary_term": "Œil du dragon",
+    "category": "fruit",
+    "description": "Cousin du litchi à la peau brune et lisse, au goût plus musqué.",
+    "seasonality": "Juillet à Septembre",
+    "buying_guide": "Peau rigide, sans fissures, d'un brun uniforme.",
+    "storage_guide": "Se conserve 1 semaine au frais.",
+    "prep_guide": "Décortiquer la peau et retirer le noyau noir brillant.",
+    "nutrition_info": "60 kcal/100g, riche en antioxydants.",
+    "texture": "Charnue et translucide.",
+    "image_filename": "longane.webp",
+    "functional_categories": [
+      "exotique"
+    ],
+    "tags": [
+      "tropical",
+      "asie"
+    ],
+    "specific_data": {
+      "composition": "Saponines",
+      "famille_botanique": "Sapindaceae"
+    }
+  },
+  {
+    "name": "Mandarine clémentine",
+    "scientific_name": "Citrus reticulata",
+    "glossary_term": "Mandarine",
+    "category": "fruit",
+    "description": "Petit agrume d'hiver, ancêtre de la clémentine, très parfumé avec quelques pépins.",
+    "seasonality": "Octobre à Février",
+    "buying_guide": "Peau souple mais pas décollée, fruit lourd pour sa taille.",
+    "storage_guide": "Température ambiante ou lieu frais et aéré.",
+    "prep_guide": "Éplucher à la main, consommer les quartiers.",
+    "nutrition_info": "53 kcal/100g, riche en flavonoïdes.",
+    "texture": "Juteuse et pulpeuse.",
+    "image_filename": "Mandarine clémentine.webp",
+    "functional_categories": [
+      "hiver",
+      "agrume"
+    ],
+    "tags": [
+      "sucré",
+      "parfumé"
+    ],
+    "specific_data": {
+      "composition": "Vitamine C 27mg",
+      "famille_botanique": "Rutaceae"
+    }
+  },
+  {
+    "name": "Mangoustan",
+    "scientific_name": "Garcinia mangostana",
+    "glossary_term": "Reine des fruits",
+    "category": "fruit",
+    "description": "Fruit tropical à coque épaisse violette et chair blanche divisée en quartiers fondants.",
+    "seasonality": "Mai à Septembre",
+    "buying_guide": "La coque doit céder légèrement sous la pression. Si elle est dure comme de la pierre, le fruit est trop vieux.",
+    "storage_guide": "Se conserve peu de temps, idéalement au frais.",
+    "prep_guide": "Inciser la coque au milieu sans toucher la chair, puis séparer les deux hémisphères.",
+    "nutrition_info": "73 kcal/100g, contient des xanthones (antioxydants rares).",
+    "texture": "Extrêmement fondante, presque comme de la neige.",
+    "image_filename": "mangoustan.webp",
+    "functional_categories": [
+      "exotique"
+    ],
+    "tags": [
+      "tropical",
+      "prestigieux"
+    ],
+    "specific_data": {
+      "composition": "Xanthones",
+      "famille_botanique": "Clusiaceae"
+    }
+  },
+  {
+    "name": "Mangue",
+    "scientific_name": "Mangifera indica",
+    "glossary_term": "Mangue",
+    "category": "fruit",
+    "description": "Fruit tropical charnu à gros noyau plat, l'un des plus consommés au monde.",
+    "seasonality": "Toute l'année (selon provenances)",
+    "buying_guide": "Ne pas se fier à la couleur. La peau doit être souple et dégager un parfum au pédoncule.",
+    "storage_guide": "Température ambiante. Ne pas mettre au frais avant qu'elle ne soit mûre.",
+    "prep_guide": "Couper les deux 'joues' le long du noyau, puis quadriller la chair.",
+    "nutrition_info": "60 kcal/100g, riche en provitamine A.",
+    "texture": "Onctueuse, parfois légèrement fibreuse.",
+    "image_filename": "mangue.webp",
+    "functional_categories": [
+      "exotique"
+    ],
+    "tags": [
+      "tropical",
+      "fondant"
+    ],
+    "specific_data": {
+      "composition": "Bêta-carotène",
+      "famille_botanique": "Anacardiaceae"
+    }
+  },
+  {
+    "name": "Melon charentais",
+    "scientific_name": "Cucumis melo cantalupensis",
+    "glossary_term": "Cantaloup",
+    "category": "fruit",
+    "description": "Melon à chair orangée, très sucré et parfumé, emblématique de l'été en France.",
+    "seasonality": "Juin à Septembre",
+    "buying_guide": "Lourd, avec un craquelure autour du pédoncule (le 'mamelon'). Parfum marqué.",
+    "storage_guide": "Lieu frais mais pas au réfrigérateur (ou alors bien emballé pour l'odeur).",
+    "prep_guide": "Couper en deux, retirer les pépins, trancher en quartiers.",
+    "nutrition_info": "34 kcal/100g, riche en bêta-carotène.",
+    "texture": "Fondante et juteuse.",
+    "image_filename": "melon charentais.webp",
+    "functional_categories": [
+      "été"
+    ],
+    "tags": [
+      "frais",
+      "terroir"
+    ],
+    "specific_data": {
+      "composition": "Eau 90%",
+      "famille_botanique": "Cucurbitaceae"
+    }
+  },
+  {
+    "name": "Melon jaune",
+    "scientific_name": "Cucumis melo inodorus",
+    "glossary_term": "Melon d'Espagne",
+    "category": "fruit",
+    "description": "Melon à peau jaune et lisse, chair blanche ou vert pâle, se conservant très bien.",
+    "seasonality": "Juillet à Octobre",
+    "buying_guide": "Peau bien jaune, fruit lourd, l'extrémité opposée au pédoncule doit être souple.",
+    "storage_guide": "Excellente conservation, peut tenir plusieurs semaines au frais.",
+    "prep_guide": "Retirer les graines et consommer frais.",
+    "nutrition_info": "36 kcal/100g, riche en potassium.",
+    "texture": "Croquante et très juteuse.",
+    "image_filename": "melon jaune.webp",
+    "functional_categories": [
+      "été"
+    ],
+    "tags": [
+      "désaltérant"
+    ],
+    "specific_data": {
+      "composition": "Potassium 270mg",
+      "famille_botanique": "Cucurbitaceae"
+    }
+  },
+  {
+    "name": "Mirabelle",
+    "scientific_name": "Prunus domestica syriaca",
+    "glossary_term": "Mirabelle de Lorraine",
+    "category": "fruit",
+    "description": "Petite prune ronde jaune d'or avec des taches de rousseur, très sucrée.",
+    "seasonality": "Août à Septembre (6 semaines seulement)",
+    "buying_guide": "Peau fine avec une pruine visible. Elle doit être souple sous le doigt.",
+    "storage_guide": "Très fragile, consommer sous 48h.",
+    "prep_guide": "Laver rapidement, se mange entière.",
+    "nutrition_info": "60 kcal/100g.",
+    "texture": "Fine, charnue et très sucrée.",
+    "image_filename": "Mirabelle.webp",
+    "functional_categories": [
+      "été",
+      "terroir"
+    ],
+    "tags": [
+      "lorraine",
+      "rare"
+    ],
+    "specific_data": {
+      "composition": "Sucre naturel élevé",
+      "famille_botanique": "Rosaceae"
+    }
+  },
+  {
+    "name": "Mûre",
+    "scientific_name": "Rubus fruticosus",
+    "glossary_term": "Mûre sauvage",
+    "category": "fruit",
+    "description": "Baie noire des ronces, au goût puissant, sauvage et légèrement acidulé.",
+    "seasonality": "Août à Septembre",
+    "buying_guide": "Bien noire, brillante et charnue. Éviter les baies rouges (pas mûres).",
+    "storage_guide": "Réfrigérateur, 2 jours maximum.",
+    "prep_guide": "Rincer brièvement juste avant de servir.",
+    "nutrition_info": "43 kcal/100g, riche en fibres.",
+    "texture": "Granuleuse et juteuse.",
+    "image_filename": "mure.webp",
+    "functional_categories": [
+      "baie",
+      "sauvage"
+    ],
+    "tags": [
+      "automne",
+      "antioxydant"
+    ],
+    "specific_data": {
+      "composition": "Fibres 5g",
+      "famille_botanique": "Rosaceae"
+    }
+  },
+  {
+    "name": "Myrtille",
+    "scientific_name": "Vaccinium myrtillus",
+    "glossary_term": "Myrtille sauvage",
+    "category": "fruit",
+    "description": "Petite baie bleu-noir des montagnes, réputée pour ses bienfaits sur la vue.",
+    "seasonality": "Juillet à Septembre",
+    "buying_guide": "Grains fermes, uniformes, couverts de pruine.",
+    "storage_guide": "Au frais, environ 1 semaine.",
+    "prep_guide": "Laver rapidement à l'eau fraîche.",
+    "nutrition_info": "57 kcal/100g, exceptionnelle en antioxydants.",
+    "texture": "Peau fine, chair colorante.",
+    "image_filename": "myrtille.webp",
+    "functional_categories": [
+      "baie",
+      "santé"
+    ],
+    "tags": [
+      "montagne",
+      "super-fruit"
+    ],
+    "specific_data": {
+      "composition": "Anthocyanes",
+      "famille_botanique": "Ericaceae"
+    }
+  },
+  {
+    "name": "Nectarine",
+    "scientific_name": "Prunus persica nucipersica",
+    "glossary_term": "Nectarine",
+    "category": "fruit",
+    "description": "Mutation de la pêche à peau lisse, dont le noyau ne colle pas à la chair.",
+    "seasonality": "Juillet à Septembre",
+    "buying_guide": "Peau saine sans flétrissure, fruit lourd et odorant.",
+    "storage_guide": "Température ambiante.",
+    "prep_guide": "Laver et croquer ou trancher.",
+    "nutrition_info": "44 kcal/100g.",
+    "texture": "Croquante ou fondante selon maturité.",
+    "image_filename": "nectarine.webp",
+    "functional_categories": [
+      "été"
+    ],
+    "tags": [
+      "frais",
+      "noyau"
+    ],
+    "specific_data": {
+      "composition": "Eau 87%",
+      "famille_botanique": "Rosaceae"
+    }
+  },
+  {
+    "name": "Noisette",
+    "scientific_name": "Corylus avellana",
+    "glossary_term": "Aveline",
+    "category": "fruit",
+    "description": "Fruit à coque oléagineux, apprécié sec ou frais.",
+    "seasonality": "Août à Octobre",
+    "buying_guide": "La coque doit être brillante et ne pas 'sonner' creux quand on secoue.",
+    "storage_guide": "Lieu sec et frais dans sa coque.",
+    "prep_guide": "Casser la coque avec un casse-noisette.",
+    "nutrition_info": "628 kcal/100g, riche en Vitamine E.",
+    "texture": "Croquante et huileuse.",
+    "image_filename": "noisette.webp",
+    "functional_categories": [
+      "sec",
+      "oléagineux"
+    ],
+    "tags": [
+      "énergie",
+      "pâtisserie"
+    ],
+    "specific_data": {
+      "composition": "Lipides 60%",
+      "famille_botanique": "Betulaceae"
+    }
+  },
+  {
+    "name": "Noix",
+    "scientific_name": "Juglans regia",
+    "glossary_term": "Noix commune",
+    "category": "fruit",
+    "description": "Fruit à coque dont le cerneau rappelle la forme du cerveau humain.",
+    "seasonality": "Septembre à Novembre",
+    "buying_guide": "Coque bien fermée, sans taches noires suspectes.",
+    "storage_guide": "Lieu frais et sec pour éviter que les cerneaux ne rancissent.",
+    "prep_guide": "Casser la coque, extraire les cerneaux.",
+    "nutrition_info": "654 kcal/100g, championne des Oméga-3.",
+    "texture": "Croquante avec une légère amertume.",
+    "image_filename": "noix.webp",
+    "functional_categories": [
+      "sec",
+      "santé"
+    ],
+    "tags": [
+      "oméga-3",
+      "automne"
+    ],
+    "specific_data": {
+      "composition": "Oméga-3 élevé",
+      "famille_botanique": "Juglandaceae"
+    }
+  },
+  {
+    "name": "Noix de coco",
+    "scientific_name": "Cocos nucifera",
+    "glossary_term": "Coco",
+    "category": "fruit",
+    "description": "Gros fruit du palmier à coque ligneuse, contenant de l'eau et une chair blanche grasse.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Secouer le fruit : on doit entendre l'eau à l'intérieur.",
+    "storage_guide": "Température ambiante.",
+    "prep_guide": "Percer les 'yeux' pour vider l'eau, puis casser la coque au marteau.",
+    "nutrition_info": "354 kcal/100g (chair), riche en acides gras saturés.",
+    "texture": "Ferme, croquante et grasse.",
+    "image_filename": "noix-de-coco.webp",
+    "functional_categories": [
+      "exotique"
+    ],
+    "tags": [
+      "tropical",
+      "cuisine"
+    ],
+    "specific_data": {
+      "composition": "Acide laurique",
+      "famille_botanique": "Arecaceae"
+    }
+  },
+  {
+    "name": "Orange",
+    "scientific_name": "Citrus sinensis",
+    "glossary_term": "Orange douce",
+    "category": "fruit",
+    "description": "Agrume le plus populaire, consommé pour son jus ou sa chair riche en vitamine C.",
+    "seasonality": "Décembre à Avril",
+    "buying_guide": "Lourde (signe de jus), peau ferme et colorée.",
+    "storage_guide": "Température ambiante (1 semaine) ou bac à légumes.",
+    "prep_guide": "Éplucher ou couper en quartiers, ou presser.",
+    "nutrition_info": "47 kcal/100g, Vitamine C.",
+    "texture": "Juteuse et fibreuse.",
+    "image_filename": "orange.webp",
+    "functional_categories": [
+      "hiver",
+      "jus"
+    ],
+    "tags": [
+      "agrume",
+      "vitamine-c"
+    ],
+    "specific_data": {
+      "composition": "Vitamine C 53mg",
+      "famille_botanique": "Rutaceae"
+    }
+  },
+  {
+    "name": "Mandarine clémentine",
+    "scientific_name": "Citrus reticulata",
+    "glossary_term": "Mandarine",
+    "category": "fruit",
+    "description": "Petit agrume d'hiver, ancêtre de la clémentine, très parfumé avec quelques pépins.",
+    "seasonality": "Octobre à Février",
+    "buying_guide": "Peau souple mais pas décollée, fruit lourd pour sa taille.",
+    "storage_guide": "Température ambiante ou lieu frais et aéré.",
+    "prep_guide": "Éplucher à la main, consommer les quartiers.",
+    "nutrition_info": "53 kcal/100g, riche en flavonoïdes.",
+    "texture": "Juteuse et pulpeuse.",
+    "image_filename": "Mandarine clémentine.webp",
+    "functional_categories": [
+      "hiver",
+      "agrume"
+    ],
+    "tags": [
+      "sucré",
+      "parfumé"
+    ],
+    "specific_data": {
+      "composition": "Vitamine C 27mg",
+      "famille_botanique": "Rutaceae"
+    }
+  },
+  {
+    "name": "Mangoustan",
+    "scientific_name": "Garcinia mangostana",
+    "glossary_term": "Reine des fruits",
+    "category": "fruit",
+    "description": "Fruit tropical à coque épaisse violette et chair blanche divisée en quartiers fondants.",
+    "seasonality": "Mai à Septembre",
+    "buying_guide": "La coque doit céder légèrement sous la pression. Si elle est dure comme de la pierre, le fruit est trop vieux.",
+    "storage_guide": "Se conserve peu de temps, idéalement au frais.",
+    "prep_guide": "Inciser la coque au milieu sans toucher la chair, puis séparer les deux hémisphères.",
+    "nutrition_info": "73 kcal/100g, contient des xanthones (antioxydants rares).",
+    "texture": "Extrêmement fondante, presque comme de la neige.",
+    "image_filename": "mangoustan.webp",
+    "functional_categories": [
+      "exotique"
+    ],
+    "tags": [
+      "tropical",
+      "prestigieux"
+    ],
+    "specific_data": {
+      "composition": "Xanthones",
+      "famille_botanique": "Clusiaceae"
+    }
+  },
+  {
+    "name": "Mangue",
+    "scientific_name": "Mangifera indica",
+    "glossary_term": "Mangue",
+    "category": "fruit",
+    "description": "Fruit tropical charnu à gros noyau plat, l'un des plus consommés au monde.",
+    "seasonality": "Toute l'année (selon provenances)",
+    "buying_guide": "Ne pas se fier à la couleur. La peau doit être souple et dégager un parfum au pédoncule.",
+    "storage_guide": "Température ambiante. Ne pas mettre au frais avant qu'elle ne soit mûre.",
+    "prep_guide": "Couper les deux 'joues' le long du noyau, puis quadriller la chair.",
+    "nutrition_info": "60 kcal/100g, riche en provitamine A.",
+    "texture": "Onctueuse, parfois légèrement fibreuse.",
+    "image_filename": "mangue.webp",
+    "functional_categories": [
+      "exotique"
+    ],
+    "tags": [
+      "tropical",
+      "fondant"
+    ],
+    "specific_data": {
+      "composition": "Bêta-carotène",
+      "famille_botanique": "Anacardiaceae"
+    }
+  },
+  {
+    "name": "Melon charentais",
+    "scientific_name": "Cucumis melo cantalupensis",
+    "glossary_term": "Cantaloup",
+    "category": "fruit",
+    "description": "Melon à chair orangée, très sucré et parfumé, emblématique de l'été en France.",
+    "seasonality": "Juin à Septembre",
+    "buying_guide": "Lourd, avec un craquelure autour du pédoncule (le 'mamelon'). Parfum marqué.",
+    "storage_guide": "Lieu frais mais pas au réfrigérateur (ou alors bien emballé pour l'odeur).",
+    "prep_guide": "Couper en deux, retirer les pépins, trancher en quartiers.",
+    "nutrition_info": "34 kcal/100g, riche en bêta-carotène.",
+    "texture": "Fondante et juteuse.",
+    "image_filename": "melon charentais.webp",
+    "functional_categories": [
+      "été"
+    ],
+    "tags": [
+      "frais",
+      "terroir"
+    ],
+    "specific_data": {
+      "composition": "Eau 90%",
+      "famille_botanique": "Cucurbitaceae"
+    }
+  },
+  {
+    "name": "Melon jaune",
+    "scientific_name": "Cucumis melo inodorus",
+    "glossary_term": "Melon d'Espagne",
+    "category": "fruit",
+    "description": "Melon à peau jaune et lisse, chair blanche ou vert pâle, se conservant très bien.",
+    "seasonality": "Juillet à Octobre",
+    "buying_guide": "Peau bien jaune, fruit lourd, l'extrémité opposée au pédoncule doit être souple.",
+    "storage_guide": "Excellente conservation, peut tenir plusieurs semaines au frais.",
+    "prep_guide": "Retirer les graines et consommer frais.",
+    "nutrition_info": "36 kcal/100g, riche en potassium.",
+    "texture": "Croquante et très juteuse.",
+    "image_filename": "melon jaune.webp",
+    "functional_categories": [
+      "été"
+    ],
+    "tags": [
+      "désaltérant"
+    ],
+    "specific_data": {
+      "composition": "Potassium 270mg",
+      "famille_botanique": "Cucurbitaceae"
+    }
+  },
+  {
+    "name": "Mirabelle",
+    "scientific_name": "Prunus domestica syriaca",
+    "glossary_term": "Mirabelle de Lorraine",
+    "category": "fruit",
+    "description": "Petite prune ronde jaune d'or avec des taches de rousseur, très sucrée.",
+    "seasonality": "Août à Septembre (6 semaines seulement)",
+    "buying_guide": "Peau fine avec une pruine visible. Elle doit être souple sous le doigt.",
+    "storage_guide": "Très fragile, consommer sous 48h.",
+    "prep_guide": "Laver rapidement, se mange entière.",
+    "nutrition_info": "60 kcal/100g.",
+    "texture": "Fine, charnue et très sucrée.",
+    "image_filename": "Mirabelle.webp",
+    "functional_categories": [
+      "été",
+      "terroir"
+    ],
+    "tags": [
+      "lorraine",
+      "rare"
+    ],
+    "specific_data": {
+      "composition": "Sucre naturel élevé",
+      "famille_botanique": "Rosaceae"
+    }
+  },
+  {
+    "name": "Mûre",
+    "scientific_name": "Rubus fruticosus",
+    "glossary_term": "Mûre sauvage",
+    "category": "fruit",
+    "description": "Baie noire des ronces, au goût puissant, sauvage et légèrement acidulé.",
+    "seasonality": "Août à Septembre",
+    "buying_guide": "Bien noire, brillante et charnue. Éviter les baies rouges (pas mûres).",
+    "storage_guide": "Réfrigérateur, 2 jours maximum.",
+    "prep_guide": "Rincer brièvement juste avant de servir.",
+    "nutrition_info": "43 kcal/100g, riche en fibres.",
+    "texture": "Granuleuse et juteuse.",
+    "image_filename": "mure.webp",
+    "functional_categories": [
+      "baie",
+      "sauvage"
+    ],
+    "tags": [
+      "automne",
+      "antioxydant"
+    ],
+    "specific_data": {
+      "composition": "Fibres 5g",
+      "famille_botanique": "Rosaceae"
+    }
+  },
+  {
+    "name": "Myrtille",
+    "scientific_name": "Vaccinium myrtillus",
+    "glossary_term": "Myrtille sauvage",
+    "category": "fruit",
+    "description": "Petite baie bleu-noir des montagnes, réputée pour ses bienfaits sur la vue.",
+    "seasonality": "Juillet à Septembre",
+    "buying_guide": "Grains fermes, uniformes, couverts de pruine.",
+    "storage_guide": "Au frais, environ 1 semaine.",
+    "prep_guide": "Laver rapidement à l'eau fraîche.",
+    "nutrition_info": "57 kcal/100g, exceptionnelle en antioxydants.",
+    "texture": "Peau fine, chair colorante.",
+    "image_filename": "myrtille.webp",
+    "functional_categories": [
+      "baie",
+      "santé"
+    ],
+    "tags": [
+      "montagne",
+      "super-fruit"
+    ],
+    "specific_data": {
+      "composition": "Anthocyanes",
+      "famille_botanique": "Ericaceae"
+    }
+  },
+  {
+    "name": "Nectarine",
+    "scientific_name": "Prunus persica nucipersica",
+    "glossary_term": "Nectarine",
+    "category": "fruit",
+    "description": "Mutation de la pêche à peau lisse, dont le noyau ne colle pas à la chair.",
+    "seasonality": "Juillet à Septembre",
+    "buying_guide": "Peau saine sans flétrissure, fruit lourd et odorant.",
+    "storage_guide": "Température ambiante.",
+    "prep_guide": "Laver et croquer ou trancher.",
+    "nutrition_info": "44 kcal/100g.",
+    "texture": "Croquante ou fondante selon maturité.",
+    "image_filename": "nectarine.webp",
+    "functional_categories": [
+      "été"
+    ],
+    "tags": [
+      "frais",
+      "noyau"
+    ],
+    "specific_data": {
+      "composition": "Eau 87%",
+      "famille_botanique": "Rosaceae"
+    }
+  },
+  {
+    "name": "Noisette",
+    "scientific_name": "Corylus avellana",
+    "glossary_term": "Aveline",
+    "category": "fruit",
+    "description": "Fruit à coque oléagineux, apprécié sec ou frais.",
+    "seasonality": "Août à Octobre",
+    "buying_guide": "La coque doit être brillante et ne pas 'sonner' creux quand on secoue.",
+    "storage_guide": "Lieu sec et frais dans sa coque.",
+    "prep_guide": "Casser la coque avec un casse-noisette.",
+    "nutrition_info": "628 kcal/100g, riche en Vitamine E.",
+    "texture": "Croquante et huileuse.",
+    "image_filename": "noisette.webp",
+    "functional_categories": [
+      "sec",
+      "oléagineux"
+    ],
+    "tags": [
+      "énergie",
+      "pâtisserie"
+    ],
+    "specific_data": {
+      "composition": "Lipides 60%",
+      "famille_botanique": "Betulaceae"
+    }
+  },
+  {
+    "name": "Noix",
+    "scientific_name": "Juglans regia",
+    "glossary_term": "Noix commune",
+    "category": "fruit",
+    "description": "Fruit à coque dont le cerneau rappelle la forme du cerveau humain.",
+    "seasonality": "Septembre à Novembre",
+    "buying_guide": "Coque bien fermée, sans taches noires suspectes.",
+    "storage_guide": "Lieu frais et sec pour éviter que les cerneaux ne rancissent.",
+    "prep_guide": "Casser la coque, extraire les cerneaux.",
+    "nutrition_info": "654 kcal/100g, championne des Oméga-3.",
+    "texture": "Croquante avec une légère amertume.",
+    "image_filename": "noix.webp",
+    "functional_categories": [
+      "sec",
+      "santé"
+    ],
+    "tags": [
+      "oméga-3",
+      "automne"
+    ],
+    "specific_data": {
+      "composition": "Oméga-3 élevé",
+      "famille_botanique": "Juglandaceae"
+    }
+  },
+  {
+    "name": "Noix de coco",
+    "scientific_name": "Cocos nucifera",
+    "glossary_term": "Coco",
+    "category": "fruit",
+    "description": "Gros fruit du palmier à coque ligneuse, contenant de l'eau et une chair blanche grasse.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Secouer le fruit : on doit entendre l'eau à l'intérieur.",
+    "storage_guide": "Température ambiante.",
+    "prep_guide": "Percer les 'yeux' pour vider l'eau, puis casser la coque au marteau.",
+    "nutrition_info": "354 kcal/100g (chair), riche en acides gras saturés.",
+    "texture": "Ferme, croquante et grasse.",
+    "image_filename": "noix-de-coco.webp",
+    "functional_categories": [
+      "exotique"
+    ],
+    "tags": [
+      "tropical",
+      "cuisine"
+    ],
+    "specific_data": {
+      "composition": "Acide laurique",
+      "famille_botanique": "Arecaceae"
+    }
+  },
+  {
+    "name": "Orange",
+    "scientific_name": "Citrus sinensis",
+    "glossary_term": "Orange douce",
+    "category": "fruit",
+    "description": "Agrume le plus populaire, consommé pour son jus ou sa chair riche en vitamine C.",
+    "seasonality": "Décembre à Avril",
+    "buying_guide": "Lourde (signe de jus), peau ferme et colorée.",
+    "storage_guide": "Température ambiante (1 semaine) ou bac à légumes.",
+    "prep_guide": "Éplucher ou couper en quartiers, ou presser.",
+    "nutrition_info": "47 kcal/100g, Vitamine C.",
+    "texture": "Juteuse et fibreuse.",
+    "image_filename": "orange.webp",
+    "functional_categories": [
+      "hiver",
+      "jus"
+    ],
+    "tags": [
+      "agrume",
+      "vitamine-c"
+    ],
+    "specific_data": {
+      "composition": "Vitamine C 53mg",
+      "famille_botanique": "Rutaceae"
+    }
+  },
+  {
+    "name": "Tamarin",
+    "scientific_name": "Tamarindus indica",
+    "glossary_term": "Tamarin",
+    "category": "fruit",
+    "description": "Fruit en forme de gousse contenant une pulpe acidulée entourant des graines dures.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Gousses entières non cassées, ou pulpe en bloc sans additifs.",
+    "storage_guide": "Lieu sec et frais.",
+    "prep_guide": "Retirer la cosse et les fibres, faire tremper la pulpe pour en extraire le jus.",
+    "nutrition_info": "239 kcal/100g, riche en acide tartrique et potassium.",
+    "texture": "Pâteuse et collante.",
+    "image_filename": "tamarin.webp",
+    "functional_categories": [
+      "cuisine",
+      "exotique"
+    ],
+    "tags": [
+      "tropical",
+      "acidulé"
+    ],
+    "specific_data": {
+      "composition": "Acide tartrique",
+      "famille_botanique": "Fabaceae"
+    }
+  },
+  {
+    "name": "Tomate",
+    "scientific_name": "Solanum lycopersicum",
+    "glossary_term": "Tomate",
+    "category": "fruit",
+    "description": "Botaniquement un fruit, consommé universellement comme légume.",
+    "seasonality": "Juin à Septembre",
+    "buying_guide": "Peau lisse, fruit lourd, parfum marqué au niveau du pédoncule.",
+    "storage_guide": "Température ambiante (le froid détruit ses arômes).",
+    "prep_guide": "Laver et consommer crue ou cuite.",
+    "nutrition_info": "18 kcal/100g, riche en lycopène.",
+    "texture": "Juteuse et charnue.",
+    "image_filename": "tomate.webp",
+    "functional_categories": [
+      "botanique",
+      "fondamental"
+    ],
+    "tags": [
+      "été",
+      "incontournable"
+    ],
+    "specific_data": {
+      "composition": "Lycopène",
+      "famille_botanique": "Solanaceae"
+    }
+  },
+  {
+    "name": "Ugli",
+    "scientific_name": "Citrus reticulata x paradisi",
+    "glossary_term": "Uglifruit",
+    "category": "fruit",
+    "description": "Hybride jamaïcain (mandarine/pomelo) à l'aspect irrégulier mais à la chair très douce.",
+    "seasonality": "Décembre à Avril",
+    "buying_guide": "Peau ridée et lâche, souvent avec des taches vertes (c'est normal).",
+    "storage_guide": "Température ambiante ou frais.",
+    "prep_guide": "S'épluche très facilement à la main.",
+    "nutrition_info": "45 kcal/100g.",
+    "texture": "Très juteuse avec de gros segments.",
+    "image_filename": "ugli.webp",
+    "functional_categories": [
+      "exotique",
+      "agrume"
+    ],
+    "tags": [
+      "tropical",
+      "hybride"
+    ],
+    "specific_data": {
+      "composition": "Vitamine C élevée",
+      "famille_botanique": "Rutaceae"
+    }
+  },
+  {
+    "name": "Wampi",
+    "scientific_name": "Clausena lansium",
+    "glossary_term": "Wampee",
+    "category": "fruit",
+    "description": "Petit fruit d'Asie du Sud-Est rappelant le raisin, avec une saveur entre le citron et le litchi.",
+    "seasonality": "Juillet à Août",
+    "buying_guide": "Peau brune-jaunâtre, fruit ferme et grappe intacte.",
+    "storage_guide": "Se conserve peu de temps au frais.",
+    "prep_guide": "Presser la peau pour faire sortir la pulpe, retirer les graines.",
+    "nutrition_info": "Riche en vitamine C.",
+    "texture": "Gélatineuse et translucide.",
+    "image_filename": "wampi.webp",
+    "functional_categories": [
+      "exotique"
+    ],
+    "tags": [
+      "rare",
+      "asie"
+    ],
+    "specific_data": {
+      "composition": "Huiles essentielles",
+      "famille_botanique": "Rutaceae"
+    }
+  },
+  {
+    "name": "Yuzu",
+    "scientific_name": "Citrus junos",
+    "glossary_term": "Citron japonais",
+    "category": "fruit",
+    "description": "Agrume japonais prisé pour son zeste au parfum complexe (mélange de citron, mandarine et pamplemousse).",
+    "seasonality": "Octobre à Décembre",
+    "buying_guide": "Peau bosselée, fruit très léger (contient peu de jus).",
+    "storage_guide": "Au frais pour préserver les huiles essentielles.",
+    "prep_guide": "Utiliser principalement le zeste et le peu de jus disponible.",
+    "nutrition_info": "Riche en antioxydants et vitamine C.",
+    "texture": "Peau épaisse, chair peu abondante.",
+    "image_filename": "yuzu.webp",
+    "functional_categories": [
+      "gastronomie",
+      "agrume"
+    ],
+    "tags": [
+      "japon",
+      "premium"
+    ],
+    "specific_data": {
+      "composition": "Arômes intenses",
+      "famille_botanique": "Rutaceae"
+    }
+  },
+  {
+    "name": "Zeste d'orange",
+    "scientific_name": "Citrus sinensis (péricarpe)",
+    "glossary_term": "Zeste",
+    "category": "fruit",
+    "description": "Couche externe de l'orange, concentrant toutes les huiles essentielles.",
+    "seasonality": "Toute l'année",
+    "buying_guide": "Choisir des oranges bio ou non traitées après récolte.",
+    "storage_guide": "Consommer frais ou faire sécher.",
+    "prep_guide": "Prélever avec un zesteur en évitant le 'ziste' (partie blanche amère).",
+    "nutrition_info": "Très concentré en flavonoïdes.",
+    "texture": "Ferme et huileuse.",
+    "image_filename": "zeste orange.webp",
+    "functional_categories": [
+      "aromatisation"
+    ],
+    "tags": [
+      "agrume",
+      "cuisine"
+    ],
+    "specific_data": {
+      "composition": "Limonène",
+      "famille_botanique": "Rutaceae"
+    }
+  }
+]
