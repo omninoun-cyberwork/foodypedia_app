@@ -1,0 +1,13 @@
+Choix utilisateur
+[x] Créer une recette
+[ ] Générer une fiche technique
+
+
+ou
+
+[x] Créer recette
+[x] Générer fiche technique associée
+
+
+➡️ La recette est toujours la source
+➡️ La fiche technique est une transformation experte

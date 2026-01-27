@@ -11,3 +11,5 @@
     - [x] Analyze category card component <!-- id: 9 -->
     - [x] Reduce card size/complexity for performance <!-- id: 10 -->
 - [x] Verify data integrity and image linking <!-- id: 7 -->
+- [x] Project Root Cleanup & Organization <!-- id: 11 -->
+- [x] Create README.md and push to GitHub <!-- id: 12 -->

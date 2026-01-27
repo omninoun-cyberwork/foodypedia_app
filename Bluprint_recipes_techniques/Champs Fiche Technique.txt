@@ -1,0 +1,17 @@
+id
+recette_id
+nom_fiche
+type_fiche (technique | production | collective)
+portions_standard
+rendement
+ingredients_techniques[]
+etapes_techniques[]
+points_critique_controle
+materiel
+parametres_cuisson
+erreurs_frequentes
+criteres_reussite
+temps_par_etape
+couts (optionnel)
+nutrition (optionnel)
+notes_pedagogiques

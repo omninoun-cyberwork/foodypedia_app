@@ -32,3 +32,10 @@ Verified the counts via Django shell:
 
 ### UI Changes
 The category grid now adapts to the 21 categories dynamically without hardcoding.
+
+## 3. Project Organization & Documentation
+- **Clean Root**: All non-essential files (logs, temp data) moved to `archives_donnees/`.
+- **Scripts Organized**: Utility Python scripts moved to `scripts_py/`.
+- **Management Folder**: Created `project_management/` to store development artifacts.
+- **README**: Created a high-quality `README.md` at the project root covering the tech stack, features, and setup.
+- **Git Push**: All changes, including the reorganization and documentation, have been pushed to GitHub.

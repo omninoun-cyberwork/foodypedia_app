@@ -1,0 +1,59 @@
+--- LISTE DES FROMAGES PAR PAYS ---
+[France] Abondance
+[Suisse] Appenzeller
+[France] Banon
+[France] Beaufort
+[France] Bleu d'Auvergne
+[France] Bleu de Gex
+[France] Brie au Bleu
+[France] Brie de Meaux
+[France] Brie de Melun
+[France] Brillat-Savarin
+[France] Brocciu
+[Italie] Burrata
+[Espagne] Cabrales
+[France] Camembert de Normandie
+[France] Cantal
+[France] Chaource
+[France] Crottin de Chavignol
+[Pays-Bas] Edam
+[Suisse/France] Emmental
+[Grèce] Feta AOP
+[France] Fourme d'Ambert
+[Italie] Gorgonzola Piccante
+[Pays-Bas] Gouda Vieux
+[Italie] Grana Padano
+[Suisse] Gruyère Suisse
+[Chypre] Halloumi
+[Danemark] Havarti
+[Pays-Bas] Maasdam
+[Espagne] Manchego Viejo
+[France] Maroilles
+[Italie] Mascarpone
+[France] Mimolette Vieille
+[France] Mont d'Or
+[France] Morbier
+[France] Münster
+[France] Ossau-Iraty
+[Italie] Parmigiano Reggiano 24 mois
+[Italie] Pecorino Romano
+[Italie] Pecorino Toscano
+[France] Petit Gaugry
+[France] Pont-l'Évêque
+[France] Port-Salut
+[Italie] Provolone
+[France] Raclette
+[France] Reblochon
+[Italie] Ricotta di Bufala
+[France] Saint-Félicien
+[France] Saint-Marcellin
+[France] Saint-Nectaire
+[France] Sainte-Maure de Touraine Affiné
+[France] Salers
+[Royaume-Uni] Stilton
+[Italie] Taleggio
+[France] Tomme de Savoie
+[Suisse] Tête de Moine
+[Suisse] Vacherin Fribourgeois
+[France] Valençay
+[France] Époisses
